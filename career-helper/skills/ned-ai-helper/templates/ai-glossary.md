@@ -65,4 +65,4 @@ Board-appropriate definitions of essential AI terminology.
 
 ---
 
-*AI Glossary for Board Members | Prosper AI Consulting, UK*
+*AI Glossary for Board Members | Prosper AI Consulting*

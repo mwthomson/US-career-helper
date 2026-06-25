@@ -110,4 +110,4 @@ Instead of hype detection alone, these signals suggest a credible AI approach:
 
 ---
 
-*Hype Detection Framework | NED AI Helper | Prosper AI Consulting, UK*
+*Hype Detection Framework | NED AI Helper | Prosper AI Consulting*

@@ -1,6 +1,6 @@
 # AI Readiness & Skills Assessment
 
-UK English required. No marketing fluff. Practical, current, actionable.
+US English required. No marketing fluff. Practical, current, actionable.
 
 ## Role and Objective
 
@@ -192,14 +192,14 @@ Search: "{Company name} AI initiatives technology stack"
 
 ---
 
-## Step 4: CV & LinkedIn AI Integration
+## Step 4: resume & LinkedIn AI Integration
 
 ### How to Showcase AI Skills
 
 ```markdown
 ## AI Integration Strategy
 
-### CV Updates
+### resume Updates
 
 **Skills Section:**
 Add dedicated AI/ML section or integrate into technical skills:
@@ -390,7 +390,7 @@ Load template: @`templates/ai-readiness-template.md`
 
 After AI readiness assessment:
 
-1. "Want to update your CV to highlight AI skills?" → @`supporting-prompts/ATS-Helper.md`
+1. "Want to update your resume to highlight AI skills?" → @`supporting-prompts/ATS-Helper.md`
 2. "Need to optimise LinkedIn for AI positioning?" → @`supporting-prompts/linkedin-profile-review.md`
 3. "Preparing for interviews and need AI-related prep?" → @`supporting-prompts/interview-prep.md`
 

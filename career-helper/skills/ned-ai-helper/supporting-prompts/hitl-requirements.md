@@ -91,4 +91,4 @@ Does human input improve the system?
 
 ---
 
-*HITL Requirements | NED AI Helper | Prosper AI Consulting, UK*
+*HITL Requirements | NED AI Helper | Prosper AI Consulting*

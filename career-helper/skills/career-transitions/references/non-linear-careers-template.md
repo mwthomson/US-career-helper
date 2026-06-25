@@ -265,7 +265,7 @@ Based on your exploration, consider:
 | If You Are... | Recommended Next Skill | Why |
 |--------------|----------------------|-----|
 | Leaning towards entrepreneurship | /career-transitions (Portfolio Career) | Financial modelling and structure |
-| Targeting public sector | /application-optimiser | CS-specific CV and application strategy |
+| Targeting public sector | /application-optimiser | CS-specific resume and application strategy |
 | Considering a pivot | /career-navigator (3-Month Plan) | Structured transition plan |
 | Staying but repositioning | /linkedin-coach | Update your professional brand |
 | Concerned about AI in target path | /ai-impact-assessment | Check the future of your target role |

@@ -245,7 +245,7 @@ Best,
 
 **Recruiter Connection Timing:**
 - ☐ Before application (if they posted the role publicly)
-- ☐ 2-3 days after application (give them time to see your CV)
+- ☐ 2-3 days after application (give them time to see your resume)
 - ☐ After initial screening (if you advance)
 
 **What to Say vs. Not Say:**
@@ -257,7 +257,7 @@ Best,
 - Be professional and concise
 
 **DON'T:**
-- Send your full CV unprompted
+- Send your full resume unprompted
 - Ask "did you see my application?"
 - Be pushy or entitled
 - Message multiple recruiters same day

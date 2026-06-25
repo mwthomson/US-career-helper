@@ -31,7 +31,7 @@
 *"What would make this period a success?"*
 
 ### Goal 1: {Primary Career Goal}
-{Specific, measurable outcome - e.g., "Accepted offer for Senior Product Manager role in fintech at £85-100k"}
+{Specific, measurable outcome - e.g., "Accepted offer for Senior Product Manager role in fintech at $120–140k"}
 
 **Why This Matters:**
 {Connection to their values, circumstances, or career trajectory}
@@ -90,7 +90,7 @@
 - [ ] At least {N} referral-based applications
 
 ### Materials State
-- [ ] CV variants for {N} role types optimised and tested
+- [ ] resume variants for {N} role types optimised and tested
 - [ ] LinkedIn profile fully optimised and active
 - [ ] {Portfolio/case studies/other materials as relevant}
 
@@ -116,7 +116,7 @@
 *"For Month 2 to be achievable, what must be true by Week 4?"*
 
 ### Materials Ready
-- [ ] CV optimised for ATS and target roles
+- [ ] resume optimised for ATS and target roles
 - [ ] LinkedIn profile complete and keyword-optimised
 - [ ] {Additional materials as relevant}
 - [ ] Cover letter templates prepared
@@ -148,14 +148,14 @@
 **Theme:** Get organised, get clear, get started
 
 **Key Outcomes:**
-- [ ] CV audit and initial optimisation
+- [ ] resume audit and initial optimisation
 - [ ] LinkedIn profile review and quick wins
 - [ ] Job search tracking system set up
 - [ ] Daily routine established
 - [ ] Target role/company brainstorm (20+ companies)
 
 **Daily Focus:**
-- Morning: CV work and job board setup
+- Morning: resume work and job board setup
 - Afternoon: LinkedIn profile optimisation
 - Evening: Target company research
 
@@ -171,14 +171,14 @@
 **Theme:** Polish your tools
 
 **Key Outcomes:**
-- [ ] CV finalised and ATS-tested
+- [ ] resume finalised and ATS-tested
 - [ ] LinkedIn profile fully optimised (headline, about, skills, experience)
 - [ ] Cover letter template created
 - [ ] Target list refined to top 15-20 companies
 - [ ] Begin light networking (LinkedIn engagement)
 
 **Daily Focus:**
-- Morning: Final CV refinements
+- Morning: Final resume refinements
 - Afternoon: LinkedIn completion
 - Evening: Target company deep-dives
 
@@ -291,7 +291,7 @@
 **Theme:** Learn and adjust
 
 **Key Outcomes:**
-- [ ] CV/approach refined based on feedback
+- [ ] resume/approach refined based on feedback
 - [ ] Interview skills improving
 - [ ] Clear on which opportunities are progressing
 - [ ] Network relationships deepening
@@ -496,7 +496,7 @@
 - [ ] Update STAR stories if needed
 
 **Administration:**
-- [ ] Review and update CV if needed
+- [ ] Review and update resume if needed
 - [ ] Check LinkedIn analytics
 - [ ] Update recruiter contacts
 - [ ] Review weekly goals
@@ -553,8 +553,8 @@
 - Persistent feelings of worthlessness
 
 **If you're struggling:** Please talk to someone - friend, family, GP, or:
-- Mind: mind.org.uk
-- NHS Talking Therapies: Self-refer via NHS website
+- NAMI (National Alliance on Mental Illness): nami.org
+- SAMHSA Helpline: samhsa.gov/find-help/national-helpline (free, confidential)
 - Samaritans: 116 123 (24/7)
 
 ### Building Resilience
@@ -656,7 +656,7 @@ Consider keeping a simple "wins list" - it's surprisingly helpful on difficult d
 
 **Job Search Strategy:**
 - "What Color Is Your Parachute?" - Richard N. Bolles
-- LHH Resources (lhh.com/uk) - Free career transition guides
+- LHH Resources (lhh.com) - Free career transition guides
 
 **Networking:**
 - "Never Eat Alone" - Keith Ferrazzi
@@ -672,7 +672,7 @@ Consider keeping a simple "wins list" - it's surprisingly helpful on difficult d
 ### Support Resources
 
 **Career Transition:**
-- LHH (Lee Hecht Harrison) - lhh.com/uk
+- LHH (Lee Hecht Harrison) - lhh.com
 - Career Counselling services
 
 **Recruitment Partners:**
@@ -682,14 +682,14 @@ Consider keeping a simple "wins list" - it's surprisingly helpful on difficult d
 - Crimson Recruitment - Multi-sector
 
 **Government Support:**
-- Jobcentre Plus
-- National Careers Service: nationalcareers.service.gov.uk
+- American Job Center
+- CareerOneStop: careeronestop.org
 - Skills Bootcamps (funded training)
 
 **Mental Health:**
-- Mind: mind.org.uk
-- NHS Talking Therapies: nhs.uk/talk-to-someone
-- Mental Health UK Into Work Programme
+- NAMI (National Alliance on Mental Illness): nami.org
+- SAMHSA Helpline: samhsa.gov/find-help/national-helpline
+- NAMI Into Work Program
 
 ---
 

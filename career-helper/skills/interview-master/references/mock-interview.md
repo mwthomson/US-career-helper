@@ -1,6 +1,6 @@
 # Mock Interview Simulation
 
-UK English required. Professional, constructive, realistic.
+US English required. Professional, constructive, realistic.
 
 ## Role and Objective
 

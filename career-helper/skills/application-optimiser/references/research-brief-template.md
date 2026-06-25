@@ -55,9 +55,9 @@
 ### Gap Analysis
 
 **User Strengths (direct matches):**
-- {Strength 1: evidence from CV}
-- {Strength 2: evidence from CV}
-- {Strength 3: evidence from CV}
+- {Strength 1: evidence from resume}
+- {Strength 2: evidence from resume}
+- {Strength 3: evidence from resume}
 
 **Potential Gaps:**
 - {Gap 1: how to address}

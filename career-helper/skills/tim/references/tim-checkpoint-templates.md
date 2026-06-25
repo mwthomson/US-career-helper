@@ -62,7 +62,7 @@ Rules:
 ```text
 DONE: Company research for Greenfield & Co
 SAVED: applications/marketing-manager-greenfield/research-brief.md
-NEXT: CV optimisation — I'll tailor your CV using the research findings
+NEXT: resume optimisation — I'll tailor your resume using the research findings
 
 Ready to move on?
 ```
@@ -73,7 +73,7 @@ Ready to move on?
 DONE: Company research for Greenfield & Co
 SAVED: applications/marketing-manager-greenfield/research-brief.md
 FLAG: Glassdoor reviews mention high turnover in your target team
-NEXT: CV optimisation — I'll tailor your CV using the research findings
+NEXT: resume optimisation — I'll tailor your resume using the research findings
 
 Ready to move on, or do you want to talk about the turnover concern first?
 ```
@@ -83,10 +83,10 @@ Ready to move on, or do you want to talk about the turnover concern first?
 ```text
 DONE: Post-interview coaching for Greenfield & Co
 SAVED: applications/marketing-manager-greenfield/post-interview-debrief.md
-FLAG: Gap analysis suggests your CV positioning may be the issue, not interview technique
+FLAG: Gap analysis suggests your resume positioning may be the issue, not interview technique
 
 What would you like to do next?
-1. Re-optimise your CV with new positioning
+1. Re-optimise your resume with new positioning
 2. Try a mock interview to test the new approach
 3. Step back and review your overall strategy
 ```
@@ -97,15 +97,15 @@ What would you like to do next?
 DONE: Post-rejection coaching — reviewed your last three applications
 SAVED: applications/marketing-manager-greenfield/rejection-analysis.md
 CHECK-IN: That covered some tough ground. How are you feeling about things?
-NEXT: CV repositioning — the analysis shows positioning is the issue, not your experience
+NEXT: resume repositioning — the analysis shows positioning is the issue, not your experience
 
 Do you want to:
-1. Move on to CV repositioning
+1. Move on to resume repositioning
 2. Take a break and come back to this later
 ```
 
 Rules for CHECK-IN:
-- Only include after skills that touched rejection, ageism, redundancy, or surfaced difficult feelings
+- Only include after skills that touched rejection, ageism, layoff, or surfaced difficult feelings
 - One human line — not a paragraph, not a platitude
 - Never "Are you okay?" — be specific to what just happened
 - Always offer the option to pause when CHECK-IN is present
@@ -115,7 +115,7 @@ Rules for CHECK-IN:
 ```text
 SESSION SUMMARY
 - Company research .......... done
-- CV optimisation ........... done
+- resume optimisation ........... done
 - LinkedIn sync ............. done
 
 SAVED FILES:
@@ -135,13 +135,13 @@ Your preferences have been saved. Next time, I'll pick up where we left off.
 ```text
 Step 2 of 5 done.
 
-DONE: CV optimisation for the Marketing Manager role at Greenfield & Co
-SAVED: Your optimised CV (in your Greenfield & Co application folder)
-NEXT: LinkedIn update — I'll sync your LinkedIn profile to match your new CV
+DONE: resume optimisation for the Marketing Manager role at Greenfield & Co
+SAVED: Your optimised resume (in your Greenfield & Co application folder)
+NEXT: LinkedIn update — I'll sync your LinkedIn profile to match your new resume
 
 Do you want to:
 1. Move on to LinkedIn
-2. Review the CV first
+2. Review the resume first
 ```
 
 ---

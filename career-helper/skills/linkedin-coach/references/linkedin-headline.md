@@ -1,6 +1,6 @@
 # LinkedIn Headline Optimization
 
-UK English required. No marketing fluff. Professional, results-focused.
+US English required. No marketing fluff. Professional, results-focused.
 
 ## Role and Objective
 
@@ -197,7 +197,7 @@ C: [Title] at [Company] | [Community Role]
 
 ```
 A: [Current Executive Role] | [Board Experience] | [Expertise Area]
-   "CEO, TechCorp | NED at 3 FTSE 250 Companies | Digital Transformation"
+   "CEO, TechCorp | NED at 3 S&P 250 Companies | Digital Transformation"
 
 B: [Former Notable Role] | [Board Focus] | [Sector Expertise]
    "Former CFO, Unilever | Audit Committee Chair | ESG & Risk"
@@ -263,7 +263,7 @@ Before finalising, verify:
 | "Open to Work" only | Desperate signal, no value | Add after value statement if needed |
 | "Passionate about..." | Everyone says this, not searchable | Show passion through specifics |
 | "Jack of all trades" | No clear positioning | Pick primary expertise |
-| "Currently seeking..." | CV, not headline | State value, not status |
+| "Currently seeking..." | resume, not headline | State value, not status |
 | Just a job title | Commodity positioning | Add differentiator |
 | Inspirational quotes | Not professional | Save for About section |
 | "Helping companies succeed" | Too vague, applies to everyone | Specify who and how |

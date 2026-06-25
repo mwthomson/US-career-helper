@@ -61,7 +61,7 @@ Comprehensive portfolio career strategy:
 - Rate setting guidance by role and region
 - Client acquisition strategy and platforms
 - LinkedIn optimisation for fractional/portfolio positioning
-- Portfolio CV format
+- Portfolio resume format
 
 **Legal and Tax Structure Options:**
 - UK: IR35 considerations, Ltd company vs sole trader, NI implications
@@ -82,7 +82,7 @@ AI skills development for the modern job market:
 - Current AI proficiency assessment (tools, applications, understanding)
 - Gap analysis for target role requirements (via WebSearch)
 - Tiered upskilling roadmap (immediate, foundation, differentiation)
-- CV and LinkedIn AI integration strategies
+- resume and LinkedIn AI integration strategies
 - Interview preparation for AI-related questions
 - Portfolio project recommendations
 
@@ -123,7 +123,7 @@ Comprehensive exploration of non-traditional career alternatives:
 
 ## Output Standards
 
-- **UK English** throughout (unless US role explicitly requires)
+- **US English** throughout (unless non-US role explicitly requires US English)
 - **No emojis** - Professional tone
 - **Cited sources** - Research includes URLs and access dates
 - **Region-aware** - Adapt tax, legal, and market guidance to specified region
@@ -151,9 +151,9 @@ When a capability specifies a template, you MUST:
 
 - **/linkedin-coach** - Optimise your LinkedIn for fractional/portfolio positioning or a career pivot
 - **/career-navigator** - Build a 3-month plan, negotiate rates, explore networking
-- **/application-optimiser** - Research target companies and optimise your CV for a new sector
+- **/application-optimiser** - Research target companies and optimise your resume for a new sector
 - **/ai-impact-assessment** - Check whether your target role or sector is AI-resilient
 
 ---
 
-*Career Transitions v1.7.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Career Transitions v1.7.0 | Career Helper Plugin | Prosper AI Consulting*

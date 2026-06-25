@@ -1,6 +1,6 @@
 # Early Career Interview Preparation Guide
 
-**IMPORTANT:** Use UK English throughout (organisation, programme, behaviour, etc.). This guide provides deep, actionable interview preparation for candidates attending their first professional interviews or entering a new field with limited relevant experience. Load this reference when the user is identified as a graduate, apprentice, school leaver, or career changer.
+**IMPORTANT:** Use US English throughout (organization, program, behavior, etc.). This guide provides deep, actionable interview preparation for candidates attending their first professional interviews or entering a new field with limited relevant experience. Load this reference when the user is identified as a graduate, apprentice, school leaver, or career changer.
 
 ## Role and Objective
 
@@ -67,11 +67,11 @@ This question is almost always asked first. Prepare a structured response of 60 
 
 **Example:**
 
-"I recently graduated from the University of Manchester with a 2:1 in Business Management, where I specialised in operations and supply chain modules. During my degree, I completed a summer internship at DHL where I worked on a warehouse efficiency project that identified GBP 30,000 in potential annual savings. I also led the university's Entrepreneurs Society, organising a pitch competition with 60 participants and three industry judges. I am particularly excited about this role at Rolls-Royce because your graduate programme offers rotations across operations, procurement, and project management, which aligns with exactly the breadth of experience I want to build."
+"I recently graduated from the University of Manchester with a 2:1 in Business Management, where I specialised in operations and supply chain modules. During my degree, I completed a summer internship at DHL where I worked on a warehouse efficiency project that identified USD 30,000 in potential annual savings. I also led the university's Entrepreneurs Society, organising a pitch competition with 60 participants and three industry judges. I am particularly excited about this role at Rolls-Royce because your graduate programme offers rotations across operations, procurement, and project management, which aligns with exactly the breadth of experience I want to build."
 
 **What to avoid:**
 - Starting with your childhood or personal history
-- Reciting your entire CV chronologically
+- Reciting your entire resume chronologically
 - Being vague ("I am a motivated individual looking for opportunities")
 - Talking for longer than two minutes
 
@@ -147,7 +147,7 @@ Different employers use different interview frameworks. Research which approach 
 |--------------|----------------|-----------------|---------------------|
 | Big 4 (Deloitte, PwC, EY, KPMG) | Values-based and strengths-based | Alignment with firm values, natural strengths | Research their published values; prepare examples showing alignment |
 | Barclays, Unilever, GSK | Strengths-based | What energises you, what you naturally do well | Reflect on activities where you lose track of time; be authentic |
-| Civil Service Fast Stream | Competency-based (Behaviours framework) | Civil Service Behaviours: leadership, communicating, delivering | Use the exact Civil Service Behaviour names in your answers |
+| Presidential Management Fellowship | Competency-based (Behaviours framework) | Civil Service Behaviours: leadership, communicating, delivering | Use the exact Civil Service Behaviour names in your answers |
 | Technology companies | Technical plus behavioural | Coding ability, system thinking, collaboration | Practise coding challenges alongside behavioural preparation |
 | NHS Graduate Management Training | Values-based plus situational | NHS values, patient focus, leadership potential | Study the NHS Constitution values; prepare healthcare-aware examples |
 
@@ -251,7 +251,7 @@ Many first-round interviews, particularly for graduate schemes, are conducted by
 
 ## Confidence Building: Your Experience is Valid
 
-If you have reached the interview stage, the employer has already reviewed your CV and decided you are worth their time. They know your experience level. They are not expecting you to have led a department. They are assessing whether you have:
+If you have reached the interview stage, the employer has already reviewed your resume and decided you are worth their time. They know your experience level. They are not expecting you to have led a department. They are assessing whether you have:
 
 - **The ability to learn** -- demonstrated through academic performance, self-directed projects, and picking up new skills
 - **The ability to work with others** -- demonstrated through group projects, team sports, society involvement, or any collaborative activity
@@ -283,7 +283,7 @@ Prepare thoroughly. Practise aloud. Walk into the room knowing that you have ear
 
 **On the day:**
 - [ ] Arrive or log in 10 minutes early
-- [ ] Bring a printed copy of your CV and a notepad
+- [ ] Bring a printed copy of your resume and a notepad
 - [ ] Switch your phone to silent
 - [ ] Take a slow breath before the interview begins
 - [ ] Remember: they invited you because they want to meet you

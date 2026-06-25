@@ -46,7 +46,7 @@ When the user reports a rejection:
 
 1. Load @references/rejection-analysis-template.md.
 2. Separate what was actually said from the user's honest assessment of the likely real reason. Keep the two apart in the note.
-3. Cross-reference the job description if the application folder has it, to identify any genuine gap the CV undersold.
+3. Cross-reference the job description if the application folder has it, to identify any genuine gap the resume undersold.
 4. Save to `applications/learnings/rejections/{org-slug}-{role-slug}.md`.
 5. Move the role to the Closed section of `applications/tracker.md` (see the Application Tracker capability); do not delete it.
 
@@ -55,7 +55,7 @@ When the user reports a rejection:
 When the user reports a callback, a strong interview, or an offer:
 
 1. Load @references/win-log-template.md.
-2. Capture which CV version and which framings worked, so the success is repeatable.
+2. Capture which resume version and which framings worked, so the success is repeatable.
 3. Save to `applications/learnings/wins/{org-slug}-{role-slug}.md`.
 
 ## Synthesising Patterns
@@ -72,7 +72,7 @@ When enough notes have accumulated:
 ## Relationship to Other Outputs
 
 - The learnings loop feeds `/interview-master`: recurring objections and weak answers identified here are the raw material for sharper interview prep.
-- Rejection analyses feed `/application-optimiser`: a gap the CV consistently undersells is a CV problem to fix, not just an interview problem.
+- Rejection analyses feed `/application-optimiser`: a gap the resume consistently undersells is a resume problem to fix, not just an interview problem.
 - The tracker indexes applications; the learnings loop explains why they ended the way they did.
 
 ---
@@ -89,4 +89,4 @@ When enough notes have accumulated:
 
 ---
 
-*Application Learnings Loop v1.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Application Learnings Loop v1.0 | Career Helper Plugin | Prosper AI Consulting*

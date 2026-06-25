@@ -81,4 +81,4 @@
 
 *Change Readiness Assessment | [Organisation Name] | [Date]*
 
-*Prosper AI Consulting, UK*
+*Prosper AI Consulting*

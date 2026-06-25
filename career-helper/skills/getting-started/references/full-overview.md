@@ -18,23 +18,23 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 
 | Career Level | Common Feelings | What They Need Most |
 |:-------------|:----------------|:--------------------|
-| **Graduate / Apprentice** | Overwhelmed, unsure what to put on a CV, imposter syndrome about lack of experience | Help turning education, projects, and placements into compelling applications. Guidance on what "good" looks like. Reassurance that transferable skills matter. |
+| **Graduate / Apprentice** | Overwhelmed, unsure what to put on a resume, imposter syndrome about lack of experience | Help turning education, projects, and placements into compelling applications. Guidance on what "good" looks like. Reassurance that transferable skills matter. |
 | **Early Career (1-5 years)** | Eager but uncertain about direction, comparing themselves to peers | Clear workflow to follow, help articulating early achievements, LinkedIn presence building |
-| **Mid-Career (5-15 years)** | Pressure to move up, possible career pivot anxiety, balancing family with search | CV positioning for the next level, interview prep for senior roles, strategic networking |
+| **Mid-Career (5-15 years)** | Pressure to move up, possible career pivot anxiety, balancing family with search | resume positioning for the next level, interview prep for senior roles, strategic networking |
 | **Experienced (15-25 years)** | Concerns about being seen as "too expensive" or "overqualified", technology gaps | Positioning depth of experience as an asset, demonstrating current relevance, tech fluency signals |
 | **Late Career / 50+** | Real fear of age discrimination, frustration at being overlooked, questioning market value | Age-bias mitigation strategies, fractional/advisory positioning, LinkedIn presence that signals energy and relevance |
 | **Career Returners** | Anxiety about gaps, feeling out of touch, loss of confidence | Gap narrative framing, skills refresh evidence, gradual re-entry strategies |
-| **Redundancy / Layoff** | Shock, loss of identity, urgency, sometimes shame | Immediate structure (3-month plan), wellbeing integration, practical first steps within 48 hours |
+| **Layoff / Layoff** | Shock, loss of identity, urgency, sometimes shame | Immediate structure (3-month plan), wellbeing integration, practical first steps within 48 hours |
 
 **How to use this:** When the user shares their situation, adapt your tone and recommendations accordingly. Do not assume everyone is a confident mid-career professional. Job searching can be emotionally difficult at any level. Acknowledge reality without being patronising.
 
-**Important:** Never minimise the emotional challenge. A graduate terrified of their first interview deserves the same quality of support as a VP negotiating a package. Redundancy at 55 is a different experience from redundancy at 30. Let the user's situation shape how you present the tools.
+**Important:** Never minimise the emotional challenge. A graduate terrified of their first interview deserves the same quality of support as a VP negotiating a package. Layoff at 55 is a different experience from layoff at 30. Let the user's situation shape how you present the tools.
 
 ## The Eleven Skills - With Examples
 
-### Application Optimiser - Research, CV, Cover Letters, and Strategy
+### Application Optimiser - Research, resume, Cover Letters, and Strategy
 
-**What it does:** Deep company research, ATS-optimised CV rewriting, cover letters and supporting statements, and application strategy planning.
+**What it does:** Deep company research, ATS-optimised resume rewriting, cover letters and supporting statements, and application strategy planning.
 
 **Real example - applying for a specific role:**
 
@@ -43,7 +43,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 > **What happens:**
 > 1. Career-helper researches Monzo in depth - leadership, culture, financials, competitors, Glassdoor reviews, red flags
 > 2. Produces a research brief you can read before applying or interviewing
-> 3. Then rewrites your CV specifically for that JD, with ATS keyword analysis showing exactly which terms from the job description are now in your CV
+> 3. Then rewrites your resume specifically for that JD, with ATS keyword analysis showing exactly which terms from the job description are now in your resume
 > 4. Finally, creates an application strategy with timeline, stakeholder mapping, and follow-up plan
 >
 > **You get:** `senior-pm-monzo-research-brief.md`, `senior-pm-monzo-cv-optimized.md`, `senior-pm-monzo-application-strategy.md`
@@ -54,16 +54,16 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 >
 > **What happens:**
 > 1. Researches Revolut's graduate programme and what they look for
-> 2. Rewrites your CV to position your placement, projects, and education as relevant experience
+> 2. Rewrites your resume to position your placement, projects, and education as relevant experience
 > 3. ATS keyword analysis ensures you match what their systems scan for
 > 4. Application strategy includes how to frame limited experience as a strength
 
 **When to use it:**
 - You have found a role you want to apply for
 - You want to understand a company before applying or interviewing
-- Your CV needs tailoring for a specific job description
-- You need a cover letter or a competency-based supporting statement that says what the CV cannot
-- You are a graduate and not sure how to make a thin CV stand out
+- Your resume needs tailoring for a specific job description
+- You need a cover letter or a competency-based supporting statement that says what the resume cannot
+- You are a graduate and not sure how to make a thin resume stand out
 
 ---
 
@@ -119,11 +119,11 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 
 **Real example - preparing for an interview:**
 
-> **You say:** "I have a final-round panel interview at Stripe for a Senior Engineer role next Thursday. Here's the JD and my CV."
+> **You say:** "I have a final-round panel interview at Stripe for a Senior Engineer role next Thursday. Here's the JD and my resume."
 >
 > **What happens:**
 > 1. Generates 15-20 likely questions tailored to the role, company, and interview stage
-> 2. Builds STAR answer frameworks using YOUR actual experience from your CV
+> 2. Builds STAR answer frameworks using YOUR actual experience from your resume
 > 3. Creates 5-7 pre-prepared stories you can adapt to different questions
 > 4. Provides 8-10 intelligent questions to ask the panel
 > 5. Then offers a mock interview to practice before the real thing
@@ -187,12 +187,12 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 > 1. Researches market rates for your role and level
 > 2. Assesses your leverage and positioning
 > 3. Creates counter-offer scripts for phone, email, and in-person
-> 4. Covers total compensation including pension, equity valuation, and benefits
+> 4. Covers total compensation including 401(k)/retirement, equity valuation, and benefits
 > 5. Provides risk assessment - when to push, when to accept
 >
 > **You get:** `role-negotiation-strategy.md`
 
-**Real example - after redundancy:**
+**Real example - after layoff:**
 
 > **You say:** "I was let go last Friday after 18 years. I'm 48 and honestly I'm in shock. I don't even know where to start."
 >
@@ -235,7 +235,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 
 **Real example - checking your footprint before applying:**
 
-> **You say:** "Check my digital footprint before I apply to Macmillan. My LinkedIn is linkedin.com/in/yourname and my Twitter is @yourname. Here's my CV."
+> **You say:** "Check my digital footprint before I apply to Macmillan. My LinkedIn is linkedin.com/in/yourname and my Twitter is @yourname. Here's my resume."
 >
 > **What happens:**
 > 1. Parallel research agents scan Google, LinkedIn, Twitter/X, and other platforms simultaneously
@@ -254,7 +254,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 > **What happens:**
 > 1. Searches for your name as a recruiter would
 > 2. Audits each social platform for professional impression
-> 3. Checks CV consistency against online presence
+> 3. Checks resume consistency against online presence
 > 4. Flags any concerning content or inconsistencies
 > 5. Produces a dashboard with action plan
 
@@ -299,7 +299,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 - You want privacy settings guidance and cleanup advice
 - You want something faster and lighter than a full employer footprint analysis
 
-**How it differs from /employer-footprint:** Social Media Review is a quick health check. Employer Footprint is the full medical - with 8 scored dimensions, CV cross-referencing, company culture mapping, and interview question generation.
+**How it differs from /employer-footprint:** Social Media Review is a quick health check. Employer Footprint is the full medical - with 8 scored dimensions, resume cross-referencing, company culture mapping, and interview question generation.
 
 ---
 
@@ -348,7 +348,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 
 **Real example - checking your current role:**
 
-> **You say:** "Will AI affect my job? I'm a mid-level financial analyst at a FTSE 250 company. Most of my day is spent on financial modelling, variance analysis, and writing monthly reports for the board."
+> **You say:** "Will AI affect my job? I'm a mid-level financial analyst at a S&P 250 company. Most of my day is spent on financial modelling, variance analysis, and writing monthly reports for the board."
 >
 > **What happens:**
 > 1. Career-helper silently researches AI's impact on financial analyst roles using current data
@@ -464,7 +464,7 @@ Career-helper skills are designed to feed into each other. Here is how the outpu
 Footprint Audit ──→ Fix Issues (LinkedIn, content, etc.)
        │
        ↓
-Company Research ──→ CV Optimisation ──→ LinkedIn Sync
+Company Research ──→ resume Optimisation ──→ LinkedIn Sync
        │                    │
        ↓                    ↓
 Interview Prep ──→ Mock Interview ──→ Real Interview
@@ -483,7 +483,7 @@ Interview Prep ──→ Mock Interview ──→ Real Interview
                                             Offer Evaluation
 ```
 
-**Key insight:** Each step's output makes the next step better. Company research informs CV optimisation. Both inform interview preparation. This is why the recommended workflow matters.
+**Key insight:** Each step's output makes the next step better. Company research informs resume optimisation. Both inform interview preparation. This is why the recommended workflow matters.
 
 ## Closing
 

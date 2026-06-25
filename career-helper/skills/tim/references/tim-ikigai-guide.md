@@ -9,7 +9,7 @@ Use this when someone is stuck, directionless, or can't articulate what they wan
 - User says "I don't know what I want" or "I have no idea what to do next"
 - They've picked "just exploring" or "something else" and can't narrow it down
 - They're going in circles — talking about options but not committing to any direction
-- They've had a major change (redundancy, career break) and feel untethered
+- They've had a major change (layoff, career break) and feel untethered
 - They can describe what they don't want but not what they do want
 
 **When NOT to use:**

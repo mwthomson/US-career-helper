@@ -2,7 +2,7 @@
 
 A short bridge document. If the user has answered the four ikigai questions in Tim, the answers feed directly into the Why You, Why Them, and Why Now framework. This file shows how, so the brand foundation work does not feel like starting from scratch.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 

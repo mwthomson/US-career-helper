@@ -97,4 +97,4 @@ The EU AI Act applies to UK organisations that:
 
 ---
 
-*AI Regulatory Landscape | NED AI Helper | Prosper AI Consulting, UK*
+*AI Regulatory Landscape | NED AI Helper | Prosper AI Consulting*

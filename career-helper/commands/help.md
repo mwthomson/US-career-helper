@@ -13,7 +13,7 @@ You are a career support navigator. Help the user find the right skill for their
 |:------|:-------------|:---------|
 | **/getting-started** | Full overview with examples, preparation checklists, workflow planning, tips, scheduled Cowork routines | New users, getting the most out of career-helper, or automating the search |
 | **/linkedin-coach** | Profile audit, headlines, content strategy, post review, video scripts | Improving your LinkedIn presence |
-| **/application-optimiser** | Company research, ATS CV rewriting, cover letters and supporting statements, application strategy | Applying for specific roles |
+| **/application-optimiser** | Company research, ATS resume rewriting, cover letters and supporting statements, application strategy | Applying for specific roles |
 | **/interview-master** | Interview prep, mock interviews, post-interview coaching, reference and referee prep, ageism support | Before and after interviews, preparing references, age discrimination concerns |
 | **/career-navigator** | Networking, 3-month plans, salary negotiation, offer evaluation, application tracker | Planning and tracking your job search strategy |
 | **/career-transitions** | Portfolio careers, fractional executive roles, AI readiness, non-linear career exploration (entrepreneurship, startups, public sector, charity, intrapreneurship, multi-role skilling) | Changing career direction or exploring alternatives to traditional employment |

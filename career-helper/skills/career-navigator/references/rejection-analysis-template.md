@@ -17,13 +17,13 @@
 - {{e.g. overqualified, missing a named skill, comp expectations, internal candidate, stronger field}}
 - Mark anything you are guessing as a guess. Do not record assumptions as fact.
 
-## What the Job Description Required That the CV May Have Undersold
+## What the Job Description Required That the resume May Have Undersold
 
 - {{Specific gap or keyword mismatch, with the line from the job description it relates to}}
 
 ## What to Adjust Going Forward
 
-- **CV:** {{Concrete change, or "No change needed"}}
+- **resume:** {{Concrete change, or "No change needed"}}
 - **Cover letter:** {{Concrete change, or "No change needed"}}
 - **Interview prep:** {{Concrete change, or "No change needed"}}
 - **Role targeting:** {{Whether to keep pursuing roles like this, and why}}

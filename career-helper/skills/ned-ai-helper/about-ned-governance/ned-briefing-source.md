@@ -7,7 +7,7 @@
 
 ## About the Author
 
-Partner at Prosper AI Consulting with 30 years experience as a digital change leader across a range of companies, from startup to FTSE 100. Roles include CIO, CTO, CMO.
+Partner at Prosper AI Consulting with 30 years experience as a digital change leader across a range of companies, from startup to S&P 100. Roles include CIO, CTO, CMO.
 
 ---
 
@@ -93,8 +93,8 @@ New and emerging workflow solutions based around "agentic" and "AI code-based fl
 
 ### Market Size
 
-- £6bn in 2025
-- £90bn by 2030
+- $6bn in 2025
+- $90bn by 2030
 
 ### Impact on Knowledge Work
 

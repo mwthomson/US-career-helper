@@ -39,7 +39,7 @@ Use this fixed, ordered set so the board reads consistently. These are text labe
 | Stage | Meaning |
 |:------|:--------|
 | Researching | Considering the role; research underway, not yet applied |
-| Applying | Tailoring CV, cover letter, or supporting statement |
+| Applying | Tailoring resume, cover letter, or supporting statement |
 | Applied | Submitted, awaiting response |
 | Interviewing | One or more interview stages in progress |
 | Offer | Offer received; evaluating or negotiating |
@@ -90,4 +90,4 @@ Do not lecture. One useful observation beats a paragraph of coaching.
 
 ---
 
-*Application Tracker v1.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Application Tracker v1.0 | Career Helper Plugin | Prosper AI Consulting*

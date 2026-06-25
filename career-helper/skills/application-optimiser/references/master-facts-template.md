@@ -6,14 +6,14 @@
 
 1. Copy this template into your workspace as `master-facts.md`.
 2. Fill in only what is verifiable. Leave placeholders (`{{LIKE_THIS}}`) in place for anything you are unsure about. Do not guess.
-3. When running application-optimiser, the skill will prefer content from this file over anything else. That means every bullet in your generated CV can be traced directly back here.
+3. When running application-optimiser, the skill will prefer content from this file over anything else. That means every bullet in your generated resume can be traced directly back here.
 4. Update the file whenever you land a new achievement, metric, or role change.
 
 **Why bother:**
 
-- Stops every CV rewrite from drifting or inventing details.
+- Stops every resume rewrite from drifting or inventing details.
 - Lets you reuse pre-verified bullets across applications rather than rewriting from scratch.
-- Creates an audit trail: every bullet on your CV traces back to a specific entry here.
+- Creates an audit trail: every bullet on your resume traces back to a specific entry here.
 - Makes it obvious when something is missing, so you can go find the real answer rather than let the AI fill the gap.
 
 **Important:** If a fact is not in this file, the application-optimiser skill will either ask you or leave a `[MISSING]` placeholder. It will never invent a detail to fill a gap.
@@ -61,7 +61,7 @@ Gap: {{MMM_YYYY}} to {{MMM_YYYY}}, {{REASON_IF_YOU_WANT_TO_DOCUMENT}}
 
 ## 3. Verified Metrics Bank
 
-Every number you are willing to put on a CV should appear here once, with context. This prevents a metric from drifting between bullets or being combined incorrectly.
+Every number you are willing to put on a resume should appear here once, with context. This prevents a metric from drifting between bullets or being combined incorrectly.
 
 ```
 - Metric: {{e.g., "Grew weekly newsletter from 40k to 180k subscribers"}}
@@ -183,7 +183,7 @@ This section is for things you know are not in the file yet, or areas where you 
 ```
 - {{e.g., "Accenture 2012-2014: need to confirm exact project names before using in bullets"}}
 - {{e.g., "No documented metrics for OYO role; would need to ask former manager"}}
-- {{e.g., "Career break 2019-2020: want to leave undocumented on CV"}}
+- {{e.g., "Career break 2019-2020: want to leave undocumented on resume"}}
 ```
 
 When application-optimiser encounters a gap listed here, it will not try to fill it. It will either ask you or leave a placeholder in the output.
@@ -192,7 +192,7 @@ When application-optimiser encounters a gap listed here, it will not try to fill
 
 ## 9. Off-Limits
 
-Things you do not want included on any CV, even if they are true. Examples: a former employer you do not want to name, a qualification from a context you would rather not explain, a political or religious affiliation.
+Things you do not want included on any resume, even if they are true. Examples: a former employer you do not want to name, a qualification from a context you would rather not explain, a political or religious affiliation.
 
 ```
 - {{OFF_LIMITS_ITEM_1}}
@@ -210,4 +210,4 @@ Things you do not want included on any CV, even if they are true. Examples: a fo
 
 ---
 
-*Master Facts Template v1.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Master Facts Template v1.0 | Career Helper Plugin | Prosper AI Consulting*

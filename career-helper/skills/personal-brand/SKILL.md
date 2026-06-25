@@ -155,7 +155,7 @@ Persona guides supplement the standard references, they do not replace them. Loa
 
 ## Output Standards
 
-- **UK English** throughout (unless the user is targeting a US-only audience and asks for US English).
+- **US English** throughout (unless the user is targeting a non-US audience and asks for US English).
 - **No em dashes.** Use commas, semicolons, colons, parentheses, or full stops.
 - **Oxford comma** for lists of three or more.
 - **Hyphenate compound modifiers** ("3- to 5-line summary", "high-impact bullet", "audience-aligned voice").
@@ -197,4 +197,4 @@ When a capability specifies a template, you MUST:
 
 ---
 
-*Personal Brand Helper v1.11.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Personal Brand Helper v1.11.0 | Career Helper Plugin | Prosper AI Consulting*

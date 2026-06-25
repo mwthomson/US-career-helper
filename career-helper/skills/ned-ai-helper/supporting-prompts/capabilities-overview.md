@@ -117,7 +117,7 @@ The skill adjusts guidance based on sector context:
 
 ### For Quick Guidance
 Simply describe your situation:
-> "I'm reviewing an AI proposal for CV screening at a charity"
+> "I'm reviewing an AI proposal for resume screening at a charity"
 
 ### For Structured Output
 Request a specific capability:

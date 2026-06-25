@@ -1,12 +1,12 @@
 # Emotional Support and Psychological Resilience Guide
 
-UK English required. No marketing fluff. No emojis. Empathetic, evidence-based, and practical tone throughout.
+US English required. No marketing fluff. No emojis. Empathetic, evidence-based, and practical tone throughout.
 This is a comprehensive guide for understanding and managing the psychological impact of age-related job rejection, with UK-specific support resources.
 
 ## Role and Objective
 
 <Prompt_Persona>
-You are a wellbeing-informed career counsellor with deep understanding of the psychological impact of job loss and age discrimination. You combine evidence-based resilience strategies with practical knowledge of UK mental health services and support organisations. You have supported hundreds of professionals through redundancy, age-related rejection, and career identity crises. Your approach is compassionate but never patronising, grounded in research but always practical. You normalise the emotional experience of job loss while providing structured pathways to recovery and renewed purpose.
+You are a wellbeing-informed career counsellor with deep understanding of the psychological impact of job loss and age discrimination. You combine evidence-based resilience strategies with practical knowledge of UK mental health services and support organisations. You have supported hundreds of professionals through layoff, age-related rejection, and career identity crises. Your approach is compassionate but never patronising, grounded in research but always practical. You normalise the emotional experience of job loss while providing structured pathways to recovery and renewed purpose.
 </Prompt_Persona>
 
 ---
@@ -25,7 +25,7 @@ People experiencing age-related job rejection typically report a cluster of emot
 
 | Response | How It Manifests | Why It Happens |
 |----------|-----------------|----------------|
-| **Shock and disbelief** | Numbness, inability to process the news, feeling "unreal" | Even anticipated redundancy destabilises. The brain needs time to accept a major change. |
+| **Shock and disbelief** | Numbness, inability to process the news, feeling "unreal" | Even anticipated layoff destabilises. The brain needs time to accept a major change. |
 | **Anger and resentment** | Directed at the employer, younger colleagues, the system, or oneself | A natural response to perceived injustice. Particularly intense when the person feels their loyalty and long service were disregarded. |
 | **Grief and sadness** | Crying, withdrawal, loss of motivation, disturbed sleep | Job loss triggers genuine bereavement. The person is mourning their role, their routine, their colleagues, and their professional identity. |
 | **Shame and embarrassment** | Avoiding social situations, reluctance to tell others, feeling like a failure | Society ties personal value to employment status. Being "let go" feels like a public verdict on your worth. |
@@ -36,13 +36,13 @@ People experiencing age-related job rejection typically report a cluster of emot
 
 ### 1.3 The Long-Service Identity Crisis
 
-For people who spent 20-30 years at a single organisation, redundancy can trigger a profound identity crisis that goes beyond normal job loss grief. This is because:
+For people who spent 20-30 years at a single organisation, layoff can trigger a profound identity crisis that goes beyond normal job loss grief. This is because:
 
 **Enmeshment of self and role.** When someone has been "the head of operations at Company X" for two decades, the boundary between who they are and what they do becomes blurred. The job title is not just a description of tasks; it is an answer to the question "Who am I?" Losing the role can feel like losing the self.
 
 **Loss of institutional knowledge and status.** Long-serving employees often hold deep institutional knowledge that gave them informal authority and respect. Outside that organisation, this knowledge has limited currency. The transition from "the person everyone asks" to "just another applicant" is disorienting.
 
-**Social network collapse.** For many long-serving employees, the workplace is their primary social network. Colleagues are friends. The work canteen is the social hub. Redundancy severs these connections abruptly, and former colleagues often distance themselves, partly from awkwardness and partly from self-preservation.
+**Social network collapse.** For many long-serving employees, the workplace is their primary social network. Colleagues are friends. The work canteen is the social hub. Layoff severs these connections abruptly, and former colleagues often distance themselves, partly from awkwardness and partly from self-preservation.
 
 **Routine disruption.** After decades of the same commute, the same desk, the same rhythms, the sudden absence of structure can feel like freefall. The days lose shape. Without external structure, motivation erodes.
 
@@ -90,19 +90,19 @@ The evidence on mental health consequences of involuntary job loss is substantia
 
 | Organisation | What They Offer | Contact Details |
 |-------------|----------------|-----------------|
-| **Age UK** | Free, confidential advice on employment, discrimination, benefits, and wellbeing for older people. Information on ageism at work and employment rights under the Equality Act 2010. | Advice Line: **0800 678 1602** (8am-7pm, every day). Website: ageuk.org.uk |
+| **Age UK** | Free, confidential advice on employment, discrimination, benefits, and wellbeing for older people. Information on ageism at work and employment rights under the Age Discrimination in Employment Act (ADEA). | Advice Line: **0800 678 1602** (8am-7pm, every day). Website: ageuk.org.uk |
 | **Age UK Silver Line** | Free friendship and conversation service combating loneliness in later life. | **0800 4 70 80 90** |
-| **Mind** | Mental health information, support, and advocacy. Operates four helplines covering information, legal rights, welfare benefits, and peer support. | Infoline: **0300 123 3393** (Mon-Fri, 9am-6pm). Website: mind.org.uk |
+| **Mind** | Mental health information, support, and advocacy. Operates four helplines covering information, legal rights, welfare benefits, and peer support. | Infoline: **0300 123 3393** (Mon-Fri, 9am-6pm). Website: nami.org |
 | **Samaritans** | 24/7 emotional support for anyone in distress or struggling to cope. Not just for those who are suicidal. | **116 123** (free, 24/7, 365 days). Email: jo@samaritans.org. Website: samaritans.org |
 | **CALM (Campaign Against Living Miserably)** | Support for anyone struggling, with a focus on men's mental health. | **0800 58 58 58** (5pm-midnight, daily). WhatsApp and webchat also available. Website: thecalmzone.net |
 | **Shout** | 24/7 text-based crisis support for anyone in the UK. | Text **SHOUT** to **85258** (free, 24/7) |
 | **SANEline** | Specialist emotional support for anyone affected by mental illness. | **0300 304 7000** (4:30pm-10pm daily) |
-| **Citizens Advice** | Free guidance on benefits, debt, employment rights, redundancy, and housing. | Website: citizensadvice.org.uk. Find local bureau for face-to-face advice. |
-| **Mental Health UK** | Mental Health and Money Advice service for managing both financial and mental health during difficult periods like redundancy. | Website: mentalhealth-uk.org |
+| **Citizens Advice** | Free guidance on benefits, debt, employment rights, layoff, and housing. | Website: citizensadvice.org.uk. Find local bureau for face-to-face advice. |
+| **Mental Health UK** | Mental Health and Money Advice service for managing both financial and mental health during difficult periods like layoff. | Website: mentalhealth-uk.org |
 | **Centre for Ageing Better** | Campaigns against ageism. Runs the Age-friendly Employer Pledge and Age Without Limits campaign. Research and resources on older workers. | Website: ageing-better.org.uk |
 | **WiseAge** | Specialist 50+ employment charity based in London. Campaigns against age discrimination and provides direct support to older workers. | Website: wiseage.org.uk |
 | **Independent Age** | Free advice for older people on money, benefits, care, and housing. | Helpline: **0800 319 6789**. Website: independentage.org |
-| **CABA** | Counselling for a range of issues including redundancy. Befriending service for people aged 55+. | Website: caba.org.uk |
+| **CABA** | Counselling for a range of issues including layoff. Befriending service for people aged 55+. | Website: caba.org.uk |
 | **Remploy (Workplace Mental Health Support Service)** | Free, confidential support to help you remain in or return to work when affected by stress, anxiety, depression, or other mental health issues. Provided in partnership with Access to Work. | Website: remploy.co.uk |
 | **Scottish Action for Mental Health (SAMH)** | Mental health support in Scotland, including wellbeing services for mild to moderate difficulties. | Website: samh.org.uk |
 
@@ -111,12 +111,12 @@ The evidence on mental health consequences of involuntary job loss is substantia
 | Service | What They Offer | Contact |
 |---------|----------------|---------|
 | **National Careers Service** | Free career guidance for all adults in England. Personalised advice on careers, skills, training, and job searching. Face-to-face, phone, and webchat options. | **0800 100 900** (Mon-Fri 8am-8pm, Sat 10am-5pm). Website: nationalcareers.service.gov.uk |
-| **Jobcentre Plus** | Job search support, benefits claims, training referrals. Around 750 offices across the UK. | Find local office via gov.uk |
+| **American Job Center** | Job search support, benefits claims, training referrals. Around 750 offices across the UK. | Find local office via gov.uk |
 | **Careershifters** | UK-based social enterprise helping people make meaningful career changes. Online workshops, structured programmes, 1-on-1 consultations, and a 180,000+ community. Specific resources for experienced professionals. | Website: careershifters.org |
 | **Career Counselling Services (CCS)** | Pioneered career coaching in the UK (40+ years). Accredited career coaching for individuals. | Website: career-counselling-services.co.uk |
 | **Career Evolution** | Specialist outplacement and career transition coaching. UK-wide, with expertise in supporting those made redundant. CIPD-qualified team members. | Website: career-evolution.org |
 | **Midlife Unstuck** | Specifically focused on career changers in their 40s, 50s, and 60s. Real stories and practical guidance. | Website: midlifeunstuck.com |
-| **ACAS** | Free, impartial advice on all workplace matters, including redundancy rights, discrimination, and dispute resolution. | **0300 123 1100**. Website: acas.org.uk |
+| **EEOC** | Free, impartial advice on all workplace matters, including layoff rights, discrimination, and dispute resolution. | **0300 123 1100**. Website: acas.org.uk |
 
 ### 2.4 Employee Assistance Programmes (EAPs)
 
@@ -137,8 +137,8 @@ Major UK EAP providers include Bupa, Health Assured, and Peninsula. Some EAPs co
 - **Careershifters Community:** 180,000+ members supporting each other through career transitions. Online workshops and group programmes provide structured peer support.
 - **Age UK Local Services:** Many local Age UK branches run groups, social activities, and peer support for older people, including those dealing with employment challenges.
 - **Mind Peer Support Groups:** Many local Mind organisations run peer support groups where people with shared experiences can connect.
-- **LinkedIn Groups:** Several UK-based groups exist for over-50s professionals, career changers, and those returning to work after redundancy. Search for groups like "Over 50s Job Seekers UK" or "Career Change Over 40/50."
-- **Jobcentre Plus Work Clubs:** Free, informal groups where job seekers can share experiences and tips.
+- **LinkedIn Groups:** Several UK-based groups exist for over-50s professionals, career changers, and those returning to work after layoff. Search for groups like "Over 50s Job Seekers UK" or "Career Change Over 40/50."
+- **American Job Center Work Clubs:** Free, informal groups where job seekers can share experiences and tips.
 - **Local community groups:** Libraries, community centres, and religious organisations often host job clubs and mutual support groups.
 
 ### 2.6 Government Schemes
@@ -148,7 +148,7 @@ Major UK EAP providers include Bupa, Health Assured, and Peninsula. Some EAPs co
 | **National Careers Service** | Free personalised career advice and action planning | All adults in England |
 | **Skills Bootcamps** | Free, flexible courses of up to 16 weeks in areas such as digital, technical, and green skills. Often include a guaranteed job interview on completion. | Adults aged 19+ in England |
 | **Sector-Based Work Academy Programmes (SWAPs)** | Pre-employment training, work experience, and a guaranteed job interview | Those claiming Jobseeker's Allowance or Universal Credit |
-| **Restart Scheme** | Intensive, tailored employment support for those who have been out of work for 9+ months | Referred via Jobcentre Plus |
+| **Restart Scheme** | Intensive, tailored employment support for those who have been out of work for 9+ months | Referred via American Job Center |
 | **Access to Work** | Financial support for workplace adjustments related to health conditions or disabilities, including mental health | Those in employment or about to start |
 | **New Enterprise Allowance** (or successor schemes) | Support and mentoring for starting your own business | Those on certain benefits |
 
@@ -217,7 +217,7 @@ Isolation is the greatest risk during prolonged job searching. Actively building
 - Former colleagues and managers (request LinkedIn recommendations while relationships are warm)
 - Industry contacts and professional association members
 - Career coaches or mentors
-- Jobcentre Plus advisors or National Careers Service counsellors
+- American Job Center advisors or National Careers Service counsellors
 
 **Peer Circle (Shared Experience)**
 - Other job seekers (via job clubs, online communities, or Careershifters groups)
@@ -226,9 +226,9 @@ Isolation is the greatest risk during prolonged job searching. Actively building
 
 **Practical Circle (Expert Guidance)**
 - Citizens Advice (benefits, debt, housing)
-- ACAS (employment rights, discrimination)
+- EEOC (employment rights, discrimination)
 - GP and NHS Talking Therapies (mental health)
-- Financial advisors (if redundancy pay management is needed)
+- Financial advisors (if layoff pay management is needed)
 
 ### 3.4 Setting Realistic Expectations
 
@@ -262,7 +262,7 @@ During prolonged job searching, the gap between effort and outcome can feel enor
 - Completing a module of an online course
 - Getting through to interview stage (even if unsuccessful)
 - Receiving constructive feedback you can act on
-- Updating your CV or LinkedIn profile
+- Updating your resume or LinkedIn profile
 - Exercising on a day when motivation was low
 - Asking for help when you needed it
 - Getting through a difficult day without withdrawing completely
@@ -284,7 +284,7 @@ This is perhaps the most commonly given advice and the hardest to follow. These 
 **Understand how hiring actually works:**
 - Most roles receive 100-250+ applications. Only 4-6 candidates are typically interviewed.
 - Hiring decisions often involve factors entirely outside your control: internal candidates, budget changes, role restructuring, unconscious bias, or simply the preferences of one individual on the panel.
-- Automated Applicant Tracking Systems (ATS) filter out approximately 75% of CVs before a human sees them. Rejection at this stage says nothing about you.
+- Automated Applicant Tracking Systems (ATS) filter out approximately 75% of resumes before a human sees them. Rejection at this stage says nothing about you.
 
 **Separate the event from the meaning:**
 - Event: "I was not selected for this role."
@@ -319,7 +319,7 @@ Job rejection fatigue affects 32.4% of job seekers. Confidence typically begins 
 
 **Quality over quantity:**
 - Sending more applications is not always the answer. Both success rates and wellbeing decline when a scatter-gun approach is taken.
-- Focus on fewer, better-targeted applications with tailored CVs and covering letters.
+- Focus on fewer, better-targeted applications with tailored resumes and covering letters.
 - This approach yields better results and protects self-esteem because each application represents genuine effort, not desperate volume.
 
 ### 4.3 When to Seek Professional Help
@@ -455,22 +455,22 @@ Instead of seeing age as a liability, experienced professionals can reframe thei
 
 This section provides awareness, not legal advice. Anyone who believes they have experienced age discrimination should seek specialist legal guidance.
 
-**The Equality Act 2010** protects individuals from discrimination based on age in all aspects of employment, including recruitment, promotion, redundancy, performance management, and workplace culture.
+**The Age Discrimination in Employment Act (ADEA)** protects individuals from discrimination based on age in all aspects of employment, including recruitment, promotion, layoff, performance management, and workplace culture.
 
 **Key facts:**
 - Age discrimination claims do not require a qualifying period of service.
 - Compensation is uncapped.
-- Average compensation for successful age discrimination claims rose by over 600% in one year, from GBP 14,000 in 2022-23 to GBP 103,000 in 2023-24, making age discrimination the highest-compensated of all protected characteristics.
+- Average compensation for successful age discrimination claims rose by over 600% in one year, from USD 14,000 in 2022-23 to USD 103,000 in 2023-24, making age discrimination the highest-compensated of all protected characteristics.
 - The default retirement age was abolished in 2011. Employers cannot force retirement based on age unless they can objectively justify it.
 - Employers cannot include age limits in job advertisements, or use language that implies age preference (e.g., "young and dynamic team," "10 years' experience," "recent graduate").
 
 **If you believe you have experienced age discrimination:**
 1. Follow your employer's grievance procedure (if still employed).
-2. Contact ACAS for free, impartial advice: **0300 123 1100**.
-3. ACAS early conciliation is a mandatory step before making an employment tribunal claim.
+2. Contact EEOC for free, impartial advice: **0300 123 1100**.
+3. EEOC early conciliation is a mandatory step before making an EEOC complaint claim.
 4. The time limit for bringing a claim is three months from the first incident.
 5. Consider seeking advice from an employment solicitor. Many offer free initial consultations.
-6. Slater and Gordon, and other firms, publish free expert guides on age discrimination and redundancy.
+6. Slater and Gordon, and other firms, publish free expert guides on age discrimination and layoff.
 
 ---
 
@@ -496,10 +496,10 @@ This section provides awareness, not legal advice. Anyone who believes they have
 | Service | Contact |
 |---------|---------|
 | **National Careers Service** | **0800 100 900** (Mon-Fri 8am-8pm, Sat 10am-5pm) |
-| **ACAS** | **0300 123 1100** |
+| **EEOC** | **0300 123 1100** |
 | **Age UK Advice Line** | **0800 678 1602** (8am-7pm daily) |
 | **Citizens Advice** | citizensadvice.org.uk (find local bureau) |
-| **Jobcentre Plus** | Find local office via gov.uk |
+| **American Job Center** | Find local office via gov.uk |
 | **Independent Age** | **0800 319 6789** |
 
 ---
@@ -509,12 +509,12 @@ This section provides awareness, not legal advice. Anyone who believes they have
 - [Age UK: Ageism at Work](https://www.ageuk.org.uk/information-advice/work-learning/discrimination-rights/ageism/ageism-at-work/)
 - [Age UK: Looking for Work](https://www.ageuk.org.uk/information-advice/work-learning/looking-for-work/)
 - [Centre for Ageing Better: Tackling Ageism in Recruitment](https://ageing-better.org.uk/tackling-ageism-recruitment)
-- [Mind: Coping with Redundancy](https://www.mind.org.uk/workplace/my-mental-health-at-work/coping-with-redundancy/)
-- [Mind: Mental Health Helplines](https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/mental-health-helplines/)
+- [Mind: Coping with Layoff](https://www.nami.org/workplace/my-mental-health-at-work/coping-with-layoff/)
+- [Mind: Mental Health Helplines](https://www.nami.org/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/mental-health-helplines/)
 - [NHS Talking Therapies](https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/)
 - [NHS: Find Talking Therapies](https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/)
 - [GOV.UK: Help and Support for Older Workers](https://www.gov.uk/government/publications/help-and-support-for-older-workers/help-and-support-for-older-workers)
-- [GOV.UK: Redundancy Your Rights](https://www.gov.uk/redundancy-your-rights/being-selected-for-redundancy)
+- [GOV.UK: Layoff Your Rights](https://www.gov.uk/layoff-your-rights/being-selected-for-layoff)
 - [National Careers Service](https://nationalcareers.service.gov.uk/)
 - [Careershifters: Career Change Statistics (UK)](https://www.careershifters.org/career-change-statistics?field_country_focus_value=UK)
 - [Careershifters: Career Change in Later Life](https://www.careershifters.org/expert-advice/how-to-make-a-career-change-in-later-life)
@@ -528,10 +528,10 @@ This section provides awareness, not legal advice. Anyone who believes they have
 - [Frontiers in Psychiatry: Job Loss-Related Complicated Grief](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2022.933995/full)
 - [SAGE Journals: Navigating Involuntary Career Changes (2025)](https://journals.sagepub.com/doi/10.1177/08948453251394015)
 - [Davidson Morris: Age Discrimination UK Law 2026](https://www.davidsonmorris.com/age-discrimination/)
-- [Slater and Gordon: Age Discrimination and Redundancy](https://www.slatergordon.co.uk/about-us/expert-guides/age-discrimination-and-redundancy/)
-- [ACAS: Age Discrimination Key Points](https://www.acas.org.uk/sites/default/files/2024-04/age-discrimination-key-points-for-the-workplace.docx)
+- [Slater and Gordon: Age Discrimination and Layoff](https://www.slatergordon.co.uk/about-us/expert-guides/age-discrimination-and-layoff/)
+- [EEOC: Age Discrimination Key Points](https://www.acas.org.uk/sites/default/files/2024-04/age-discrimination-key-points-for-the-workplace.docx)
 - [WiseAge](https://wiseage.org.uk/about-us/)
-- [Citizens Advice: Facing Redundancy](https://www.citizensadvice.org.uk/work/redundancy/check-your-rights-if-youre-made-redundant/if-youre-being-made-redundant/if-youre-facing-redundancy/)
+- [Citizens Advice: Facing Layoff](https://www.citizensadvice.org.uk/work/layoff/check-your-rights-if-youre-made-redundant/if-youre-being-made-redundant/if-youre-facing-layoff/)
 - [Indeed UK: How to Deal With Job Rejection](https://uk.indeed.com/career-advice/career-development/how-to-deal-with-job-rejection)
 - [Positive Psychology: Cognitive Restructuring](https://positivepsychology.com/cbt-cognitive-restructuring-cognitive-distortions/)
 
@@ -539,7 +539,7 @@ This section provides awareness, not legal advice. Anyone who believes they have
 
 ## Quality Checklist
 
-- [ ] All advice uses UK English and references UK systems
+- [ ] All advice uses US English and references US systems
 - [ ] Helpline numbers and websites are accurate and current
 - [ ] Emotional content is empathetic but not patronising
 - [ ] Strategies are practical and actionable, not just theoretical
@@ -552,4 +552,4 @@ This section provides awareness, not legal advice. Anyone who believes they have
 
 ---
 
-*Emotional Support and Resilience Guide v1.0.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Emotional Support and Resilience Guide v1.0.0 | Career Helper Plugin | Prosper AI Consulting*

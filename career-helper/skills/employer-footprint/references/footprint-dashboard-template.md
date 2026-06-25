@@ -99,7 +99,7 @@
 - {Finding 2}
 - {Finding 3}
 
-**CV Consistency Check:**
+**resume Consistency Check:**
 - {Match/Mismatch 1: Detail}
 - {Match/Mismatch 2: Detail}
 
@@ -215,7 +215,7 @@
 
 ---
 
-## CV vs Online Presence Consistency
+## resume vs Online Presence Consistency
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -290,7 +290,7 @@ Based on what's publicly visible, interviewers may ask:
    - Source: {What prompted this question}
    - Preparation: {How to address it}
 
-### From CV-to-Online Comparison
+### From resume-to-Online Comparison
 
 4. **"{Question about a discrepancy or interesting detail}"**
    - Source: {The comparison that raised this}
@@ -341,7 +341,7 @@ Based on this analysis, here's what career-helper can do next:
 │                                                             │
 │  {If applying to the target company:}                       │
 │  /application-optimiser                                     │
-│  "Research {Company} and optimise my CV for {Role}"         │
+│  "Research {Company} and optimise my resume for {Role}"         │
 │                                                             │
 │  {If interview questions were generated:}                   │
 │  /interview-master                                          │
@@ -392,5 +392,5 @@ This report analyses publicly available digital content through the lens of a po
 
 ---
 
-*Generated using Career Helper - Employer Footprint Analysis | Prosper AI Consulting, UK*
+*Generated using Career Helper - Employer Footprint Analysis | Prosper AI Consulting*
 *Found this helpful? Share your experience or suggest improvements on [GitHub](https://github.com/Zal4DW/career-helper).*

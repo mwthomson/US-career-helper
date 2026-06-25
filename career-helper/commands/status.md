@@ -109,7 +109,7 @@ Applications:
 
   head-fundraising-macmillan/
     - research-brief.md (date modified)
-    - Suggested next: CV optimisation
+    - Suggested next: resume optimisation
 
 Shared files:
   - three-month-plan.md (date modified)
@@ -126,9 +126,9 @@ Overall suggested next steps:
 
 | What They Have | Suggest Next |
 |:---------------|:-------------|
-| Research brief only | /application-optimiser (CV optimisation) |
-| CV optimised | /linkedin-coach (sync LinkedIn) |
-| LinkedIn + CV done | /interview-master (prepare for interviews) |
+| Research brief only | /application-optimiser (resume optimisation) |
+| resume optimised | /linkedin-coach (sync LinkedIn) |
+| LinkedIn + resume done | /interview-master (prepare for interviews) |
 | Interview prep done | /interview-master (mock interview) |
 | Post-interview debrief | /application-optimiser (next application) |
 | Interview done, not yet debriefed | /career-navigator (Application Learnings Loop: debrief) |

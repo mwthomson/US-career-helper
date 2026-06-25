@@ -7,7 +7,7 @@
 
 ## What Worked
 
-- **CV version used:** {{Filename or link}}
+- **resume version used:** {{Filename or link}}
 - **Job description keywords that matched well:** {{The phrases your application mirrored honestly}}
 - **Interview answers that landed:** {{The examples or framings that resonated}}
 - **What seemed to differentiate you:** {{Your read on why you stood out}}

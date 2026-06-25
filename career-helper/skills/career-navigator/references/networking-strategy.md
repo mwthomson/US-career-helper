@@ -837,7 +837,7 @@ Beyond LinkedIn, in-person events offer high-impact networking where you can bui
 **Recruitment Firm Events (Often Free):**
 
 Many recruitment firms host events to build candidate pipelines:
-- **Candidate workshops** - CV clinics, interview skills, market briefings
+- **Candidate workshops** - resume clinics, interview skills, market briefings
 - **Industry briefings** - Salary surveys, market trends, hiring outlook
 - **Networking evenings** - Meet consultants and other candidates
 - **Roundtables** - Executive-level discussions on industry topics

@@ -16,11 +16,11 @@ Advanced techniques for users who have used the basic skills and want to extract
 
 **Approach:**
 1. Run `/application-optimiser` (Company Research) for each target company separately
-2. Start with one full CV optimisation as your "base" optimised CV
-3. For subsequent roles, provide both the new JD and your already-optimised CV - ask to adapt rather than rebuild from scratch
+2. Start with one full resume optimisation as your "base" optimised resume
+3. For subsequent roles, provide both the new JD and your already-optimised resume - ask to adapt rather than rebuild from scratch
 4. Each role gets its own set of output files with the role slug prefix
 
-**Key insight:** Company research briefs are always unique. CVs can be adapted between similar roles. Interview prep should always be role-specific.
+**Key insight:** Company research briefs are always unique. resumes can be adapted between similar roles. Interview prep should always be role-specific.
 
 **File organisation:** Each application gets its own folder automatically. For multiple applications, your workspace looks like:
 ```text
@@ -45,11 +45,11 @@ Use `/career-helper:status` to see everything you have generated across all appl
 
 **The chain:**
 1. Company research reveals what the company values
-2. CV optimisation uses those values to frame achievements
-3. LinkedIn audit aligns your profile with the optimised CV
+2. resume optimisation uses those values to frame achievements
+3. LinkedIn audit aligns your profile with the optimised resume
 4. Interview prep references all three to build cohesive answers
 
-**How to do it:** When starting each subsequent skill, explicitly mention the outputs you have already generated. Example: "I've already done company research and CV optimisation for this role - the files are in my working directory. Use those to inform the interview preparation."
+**How to do it:** When starting each subsequent skill, explicitly mention the outputs you have already generated. Example: "I've already done company research and resume optimisation for this role - the files are in my working directory. Use those to inform the interview preparation."
 
 The skills automatically look for existing output files, but explicitly pointing them out ensures nothing is missed.
 
@@ -103,7 +103,7 @@ The skills automatically look for existing output files, but explicitly pointing
 
 Not just for external job searches. Adapt the tools:
 1. `/application-optimiser` (Company Research) on your own company - see it from the outside
-2. `/application-optimiser` (CV Optimisation) with the internal role description
+2. `/application-optimiser` (resume Optimisation) with the internal role description
 3. `/interview-master` (Interview Prep) adapted for internal interviews (different dynamics)
 
 ### Return from Career Break
@@ -111,9 +111,9 @@ Not just for external job searches. Adapt the tools:
 1. `/career-navigator` (3-Month Plan) with explicit mention of the break
 2. `/career-transitions` (AI Readiness) to demonstrate current technical awareness
 3. `/linkedin-coach` (Profile Audit) to reposition the break as intentional
-4. `/application-optimiser` (CV Optimisation) with focus on transferable skills and break narrative
+4. `/application-optimiser` (resume Optimisation) with focus on transferable skills and break narrative
 
-### Redundancy Response
+### Layoff Response
 
 1. `/career-navigator` (3-Month Plan) with urgency context
 2. `/linkedin-coach` (Profile Audit) - immediate LinkedIn update
@@ -135,8 +135,8 @@ Not sure if another employed role is right? Explore alternatives systematically:
 1. `/career-transitions` (Non-Linear Career Explorer) to assess motivations, finances, and options
 2. Based on outcome:
    - Entrepreneurship → `/career-transitions` (Portfolio/Fractional) for financial modelling
-   - Public sector → `/application-optimiser` for Success Profiles CV
-   - Charity → `/application-optimiser` for sector-specific CV + `/linkedin-coach` for repositioning
+   - Public sector → `/application-optimiser` for Success Profiles resume
+   - Charity → `/application-optimiser` for sector-specific resume + `/linkedin-coach` for repositioning
    - Intrapreneurship → `/linkedin-coach` for internal visibility
 3. `/career-navigator` (3-Month Plan) with non-linear goals
 4. `/ai-impact-assessment` to check future resilience of chosen direction
@@ -167,7 +167,7 @@ For users who have committed to going fractional, portfolio, or independent and 
 For users returning after a career break who want positioning that frames the gap honestly without making it the story:
 1. `/personal-brand` (Brand Foundation, with career returner persona guide) for a positioning that frames the gap as a chapter rather than a hole
 2. `/personal-brand` (Bio Library) with disproportionate focus on LinkedIn About; this is the surface doing the most work for an active return
-3. `/application-optimiser` (with career returner persona) to align the CV with the brand
+3. `/application-optimiser` (with career returner persona) to align the resume with the brand
 4. `/linkedin-coach` (with career returner reference) for platform-specific tactics
 5. `/career-navigator` (3-Month Plan with career returner persona) to combine brand-build activity with applications
 
@@ -184,11 +184,11 @@ For users returning after a career break who want positioning that frames the ga
 2. Address RED and AMBER scores immediately:
    - LinkedIn issues → `/linkedin-coach` (Profile Audit)
    - Content gaps → `/linkedin-coach` (Content Strategy)
-   - CV inconsistencies → `/application-optimiser` (CV Optimisation)
+   - resume inconsistencies → `/application-optimiser` (resume Optimisation)
 3. If targeting a specific company, run `/employer-footprint` (Employer Impression Report) to map your presence against their values
 4. Use the generated interview questions from your footprint as input to `/interview-master`
 
-**Key insight:** Running a footprint audit first reveals issues you might never discover otherwise. A LinkedIn profile that says "Director" when your CV says "Senior Manager" is an immediate red flag for recruiters. Better to find this yourself.
+**Key insight:** Running a footprint audit first reveals issues you might never discover otherwise. A LinkedIn profile that says "Director" when your resume says "Senior Manager" is an immediate red flag for recruiters. Better to find this yourself.
 
 **Advanced move:** After fixing issues, re-run the footprint analysis to confirm improvements. The before/after comparison demonstrates tangible progress.
 
@@ -201,7 +201,7 @@ For users returning after a career break who want positioning that frames the ga
 **Approach:**
 - Keep an application tracker (`/career-navigator`, Application Tracker) as the index of everything in flight; `/career-helper:status` reads it first
 - Run `/career-helper:status` periodically to see all generated files and the tracker board together
-- When your CV changes, re-run CV optimisation for active applications
+- When your resume changes, re-run resume optimisation for active applications
 - When goals shift, re-run the 3-month plan
 - Research briefs older than 3 months should be refreshed - company situations change
 

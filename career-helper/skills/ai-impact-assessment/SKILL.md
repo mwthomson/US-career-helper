@@ -41,7 +41,7 @@ These rules apply to **all communication with the user** and to the **formatting
 
 ## 1. AI Impact Assessment
 
-**What you need:** Your current role or target role(s), industry, and ideally your CV or a description of your day-to-day responsibilities
+**What you need:** Your current role or target role(s), industry, and ideally your resume or a description of your day-to-day responsibilities
 **Load:** @references/ai-impact-research.md
 **Load:** @references/assessment-and-plan.md
 **Template:** @references/ai-impact-template.md
@@ -49,7 +49,7 @@ These rules apply to **all communication with the user** and to the **formatting
 This skill runs in two phases:
 
 **Phase 1: Research (runs in extended thinking, not shown to user)**
-- Gathers everything known about the user from conversation context, CV, and prior skill outputs in the working folder
+- Gathers everything known about the user from conversation context, resume, and prior skill outputs in the working folder
 - Runs targeted WebSearch queries against the user's specific role(s) and industry
 - Cross-references credible sources: WEF Future of Jobs, McKinsey, ONS, Brookings, industry-specific reports
 - Assesses which specific tasks and responsibilities face disruption vs which remain resilient
@@ -69,7 +69,7 @@ This skill runs in two phases:
 
 ## Output Standards
 
-- **UK English** throughout
+- **US English** throughout
 - **No emojis** - Professional tone
 - **Cited sources** - All research includes URLs and access dates
 - **Evidence-based** - Claims backed by specific data, not general impressions
@@ -101,4 +101,4 @@ After your assessment, consider:
 
 ---
 
-*AI Impact Assessment v1.0.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*AI Impact Assessment v1.0.0 | Career Helper Plugin | Prosper AI Consulting*

@@ -89,4 +89,4 @@ Instead of demonstrating technical knowledge, ask these:
 
 ---
 
-*NED AI Literacy Guide | NED AI Helper | Prosper AI Consulting, UK*
+*NED AI Literacy Guide | NED AI Helper | Prosper AI Consulting*

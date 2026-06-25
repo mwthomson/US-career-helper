@@ -16,7 +16,7 @@ Use when the user has specified a target company AND role. This reference works 
 
 Essential:
 - Candidate name and social handles
-- Candidate CV
+- Candidate resume
 - Target company name
 - Target role title
 - Job description (if available)
@@ -78,7 +78,7 @@ After both tracks complete, map candidate presence against company culture:
 Identify which aspects of the candidate's digital presence provide interview advantage:
 
 **Experience to Prioritise:**
-Based on company priorities, which roles, projects, or achievements on the CV should the candidate emphasise? Cross-reference with what's publicly visible - if they can say "as you may have seen from my GitHub/LinkedIn/blog..."
+Based on company priorities, which roles, projects, or achievements on the resume should the candidate emphasise? Cross-reference with what's publicly visible - if they can say "as you may have seen from my GitHub/LinkedIn/blog..."
 
 **Experience to Prepare to Explain:**
 Based on company expectations, which gaps, transitions, or unconventional choices might need a prepared narrative?
@@ -88,7 +88,7 @@ Based on company expectations, which gaps, transitions, or unconventional choice
 Generate interview questions the employer is likely to ask based on:
 
 1. **What they'll find online** - Questions prompted by specific public content
-2. **What they won't find** - Questions about gaps between CV and online presence
+2. **What they won't find** - Questions about gaps between resume and online presence
 3. **Cultural fit probing** - Questions to test alignment with their values
 4. **Role-specific depth** - Questions about publicly visible experience relevant to the role
 5. **Red flag probing** - Questions about any concerning content (tactful framing)

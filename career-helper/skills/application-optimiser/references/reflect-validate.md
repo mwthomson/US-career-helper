@@ -9,7 +9,7 @@
 ## When to Use This Workflow
 
 **Always validate for:**
-- CV/ATS optimization (critical - affects job applications)
+- resume/ATS optimization (critical - affects job applications)
 - Company research briefs (citations must be accurate)
 - Interview preparation (answers must be evidence-backed)
 - LinkedIn profile recommendations (professional reputation at stake)
@@ -31,7 +31,7 @@ Generate → Evaluate → If NEEDS_IMPROVEMENT → Refine → Re-evaluate
 
 ---
 
-## Language Compliance (UK English)
+## Language Compliance (US English)
 
 **Check BEFORE capability-specific validation:**
 
@@ -53,7 +53,7 @@ Generate → Evaluate → If NEEDS_IMPROVEMENT → Refine → Re-evaluate
 | programme | program |
 | favour | favor |
 | honour | honor |
-| labour | labor |
+| labor | labor |
 | recognise | recognize |
 | realise | realize |
 | specialise | specialize |
@@ -79,12 +79,12 @@ Generate → Evaluate → If NEEDS_IMPROVEMENT → Refine → Re-evaluate
 
 ## Validation Criteria by Capability
 
-### 1. CV/ATS Optimisation
+### 1. resume/ATS Optimisation
 
 **Content Requirements:**
 | Criterion | Check |
 |-----------|-------|
-| **Source Traceability** | Can every substantive bullet cite its source (master facts file, current CV, or explicit conversation turn)? |
+| **Source Traceability** | Can every substantive bullet cite its source (master facts file, current resume, or explicit conversation turn)? |
 | **No Invented Content** | No modifiers, scope, geography, or timing details added beyond the source? |
 | **Keyword Coverage (minimum gate)** | ≥70% of JD keywords integrated, using only verified experience. Below 70% → NEEDS_IMPROVEMENT. |
 | **Quantified Achievements** | Numbers, percentages, metrics present, all traceable to source? |
@@ -94,15 +94,15 @@ Generate → Evaluate → If NEEDS_IMPROVEMENT → Refine → Re-evaluate
 
 **Note on coverage thresholds:** This 70% figure is the *minimum acceptance gate*; content below this threshold gets refined before delivery. The companion `@ATS-Helper.md` defines a separate *aspirational target* of 90%, which is what a strong rewrite aims for when verified evidence supports it. Coverage between 70 and 90 percent passes validation but should still be improved if the source allows.
 
-**Traceability Check (run before any other CV check):**
+**Traceability Check (run before any other resume check):**
 
-For every substantive bullet in the draft CV, answer:
-1. Which source entry does this bullet come from? (Master facts section, CV section, or conversation turn.)
+For every substantive bullet in the draft resume, answer:
+1. Which source entry does this bullet come from? (Master facts section, resume section, or conversation turn.)
 2. Are all substantive words present in that source, or traceable to a verified alternative in the source?
 3. If rephrased, does the meaning remain identical?
 4. Have only redundant words been removed, never added meaning?
 
-If any bullet fails traceability, mark the whole CV as NEEDS_IMPROVEMENT and refine before continuing to keyword coverage.
+If any bullet fails traceability, mark the whole resume as NEEDS_IMPROVEMENT and refine before continuing to keyword coverage.
 
 **Hallucination Red Flag Scan:**
 
@@ -231,7 +231,7 @@ Before presenting to user, run internal validation:
 ```markdown
 ## Internal Validation Check
 
-### Capability: [CV/Research/Interview/LinkedIn/Networking/Content]
+### Capability: [resume/Research/Interview/LinkedIn/Networking/Content]
 
 **Content Completeness:**
 - [ ] All required sections present?
@@ -299,9 +299,9 @@ For each factual claim:
 3. Is source recent? → News <12 months, company info <6 months ideal
 ```
 
-### ATS Safety (CV Optimization)
+### ATS Safety (resume Optimization)
 
-**ALWAYS validate CV outputs for:**
+**ALWAYS validate resume outputs for:**
 - No tables (will be scrambled by ATS)
 - No columns (parsing issues)
 - No graphics/images (ignored by ATS)
@@ -321,12 +321,12 @@ For each factual claim:
 
 ## Quick Reference: Validation Prompts
 
-### CV Validation Prompt
+### resume Validation Prompt
 ```
-Validate this CV against the job description:
+Validate this resume against the job description:
 
 **Job Description Keywords:** [extracted keywords]
-**CV Content:** [generated CV]
+**resume Content:** [generated resume]
 
 Check:
 1. Keyword coverage (target: 70%+)
@@ -358,13 +358,13 @@ Output: <citation_evaluation>PASS|NEEDS_IMPROVEMENT|FAIL</citation_evaluation>
 
 ## Example: Full Validation Flow
 
-**User Request:** "Optimize my CV for this Data Scientist role at Netflix"
+**User Request:** "Optimize my resume for this Data Scientist role at Netflix"
 
 ### Iteration 1
 
-**Generated:** CV with role-aligned summary, experience bullets...
+**Generated:** resume with role-aligned summary, experience bullets...
 
-**CV Evaluation:** NEEDS_IMPROVEMENT
+**resume Evaluation:** NEEDS_IMPROVEMENT
 - Keyword coverage: 55% (target: 70%+)
 - Missing: "A/B testing", "recommendation systems", "Python"
 - Quantification: Only 2 of 5 bullets have metrics
@@ -373,7 +373,7 @@ Output: <citation_evaluation>PASS|NEEDS_IMPROVEMENT|FAIL</citation_evaluation>
 
 **Refined:** Added missing keywords, quantified remaining bullets...
 
-**CV Evaluation:** PASS
+**resume Evaluation:** PASS
 - Keyword coverage: 78% ✓
 - All bullets have metrics ✓
 - ATS-safe formatting ✓
@@ -381,9 +381,9 @@ Output: <citation_evaluation>PASS|NEEDS_IMPROVEMENT|FAIL</citation_evaluation>
 
 ### Final Output to User
 
-**Optimized CV for Data Scientist - Netflix**
+**Optimized resume for Data Scientist - Netflix**
 
-[CV Content]
+[resume Content]
 
 ---
 

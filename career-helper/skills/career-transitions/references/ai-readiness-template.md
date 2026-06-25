@@ -150,9 +150,9 @@
 
 ---
 
-## CV & LinkedIn Integration
+## resume & LinkedIn Integration
 
-### CV Updates
+### resume Updates
 
 **Skills Section - Add:**
 ```

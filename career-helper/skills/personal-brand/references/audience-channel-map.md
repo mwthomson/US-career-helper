@@ -2,7 +2,7 @@
 
 Capability B of the personal-brand skill. Translates the Why Them block of the foundation into a concrete plan: who you are talking to, where they actually spend time, and a weekly rhythm that fits the time you can realistically invest.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 

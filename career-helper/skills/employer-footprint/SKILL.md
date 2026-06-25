@@ -45,7 +45,7 @@ These rules apply to **all communication with the user** and to the **formatting
 
 This skill uses an **agentic deep-research swarm** approach:
 
-1. **You provide** your name, CV, social media handles, and target company/role
+1. **You provide** your name, resume, social media handles, and target company/role
 2. **Parallel research agents** scan publicly available data across multiple channels simultaneously
 3. **Employer lens analysis** interprets findings through the target company's values and culture
 4. **Dashboard synthesis** produces a credit-report style output with positive/negative indicators
@@ -76,8 +76,8 @@ Before starting any analysis, collect the following via AskUserQuestion:
 - Role title
 - Job description (if available)
 
-**Question 4: CV**
-"Please share your CV - either paste the text, provide a file path, or upload it."
+**Question 4: resume**
+"Please share your resume - either paste the text, provide a file path, or upload it."
 
 **Question 5: Concerns**
 "Is there anything specific you're worried an employer might find? (This helps me focus the analysis - everything stays private.)"
@@ -86,7 +86,7 @@ Before starting any analysis, collect the following via AskUserQuestion:
 
 ## 1. Full Footprint Analysis
 
-**What you need:** Name + social handles + CV + target company/role (optional)
+**What you need:** Name + social handles + resume + target company/role (optional)
 **Load:** @references/digital-footprint-audit.md
 **Template:** @references/footprint-dashboard-template.md
 
@@ -180,7 +180,7 @@ Focused deep-dive into specific social channels:
 
 ## 3. Employer Impression Report
 
-**What you need:** Name + CV + target company name + role
+**What you need:** Name + resume + target company name + role
 **Load:** @references/employer-impression-analysis.md
 **Template:** @references/footprint-dashboard-template.md
 **Also Load:** @references/digital-footprint-audit.md
@@ -239,7 +239,7 @@ Wave 1 (Parallel):
 
 Wave 2 (After Wave 1 results):
 - Task Agent: Deep-dive on flagged content
-- Task Agent: Cross-reference CV against online presence
+- Task Agent: Cross-reference resume against online presence
 - WebSearch: Fill identified gaps
 - WebSearch: Counter-evidence and red flag hunt
 
@@ -268,7 +268,7 @@ When the user's context matches a specific persona, adapt the analysis focus:
 
 ## Output Standards
 
-- **UK English** throughout (unless US role explicitly requires US English)
+- **US English** throughout (unless non-US role explicitly requires US English)
 - **No emojis** - Professional tone
 - **Cited sources** - All findings include URLs and access dates
 - **Text-label ratings** — GREEN/AMBER/RED as text, never colour alone
@@ -325,7 +325,7 @@ After completing a footprint analysis, career-helper can help you act on the fin
 |:--------|:-----------------|:-------|
 | LinkedIn needs improvement | **/linkedin-coach** | Profile audit and optimisation |
 | Content gaps identified | **/linkedin-coach** | Content strategy and calendar |
-| CV doesn't match online presence | **/application-optimiser** | CV optimisation with consistency |
+| resume doesn't match online presence | **/application-optimiser** | resume optimisation with consistency |
 | Interview questions generated | **/interview-master** | Full interview prep and mock |
 | Company culture concerns found | **/application-optimiser** | Deeper company research |
 | Career narrative inconsistent | **/career-navigator** | Networking intelligence and strategy |
@@ -341,7 +341,7 @@ After completing a footprint analysis, career-helper can help you act on the fin
 |:--------|:--------------------|:-------------------|
 | Social media check | Quick scan | Deep audit |
 | Google presence search | Basic | Comprehensive |
-| CV cross-reference | No | Yes |
+| resume cross-reference | No | Yes |
 | Company culture mapping | No | Yes |
 | Scored dashboard (1-10) | No | Yes |
 | Interview questions | No | Yes |
@@ -359,11 +359,11 @@ After completing a footprint analysis, career-helper can help you act on the fin
 ## Related Skills
 
 - **/social-media-review** - Quick social media health check (lighter alternative)
-- **/application-optimiser** - Research the company and optimise your CV
+- **/application-optimiser** - Research the company and optimise your resume
 - **/linkedin-coach** - Fix LinkedIn issues identified in the audit
 - **/interview-master** - Prepare for questions based on your footprint
 - **/career-navigator** - Build networking strategy leveraging your strengths
 
 ---
 
-*Employer Footprint Analysis v1.0.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Employer Footprint Analysis v1.0.0 | Career Helper Plugin | Prosper AI Consulting*

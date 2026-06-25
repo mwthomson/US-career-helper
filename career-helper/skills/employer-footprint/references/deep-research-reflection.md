@@ -44,7 +44,7 @@ This workflow uses **multiple search cycles** to achieve depth. Single-pass rese
 │      └─► Actively search for concerning content             │
 │                                                             │
 │   6. CROSS-REFERENCE                                        │
-│      └─► CV vs online presence consistency check            │
+│      └─► resume vs online presence consistency check            │
 │                                                             │
 │   7. SYNTHESISE + SCORE                                     │
 │      └─► Consolidate, score dimensions, generate dashboard  │
@@ -76,7 +76,7 @@ Platforms to check:
 Target context:
 - Company: {If provided}
 - Role: {If provided}
-- Industry: {Inferred from CV/role}
+- Industry: {Inferred from resume/role}
 ```
 
 ---
@@ -120,7 +120,7 @@ GAP ANALYSIS:
 □ Did we find ALL platforms the user mentioned?
 □ Are there INCONSISTENCIES between platforms?
 □ What would a recruiter find vs what we found? (Any gaps?)
-□ Did we check the CV against EVERY platform?
+□ Did we check the resume against EVERY platform?
 ```
 
 ---
@@ -153,7 +153,7 @@ RED FLAG SEARCH QUERIES:
 6. "{twitter_handle}" AND (deleted OR apologised) [past controversies]
 
 CROSS-REFERENCE FLAGS:
-- CV claims vs verifiable evidence
+- resume claims vs verifiable evidence
 - Job titles: inflation or deflation?
 - Dates: gaps or overlaps?
 - Qualifications: verifiable?
@@ -163,13 +163,13 @@ CROSS-REFERENCE FLAGS:
 
 ---
 
-## Step 6: Cross-Reference (CV Consistency)
+## Step 6: Cross-Reference (resume Consistency)
 
 ```
-CV CONSISTENCY CHECK:
-For each CV entry, check against online presence:
+resume CONSISTENCY CHECK:
+For each resume entry, check against online presence:
 
-□ Job titles match across CV, LinkedIn, other platforms?
+□ Job titles match across resume, LinkedIn, other platforms?
 □ Employment dates are consistent?
 □ Company names are the same?
 □ Education claims are verifiable?
@@ -224,7 +224,7 @@ GAP ANALYSIS:
 RED FLAG HUNT:
 □ Controversial content search executed
 □ Inconsistency scan completed
-□ CV cross-reference done
+□ resume cross-reference done
 □ Results documented objectively
 
 SCORING:

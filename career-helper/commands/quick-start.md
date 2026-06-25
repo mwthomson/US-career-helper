@@ -44,7 +44,7 @@ Ask these questions one at a time (use AskUserQuestion tool):
 - Want a quick social media check (graduates / early career)
 - Considering a career change (freelance, fractional, portfolio)
 - Exploring alternatives to traditional employment (starting a business, public sector, charity, startup)
-- Returning to work after a career break (maternity, redundancy, illness, sabbatical)
+- Returning to work after a career break (maternity, layoff, illness, sabbatical)
 - Dealing with age discrimination or feeling my age is held against me
 - Worried about whether AI will affect my role or the roles I'm targeting
 - Graduate, apprentice, or early career - looking for my first role
@@ -102,10 +102,10 @@ Based on their answers, recommend ONE skill and invoke it:
 | Not sure, exploring alternatives | /career-transitions (Non-Linear Career Explorer) |
 | Career returner with target role | /application-optimiser (career returner persona) |
 | Career returner, needs plan | /career-navigator (career returner persona) |
-| Redundancy, needs immediate plan | /career-navigator (career returner persona) |
+| Layoff, needs immediate plan | /career-navigator (career returner persona) |
 | Age discrimination, specific rejection | /interview-master (ageism persona, post-interview coaching) |
 | Age discrimination, pattern across search | /interview-master (ageism persona) |
-| Long-service redundancy with age concerns | /interview-master (ageism persona + career returner persona) |
+| Long-service layoff with age concerns | /interview-master (ageism persona + career returner persona) |
 | Graduate/apprentice with target | /application-optimiser (early career persona) |
 | Graduate/apprentice, exploring | /career-navigator (early career persona) |
 | NED AI governance | /ned-ai-helper |

@@ -15,9 +15,9 @@ Synthesised insights drawn from your interview debriefs, rejection analyses, and
 
 - {{Populated from rejection analyses and interview debriefs. Look for the same objection appearing across three or more applications}}
 
-## CV and Application Observations
+## resume and Application Observations
 
-- {{e.g. which CV versions get callbacks, which job-description types convert best}}
+- {{e.g. which resume versions get callbacks, which job-description types convert best}}
 
 ## Interview Performance Patterns
 

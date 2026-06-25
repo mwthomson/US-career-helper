@@ -77,4 +77,4 @@ A markdown alternative: if the user cannot use HTML, offer the text-equivalent t
 
 ---
 
-*Ikigai Visual Map v1.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Ikigai Visual Map v1.0 | Career Helper Plugin | Prosper AI Consulting*

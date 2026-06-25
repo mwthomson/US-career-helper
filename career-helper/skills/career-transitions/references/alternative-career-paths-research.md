@@ -36,7 +36,7 @@ A non-linear career path is one that does not follow a single, upward trajectory
 1. **Build a narrative throughline:** Connect your career episodes into a coherent story. Choose a theme you can express in one sentence, for example: "I build zero-to-one systems" or "I translate policy constraints into product strategy."
 2. **Maintain financial and social runway:** Keep a cash buffer, flexible income stream, or part-time anchor role. Cultivate relationships that open doors, especially when your path is unconventional.
 3. **Invest in continuous upskilling:** More than 40% of learners enrolled in multiple courses during 2025, reflecting a focused approach to building capabilities. Combine short, application-oriented programmes to close specific skill gaps.
-4. **Reframe your CV:** Highlight outcomes, transferable skills, and the throughline rather than presenting a chronological list of unrelated roles.
+4. **Reframe your resume:** Highlight outcomes, transferable skills, and the throughline rather than presenting a chronological list of unrelated roles.
 5. **Seek organisations that value non-linear backgrounds:** Forward-thinking employers recognise the value of people who have worked across different industries and environments.
 
 ### Skill Stacking
@@ -80,7 +80,7 @@ Entrepreneurship now ranks as the number one wealth-building strategy heading in
 2. **Financial preparedness:** Understand your startup costs. Many businesses fail simply because they run out of money before revenue becomes consistent. Aim for at least six months of expenses in reserve.
 3. **Personal readiness:** Entrepreneurship requires comfort with ambiguity, self-motivation, resilience in the face of failure, and willingness to wear many hats simultaneously.
 4. **Legal and regulatory requirements:** Common legal pitfalls include missing filing deadlines, overlooking contract details, and failing to comply with tax obligations.
-5. **Economic context:** Inflation remains above the Federal Reserve's 2% target, and the price of doing business continues to climb, including potential trade tariffs and labour market pressures.
+5. **Economic context:** Inflation remains above the Federal Reserve's 2% target, and the price of doing business continues to climb, including potential trade tariffs and labor market pressures.
 
 ### Pros
 
@@ -240,7 +240,7 @@ Startups are designed for rapid, scalable growth and typically seek external fun
 ### Benefits
 
 - **Job security:** The public sector generally offers greater stability and more predictable employment than the private sector.
-- **Work-life balance:** More annual leave, flexible working options, and remote work potential. According to the 2025 CIPD Good Work Index, 70% of public sector staff feel able to take time away from work to deal with personal matters.
+- **Work-life balance:** More PTO (paid time off), flexible working options, and remote work potential. According to the 2025 CIPD Good Work Index, 70% of public sector staff feel able to take time away from work to deal with personal matters.
 - **Mission-driven impact:** Public service allows direct contribution to society through healthcare, education, community safety, and public infrastructure.
 - **Benefits packages:** Robust pension schemes, Public Service Loan Forgiveness (PSLF) eligibility (US), generous leave policies, and healthcare coverage.
 - **Wage growth:** Public sector wage growth has outpaced private sector growth since mid-2023, the first time outside a recession that this has occurred in more than 30 years.
@@ -520,7 +520,7 @@ Before learning a new tool, identify your "un-automatable" assets that AI cannot
    - Data analytics certifications.
    - Field-specific qualifications (CPA for accounting, etc.).
 
-4. **Reframe your CV:** Use a hybrid or functional format:
+4. **Reframe your resume:** Use a hybrid or functional format:
    - Open with a strong skills summary.
    - Lead with accomplishments rather than job titles.
    - Group experience by relevance rather than chronology.

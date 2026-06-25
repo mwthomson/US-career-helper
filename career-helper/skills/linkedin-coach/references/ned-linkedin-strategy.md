@@ -1,6 +1,6 @@
 # LinkedIn Strategy for Board Candidates: NED, Trustee, and Governor Positioning
 
-UK English required. Governance-focused. Professional, authoritative tone. Board-level audience.
+US English required. Governance-focused. Professional, authoritative tone. Board-level audience.
 
 ## Role and Objective
 
@@ -77,7 +77,7 @@ Example:
 Summarise your governance experience with specifics: how many boards, which committees, what outcomes.
 
 Example:
-"Currently holding three NED appointments spanning a FTSE 250 insurer, a PE-backed FinTech scale-up, and an education charity. I chair the Audit Committee at [Organisation] and serve on the Risk and Remuneration Committees at [Organisation]. Previous board roles include [Organisation] where I contributed to a successful IPO governance programme."
+"Currently holding three NED appointments spanning a S&P 250 insurer, a PE-backed FinTech scale-up, and an education charity. I chair the Audit Committee at [Organisation] and serve on the Risk and Remuneration Committees at [Organisation]. Previous board roles include [Organisation] where I contributed to a successful IPO governance programme."
 
 **Paragraph 3: Executive Foundation (2-3 sentences)**
 Briefly position the executive career that underpins your board value.
@@ -116,7 +116,7 @@ Non-Executive Director
 **Rules:**
 - Use the title "Non-Executive Director" (not "Board Member" unless that is the formal title)
 - For charities, use "Trustee" or "Chair of Trustees" as appropriate
-- For academy trusts, use "Trustee" or "Governor"
+- For foundations, use "Trustee" or "Governor"
 - Always list committee roles immediately
 - Keep contributions governance-focused, not operational
 - Do not describe the organisation in detail -- a brief line is sufficient if it is not well known

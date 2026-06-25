@@ -100,4 +100,4 @@ Cadence: On demand.
 
 ---
 
-*Scheduled Job-Search Routines v1.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Scheduled Job-Search Routines v1.0 | Career Helper Plugin | Prosper AI Consulting*

@@ -1,6 +1,6 @@
 # Portfolio & Fractional Career Support
 
-UK English required. No marketing fluff. Strategic, practical, region-aware.
+US English required. No marketing fluff. Strategic, practical, region-aware.
 
 ## Role and Objective
 
@@ -91,10 +91,10 @@ Traditional employment plus side income streams (boards, advising, content).
 
 | Stream | Type | Days/Week | Target Revenue | Notes |
 |--------|------|-----------|----------------|-------|
-| {Stream 1} | {Fractional/Consulting/Advisory/Content/Board} | {X} | {£/$/€ per month} | {Details} |
-| {Stream 2} | {Type} | {X} | {£/$/€ per month} | {Details} |
-| {Stream 3} | {Type} | {X} | {£/$/€ per month} | {Details} |
-| **Total** | | **{X}** | **{£/$/€}** | |
+| {Stream 1} | {Fractional/Consulting/Advisory/Content/Board} | {X} | {$/$/€ per month} | {Details} |
+| {Stream 2} | {Type} | {X} | {$/$/€ per month} | {Details} |
+| {Stream 3} | {Type} | {X} | {$/$/€ per month} | {Details} |
+| **Total** | | **{X}** | **{$/$/€}** | |
 
 ### Income Allocation
 
@@ -142,8 +142,8 @@ or don't want a full-time {role}. I bring {X years} of experience from
 |---------|---------------|
 | Days per week | {1-3 days} |
 | Minimum commitment | {X months} |
-| Day rate | {£/$/€ X} |
-| Monthly retainer | {£/$/€ X} |
+| Day rate | {$/$/€ X} |
+| Monthly retainer | {$/$/€ X} |
 | Expenses | {Included/Additional} |
 | Notice period | {X weeks/months} |
 
@@ -169,11 +169,11 @@ typically {days/week} each. My clients get {specific outcomes}."
 
 | Role | Daily Rate | Monthly (2 days/week) |
 |------|------------|----------------------|
-| Fractional CFO | £800-1,500 | £6,400-12,000 |
-| Fractional CMO | £750-1,400 | £6,000-11,200 |
-| Fractional CTO | £900-1,600 | £7,200-12,800 |
-| Fractional CPO | £800-1,400 | £6,400-11,200 |
-| Fractional COO | £800-1,500 | £6,400-12,000 |
+| Fractional CFO | $800-1,500 | $6,400-12,000 |
+| Fractional CMO | $750-1,400 | $6,000-11,200 |
+| Fractional CTO | $900-1,600 | $7,200-12,800 |
+| Fractional CPO | $800-1,400 | $6,400-11,200 |
+| Fractional COO | $800-1,500 | $6,400-12,000 |
 
 **US Fractional Executive Rates (2025):**
 
@@ -188,10 +188,10 @@ typically {days/week} each. My clients get {specific outcomes}."
 
 | Seniority | Hourly | Daily | Project |
 |-----------|--------|-------|---------|
-| Senior Consultant | £100-200 | £600-1,200 | Varies |
-| Principal | £150-300 | £900-1,800 | Varies |
-| Director | £200-400 | £1,200-2,400 | Varies |
-| Partner/Expert | £300-600+ | £1,800-3,600+ | Varies |
+| Senior Consultant | $100-200 | $600-1,200 | Varies |
+| Principal | $150-300 | $900-1,800 | Varies |
+| Director | $200-400 | $1,200-2,400 | Varies |
+| Partner/Expert | $300-600+ | $1,800-3,600+ | Varies |
 
 ### Rate Calculation Framework
 
@@ -210,7 +210,7 @@ Required day rate: **{amount}/day**
 
 ### Method 3: Value-Based
 Typical client problem you solve: {Problem}
-Value of solving it: {£/$/€ X}
+Value of solving it: {$/$/€ X}
 Your fee as % of value (10-20%): **{amount}**
 
 ### Recommended Rate
@@ -244,7 +244,7 @@ Starting rate: **{amount}/day** or **{amount}/month retainer**
 
 | Aspect | Details |
 |--------|---------|
-| Setup cost | ~£50 |
+| Setup cost | ~$50 |
 | Tax | Corporation tax on profits; salary + dividends extraction |
 | Admin | Annual accounts, confirmation statement, payroll |
 | Liability | Limited to company assets |
@@ -386,14 +386,14 @@ Many VCs maintain lists of fractional execs for portfolio companies.
 
 ---
 
-## Step 7: Portfolio CV & LinkedIn
+## Step 7: Portfolio resume & LinkedIn
 
-### Portfolio CV Format
+### Portfolio resume Format
 
 ```markdown
-## Portfolio CV Structure
+## Portfolio resume Structure
 
-Unlike traditional CVs, emphasise versatility and outcomes:
+Unlike traditional resumes, emphasise versatility and outcomes:
 
 **Header:**
 {Name}

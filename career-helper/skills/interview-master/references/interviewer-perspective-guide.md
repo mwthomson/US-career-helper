@@ -30,7 +30,7 @@ Use this when the user wants:
   </job_description>
 
   <user_cv>
-  [User's CV - for tailoring "think about" guidance to their experience]
+  [User's resume - for tailoring "think about" guidance to their experience]
   </user_cv>
 
   <company_research>
@@ -80,7 +80,7 @@ Then consider: {Second layer of thinking}
 Finally: {How to structure and conclude}
 
 **Your Experience to Draw From:**
-{Reference specific experience from their CV that could be relevant}
+{Reference specific experience from their resume that could be relevant}
 
 ---
 ```
@@ -165,7 +165,7 @@ Then consider: "What did I actually DO differently because I couldn't just manda
 Finally: "What changed, and how do I know my influence was the cause?" Be specific about the outcome and connect it directly to your actions.
 
 **Your Experience to Draw From:**
-Look at your CV for: cross-functional projects, matrix organisation work, situations where you led without direct reports, times you changed someone's mind on a significant decision.
+Look at your resume for: cross-functional projects, matrix organisation work, situations where you led without direct reports, times you changed someone's mind on a significant decision.
 
 ---
 
@@ -198,7 +198,7 @@ Then consider: "What specific growth am I seeking that I can't get where I am?" 
 Finally: "Why is THIS role the right next step?" Connect your growth goals to specific elements of the job description and company. Show you've thought about fit, not just escape.
 
 **Your Experience to Draw From:**
-Review your CV for: progression patterns, skills you've developed, achievements you're proud of. Use these to frame what you've gained and what you're ready for next.
+Review your resume for: progression patterns, skills you've developed, achievements you're proud of. Use these to frame what you've gained and what you're ready for next.
 
 ---
 
@@ -206,7 +206,7 @@ Review your CV for: progression patterns, skills you've developed, achievements 
 
 1. **Never provide scripted answers** - Give thinking frameworks, not scripts
 2. **Be honest about red flags** - Help them avoid genuine pitfalls
-3. **Reference their actual CV** - Make "experience to draw from" specific to their background
+3. **Reference their actual resume** - Make "experience to draw from" specific to their background
 4. **Tailor to role level** - Executive questions differ from individual contributor
 5. **Include company context** - If research available, incorporate company-specific elements
 6. **Balance support and challenge** - Help them prepare, but don't sugar-coat what interviewers look for
@@ -221,7 +221,7 @@ Before completing the report:
 - [ ] Every question has all five sections (Assessing, Strong Answer, Red Flags, How to Think, Experience)
 - [ ] "How to Think" sections are frameworks, not scripts
 - [ ] Red flags are honest and specific
-- [ ] Experience references pull from actual CV
+- [ ] Experience references pull from actual resume
 - [ ] Role level and interview stage are reflected in question selection
 - [ ] Company-specific questions included if research available
 

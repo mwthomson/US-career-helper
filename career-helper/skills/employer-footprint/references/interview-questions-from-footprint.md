@@ -15,7 +15,7 @@ Use after a footprint analysis or employer impression report has been completed.
 ## Inputs Required
 
 - Completed footprint dashboard or employer impression report
-- Candidate CV
+- Candidate resume
 - Target company and role (if available)
 - Job description (if available)
 
@@ -60,10 +60,10 @@ Pattern: "I watched your talk at {event}..."
 
 These probe things that seem missing or don't quite add up:
 
-**CV-to-LinkedIn Discrepancies:**
+**resume-to-LinkedIn Discrepancies:**
 ```
 If dates differ: "I noticed the timeline for your role at {company} - can you walk me through the transition?"
-If titles differ: "Your LinkedIn shows {title A} but your CV says {title B} - can you clarify the role?"
+If titles differ: "Your LinkedIn shows {title A} but your resume says {title B} - can you clarify the role?"
 If companies differ: "I see you worked at {company} - that's not on your LinkedIn. Can you tell me about that?"
 ```
 

@@ -154,7 +154,7 @@
 ### Rate Justification
 
 **Market positioning:** {X}th percentile for {role} in {region}
-**Value delivered:** Clients typically see {outcome worth £X}
+**Value delivered:** Clients typically see {outcome worth $X}
 **Experience premium:** {X years} at {notable companies}
 
 ### Pricing Strategy
@@ -235,7 +235,7 @@
 
 ---
 
-## LinkedIn & CV Updates
+## LinkedIn & resume Updates
 
 ### LinkedIn Headline
 
@@ -253,9 +253,9 @@
 - Add current/recent client engagements as bullet points
 - Keep previous employment for credibility
 
-### Portfolio CV
+### Portfolio resume
 
-{Summary of CV changes needed for fractional/portfolio positioning}
+{Summary of resume changes needed for fractional/portfolio positioning}
 
 ---
 

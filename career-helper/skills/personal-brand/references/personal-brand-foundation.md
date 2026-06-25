@@ -2,7 +2,7 @@
 
 The core capability of the personal-brand skill. Walks the user through three blocks of questions, then synthesises a positioning statement they can actually defend.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 
@@ -104,7 +104,7 @@ If the user reaches for adjectives ("transformational", "highly successful"), ge
 
 ### Q3. What is the story arc?
 
-"Walk me through the three or four chapters of how you got here. The point is not the CV; the point is the through-line."
+"Walk me through the three or four chapters of how you got here. The point is not the resume; the point is the through-line."
 
 Listen for:
 
@@ -112,7 +112,7 @@ Listen for:
 - The turning point (the moment that changed direction, often a forced one)
 - The current chapter (what they are doing now, and the question it is helping them answer)
 
-A through-line that connects all three becomes the public version of their story. It is the answer to "tell me a bit about yourself" that does not sound like a CV read aloud.
+A through-line that connects all three becomes the public version of their story. It is the answer to "tell me a bit about yourself" that does not sound like a resume read aloud.
 
 ### Q4. The three words
 
@@ -189,7 +189,7 @@ If the user cannot name a shift, the position will sound timeless, which usually
 
 Listen for:
 
-- A career inflection (redundancy, exit, sabbatical end, fractional pivot)
+- A career inflection (layoff, exit, sabbatical end, fractional pivot)
 - An expertise compounding moment (the second or third project where the same pattern showed up)
 - A public conversation catching up (the topic you have been working on quietly is suddenly being talked about)
 

@@ -65,7 +65,7 @@
 | Internal mobility | {Description} | {X}/5 |
 | Promotion velocity | {Description} | {X}/5 |
 | Learning opportunities | {Description} | {X}/5 |
-| Brand value on CV | {Description} | {X}/5 |
+| Brand value on resume | {Description} | {X}/5 |
 | Industry positioning | {Description} | {X}/5 |
 | Skills development | {Description} | {X}/5 |
 | **Career Score** | | **{X}/30** |
@@ -80,7 +80,7 @@
 | Internal mobility | {Description} | {X}/5 |
 | Promotion velocity | {Description} | {X}/5 |
 | Learning opportunities | {Description} | {X}/5 |
-| Brand value on CV | {Description} | {X}/5 |
+| Brand value on resume | {Description} | {X}/5 |
 | Industry positioning | {Description} | {X}/5 |
 | Skills development | {Description} | {X}/5 |
 | **Career Score** | | **{X}/30** |

@@ -2,7 +2,7 @@
 
 Persona reference for the personal-brand skill. Loads alongside the standard capability references when the user is returning to work after a career break and wants positioning that frames the gap honestly without making the gap the story.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 
@@ -46,7 +46,7 @@ Useful patterns:
 
 Adjustments to the foundation work:
 
-- **Proof points come from the pre-break career first.** Specific roles, specific results, specific scars. The break does not erase these; it just means they are not the most recent line on the CV.
+- **Proof points come from the pre-break career first.** Specific roles, specific results, specific scars. The break does not erase these; it just means they are not the most recent line on the resume.
 - **The "during the break" line is one to three sentences long, not a paragraph.** Be specific about what was done; do not spin it. "I cared for a parent with dementia for two years and ran the school PTA, which kept me close to operational decision-making, governance, and budgeting" is more credible than "I used the time to grow personally".
 - **Story arc must include the break, but does not lead with it.** Treat the break like any other chapter: state it, name what was learned, move on. Do not apologise.
 - **Three words should match where the user is now, not where they were five years ago.** If the time away has changed them, let the words change.
@@ -158,7 +158,7 @@ When this persona is loaded:
 
 When to route to other skills:
 
-- For an ATS-optimised CV that frames the break: `/application-optimiser` with the career-returner persona
+- For an ATS-optimised resume that frames the break: `/application-optimiser` with the career-returner persona
 - For interview prep that addresses the break confidently: `/interview-master` with the career-returner persona
 - For a 3-month return plan: `/career-navigator` with the career-returner persona
 - For LinkedIn-specific tactics: `/linkedin-coach` with the career-returner reference

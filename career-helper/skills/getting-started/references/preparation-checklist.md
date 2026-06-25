@@ -13,7 +13,7 @@ Help the user gather the right materials before they start using career-helper s
 
 | Item | Why It Matters | How to Provide |
 |:-----|:---------------|:---------------|
-| **Current CV/resume** | Foundation for most skills - CV optimisation, interview prep, LinkedIn audit all build from this | Paste text, upload PDF, or provide file path |
+| **Current resume/resume** | Foundation for most skills - resume optimisation, interview prep, LinkedIn audit all build from this | Paste text, upload PDF, or provide file path |
 | **Career goals** | Skills adapt recommendations to your direction - without goals, advice stays generic | Describe in conversation: target role, level, industry, region |
 | **Target region** | Salary data, legal guidance, and cultural norms vary significantly | State your region: UK, US, EU, or APAC |
 
@@ -25,18 +25,18 @@ Help the user gather the right materials before they start using career-helper s
 |:-----|:-----------|:----|
 | Job description (full text) | **Essential** | ATS keyword extraction needs the complete JD, not a summary |
 | Company name | **Essential** | Enables deep company research |
-| Your current CV | **Essential** | Base document for ATS optimisation |
+| Your current resume | **Essential** | Base document for ATS optimisation |
 | Application deadline | Nice to Have | Helps prioritise workflow steps |
 | Referral contact (if any) | Nice to Have | Shapes application strategy |
 
-**What happens without the job description:** CV optimisation drops from targeted ATS rewriting to generic improvement. Keyword coverage analysis becomes impossible.
+**What happens without the job description:** resume optimisation drops from targeted ATS rewriting to generic improvement. Keyword coverage analysis becomes impossible.
 
 ### Preparing for an Interview
 
 | Item | Essential? | Why |
 |:-----|:-----------|:----|
 | Job description | **Essential** | Questions are generated from role requirements |
-| Your CV | **Essential** | STAR answers reference your real experience |
+| Your resume | **Essential** | STAR answers reference your real experience |
 | Company name | **Essential** | Company-specific questions and culture context |
 | Interview stage (phone/technical/final) | **Essential** | Question types differ dramatically by stage |
 | Interview format (panel/1:1/case study) | Nice to Have | Adjusts preparation approach |
@@ -60,7 +60,7 @@ Help the user gather the right materials before they start using career-helper s
 | Item | Essential? | Why |
 |:-----|:-----------|:----|
 | Career stage (early/mid/experienced/late) | **Essential** | Advice adapts significantly by stage |
-| Current situation (employed/between roles/redundancy) | **Essential** | Urgency and approach differ |
+| Current situation (employed/between roles/layoff) | **Essential** | Urgency and approach differ |
 | Target direction (if known) | Nice to Have | More specific planning if you have a direction |
 | Constraints (notice period, location, salary floor) | Nice to Have | Realistic planning needs real constraints |
 
@@ -70,7 +70,7 @@ Help the user gather the right materials before they start using career-helper s
 |:-----|:-----------|:----|
 | Your full professional name | **Essential** | This is what employers will Google |
 | Social media handles (LinkedIn, GitHub, Twitter/X, etc.) | **Essential** | The more you provide, the more comprehensive the audit |
-| Your current CV | **Essential** | Cross-referenced against your online presence for consistency |
+| Your current resume | **Essential** | Cross-referenced against your online presence for consistency |
 | Target company name | Nice to Have | Enables employer-specific impression mapping against their values |
 | Target role title | Nice to Have | Focuses the analysis on what matters for that role |
 | Job description | Nice to Have | Helps identify which aspects of your presence to prioritise |
@@ -95,7 +95,7 @@ Help the user gather the right materials before they start using career-helper s
 | Financial situation (savings, obligations, partner income) | **Essential** | Every non-linear path has financial implications; honest assessment prevents bad decisions |
 | Risk tolerance (honest, not aspirational) | **Essential** | Entrepreneurship vs public sector have very different risk profiles |
 | Target region | **Essential** | Legal structures, funding, and opportunities vary by region |
-| Current CV | Nice to Have | Helps identify transferable skills quickly |
+| Current resume | Nice to Have | Helps identify transferable skills quickly |
 | Specific ideas or interests (if any) | Nice to Have | Narrows the exploration to relevant paths |
 
 **What happens without financial information:** The assessment becomes generic and potentially dangerous. Recommending entrepreneurship to someone with 2 months of savings and a mortgage is irresponsible.
@@ -125,7 +125,7 @@ Present the checklist as a clean, copy-paste-ready list in conversation. Example
 Before we start, gather these materials:
 
 Essential:
-- [ ] Your current CV (paste text, upload PDF, or provide file path)
+- [ ] Your current resume (paste text, upload PDF, or provide file path)
 - [ ] The full job description (complete text, not a summary)
 - [ ] Company name
 

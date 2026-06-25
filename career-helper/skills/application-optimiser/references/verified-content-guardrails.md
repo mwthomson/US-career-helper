@@ -1,14 +1,14 @@
 # Verified Content Guardrails
 
-**Purpose:** Prevent hallucination, fabrication, and unverifiable embellishment when rewriting or optimising a user's CV. Every word in a delivered CV must trace to a source the user has provided or confirmed.
+**Purpose:** Prevent hallucination, fabrication, and unverifiable embellishment when rewriting or optimising a user's resume. Every word in a delivered resume must trace to a source the user has provided or confirmed.
 
-**Applies to:** All CV and bullet-level output produced by application-optimiser. Research briefs and interview prep have their own citation rules (see `deep-research-reflection.md`).
+**Applies to:** All resume and bullet-level output produced by application-optimiser. Research briefs and interview prep have their own citation rules (see `deep-research-reflection.md`).
 
 ---
 
 ## The Iron Rule
 
-**Never invent, extrapolate, or infer details about work history, achievements, metrics, scope, or background.** If a detail is not in the user's source material (their current CV, a master facts file, or explicit clarification in the conversation), do not write it.
+**Never invent, extrapolate, or infer details about work history, achievements, metrics, scope, or background.** If a detail is not in the user's source material (their current resume, a master facts file, or explicit clarification in the conversation), do not write it.
 
 When a bullet would benefit from a detail you cannot verify, flag it and ask. Never fill the gap yourself.
 
@@ -19,7 +19,7 @@ This rule is non-negotiable. A shorter bullet with verified content is always pr
 ## Sources of Truth, in Priority Order
 
 1. **Master facts file** (if present in cwd), typically `master-facts.md` or similar. Pre-verified timeline, metrics, and bullet library. When present, treat as authoritative.
-2. **The user's current CV.** Verified content by default; ask only if something looks inconsistent or dated.
+2. **The user's current resume.** Verified content by default; ask only if something looks inconsistent or dated.
 3. **Explicit conversation turns.** Facts the user has confirmed in chat.
 4. **Job description.** Source for target keywords only, never for candidate history.
 
@@ -47,7 +47,7 @@ If you catch yourself mid-sentence using one of these, stop and check the source
 
 Before including any substantive word, phrase, or claim in a delivered bullet:
 
-1. **Can you cite the source?** (Master facts section, CV section, or a specific conversation turn.)
+1. **Can you cite the source?** (Master facts section, resume section, or a specific conversation turn.)
    - No: do not include. Flag for clarification.
    - Yes: continue.
 
@@ -77,7 +77,7 @@ These operations preserve meaning while improving readability:
 - Choose between two verified phrasings in the source (e.g., the library has both "led" and "co-led"; pick the one the source actually uses for that specific achievement).
 - Choose the more specific of two verified alternatives when both are in the source (e.g., use the specific platform name rather than the generic platform type if both are in the source).
 - Reorder elements within a bullet as long as no meaning shifts.
-- Apply UK English spelling.
+- Apply US English spelling.
 
 ---
 
@@ -99,7 +99,7 @@ These operations introduce unverifiable content:
 
 ## Examples: Safe and Unsafe
 
-### Example 1: Removing redundancy (safe)
+### Example 1: Removing layoff (safe)
 
 **Source bullet:** "Built and scaled a team that reached 2.5 million monthly active users through email, paid social, and organic search."
 
@@ -137,7 +137,7 @@ What went wrong: "high-performing", "cross-functional", "strategically engaged",
 
 ## Hallucination Red Flags: Self-Review Before Delivery
 
-After drafting a CV but before presenting it, scan for these red flags in your own output:
+After drafting a resume but before presenting it, scan for these red flags in your own output:
 
 - Adjectives not in the source: "strategic", "innovative", "comprehensive", "robust", "world-class", "industry-leading"
 - Team composition you cannot cite: "cross-functional", "distributed", "diverse"
@@ -167,7 +167,7 @@ The phrasing should be specific: "I can see you led a team at X but the source d
 
 ## Final Verification Before Delivery
 
-Before presenting a CV, answer each of these for every substantive bullet:
+Before presenting a resume, answer each of these for every substantive bullet:
 
 1. Can I cite the exact source (file and section, or conversation turn) where this content came from?
 2. Are all substantive words in the bullet present in that source, or traceable to a verified alternative?
@@ -179,4 +179,4 @@ If any answer is "no" or "unsure", fix the bullet before delivering.
 
 ---
 
-*Verified Content Guardrails v1.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Verified Content Guardrails v1.0 | Career Helper Plugin | Prosper AI Consulting*

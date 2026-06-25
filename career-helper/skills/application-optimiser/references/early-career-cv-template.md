@@ -1,18 +1,18 @@
-# Early Career CV Guide: Graduates, Apprentices, School Leavers and Career Changers
+# Early Career resume Guide: Graduates, Apprentices, School Leavers and Career Changers
 
-**IMPORTANT:** Use UK English throughout (organisation, programme, colour, etc.). This guide provides deep, actionable CV guidance for candidates with limited professional experience. Load this reference when the user is identified as early career, a recent graduate, an apprentice, a school leaver, or a career changer entering a new field.
+**IMPORTANT:** Use US English throughout (organisation, programme, colour, etc.). This guide provides deep, actionable resume guidance for candidates with limited professional experience. Load this reference when the user is identified as early career, a recent graduate, an apprentice, a school leaver, or a career changer entering a new field.
 
 ## Role and Objective
 
 <Prompt_Persona>
-You are a specialist CV consultant for early career candidates. You help graduates, apprentices, school leavers, and career changers build compelling CVs that maximise limited professional experience. You understand UK hiring conventions, ATS systems used by graduate recruiters, and how to position academic work, projects, and transferable skills as genuine evidence of capability. You never apologise for a candidate's lack of experience. Instead, you reframe potential as a strength and help candidates present what they have done with clarity, confidence, and impact.
+You are a specialist resume consultant for early career candidates. You help graduates, apprentices, school leavers, and career changers build compelling resumes that maximise limited professional experience. You understand UK hiring conventions, ATS systems used by graduate recruiters, and how to position academic work, projects, and transferable skills as genuine evidence of capability. You never apologise for a candidate's lack of experience. Instead, you reframe potential as a strength and help candidates present what they have done with clarity, confidence, and impact.
 </Prompt_Persona>
 
 ---
 
-## Education-First CV Structure
+## Education-First resume Structure
 
-For candidates with fewer than three years of professional experience, education should appear near the top of the CV, immediately after the profile statement. This is the reverse of an experienced-hire CV where education sits at the bottom.
+For candidates with fewer than three years of professional experience, education should appear near the top of the resume, immediately after the profile statement. This is the reverse of an experienced-hire resume where education sits at the bottom.
 
 **Recommended Section Order:**
 
@@ -32,7 +32,7 @@ Move Education below Experience only once you have two or more years of relevant
 
 ## Degree Classification Guidance
 
-| Classification | Include on CV? | Notes |
+| Classification | Include on resume? | Notes |
 |---------------|---------------|-------|
 | First (1st) | Always | State prominently alongside degree title |
 | Upper Second (2:1) | Always | Standard expectation for most graduate schemes |
@@ -131,7 +131,7 @@ School leavers should emphasise qualifications, achievements, and extracurricula
 **Example entry:**
 
 **Head Prefect** | Thornton Academy | Sep 2023 to Jul 2024
-- Led a team of 12 prefects organising weekly assemblies and coordinating three whole-school charity events raising over GBP 4,000
+- Led a team of 12 prefects organising weekly assemblies and coordinating three whole-school charity events raising over USD 4,000
 - Represented the school at two regional education conferences, presenting on student mental health initiatives
 
 ---
@@ -169,14 +169,14 @@ Volunteer work and extracurricular activities are valid experience. Format them 
 
 **Events Coordinator** | University of Leeds Coding Society | Sep 2023 to Jun 2024
 - Organised a 12-week workshop programme teaching Python fundamentals to 45 first-year students with no prior coding experience
-- Secured GBP 1,500 in sponsorship from two local tech companies to fund a careers panel event attended by 120 students
+- Secured USD 1,500 in sponsorship from two local tech companies to fund a careers panel event attended by 120 students
 - Managed a team of six volunteers and coordinated room bookings, speaker logistics, and promotional campaigns
 
 ---
 
 ## Career Changer Variant
 
-Career changers with limited experience in their new target field should use a transferable skills bridge. The CV must connect previous experience to the new role's requirements.
+Career changers with limited experience in their new target field should use a transferable skills bridge. The resume must connect previous experience to the new role's requirements.
 
 **Strategy:**
 
@@ -193,7 +193,7 @@ Career changers with limited experience in their new target field should use a t
 | Construction PM Skill | Product Manager Application |
 |----------------------|---------------------------|
 | Managing subcontractor teams of 15+ | Cross-functional team coordination |
-| Delivering projects to GBP 2M+ budgets | Financial planning and resource allocation |
+| Delivering projects to USD 2M+ budgets | Financial planning and resource allocation |
 | Client requirements gathering and scope management | User research and requirements definition |
 | Risk registers and mitigation planning | Product risk assessment and prioritisation |
 
@@ -201,14 +201,14 @@ Career changers with limited experience in their new target field should use a t
 
 ## ATS Tips for Entry-Level Applications
 
-Entry-level CVs face particular ATS challenges because candidates have fewer keywords to match. Compensate with deliberate keyword placement.
+Entry-level resumes face particular ATS challenges because candidates have fewer keywords to match. Compensate with deliberate keyword placement.
 
 **Key principles:**
 
 - Read the job description line by line and use exact phrasing where truthful
 - Place critical keywords in the profile statement, skills section, and at least one project or experience bullet
 - Include both the spelled-out term and the acronym, e.g. "Continuous Integration / Continuous Deployment (CI/CD)"
-- Do not use graphics, tables in the CV file itself, icons, or multi-column layouts that ATS parsers may misread
+- Do not use graphics, tables in the resume file itself, icons, or multi-column layouts that ATS parsers may misread
 - Save as .docx unless the employer specifically requests PDF
 - Use standard section headings: Profile, Skills, Education, Experience, Projects
 
@@ -224,7 +224,7 @@ Entry-level CVs face particular ATS challenges because candidates have fewer key
 
 ---
 
-## Early Career CV Template
+## Early Career resume Template
 
 ```
 {FULL NAME}
@@ -274,18 +274,18 @@ CERTIFICATIONS
 
 | Mistake | Why It Hurts | What to Do Instead |
 |---------|-------------|-------------------|
-| Generic objective statement ("I am a hardworking graduate seeking a challenging role") | Adds no value and wastes prime CV space | Write a specific profile referencing the role and your relevant strengths |
+| Generic objective statement ("I am a hardworking graduate seeking a challenging role") | Adds no value and wastes prime resume space | Write a specific profile referencing the role and your relevant strengths |
 | Listing duties instead of achievements | Tells the reader what the role involved, not what you accomplished | Start every bullet with an action verb and end with an outcome |
 | Including full GCSE details when you have a degree | Takes up space with outdated information | Summarise as "9 GCSEs including Maths and English at grade 6+" |
-| Using a photo on the CV | Not standard in UK hiring and may introduce bias | Remove the photo entirely |
+| Using a photo on the resume | Not standard in UK hiring and may introduce bias | Remove the photo entirely |
 | Listing "References available on request" | Assumed by default and wastes a line | Remove it completely |
-| Using first person ("I managed a team") | UK CV convention uses implied first person | Write "Managed a team of four" without the "I" |
+| Using first person ("I managed a team") | UK resume convention uses implied first person | Write "Managed a team of four" without the "I" |
 | Sending as PDF when .docx is safer for ATS | Some ATS systems parse PDF less reliably | Default to .docx unless the employer requests otherwise |
-| CV longer than two pages | Graduate CVs should fit on one to two pages | One page is ideal for fewer than two years of experience |
-| No tailoring per application | A generic CV will score lower on ATS keyword matching | Adjust profile, skills, and key bullets for each application |
+| resume longer than two pages | Graduate resumes should fit on one to two pages | One page is ideal for fewer than two years of experience |
+| No tailoring per application | A generic resume will score lower on ATS keyword matching | Adjust profile, skills, and key bullets for each application |
 
 ---
 
 ## Confidence Note for Candidates
 
-Your academic projects, coursework, volunteering, and part-time work are real experience. Employers hiring at entry level expect to see potential, learning ability, and initiative rather than a decade of corporate achievements. Present what you have done with clarity and pride. A well-structured CV that honestly demonstrates what you can do will outperform a padded CV full of exaggeration every time.
+Your academic projects, coursework, volunteering, and part-time work are real experience. Employers hiring at entry level expect to see potential, learning ability, and initiative rather than a decade of corporate achievements. Present what you have done with clarity and pride. A well-structured resume that honestly demonstrates what you can do will outperform a padded resume full of exaggeration every time.

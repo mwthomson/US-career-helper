@@ -112,7 +112,7 @@ When discussing risks, use this three-part structure:
 
 ## Language Requirements
 
-### UK English Spelling
+### US English Spelling
 
 | Correct (UK) | Incorrect (US) |
 |:-------------|:---------------|
@@ -329,7 +329,7 @@ Use numbers for sequences:
 ---
 
 *[Document Type] | [Client Name] | [Date]*
-*Prosper AI Consulting, UK*
+*Prosper AI Consulting*
 ```
 
 ### Internal Documents
@@ -346,7 +346,7 @@ Use numbers for sequences:
 
 Before finalising any output, verify:
 
-- [ ] UK English spelling throughout
+- [ ] US English spelling throughout
 - [ ] No hedge words or corporate speak
 - [ ] No em dashes (use "to" for ranges)
 - [ ] Correct terminology used

@@ -73,4 +73,4 @@ The standard is the "reasonably diligent person" (s.174 Companies Act 2006):
 
 ---
 
-*Fiduciary Duty Mapping | NED AI Helper | Prosper AI Consulting, UK*
+*Fiduciary Duty Mapping | NED AI Helper | Prosper AI Consulting*

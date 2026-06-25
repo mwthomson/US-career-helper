@@ -2,7 +2,7 @@
 
 Persona reference for the personal-brand skill. Loads alongside the standard capability references when the user is positioning for fractional, portfolio, or independent consulting work.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 
@@ -60,7 +60,7 @@ The audience is not "founders". It is:
 - **Specific stage**: pre-seed, seed, Series A, Series B, Series C, growth, post-acquisition, scaleup
 - **Specific sector**: B2B SaaS, fintech, climate-tech, marketplaces, deeptech, healthtech, consumer
 - **Specific role-buying moment**: first product hire, first engineering manager, first finance hire, post-PMF over-hiring, post-fundraise team scaling, pre-Series-B operational rigour
-- **Specific company size or ARR band**: <£1m ARR, £1m to £5m, £5m to £20m
+- **Specific company size or ARR band**: <$1m ARR, $1m to $5m, $5m to $20m
 - **Specific founder profile**: first-time, second-time, technical, non-technical, sector-native, sector-outsider
 
 The 2am problem for a founder considering a fractional is not "we need another senior person". It is "I am about to hire the wrong person full-time and I cannot afford the mistake; I need someone who can tell me whether to hire and who". The brand needs to position the user as the answer to that specific question, not as a generic senior leader.

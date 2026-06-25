@@ -1,4 +1,4 @@
-# Optimized CV: {User Name}
+# Optimized resume: {User Name}
 
 **Optimized for:** {Target Role} at {Company Name}
 **Generated:** {Date}
@@ -88,9 +88,9 @@
 
 ### Keyword Coverage Analysis
 
-{List each keyword from job description and where it appears in CV}
+{List each keyword from job description and where it appears in resume}
 
-| Keyword | Location in CV | Status |
+| Keyword | Location in resume | Status |
 |---------|---------------|--------|
 | {keyword 1} | Skills, Experience (Company X) | ✓ Covered |
 | {keyword 2} | Profile, Experience (Company Y) | ✓ Covered |
@@ -100,7 +100,7 @@
 
 ### Semantic Alignment Check
 
-{Map each core concept to supporting evidence in CV}
+{Map each core concept to supporting evidence in resume}
 
 **{Concept 1}:**
 - Demonstrated in: {Section/bullet reference}
@@ -136,7 +136,7 @@
 - Save as `.docx` for most ATS systems
 - Use Arial, Calibri, or Times New Roman font (10-12pt)
 - Maintain 0.5-1 inch margins
-- Save filename as: `{FirstName}_{LastName}_CV_{RoleTitle}.docx`
+- Save filename as: `{FirstName}_{LastName}_resume_{RoleTitle}.docx`
 
 **Before Submitting:**
 1. Replace any [MISSING] or [PLACEHOLDER] values
@@ -146,7 +146,7 @@
 5. Upload to an ATS testing tool if available
 
 **Customization for Different Roles:**
-This CV is optimized for: {Target Role} at {Company}
+This resume is optimized for: {Target Role} at {Company}
 For other applications, re-run ATS optimization with new job description.
 
 ---

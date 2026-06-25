@@ -109,9 +109,9 @@
 
 | Skill | Your Evidence | Demonstrated in Interview? | Future Demand (WEF 2025) |
 |-------|--------------|---------------------------|-------------------------|
-| {Skill 1} | {From CV} | {Yes/Partially/No/Not Asked} | {Rising/Stable/Declining} |
-| {Skill 2} | {From CV} | {Yes/Partially/No/Not Asked} | {Rising/Stable/Declining} |
-| {Skill 3} | {From CV} | {Yes/Partially/No/Not Asked} | {Rising/Stable/Declining} |
+| {Skill 1} | {From resume} | {Yes/Partially/No/Not Asked} | {Rising/Stable/Declining} |
+| {Skill 2} | {From resume} | {Yes/Partially/No/Not Asked} | {Rising/Stable/Declining} |
+| {Skill 3} | {From resume} | {Yes/Partially/No/Not Asked} | {Rising/Stable/Declining} |
 
 ### Gap Priority Matrix
 
@@ -133,7 +133,7 @@
 Despite this rejection, the following remains true about your capabilities:
 
 ### Your Track Record
-{Evidence anchor from CV - specific achievements that haven't changed}
+{Evidence anchor from resume - specific achievements that haven't changed}
 
 - You still have **{X years}** experience in **{domain}**
 - You still achieved **{specific accomplishment with metric}** at {Company}
@@ -227,7 +227,7 @@ Despite this rejection, the following remains true about your capabilities:
 
 **STAR Stories to Update:**
 - {Story title}: {What to change/strengthen}
-- {New story needed}: {Topic and source from CV}
+- {New story needed}: {Topic and source from resume}
 
 **Talking Points to Add:**
 - {New talking point to address concern}

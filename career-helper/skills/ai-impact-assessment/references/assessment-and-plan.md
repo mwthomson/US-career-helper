@@ -1,6 +1,6 @@
 # Assessment and Mitigation Plan (Phase 2: Visible Output)
 
-UK English required. Straightforward. Empathetic. Pragmatic.
+US English required. Straightforward. Empathetic. Pragmatic.
 
 ## Role and Objective
 
@@ -78,11 +78,11 @@ After presenting the facts, include one paragraph that acknowledges the emotiona
 **Month 2: Build Foundations**
 - Start using AI tools daily for the tasks identified as at-risk
 - Complete one structured learning resource relevant to your role
-- Document your AI usage with quantified results (for CV and LinkedIn later)
+- Document your AI usage with quantified results (for resume and LinkedIn later)
 - Begin following industry leaders discussing AI in your field
 
 **Month 3: Demonstrate and Position**
-- Update CV to reflect AI capabilities (reference `/application-optimiser`)
+- Update resume to reflect AI capabilities (reference `/application-optimiser`)
 - Update LinkedIn profile and start posting about AI in your domain (reference `/linkedin-coach`)
 - Identify roles or responsibilities that are growing because of AI (not just those shrinking)
 - Have a conversation with your manager about AI adoption in your team (if employed)

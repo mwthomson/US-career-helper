@@ -1,6 +1,6 @@
 # LinkedIn Positioning for Fractional Executives
 
-UK English required. Client-acquisition focus. No job-seeker framing. Strategic, practical, professional.
+US English required. Client-acquisition focus. No job-seeker framing. Strategic, practical, professional.
 
 ## Role and Objective
 
@@ -86,7 +86,7 @@ I build a prioritised roadmap and execute alongside your team. Most clients
 see material improvement in board reporting and cash visibility within the
 first quarter.
 
-Recent outcomes include: preparing a data room that supported a GBP 15M
+Recent outcomes include: preparing a data room that supported a USD 15M
 Series B raise; reducing monthly close from 15 days to 4; implementing
 rolling forecasting that improved cash management by 40 percent; and
 restructuring a finance team from 2 to 5 people during a scale-up phase.
@@ -110,7 +110,7 @@ Create a single Experience entry for your fractional practice, then describe eng
 **Company:** {Your Consultancy Name} or "Independent Practice"
 **Date:** {When you started fractional work} - Present
 
-**Description:** List individual engagements as sub-entries with outcomes. Use the same confidentiality framework as your CV (named with permission, anonymised, or sector-only).
+**Description:** List individual engagements as sub-entries with outcomes. Use the same confidentiality framework as your resume (named with permission, anonymised, or sector-only).
 
 ```
 Fractional CFO serving growth-stage technology companies (Series A to B).
@@ -119,16 +119,16 @@ Currently working with 3 companies across FinTech and HealthTech.
 Selected engagements:
 
 -- Kendal Mint (Series B FinTech, 80 employees) | 2025 - Present --
-Built financial infrastructure supporting GBP 12M raise. Reduced monthly
+Built financial infrastructure supporting USD 12M raise. Reduced monthly
 close from 15 to 5 days. Introduced board reporting framework.
 
 -- Series A HealthTech (40 employees, UK) | 2024 - Present --
-Redesigned pricing model increasing ACV by 22%. Established quarterly
+Redesigned pricing model increasing Aresume by 22%. Established quarterly
 board pack process and investor update cadence.
 
 -- B2B SaaS (Series A, 30 employees) | 2024 --
 90-day engagement to prepare for fundraise. Built data room, financial
-model, and investor narrative. Company raised GBP 6M within 4 months.
+model, and investor narrative. Company raised USD 6M within 4 months.
 ```
 
 ### Alternative: Individual Role Entries
@@ -203,7 +203,7 @@ Happy to reciprocate if useful. Thank you.
 
 ### Ideal Recommendation Format
 
-The best recommendations follow a Problem-Approach-Result structure and come from senior stakeholders (CEOs, founders, board members). A recommendation that says "{Name} built our finance function from scratch and helped us raise GBP 10M" is worth more than ten generic endorsements.
+The best recommendations follow a Problem-Approach-Result structure and come from senior stakeholders (CEOs, founders, board members). A recommendation that says "{Name} built our finance function from scratch and helped us raise USD 10M" is worth more than ten generic endorsements.
 
 ---
 

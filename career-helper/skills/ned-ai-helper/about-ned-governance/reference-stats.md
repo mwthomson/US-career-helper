@@ -27,7 +27,7 @@ Evidence-based data for board discussions and challenge questions. Sources verif
 ### Wage Impact
 | Metric | Value | Source |
 |:-------|:-----:|:-------|
-| Median task labour cost | **$54** per AI conversation | Anthropic 2025 |
+| Median task labor cost | **$54** per AI conversation | Anthropic 2025 |
 | Higher-wage tasks correlation | **r=0.8** with task complexity | Anthropic 2025 |
 | Potential US productivity growth | **+1.8%** annually (doubling current rate) | Anthropic 2025 |
 
@@ -247,7 +247,7 @@ Source: [WEF Future of Jobs 2025](https://www.weforum.org/stories/2025/01/future
 
 | Barrier | % Citing | Trend | Source |
 |:--------|:--------:|:-----:|:-------|
-| **Skills gaps in labour market** | **63%** | ↑ from 60% (2023) | WEF 2025 |
+| **Skills gaps in labor market** | **63%** | ↑ from 60% (2023) | WEF 2025 |
 | **Organisational culture and resistance to change** | **46%** | New prominence | WEF 2025 |
 
 **Key insight:** The biggest barrier is not technology - it's people and culture.
@@ -283,7 +283,7 @@ Source: Microsoft "Becoming a Frontier Firm" 2024
 ### Critical Transformation Insight
 
 > "Redesigning with AI doesn't begin with technology. It begins with understanding how people actually work. You can't transform what you can't see."
-> — Katy George, CVP Workforce Transformation, Microsoft
+> — Katy George, resumeP Workforce Transformation, Microsoft
 
 > "This is not an IT transformation or a product launch - it's a business transformation. Business leaders must be clear about what objectives really matter."
 > — Microsoft Frontier Firm Guide

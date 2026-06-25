@@ -2,7 +2,7 @@
 
 Capability D of the personal-brand skill. Produces a coherent set of bios across LinkedIn About, X/Twitter, speaker bio, podcast guest bio, conference proposal bio, About page, email signature, and (where relevant) board bio.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 
@@ -39,7 +39,7 @@ If the foundation does not exist, do not invent one. Run a short version of Capa
 
 **Lead with proof, not adjectives.** The first sentence of any bio is the hardest. It must place the user (role, sector, signal of credibility) without reaching for "passionate" or "highly experienced". Use specific facts.
 
-**Audience first, not chronologically.** Bios are not CVs. The audience does not need the user's career in order; they need to know in three seconds whether this is the right person for them. Lead with the position; the chronology, if useful, is a supporting line.
+**Audience first, not chronologically.** Bios are not resumes. The audience does not need the user's career in order; they need to know in three seconds whether this is the right person for them. Lead with the position; the chronology, if useful, is a supporting line.
 
 **Same proof, different framing.** A two-exits founder appears as "two prior exits" in a one-line bio, "founded and exited two B2B SaaS businesses (placeholder, confirm names)" in a paragraph bio, and "founder, two exits in B2B SaaS, now working as fractional CTO" in a podcast bio. Same fact, different framing.
 

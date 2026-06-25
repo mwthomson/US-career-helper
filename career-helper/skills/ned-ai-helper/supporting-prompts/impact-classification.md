@@ -91,4 +91,4 @@ Use these to determine impact level:
 
 ---
 
-*Impact Classification Framework | NED AI Helper | Prosper AI Consulting, UK*
+*Impact Classification Framework | NED AI Helper | Prosper AI Consulting*

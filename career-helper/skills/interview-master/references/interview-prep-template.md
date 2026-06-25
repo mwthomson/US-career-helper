@@ -50,7 +50,7 @@
 {STAR or other structure recommendation}
 
 **Your Answer Framework:**
-- **Situation:** {Specific example from CV - Company X, Project Y, Time period}
+- **Situation:** {Specific example from resume - Company X, Project Y, Time period}
 - **Task:** {Your responsibility or challenge}
 - **Action:** {What you did - emphasize skills from JD}
 - **Result:** {Quantified outcome - tie to keywords}
@@ -60,7 +60,7 @@
 - {Keyword or concept from JD this addresses}
 
 **Evidence from Your Background:**
-{Specific bullet from CV line X or experience at Company Y}
+{Specific bullet from resume line X or experience at Company Y}
 
 ---
 
@@ -316,7 +316,7 @@ Based on gap analysis, proactively address:
 - [ ] Silence phone notifications
 
 **Materials Ready:**
-- [ ] CV printed (or visible on screen)
+- [ ] resume printed (or visible on screen)
 - [ ] Research brief printed
 - [ ] This interview prep printed
 - [ ] Questions for them written down

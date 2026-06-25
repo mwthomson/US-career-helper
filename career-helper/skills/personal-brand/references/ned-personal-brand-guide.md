@@ -2,7 +2,7 @@
 
 Persona reference for the personal-brand skill. Loads alongside the standard capability references when the user is positioning for board, NED, governor, or trustee work.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 
@@ -28,7 +28,7 @@ Board positioning has constraints that other personal-brand work does not:
 - **Reputation moves through endorsement, not virality.** Algorithm-driven reach matters less than the kind of post that ends up forwarded by email. Substance beats volume.
 - **Discretion is part of the credential.** Loud commentary on current employers, current boards, or live regulatory matters reads as poor judgement. The brand is built by what is not said as much as by what is said.
 - **Independence has to be visible.** Boards are looking for people who will challenge management without being captured. The brand needs to show independent thinking, including a track record of pushing back, without naming specific organisations or breaching duty.
-- **Diversity of experience matters more than depth in a single function.** Sector knowledge, regulatory awareness, audit chair experience, ESG, digital and AI fluency, transformation, M&A, crisis management. Boards select for what is missing on the current board, not for the most senior CV.
+- **Diversity of experience matters more than depth in a single function.** Sector knowledge, regulatory awareness, audit chair experience, ESG, digital and AI fluency, transformation, M&A, crisis management. Boards select for what is missing on the current board, not for the most senior resume.
 
 These constraints shape every block of the Why You, Why Them, Why Now framework.
 
@@ -95,7 +95,7 @@ Most board appointments do not come from broad social-media reach. They come fro
 - **Long-form writing in trusted publications.** Industry-specific pieces in titles read by the target sector (e.g., FT, Board Agenda, Charity Times, Governance and Compliance, sector-specific journals) carry more weight than LinkedIn posts.
 - **Selective speaking.** Conferences attended by chairs and head-hunters; panels on governance topics; targeted talks at sector roundtables. Quality over volume.
 - **A canonical About page.** Often the first thing a head-hunter sends a chair. It needs to be precise, current, and quietly confident.
-- **LinkedIn.** Useful, but with a different cadence than executive brand. Less frequent posting; more careful commenting on industry voices; an About section that reads as a board CV.
+- **LinkedIn.** Useful, but with a different cadence than executive brand. Less frequent posting; more careful commenting on industry voices; an About section that reads as a board resume.
 - **Twitter/X.** Use with caution. Reading is fine; commenting in real time on regulatory matters or current employers is high-risk. If used, lean toward sharing other people's substantive work and adding a single line of considered context.
 
 The audience map (Capability B) should weight relational channels and trusted publications above broad social.

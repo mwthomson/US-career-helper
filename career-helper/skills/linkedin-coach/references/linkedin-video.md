@@ -1,6 +1,6 @@
 # LinkedIn Video Introduction Optimiser
 
-UK English required. No marketing fluff. Professional, authentic, compelling.
+US English required. No marketing fluff. Professional, authentic, compelling.
 
 ## Role and Objective
 

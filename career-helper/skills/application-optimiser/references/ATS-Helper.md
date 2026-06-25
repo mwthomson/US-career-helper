@@ -1,6 +1,6 @@
-# CV ATS Optimisation Engine
+# resume ATS Optimisation Engine
 
-UK English required. No marketing fluff. No emojis. No rhetorical slogans. In the final CV deliverable (Step 9), use no tables that could break ATS parsing; analysis steps such as Step 3 may use tables for clarity. Follow all steps of this prompt in sequence exactly.
+US English required. No marketing fluff. No emojis. No rhetorical slogans. In the final resume deliverable (Step 9), use no tables that could break ATS parsing; analysis steps such as Step 3 may use tables for clarity. Follow all steps of this prompt in sequence exactly.
 
 **IMPORTANT**: this is a reasoning and research prompt, make maximum use of tools and think a lot.
 
@@ -13,10 +13,10 @@ Your objective is to rewrite the user's documents so they consistently reach hum
 
 ## Content Verification: Non-Negotiable
 
-**Before starting any step**, load `@verified-content-guardrails.md`. Every substantive word in the final CV must trace to a verified source:
+**Before starting any step**, load `@verified-content-guardrails.md`. Every substantive word in the final resume must trace to a verified source:
 
 1. **Master facts file** (if present in cwd): `master-facts.md`. If present, treat as authoritative. Template available at `@master-facts-template.md`.
-2. **The user's current CV.** Default-verified, unless something looks inconsistent.
+2. **The user's current resume.** Default-verified, unless something looks inconsistent.
 3. **Explicit conversation turns.** Facts the user has confirmed in chat.
 4. **Job description.** Source for target keywords only, never for candidate history.
 
@@ -35,7 +35,7 @@ If a bullet would need a detail you cannot cite, **flag and ask**. Never guess.
   </job_description>
 
   <user_cv>
-  [Paste the user's full CV here in plain text. If a master facts file is present, this is supplementary; the facts file wins on any conflict.]
+  [Paste the user's full resume here in plain text. If a master facts file is present, this is supplementary; the facts file wins on any conflict.]
   </user_cv>
 
   <user_linkedin>
@@ -51,7 +51,7 @@ If a bullet would need a detail you cannot cite, **flag and ask**. Never guess.
 
 - Use UK spelling throughout.
 - **Never invent experience, employers, dates, education, or certifications.** If data is missing, write [MISSING] and proceed. See `@verified-content-guardrails.md` for the full rule set, trigger phrases, and decision tree.
-- **Prefer the master facts file when present.** When both the master facts file and the current CV contain an entry for the same role, trust the master facts file.
+- **Prefer the master facts file when present.** When both the master facts file and the current resume contain an entry for the same role, trust the master facts file.
 - Optimise for ATS parsing. Use plain text headings, consistent date formats (MMM YYYY), and simple bullet points.
 - Maximise signal for three ranking modes:
   1. Keyword and boolean filters
@@ -60,7 +60,7 @@ If a bullet would need a detail you cannot cite, **flag and ask**. Never guess.
 - Saturate with exact terms from the job description where true to the user's verified history. Prefer exact phrasing over synonyms when both are valid, but only if the underlying experience is documented.
 - Each experience bullet follows the pattern: Action verb + Scope + Tool or Method + Metric + Outcome.
 - Quantify with numbers, percentages, time deltas, or frequencies. If a metric is unavailable in the source, add [METRIC PLACEHOLDER] for the user to fill. Do not estimate.
-- No graphics, tables, text boxes, or multi-column layouts in the CV output.
+- No graphics, tables, text boxes, or multi-column layouts in the resume output.
 - Keep section names conventional so parsers recognise them: Profile, Skills, Experience, Education, Certifications, Projects, Publications.
 
 ## Definitions and Parsing Constraints
@@ -82,7 +82,7 @@ This is a conditional multi-stage flow built around a fit gate at Step 1.
 - If fit is **Strong** or **Moderate**: continue straight through Steps 2 to 9 without pausing. Each step builds on the last; do not skip steps within Stage 2.
 - If fit is **Poor** or **Questionable**: stop after Step 1. Emit the literal marker `PAUSE_FOR_CONFIRMATION` on its own line, followed by a short prompt asking the user whether to proceed despite the fit concerns. Do not generate Steps 2 to 9 until the user responds with explicit confirmation. On confirmation, resume from Step 2 and run through to Step 9 without further pauses.
 
-Sections 2 to 8 are analysis. Section 9 is the final CV rewrite plus LinkedIn reconciliation.
+Sections 2 to 8 are analysis. Section 9 is the final resume rewrite plus LinkedIn reconciliation.
 
 <Step_1_Output>
 ### 1. Career Fit Assessment
@@ -162,7 +162,7 @@ Based on Steps 1 to 5, recommend specific bullet selections, emphasis area choic
 - Which bullets from the source should feature prominently?
 - Which should be de-emphasised or cut for this role?
 - Is there a re-ordering that better tells the story for this job?
-- Are there any verified facts that aren't currently on the CV but should be?
+- Are there any verified facts that aren't currently on the resume but should be?
 
 **Content integrity requirements:**
 - Keep resume under 2 pages total.
@@ -180,7 +180,7 @@ Identify experience gaps based on the user's documented background versus the jo
 For each gap:
 - How significant is it for this specific role?
 - Is there a verified adjacent experience that can be repositioned?
-- Is there something the user should mention in a cover letter or interview rather than the CV?
+- Is there something the user should mention in a cover letter or interview rather than the resume?
 - Should the user reconsider whether to apply?
 
 Do not invent experience to close a gap. Flag gaps honestly.
@@ -200,11 +200,11 @@ If you don't see any red flags in the JD, don't invent any. But if you do, share
 </Step_8_Output>
 
 <Step_9_Output>
-### 9. Optimised CV Rewrite and LinkedIn Reconciliation
+### 9. Optimised resume Rewrite and LinkedIn Reconciliation
 
 Using Steps 1 to 8, produce the final deliverables.
 
-#### 9a. Optimised CV
+#### 9a. Optimised resume
 
 PROFILE
 A 3- to 5-line summary aligned to the target title, integrating the highest-value keywords from Step 4 and 1 to 2 core concepts. Use only verified phrasing; avoid generic marketing language like "multi-disciplinary", "high-growth environments", or "strategic leader" unless those exact words appear in the source.
@@ -240,10 +240,10 @@ PUBLICATIONS or TALKS (optional if relevant)
 - Title | Venue | Year
 
 **Keyword Coverage Check**
-List each item from [Keyword_List] and confirm where it appears in the CV. Mark [GAP] if not present and propose a verified bullet or skill line to cover it, or flag for user clarification if no verified evidence exists.
+List each item from [Keyword_List] and confirm where it appears in the resume. Mark [GAP] if not present and propose a verified bullet or skill line to cover it, or flag for user clarification if no verified evidence exists.
 
 **Semantic Intent Alignment**
-Map each item from [Concept_List] to one or two CV bullets or sections that demonstrate it.
+Map each item from [Concept_List] to one or two resume bullets or sections that demonstrate it.
 
 **ATS Safety Checks**
 - Date format consistent: yes or no
@@ -253,13 +253,13 @@ Map each item from [Concept_List] to one or two CV bullets or sections that demo
 
 #### 9b. LinkedIn Profile Optimisation (RSC API reconciliation)
 
-To pass the bimodal check across CV upload and API sync, update LinkedIn as follows.
+To pass the bimodal check across resume upload and API sync, update LinkedIn as follows.
 
 1. **Headline**
 Provide a 220-character headline that includes target title, core domain, and two high-value keywords from Step 4.
 
 2. **About section**
-Provide 3 short paragraphs that mirror the Profile and top achievements. Include 3 quantified impact lines with the same phrasing as the CV.
+Provide 3 short paragraphs that mirror the Profile and top achievements. Include 3 quantified impact lines with the same phrasing as the resume.
 
 3. **Skills section**
 The RSC API exports only the top three skills. Reorder so the top three are:
@@ -268,13 +268,13 @@ The RSC API exports only the top three skills. Reorder so the top three are:
    3. [Skill 3 from Keyword_List]
 
 4. **Experience section**
-The RSC API exports only the two most recent roles. Provide bullet points identical to the highest-impact quantified bullets from the CV. Maintain the same order and phrasing; string consistency matters for the API check.
+The RSC API exports only the two most recent roles. Provide bullet points identical to the highest-impact quantified bullets from the resume. Maintain the same order and phrasing; string consistency matters for the API check.
 
 5. **Featured section (optional)**
 Add one case study or portfolio link that reinforces one high-impact concept from [Concept_List].
 
 **API Consistency Check**
-Confirm exact string matches between LinkedIn and CV for employer names, job titles, and dates for the two most recent roles.
+Confirm exact string matches between LinkedIn and resume for employer names, job titles, and dates for the two most recent roles.
 </Step_9_Output>
 
 ---
@@ -293,12 +293,12 @@ The set of required section tags depends on which stage the conditional flow rea
 
 Two distinct thresholds apply to keyword coverage. They are not interchangeable:
 
-- **Aspirational target (this skill):** 90 percent of [Keyword_List] represented in Skills or Experience. This is what a strong CV rewrite aims for when verified evidence supports it.
-- **Minimum acceptance gate (`@reflect-validate.md`):** 70 percent. Below this, validation marks the CV as NEEDS_IMPROVEMENT and refines before presenting to the user.
+- **Aspirational target (this skill):** 90 percent of [Keyword_List] represented in Skills or Experience. This is what a strong resume rewrite aims for when verified evidence supports it.
+- **Minimum acceptance gate (`@reflect-validate.md`):** 70 percent. Below this, validation marks the resume as NEEDS_IMPROVEMENT and refines before presenting to the user.
 
 Coverage between 70 and 90 percent passes validation but should still be improved if the source contains verified evidence to support more keywords. Coverage below 70 percent is never delivered.
 
-- **Verification:** every substantive word in the final CV traces to the master facts file, the user's current CV, or explicit conversation confirmation. No exceptions.
+- **Verification:** every substantive word in the final resume traces to the master facts file, the user's current resume, or explicit conversation confirmation. No exceptions.
 - **Coverage (aspirational):** at least 90 percent of [Keyword_List] represented in Skills or Experience.
 - **Coverage (minimum gate):** at least 70 percent. Below this, refine before delivery.
 - **Quantification:** at least 70 percent of bullets include a concrete metric or frequency.
@@ -307,7 +307,7 @@ Coverage between 70 and 90 percent passes validation but should still be improve
 
 ## Final Verification Before Delivery
 
-Before presenting the CV, run the Hallucination Red Flags scan from `@verified-content-guardrails.md`. If any red flag appears in your own output, either remove it or verify it with the user before delivering.
+Before presenting the resume, run the Hallucination Red Flags scan from `@verified-content-guardrails.md`. If any red flag appears in your own output, either remove it or verify it with the user before delivering.
 
 <Final_Instruction>
 Execute this plan. Begin with `<Step_1_Output>`. Do not add conversational fluff. Your tone is that of a technical expert delivering a report.

@@ -96,7 +96,7 @@ For each platform:
 - Complaints about employers, colleagues, or clients
 - Anything sexually explicit
 - Aggressive arguments or confrontational threads
-- Content that contradicts your CV or professional claims
+- Content that contradicts your resume or professional claims
 
 **What to Archive/Hide (Not Delete):**
 - Party photos that are just a bit much

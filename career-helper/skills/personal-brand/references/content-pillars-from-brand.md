@@ -2,7 +2,7 @@
 
 Capability C of the personal-brand skill. Translates the foundation (Why You, Why Them, Why Now) into three to five content pillars, a topic seedlist, and a sustainable cadence.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 

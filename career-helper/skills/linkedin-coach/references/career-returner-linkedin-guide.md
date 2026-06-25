@@ -1,6 +1,6 @@
 # Career Returner LinkedIn Optimisation Guide
 
-UK English required. No marketing fluff. No emojis. Strategic, practical tone throughout.
+US English required. No marketing fluff. No emojis. Strategic, practical tone throughout.
 This guide equips Claude to help career returners optimise their LinkedIn presence for re-entry.
 
 ## Role and Objective
@@ -34,7 +34,7 @@ Company: Self-Directed
 Dates: Mar 2022 - Nov 2024
 Description: Planned career break for family commitments. During this period:
 - Completed Google Project Management Certificate (2023)
-- Volunteered as Treasurer for [local charity], managing GBP 40,000 annual budget
+- Volunteered as Treasurer for [local charity], managing USD 40,000 annual budget
 - Maintained professional development through CPD courses in [field]
 - Attended [industry conference] (2023, 2024)
 Now actively returning to [field/function].
@@ -128,7 +128,7 @@ The About section is where you tell your professional story. For career returner
 **Part 1 - Past Success (3-4 sentences)**
 Establish your professional credibility. Lead with your strongest achievements and total experience.
 
-> "With over 15 years' experience in financial services operations, I have led teams of up to 50 people, managed budgets exceeding GBP 20M, and delivered transformation programmes that reduced processing times by 40%. My career has spanned [Company A], [Company B], and [Company C], where I consistently delivered measurable improvements in efficiency and client satisfaction."
+> "With over 15 years' experience in financial services operations, I have led teams of up to 50 people, managed budgets exceeding USD 20M, and delivered transformation programmes that reduced processing times by 40%. My career has spanned [Company A], [Company B], and [Company C], where I consistently delivered measurable improvements in efficiency and client satisfaction."
 
 **Part 2 - Brief Acknowledgement (1-2 sentences)**
 Address the break factually and without apology. One or two sentences maximum.
@@ -248,22 +248,22 @@ These content topics are specifically designed for career returners to share, de
 
 ## Scenario-Specific LinkedIn Tips
 
-### Redundancy
+### Layoff
 
 **Critical rule: No public venting.**
 
 | Do | Do Not |
 |----|--------|
-| Update your profile promptly and professionally | Post emotional reactions to the redundancy |
+| Update your profile promptly and professionally | Post emotional reactions to the layoff |
 | Announce your availability positively: "I'm excited to share that I'm exploring new opportunities in [field]" | Criticise your former employer publicly |
-| Thank former colleagues publicly (if genuine) | Share details of the redundancy process or settlement |
+| Thank former colleagues publicly (if genuine) | Share details of the layoff process or settlement |
 | Activate Open to Work within the first week | Wait weeks or months to update your profile |
 | Connect with former colleagues before they move on | Engage with negative posts about your former employer |
 
 **Example availability announcement:**
 > "After [X] rewarding years at [Company], I'm now exploring new opportunities in [field/function]. I'm proud of what we achieved, including [brief achievement]. I'm particularly interested in roles involving [target area] and would welcome conversations with anyone in [sector/function]. Please feel free to connect or pass along my details."
 
-**Timing:** Post your announcement within 5-7 days of the redundancy becoming public. This controls the narrative. If you wait too long, others may share the news in ways you cannot control.
+**Timing:** Post your announcement within 5-7 days of the layoff becoming public. This controls the narrative. If you wait too long, others may share the news in ways you cannot control.
 
 ### Parental Leave
 
@@ -281,7 +281,7 @@ These content topics are specifically designed for career returners to share, de
 
 ### Illness or Health-Related Break
 
-**Minimal disclosure applies online just as it does on a CV and in interviews.**
+**Minimal disclosure applies online just as it does on a resume and in interviews.**
 
 - Do not mention specific conditions, treatments, or health details on LinkedIn.
 - A Career Break entry with "Personal leave" or "Personal matter, now resolved" is sufficient.
@@ -322,7 +322,7 @@ Before activating Open to Work or beginning outreach, ensure:
 - [ ] About section tells a compelling narrative with clear forward direction
 - [ ] Activity strategy is phased and realistic
 - [ ] Scenario-specific advice is appropriate and sensitive
-- [ ] All advice uses UK English and references UK context where relevant
+- [ ] All advice uses US English and references US context where relevant
 - [ ] No advice suggests dishonesty, fabrication, or misleading presentation
 - [ ] Content strategy builds gradually from low-risk to higher-visibility activities
 - [ ] Profile is optimised for both recruiter search and human reading

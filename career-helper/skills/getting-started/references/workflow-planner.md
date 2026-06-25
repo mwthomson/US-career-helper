@@ -40,7 +40,7 @@ Ask using AskUserQuestion tool:
 
 ```
 Step 0: /employer-footprint (Full Footprint Analysis) [OPTIONAL]
-        Input: Name + social handles + CV + target company
+        Input: Name + social handles + resume + target company
         Output: {name}-footprint-dashboard.md
         Why first: Know what employers will find before you apply
             ↓
@@ -49,18 +49,18 @@ Step 1: /application-optimiser (Company Research)
         Output: {role}-research-brief.md
         Why first: Everything else builds on understanding the company
             ↓
-Step 2: /application-optimiser (CV Optimisation)
-        Input: CV + job description + research brief
+Step 2: /application-optimiser (resume Optimisation)
+        Input: resume + job description + research brief
         Output: {role}-cv-optimized.md
         Why second: Research insights inform how you position yourself
             ↓
 Step 3: /linkedin-coach (Profile Audit)
         Input: LinkedIn URL + career goals
         Output: {role}-linkedin-profile-review.md
-        Why third: LinkedIn should align with your optimised CV
+        Why third: LinkedIn should align with your optimised resume
             ↓
 Step 4: /interview-master (Interview Preparation)
-        Input: CV + JD + research brief
+        Input: resume + JD + research brief
         Output: {role}-interview-prep.md
         Why fourth: Best prep uses all previous research
             ↓
@@ -78,12 +78,12 @@ Step 5: /interview-master (Mock Interview)
 
 ```
 Step 1: /interview-master (Interview Preparation)
-        Input: CV + job description + company name
+        Input: resume + job description + company name
         Output: {role}-interview-prep.md
         Why first: Most urgent need
             ↓
 Step 2: /interview-master (Interviewer's Perspective)
-        Input: Job description + CV
+        Input: Job description + resume
         Output: {role}-interviewer-perspective.md
         Why second: Understand what they're really assessing
             ↓
@@ -101,7 +101,7 @@ Step 3: /interview-master (Mock Interview)
 
 ```
 Step 0: /employer-footprint (Full Footprint Analysis) [RECOMMENDED]
-        Input: Name + social handles + CV
+        Input: Name + social handles + resume
         Output: {name}-footprint-dashboard.md
         Why first: Understand your digital presence before employers see it
             ↓
@@ -166,8 +166,8 @@ Step 1: /career-transitions (Non-Linear Career Explorer)
             ↓
 Step 2: Based on chosen direction:
         - Entrepreneurship/Startup → /career-transitions (Portfolio/Fractional) for financial modelling
-        - Public sector → /application-optimiser (CV for Success Profiles framework)
-        - Charity/Non-profit → /application-optimiser (CV for sector) + /linkedin-coach (repositioning)
+        - Public sector → /application-optimiser (resume for Success Profiles framework)
+        - Charity/Non-profit → /application-optimiser (resume for sector) + /linkedin-coach (repositioning)
         - Intrapreneurship → /linkedin-coach (internal visibility) + stay in current role
         - Multi-role/Skill stacking → /career-navigator (3-Month Plan with non-linear goals)
         - Still deciding → /career-navigator (3-Month exploration plan)
@@ -191,7 +191,7 @@ Step 4: /career-navigator (3-Month Plan)
 
 ```
 Step 1: /interview-master (Post-Interview Coaching)
-        Input: CV + JD + what you remember + any feedback
+        Input: resume + JD + what you remember + any feedback
         Output: {role}-post-interview-debrief.md
         Why first: Diagnose before prescribing
             ↓
@@ -291,14 +291,14 @@ Based on your situation, here's my recommended approach:
 
 1. Company Research (/application-optimiser)
    → Produces: research-brief.md
-   → Feeds into: CV optimisation and interview prep
+   → Feeds into: resume optimisation and interview prep
 
-2. CV Optimisation (/application-optimiser)
-   → Needs: research brief + your CV + job description
+2. resume Optimisation (/application-optimiser)
+   → Needs: research brief + your resume + job description
    → Produces: cv-optimized.md
 
 3. Interview Preparation (/interview-master)
-   → Needs: research brief + optimised CV + job description
+   → Needs: research brief + optimised resume + job description
    → Produces: interview-prep.md
 
 Shall I start with Step 1?

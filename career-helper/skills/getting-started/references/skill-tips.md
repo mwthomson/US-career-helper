@@ -28,33 +28,33 @@ Practical guidance for getting the best results from each career-helper skill. F
 ### Input Quality
 
 - **Job description:** Paste the complete text. The ATS keyword extraction analyses every line. A summary loses critical keywords that could be the difference between passing and failing automated screening.
-- **CV format:** Plain text or PDF. Avoid image-based CVs or scanned documents - the text needs to be readable.
-- **Multiple roles:** If applying to similar roles at different companies, run company research separately for each but you can reuse and adapt the optimised CV.
+- **resume format:** Plain text or PDF. Avoid image-based resumes or scanned documents - the text needs to be readable.
+- **Multiple roles:** If applying to similar roles at different companies, run company research separately for each but you can reuse and adapt the optimised resume.
 
 ### Common Mistakes
 
-- **Submitting a generic CV and expecting magic.** The skill optimises for a specific JD. A CV optimised for "Marketing Manager at Greenfield & Co" will not work well for "Head of Fundraising at Macmillan".
-- **Ignoring the keyword coverage score.** If coverage is below 70%, the CV may not pass ATS filters. Review the analysis and add missing keywords where you genuinely have the experience.
-- **Skipping company research.** The research brief reveals what the company actually values, which should influence how you frame achievements in your CV.
+- **Submitting a generic resume and expecting magic.** The skill optimises for a specific JD. A resume optimised for "Marketing Manager at Greenfield & Co" will not work well for "Head of Fundraising at Macmillan".
+- **Ignoring the keyword coverage score.** If coverage is below 70%, the resume may not pass ATS filters. Review the analysis and add missing keywords where you genuinely have the experience.
+- **Skipping company research.** The research brief reveals what the company actually values, which should influence how you frame achievements in your resume.
 
 ### Iteration Strategy
 
-After receiving your optimised CV:
+After receiving your optimised resume:
 1. Check the keyword coverage analysis - are there genuine gaps?
 2. Ask: "Can you strengthen the [specific section] to better address [specific JD requirement]?"
-3. If you have additional experience not in your original CV, mention it - the skill will incorporate it
+3. If you have additional experience not in your original resume, mention it - the skill will incorporate it
 
 ### Cover Letters and Supporting Statements
 
 - **Tell the skill which format the application wants.** A full cover letter, a competency-based supporting statement (public sector, charity, NHS, academia), and a short email message are structured differently. Confirming this first saves a rewrite.
 - **Bring your own reason for wanting the role.** The skill will not invent your motivation. "Why does this organisation interest you?" is a question you need to answer; a specific, true reason is worth more than anything generated.
 - **Run company research first.** A cover letter that names something concrete about the organisation lands far better than generic flattery. The research brief gives the skill that material.
-- **Use it to address what the CV cannot:** an overqualification concern, a career change, or a gap. This is the right place for one honest sentence of context.
+- **Use it to address what the resume cannot:** an overqualification concern, a career change, or a gap. This is the right place for one honest sentence of context.
 
 ### What Feeds Into What
 
 ```text
-Company Research → CV Optimisation → Cover Letter → Application Strategy
+Company Research → resume Optimisation → Cover Letter → Application Strategy
        ↓                  ↓
 Interview Prep    LinkedIn Updates
 ```
@@ -87,7 +87,7 @@ Interview Prep    LinkedIn Updates
 ```
 Profile Audit → Content Strategy → Content Calendar
       ↕
-CV Optimisation (sync LinkedIn with CV)
+resume Optimisation (sync LinkedIn with resume)
 ```
 
 ---
@@ -143,7 +143,7 @@ Company Research → Interview Preparation → Mock Interview
 - **For 3-month plans:** Be honest about your constraints. A plan built on "I can spend 8 hours a day job searching" when you are still employed full-time will not work. Realistic constraints produce realistic plans.
 - **For networking:** Provide your background and the specific company/role. Generic "help me network" produces generic advice.
 - **For salary negotiation:** Share the actual offer numbers, your region, and any competing offers. Vague inputs produce vague guidance.
-- **For offer evaluation:** Include ALL compensation components (base, bonus, equity, pension, benefits, perks). Missing components skew the comparison.
+- **For offer evaluation:** Include ALL compensation components (base, bonus, equity, 401(k) match, benefits, perks). Missing components skew the comparison.
 
 ### Common Mistakes
 
@@ -168,7 +168,7 @@ Company Research → Interview Preparation → Mock Interview
 - **Capture close to the event.** A debrief written the same day is honest; one written a week later drifts into fiction. Run it as soon as you finish an interview or hear a decision.
 - **Keep notes and synthesis separate.** Individual debriefs, rejections, and wins are raw input under `applications/learnings/`; `patterns.md` is the considered output. Synthesise periodically (a rough guide: every three to five new notes), not after every application.
 - **Never invent a reason.** Record what was said and your honest read on the likely real reason as two separate things. Mark guesses as guesses; a fabricated rejection reason is worse than "no feedback given".
-- **Let it drive the fixes.** A recurring objection feeds `/interview-master`; a gap your CV keeps underselling feeds `/application-optimiser`. `/career-helper:status` surfaces the most useful current pattern.
+- **Let it drive the fixes.** A recurring objection feeds `/interview-master`; a gap your resume keeps underselling feeds `/application-optimiser`. `/career-helper:status` surfaces the most useful current pattern.
 
 ### What Feeds Into What
 
@@ -212,7 +212,7 @@ Non-Linear Career Explorer → Portfolio/Fractional Strategy (if chosen)
 Non-Linear Career Explorer → 3-Month Plan (transition plan)
 Non-Linear Career Explorer → LinkedIn Repositioning → Application Optimiser
 Portfolio/Fractional Strategy → LinkedIn Repositioning → 3-Month Plan
-AI Readiness Assessment → CV Updates → Interview Prep (for AI questions)
+AI Readiness Assessment → resume Updates → Interview Prep (for AI questions)
 ```
 
 ---
@@ -223,7 +223,7 @@ AI Readiness Assessment → CV Updates → Interview Prep (for AI questions)
 
 - **Social media handles:** Share ALL your social handles - LinkedIn, GitHub, Twitter/X, personal website, Medium, YouTube, Stack Overflow, and anything else professional. The more you provide, the more comprehensive the audit. If you use the same handle everywhere, say so.
 - **Target company:** If you have a specific company in mind, always provide it. The skill maps your digital presence against their stated values for a much more targeted report.
-- **CV:** Provide your full CV. The skill cross-references it against your online presence for consistency checks.
+- **resume:** Provide your full resume. The skill cross-references it against your online presence for consistency checks.
 - **Concerns:** If there's something specific you're worried about employers finding, mention it. The analysis will pay extra attention to that area.
 
 ### Common Mistakes
@@ -236,14 +236,14 @@ AI Readiness Assessment → CV Updates → Interview Prep (for AI questions)
 
 1. Run a full footprint analysis before starting your job search
 2. Address the highest-priority issues (RED scores first, then AMBER)
-3. Use /linkedin-coach to fix LinkedIn issues and /application-optimiser to align your CV
+3. Use /linkedin-coach to fix LinkedIn issues and /application-optimiser to align your resume
 4. Re-run the audit after making changes to verify improvement
 
 ### What Feeds Into What
 
 ```
 Footprint Dashboard → LinkedIn Coach (fix profile issues)
-                    → Application Optimiser (align CV with online presence)
+                    → Application Optimiser (align resume with online presence)
                     → Interview Master (prep for footprint-based questions)
 Employer Impression → Application Optimiser (company-specific positioning)
                     → Interview Master (company-specific interview prep)

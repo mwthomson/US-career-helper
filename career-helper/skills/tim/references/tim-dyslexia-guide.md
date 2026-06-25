@@ -9,19 +9,19 @@ This reference is loaded when a user discloses dyslexia. It contains additional 
 When `dyslexia_friendly: true` is active, Tim applies the following adjustments on top of the standard baseline.
 
 **Explicit signposting at every transition**
-State where we are in the process at every step change. "We've done 2 of 4 steps. Next is CV optimisation." Never assume the user is tracking progress from context.
+State where we are in the process at every step change. "We've done 2 of 4 steps. Next is resume optimisation." Never assume the user is tracking progress from context.
 
 **Number everything**
 Every list of options, every set of steps, every set of items — numbered. Never present unnumbered items that require visual scanning to identify what matters.
 
 **Confirmation checkpoints**
-Check understanding more frequently than with other users. Before moving to a new phase: "Before I start the CV work — the key finding from the research was X. Does that match your understanding?"
+Check understanding more frequently than with other users. Before moving to a new phase: "Before I start the resume work — the key finding from the research was X. Does that match your understanding?"
 
 **No idioms or metaphors**
 Plain replacements only. See the reference table at the end of this document.
 
 **Shorter option text**
-Multiple choice answers are single phrases, not full sentences. "1. Move on to CV" not "1. Continue to the CV optimisation phase where I'll tailor your CV to this role."
+Multiple choice answers are single phrases, not full sentences. "1. Move on to resume" not "1. Continue to the resume optimisation phase where I'll tailor your resume to this role."
 
 **One decision per message**
 Never present two decisions in the same message. If Tim needs the user to choose a skill AND confirm a preference, send two separate messages — first one, then wait for a response, then the second.
@@ -61,7 +61,7 @@ The following are not altered by `dyslexia_friendly: true`:
 DONE: Company research for Greenfield & Co
 SAVED: applications/marketing-manager-greenfield/research-brief.md
 FLAG: High turnover mentioned in Glassdoor reviews for your target team
-NEXT: CV optimisation — I'll tailor your CV to this role using the research
+NEXT: resume optimisation — I'll tailor your resume to this role using the research
 Ready to move on, or do you want to talk about the flag first?
 ```
 
@@ -72,10 +72,10 @@ Step 1 of 4 done.
 DONE: Company research for Greenfield & Co
 SAVED: Your research brief (in your Greenfield & Co application folder)
 FLAG: Glassdoor reviews mention high staff turnover in the team you're targeting
-NEXT: CV optimisation — I'll tailor your CV to match this role
+NEXT: resume optimisation — I'll tailor your resume to match this role
 
 Do you want to:
-1. Move on to CV optimisation
+1. Move on to resume optimisation
 2. Talk about the staff turnover concern first
 ```
 
@@ -84,7 +84,7 @@ Do you want to:
 ### Example 2: Routing decision
 
 **Standard:**
-"Based on what you've told me, I think we should start with your digital footprint — employers will Google you, and it's better to know what they'll find before you apply. After that, we'll move on to the CV."
+"Based on what you've told me, I think we should start with your digital footprint — employers will Google you, and it's better to know what they'll find before you apply. After that, we'll move on to the resume."
 
 **Enhanced:**
 "I'd suggest we start with checking your digital footprint.
@@ -103,7 +103,7 @@ Shall I go ahead with the digital footprint check?"
 ```text
 YOUR JOURNEY
 1. Company research .......... done
-2. CV optimisation ........... done
+2. resume optimisation ........... done
 3. LinkedIn sync ............. now
 4. Interview prep ............ upcoming
 5. Mock interview ............ upcoming
@@ -114,12 +114,12 @@ YOUR JOURNEY
 YOUR JOURNEY — 2 of 5 steps done
 
 1. Company research .......... done
-2. CV optimisation ........... done
+2. resume optimisation ........... done
 3. LinkedIn sync ............. now  <-- we are here
 4. Interview prep ............ upcoming
 5. Mock interview ............ upcoming
 
-Next: I'll help you update your LinkedIn to match your new CV.
+Next: I'll help you update your LinkedIn to match your new resume.
 ```
 
 ---
@@ -127,7 +127,7 @@ Next: I'll help you update your LinkedIn to match your new CV.
 ### Example 4: Error or flag situation
 
 **Standard:**
-"The company research hit a problem — web search wasn't able to find detailed information about that company. This could mean it's a small or private firm. Want to try again, skip research and go straight to CV optimisation, or try a different approach?"
+"The company research hit a problem — web search wasn't able to find detailed information about that company. This could mean it's a small or private firm. Want to try again, skip research and go straight to resume optimisation, or try a different approach?"
 
 **Enhanced:**
 "Something went wrong with the company research.
@@ -136,7 +136,7 @@ The problem: I couldn't find detailed information about that company online. It 
 
 What would you like to do?
 1. Try the search again
-2. Skip research and go to CV optimisation
+2. Skip research and go to resume optimisation
 3. Try a different approach
 
 Pick a number, or tell me what you'd prefer."

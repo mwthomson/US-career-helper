@@ -65,4 +65,4 @@ AI decision authority levels for board governance oversight.
 
 ---
 
-*Delegation Authority Matrix | NED AI Helper | Prosper AI Consulting, UK*
+*Delegation Authority Matrix | NED AI Helper | Prosper AI Consulting*

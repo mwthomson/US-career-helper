@@ -8,7 +8,7 @@
 
 ## Critical: RSC API Consistency
 
-Many ATS systems pull LinkedIn data via the Recruiter System Connect (RSC) API. This API exports limited fields, so consistency between your CV and LinkedIn is critical.
+Many ATS systems pull LinkedIn data via the Recruiter System Connect (RSC) API. This API exports limited fields, so consistency between your resume and LinkedIn is critical.
 
 **Fields Exported by RSC API:**
 - Headline
@@ -16,7 +16,7 @@ Many ATS systems pull LinkedIn data via the Recruiter System Connect (RSC) API. 
 - About section
 - Two most recent experience entries only
 
-**Action Required:** Update these fields first to match your optimized CV exactly.
+**Action Required:** Update these fields first to match your optimized resume exactly.
 
 ---
 
@@ -46,13 +46,13 @@ Many ATS systems pull LinkedIn data via the Recruiter System Connect (RSC) API. 
 
 **Recommended About:**
 
-{Paragraph 1: Professional summary that mirrors CV Profile section, 2-3 sentences}
+{Paragraph 1: Professional summary that mirrors resume Profile section, 2-3 sentences}
 
-{Paragraph 2: Key achievements with quantified impact, 3-4 sentences. Include same phrasing as CV bullets}
+{Paragraph 2: Key achievements with quantified impact, 3-4 sentences. Include same phrasing as resume bullets}
 
 {Paragraph 3: Current focus and what you bring to target roles, 2-3 sentences}
 
-**Quantified Impact Lines (must match CV exactly):**
+**Quantified Impact Lines (must match resume exactly):**
 - {Impact statement 1 with metric}
 - {Impact statement 2 with metric}
 - {Impact statement 3 with metric}
@@ -87,24 +87,24 @@ Many ATS systems pull LinkedIn data via the Recruiter System Connect (RSC) API. 
 
 ## 4. Experience Section - Two Most Recent Roles
 
-The RSC API exports only your two most recent positions. These MUST match your CV exactly.
+The RSC API exports only your two most recent positions. These MUST match your resume exactly.
 
 ### {Most Recent Company} | {Job Title}
 **Dates:** {Month YYYY} - {Present or Month YYYY}
 
-**Bullet Points (must match CV exactly):**
-- {Bullet 1 - copy from optimized CV}
-- {Bullet 2 - copy from optimized CV}
-- {Bullet 3 - copy from optimized CV}
-- {Bullet 4 - copy from optimized CV}
+**Bullet Points (must match resume exactly):**
+- {Bullet 1 - copy from optimized resume}
+- {Bullet 2 - copy from optimized resume}
+- {Bullet 3 - copy from optimized resume}
+- {Bullet 4 - copy from optimized resume}
 
 ### {Second Most Recent Company} | {Job Title}
 **Dates:** {Month YYYY} - {Month YYYY}
 
-**Bullet Points (must match CV exactly):**
-- {Bullet 1 - copy from optimized CV}
-- {Bullet 2 - copy from optimized CV}
-- {Bullet 3 - copy from optimized CV}
+**Bullet Points (must match resume exactly):**
+- {Bullet 1 - copy from optimized resume}
+- {Bullet 2 - copy from optimized resume}
+- {Bullet 3 - copy from optimized resume}
 
 ---
 
@@ -122,7 +122,7 @@ Add one piece of content that reinforces a high-impact concept from your target 
 
 ## API Consistency Verification Checklist
 
-Before applying, verify exact matches between LinkedIn and CV:
+Before applying, verify exact matches between LinkedIn and resume:
 
 **Employer Names:**
 - [ ] Most recent employer name matches exactly
@@ -142,7 +142,7 @@ Before applying, verify exact matches between LinkedIn and CV:
 
 **Skills:**
 - [ ] Top 3 skills are highest-value keywords
-- [ ] All key skills from CV are present in LinkedIn skills list
+- [ ] All key skills from resume are present in LinkedIn skills list
 
 ---
 
@@ -214,8 +214,8 @@ Before applying, verify exact matches between LinkedIn and CV:
 ## Maintenance Reminders
 
 **Keep Updated:**
-- CV and LinkedIn must remain synchronized
-- Any changes to CV require matching LinkedIn updates
+- resume and LinkedIn must remain synchronized
+- Any changes to resume require matching LinkedIn updates
 - Review and refresh every 3-6 months even if not actively job hunting
 
 **Monitor Engagement:**

@@ -40,7 +40,7 @@ Record where each substantive claim came from. Remove this section before the us
 
 | Claim in letter | Source | Location |
 |:----------------|:-------|:---------|
-| {{Claim}} | {{CV / master facts / research brief / conversation}} | {{Section or turn}} |
+| {{Claim}} | {{resume / master facts / research brief / conversation}} | {{Section or turn}} |
 | {{Claim}} | {{Source}} | {{Location}} |
 
 **Flagged for clarification:**

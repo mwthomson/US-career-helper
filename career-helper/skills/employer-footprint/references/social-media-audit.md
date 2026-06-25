@@ -57,7 +57,7 @@ Before starting, confirm which platforms to audit:
 - 7-8: Professional and complete. Minor optimisation opportunities
 - 5-6: Basic profile. Missing key elements (about section, recommendations, activity)
 - 3-4: Incomplete. Minimal information, no activity, looks abandoned
-- 1-2: Damaging. Inconsistencies with CV, unprofessional content, or essentially empty
+- 1-2: Damaging. Inconsistencies with resume, unprofessional content, or essentially empty
 
 ---
 

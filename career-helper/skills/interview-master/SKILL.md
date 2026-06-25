@@ -48,7 +48,7 @@ These rules apply to **all communication with the user** and to the **formatting
 
 ## 1. Interview Preparation
 
-**What you need:** CV + job description + company name + interview stage
+**What you need:** resume + job description + company name + interview stage
 **Load:** @references/interview-prep.md
 **Template:** @references/interview-prep-template.md
 
@@ -73,7 +73,7 @@ All answers cite your real experience with evidence.
 
 ## 2. Interviewer's Perspective Report
 
-**What you need:** Job description + CV (optional but helpful)
+**What you need:** Job description + resume (optional but helpful)
 **Load:** @references/interviewer-perspective-guide.md
 **Template:** @references/interviewer-perspective-template.md
 
@@ -114,7 +114,7 @@ Realistic interview practice:
 
 ## 4. Post-Interview Coaching & Recovery
 
-**What you need:** CV + job description + interview recollection + any feedback received
+**What you need:** resume + job description + interview recollection + any feedback received
 **Load:** @references/post-interview-coaching.md
 **Template:** @references/post-interview-debrief-template.md
 
@@ -134,13 +134,13 @@ Realistic interview practice:
 **Wellbeing & Resilience:**
 - Calibrated to rejection severity
 - Normalises rejection with data (6-10 rejections average before offer)
-- "What's Still True" evidence anchor from CV
+- "What's Still True" evidence anchor from resume
 - Pattern tracking across multiple rejections
 
 **Output:** `applications/{role-slug}/post-interview-debrief.md`
 
 **Suggested next steps:**
-- Skill gap? "Want me to help update your CV to address this?"
+- Skill gap? "Want me to help update your resume to address this?"
 - Signal gap? "Shall we refine your interview prep stories?"
 - Fit/timing? "Let's identify similar roles at competitor companies"
 
@@ -171,7 +171,7 @@ All referee details come from you; nothing is invented. Briefs match verified sh
 
 ## Application Folder
 
-All role-specific outputs are saved in `applications/{role-slug}/`. When running any capability for a role, check if the folder exists first using Glob. If it doesn't, create it when saving the first output. If a research brief or CV already exists in the folder from a previous skill run, use those to inform interview preparation.
+All role-specific outputs are saved in `applications/{role-slug}/`. When running any capability for a role, check if the folder exists first using Glob. If it doesn't, create it when saving the first output. If a research brief or resume already exists in the folder from a previous skill run, use those to inform interview preparation.
 
 ---
 
@@ -191,11 +191,11 @@ When the user's context matches a specific persona, load the relevant reference 
 
 | Persona | Load Reference | Trigger |
 |:--------|:--------------|:--------|
-| Career Returner | @references/career-returner-interview-prep.md | User mentions career break, returning to work, redundancy, maternity/paternity |
+| Career Returner | @references/career-returner-interview-prep.md | User mentions career break, returning to work, layoff, maternity/paternity |
 | Early Career | @references/early-career-interview-prep.md | User is a graduate, apprentice, school leaver, or attending first professional interviews |
 | NED | @references/ned-interview-prep.md | User is preparing for a board interview or nomination committee meeting |
 | Fractional | @references/fractional-discovery-prep.md | User is preparing for a client discovery call or fractional engagement pitch |
-| Ageism / Age Discrimination | @references/ageism-in-employment.md + @references/age-discrimination-strategies.md + @references/emotional-support-resilience.md | User mentions age discrimination, ageism, being "too old", being "overqualified" as age proxy, long service redundancy (20+ years), feeling their age is held against them, younger candidates being preferred, or age-related rejection patterns |
+| Ageism / Age Discrimination | @references/ageism-in-employment.md + @references/age-discrimination-strategies.md + @references/emotional-support-resilience.md | User mentions age discrimination, ageism, being "too old", being "overqualified" as age proxy, long service layoff (20+ years), feeling their age is held against them, younger candidates being preferred, or age-related rejection patterns |
 
 These references supplement (not replace) the standard capability references. Load both the persona reference and the standard one.
 
@@ -205,9 +205,9 @@ When the ageism persona is triggered, load ALL THREE ageism references alongside
 
 | Reference | Purpose | When Most Relevant |
 |:----------|:--------|:-------------------|
-| **ageism-in-employment.md** | UK law (Equality Act 2010), rights, tribunal process, practical reality of proving discrimination, whistleblowing routes, evidence gathering | When the user wants to understand their legal position or is considering whether to pursue a complaint |
-| **age-discrimination-strategies.md** | Practical CV strategies, interview tactics, digital presence, skills to update, age-friendly employers, networking | When helping the user strengthen their approach and reduce age bias exposure in future applications |
-| **emotional-support-resilience.md** | Psychological impact, identity crisis after long service, NHS and charity support, resilience strategies, crisis contacts, cognitive reframing | When the user is emotionally distressed, processing redundancy grief, or showing signs of withdrawal or confidence erosion |
+| **ageism-in-employment.md** | UK law (Age Discrimination in Employment Act (ADEA)), rights, tribunal process, practical reality of proving discrimination, whistleblowing routes, evidence gathering | When the user wants to understand their legal position or is considering whether to pursue a complaint |
+| **age-discrimination-strategies.md** | Practical resume strategies, interview tactics, digital presence, skills to update, age-friendly employers, networking | When helping the user strengthen their approach and reduce age bias exposure in future applications |
+| **emotional-support-resilience.md** | Psychological impact, identity crisis after long service, NHS and charity support, resilience strategies, crisis contacts, cognitive reframing | When the user is emotionally distressed, processing layoff grief, or showing signs of withdrawal or confidence erosion |
 
 **Tone calibration for ageism:** This is an area where candidates are particularly vulnerable. The emotional impact of being told you are too old, explicitly or implicitly, is uniquely corrosive because age cannot be changed. Calibrate your response to acknowledge this reality before moving to practical advice. Do not rush past the emotional dimension. Equally, do not dwell so long that you reinforce hopelessness. The goal is: validate, inform, equip, and mobilise.
 
@@ -215,9 +215,9 @@ When the ageism persona is triggered, load ALL THREE ageism references alongside
 
 ## Output Standards
 
-- **UK English** throughout (unless US role explicitly requires)
+- **US English** throughout (unless non-US role explicitly requires US English)
 - **No emojis** - Professional tone appropriate for target role
-- **Evidence-backed** - Answers reference your actual CV
+- **Evidence-backed** - Answers reference your actual resume
 - **STAR format** - Behavioural answers use Situation, Task, Action, Result
 - **Role-specific** - Questions tailored to the actual role, not generic
 
@@ -238,10 +238,10 @@ When a capability specifies a template, you MUST:
 
 ## Related Skills
 
-- **/application-optimiser** - Research the company and optimise your CV first
+- **/application-optimiser** - Research the company and optimise your resume first
 - **/linkedin-coach** - Update your LinkedIn after interview learnings
 - **/career-navigator** - Negotiate offers, evaluate multiple options
 
 ---
 
-*Interview Master v1.5.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Interview Master v1.5.0 | Career Helper Plugin | Prosper AI Consulting*

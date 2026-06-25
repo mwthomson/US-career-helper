@@ -117,4 +117,4 @@ Regardless of structure chosen:
 
 ---
 
-*AI Governance Structure Options | NED AI Helper | Prosper AI Consulting, UK*
+*AI Governance Structure Options | NED AI Helper | Prosper AI Consulting*

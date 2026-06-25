@@ -1,19 +1,19 @@
 ---
 name: application-optimiser
-description: This skill should be used when the user asks to "optimise my CV", "fix my CV", "improve my CV", "tailor my CV for ATS", "research a company", "help me apply for a role", or "plan my application". Provides ATS-optimised CV rewriting, company and role research with parallel intelligence gathering, and application strategy planning.
+description: This skill should be used when the user asks to "optimise my resume", "fix my resume", "improve my resume", "tailor my resume for ATS", "research a company", "help me apply for a role", or "plan my application". Provides ATS-optimised resume rewriting, company and role research with parallel intelligence gathering, and application strategy planning.
 tags: cv, ats, resume, company, research, application, strategy
 ---
 
 # Application Optimiser
 
-Research companies, optimise your CV for ATS systems, and plan your application strategy.
+Research companies, optimise your resume for ATS systems, and plan your application strategy.
 
 ## Capabilities
 
 | # | Capability | When to Use |
 |:--|:-----------|:------------|
 | 1 | Company Research | Before applying or interviewing at a target company |
-| 2 | CV/ATS Optimisation | Tailoring your CV for a specific role |
+| 2 | resume/ATS Optimisation | Tailoring your resume for a specific role |
 | 3 | Application Strategy | Planning your full application approach |
 | 4 | Cover Letter | Writing a cover letter, supporting statement, or application message |
 
@@ -21,7 +21,7 @@ Research companies, optimise your CV for ATS systems, and plan your application 
 
 ```text
 "Research [Company] before I apply"
-"Help me optimise my CV for this job description"
+"Help me optimise my resume for this job description"
 "Plan my application to [Company] for [Role]"
 "Write a cover letter for this role"
 "Help me with the supporting statement for this application"
@@ -33,7 +33,7 @@ Research companies, optimise your CV for ATS systems, and plan your application 
 
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
-- **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 4. Next: CV optimisation."). Refer to saved files by description, not filename. Repeat key details (company names, role titles, dates) — do not assume the user remembers from earlier messages.
+- **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 4. Next: resume optimisation."). Refer to saved files by description, not filename. Repeat key details (company names, role titles, dates) — do not assume the user remembers from earlier messages.
 - **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
@@ -62,17 +62,17 @@ Uses parallel WebSearch, WebFetch, and Task tool for comprehensive intelligence.
 
 ---
 
-## 2. CV Optimisation for ATS
+## 2. resume Optimisation for ATS
 
-**What you need:** Your current CV + target job description
+**What you need:** Your current resume + target job description
 **Load:** @references/ATS-Helper.md
 **Templates:**
-- @references/cv-template.md for CV output
+- @references/cv-template.md for resume output
 - @references/application-strategy-template.md for LinkedIn sync notes
 
 NLP and recruitment AI specialist approach:
 - Keyword and concept extraction from job description
-- ATS-safe CV rewrite with quantified achievements
+- ATS-safe resume rewrite with quantified achievements
 - Keyword coverage analysis (target: 70%+ of JD terms)
 - LinkedIn API consistency checks
 - Formatting and parsing safety verification
@@ -85,7 +85,7 @@ NLP and recruitment AI specialist approach:
 
 ## 3. Application Strategy & Timeline
 
-**What you need:** Research brief + optimised CV + timeline constraints
+**What you need:** Research brief + optimised resume + timeline constraints
 **Template:** @references/application-strategy-template.md
 
 Comprehensive planning:
@@ -101,7 +101,7 @@ Comprehensive planning:
 
 ## 4. Cover Letter & Supporting Statement
 
-**What you need:** Job description + your CV (or master facts) + research brief if one exists + your own reasons for wanting the role
+**What you need:** Job description + your resume (or master facts) + research brief if one exists + your own reasons for wanting the role
 **Load:** @references/cover-letter.md
 **Template:** @references/cover-letter-template.md
 
@@ -109,8 +109,8 @@ Drafts a cover letter, competency-based supporting statement, or short applicati
 - Confirms which format the application actually requires before drafting
 - Mirrors job-description language only where the underlying fact genuinely matches
 - Sources motivation from you, never inventing reasons you care about the organisation
-- Addresses overqualification, career change, or gaps honestly where the CV cannot
-- Runs the same anti-hallucination guardrails and reflective validation as CV work
+- Addresses overqualification, career change, or gaps honestly where the resume cannot
+- Runs the same anti-hallucination guardrails and reflective validation as resume work
 
 **Output:**
 - `applications/{role-slug}/cover-letter.md` (full letter)
@@ -140,7 +140,7 @@ All research uses a rigorous multi-cycle validation workflow:
 After generating content, validate before presenting:
 **Load:** @references/reflect-validate.md
 
-**For CV/ATS:** Keyword coverage 70%+? Achievements quantified? ATS-safe formatting?
+**For resume/ATS:** Keyword coverage 70%+? Achievements quantified? ATS-safe formatting?
 **For Research:** All claims cited? Sources recent (<12mo)? All sections present?
 
 ```
@@ -155,7 +155,7 @@ When the user's context matches a specific persona, load the relevant reference 
 
 | Persona | Load Reference | Trigger |
 |:--------|:--------------|:--------|
-| Career Returner | @references/career-returner-cv-guide.md | User mentions career break, returning to work, redundancy, maternity/paternity, illness, caregiving |
+| Career Returner | @references/career-returner-cv-guide.md | User mentions career break, returning to work, layoff, maternity/paternity, illness, caregiving |
 | Early Career | @references/early-career-cv-template.md | User is a graduate, apprentice, school leaver, or has limited professional experience |
 | NED | @references/ned-cv-template.md | User seeks board roles, NED positions, governor or trustee appointments |
 | Fractional | @references/fractional-cv-template.md | User is going fractional, portfolio, or independent consulting |
@@ -166,7 +166,7 @@ These references supplement (not replace) the standard capability references. Lo
 
 ## Output Standards
 
-- **UK English** throughout (unless US role explicitly requires US English)
+- **US English** throughout (unless non-US role explicitly requires US English)
 - **No emojis** - Professional tone
 - **Cited sources** - All research includes URLs and access dates
 - **Quantified metrics** - Specific numbers, percentages, timeframes
@@ -174,7 +174,7 @@ These references supplement (not replace) the standard capability references. Lo
 - **Never invent data** - Mark missing info as `[MISSING]`
 
 ### Tone of Voice
-- Address the user as "you", not by name, in coaching and strategy content: "Your CV highlights..." not "Bethan's CV highlights..." — default to second person for warmth and engagement; occasional name use is fine for emphasis. (CVs themselves are naturally written in third person about the candidate)
+- Address the user as "you", not by name, in coaching and strategy content: "Your resume highlights..." not "Bethan's resume highlights..." — default to second person for warmth and engagement; occasional name use is fine for emphasis. (resumes themselves are naturally written in third person about the candidate)
 - Avoid hyperbole and cinema poster phrasing (not "game-changing", "revolutionary", or "supercharge your career")
 - Use the **Oxford comma** (serial comma: "skills, experience, and qualifications")
 - Never use em dashes. Use commas, semicolons, colons, or full stops instead
@@ -199,10 +199,10 @@ When WebFetch fails (LinkedIn, Glassdoor, paywalled content):
 ## Related Skills
 
 After optimising your application:
-- **/linkedin-coach** - Update your LinkedIn to match your CV
+- **/linkedin-coach** - Update your LinkedIn to match your resume
 - **/interview-master** - Prepare for interviews at this company
 - **/career-navigator** - Build networking strategy and plan your search
 
 ---
 
-*Application Optimiser v1.4.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Application Optimiser v1.4.0 | Career Helper Plugin | Prosper AI Consulting*

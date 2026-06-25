@@ -2,7 +2,7 @@
 
 Use this template for every artefact produced by the personal-brand skill. Preserve the section structure and the footer.
 
-UK English. No em dashes. No emojis. Oxford comma. Second person.
+US English. No em dashes. No emojis. Oxford comma. Second person.
 
 ---
 
@@ -88,7 +88,7 @@ Linked role or context: {{ROLE_OR_CONTEXT_OR_NONE}}
 
 ---
 
-*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting, UK*
+*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting*
 ```
 
 ---
@@ -154,7 +154,7 @@ Suggested review: {{DATE_PLUS_3_MONTHS}}
 
 ---
 
-*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting, UK*
+*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting*
 ```
 
 ---
@@ -223,7 +223,7 @@ Suggested review: {{DATE_PLUS_3_MONTHS}}
 
 ---
 
-*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting, UK*
+*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting*
 ```
 
 ---
@@ -330,7 +330,7 @@ With "Currently" line: {{DRAFT}}
 
 ---
 
-*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting, UK*
+*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting*
 ```
 
 ---
@@ -395,7 +395,7 @@ What your existing presence currently says you stand for, who for, and why now:
 
 ---
 
-*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting, UK*
+*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting*
 ```
 
 ---
@@ -405,7 +405,7 @@ What your existing presence currently says you stand for, who for, and why now:
 Every output file ends with the line:
 
 ```markdown
-*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting, UK*
+*Personal Brand Helper | Career Helper Plugin | Prosper AI Consulting*
 ```
 
 Do not add a version number to the file footer. Versioning is tracked in the plugin manifest, not in individual outputs.

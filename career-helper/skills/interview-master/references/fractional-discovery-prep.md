@@ -1,6 +1,6 @@
 # Fractional Executive Discovery Call Preparation
 
-UK English required. Business development focus. No generic interview advice. This is a commercial conversation, not a job interview.
+US English required. Business development focus. No generic interview advice. This is a commercial conversation, not a job interview.
 
 ## Role and Objective
 
@@ -66,14 +66,14 @@ This is the most important phase. Listen more than you speak. Ask open questions
 
 **Objective:** Demonstrate that you have solved this type of problem before, using specific examples.
 
-**Do not recite your CV.** Instead, select two to three engagements that are directly relevant to what you have just heard and present them as brief case studies.
+**Do not recite your resume.** Instead, select two to three engagements that are directly relevant to what you have just heard and present them as brief case studies.
 
 **Framework for each example:**
 
 1. **Context:** "I worked with a similar company - a Series B FinTech with around 60 people..."
 2. **Problem:** "They had the same challenge: no financial infrastructure to support their next raise..."
 3. **Approach:** "I came in two days a week and focused on three things in the first 90 days..."
-4. **Outcome:** "They closed their Series B at GBP 15M within six months, with a clean data room and investor-ready reporting."
+4. **Outcome:** "They closed their Series B at USD 15M within six months, with a clean data room and investor-ready reporting."
 
 **Sell outcomes and methodology, not time.** Never say "I can give you two days a week." Instead say "In a typical engagement like this, I would focus on X, Y, and Z, and you would expect to see results within the first quarter."
 
@@ -133,7 +133,7 @@ Not every opportunity is worth taking. A bad engagement drains your time, damage
 
 ### How to Anchor Your Rate
 
-1. **State your rate clearly and confidently.** "My standard engagement for this type of work is GBP {amount} per day, and I would typically suggest {X} days per week for the initial period."
+1. **State your rate clearly and confidently.** "My standard engagement for this type of work is USD {amount} per day, and I would typically suggest {X} days per week for the initial period."
 2. **Then pause.** Do not fill the silence. Do not justify. Do not discount preemptively.
 3. **If they ask "Is that negotiable?"** respond with: "That reflects my market rate for this level of engagement. I am happy to discuss how we structure it to work within your budget."
 
@@ -142,8 +142,8 @@ Not every opportunity is worth taking. A bad engagement drains your time, damage
 | Model | When It Works | How to Position |
 |-------|--------------|-----------------|
 | Day rate | Short engagements, variable scope, diagnostic phases | "For the first 90 days, a day rate gives us both flexibility." |
-| Monthly retainer | Ongoing engagements with consistent scope | "A retainer of GBP {X} per month covers {Y} days and ensures I am available when you need me." |
-| Project fee | Defined deliverable with clear start and end | "For the data room build, I would quote a fixed fee of GBP {X}, delivered over {Y} weeks." |
+| Monthly retainer | Ongoing engagements with consistent scope | "A retainer of USD {X} per month covers {Y} days and ensures I am available when you need me." |
+| Project fee | Defined deliverable with clear start and end | "For the data room build, I would quote a fixed fee of USD {X}, delivered over {Y} weeks." |
 
 ### Handling Pushback
 
@@ -207,7 +207,7 @@ Being selective enhances your reputation. Saying no to the wrong engagement is a
 Use these prompts to practise with a colleague, mentor, or AI assistant.
 
 ### Scenario 1: The Scaling FinTech
-"We are a Series A FinTech with 45 people. We have just raised GBP 6M and need someone to professionalise our finance function. We have a bookkeeper but no one strategic. The CEO has been doing board packs in a spreadsheet."
+"We are a Series A FinTech with 45 people. We have just raised USD 6M and need someone to professionalise our finance function. We have a bookkeeper but no one strategic. The CEO has been doing board packs in a spreadsheet."
 
 ### Scenario 2: The Struggling Rebrand
 "We are a B2B SaaS company. Our marketing is not working. We have a small team of three but no senior leadership. Our last CMO left eight months ago and pipeline has dropped 40 percent since."

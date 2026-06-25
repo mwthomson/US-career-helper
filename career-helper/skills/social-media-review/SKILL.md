@@ -51,7 +51,7 @@ Unlike the full `/employer-footprint` analysis (which runs 8 parallel research a
 - A quick check before hitting "apply"
 - People who want practical cleanup advice, not a formal report
 
-**For a comprehensive analysis** with scoring, company culture mapping, CV cross-referencing, and interview question generation, use `/employer-footprint` instead.
+**For a comprehensive analysis** with scoring, company culture mapping, resume cross-referencing, and interview question generation, use `/employer-footprint` instead.
 
 ---
 
@@ -226,7 +226,7 @@ For graduates and early career users, include:
 
 ## Output Standards
 
-- **UK English** throughout (unless US role context)
+- **US English** throughout (unless non-US role context)
 - **No emojis** - Professional tone
 - **Non-judgemental** - Flag issues objectively, don't moralise
 - **Actionable** - Every flag comes with a specific fix
@@ -249,7 +249,7 @@ This skill is the **lightweight version** of the social media audit within `/emp
 |:--------|:--------------------|:-------------------|
 | Social media check | Yes | Yes (deeper) |
 | Google presence search | Basic | Comprehensive |
-| CV cross-reference | No | Yes |
+| resume cross-reference | No | Yes |
 | Company culture mapping | No | Yes |
 | Scored dashboard (1-10) | No | Yes |
 | Interview questions | No | Yes |
@@ -258,7 +258,7 @@ This skill is the **lightweight version** of the social media audit within `/emp
 
 **Upgrade path:** After a social media review, suggest `/employer-footprint` for users who want the full analysis:
 
-"Want a deeper analysis? `/employer-footprint` produces a full scored dashboard, cross-references your CV, and if you have a target company, maps your presence against their values."
+"Want a deeper analysis? `/employer-footprint` produces a full scored dashboard, cross-references your resume, and if you have a target company, maps your presence against their values."
 
 ---
 
@@ -267,9 +267,9 @@ This skill is the **lightweight version** of the social media audit within `/emp
 After cleaning up your social media:
 - **/linkedin-coach** - Full LinkedIn profile optimisation (the professional platform)
 - **/employer-footprint** - Complete digital footprint analysis with scored dashboard
-- **/application-optimiser** - Research companies and optimise your CV
+- **/application-optimiser** - Research companies and optimise your resume
 - **/interview-master** - Prepare for interviews
 
 ---
 
-*Social Media Review v1.0.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Social Media Review v1.0.0 | Career Helper Plugin | Prosper AI Consulting*

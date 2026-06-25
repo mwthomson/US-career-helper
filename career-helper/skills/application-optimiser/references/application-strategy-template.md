@@ -29,10 +29,10 @@
 ### Critical Tasks
 
 #### Immediate (Next 24 Hours)
-- [ ] Complete CV optimization using ATS-Helper output
+- [ ] Complete resume optimization using ATS-Helper output
 - [ ] Update LinkedIn profile (headline, about, top 3 skills, recent experience)
-- [ ] Verify CV/LinkedIn consistency
-- [ ] Save CV as: {FirstName}_{LastName}_CV_{RoleTitle}.docx
+- [ ] Verify resume/LinkedIn consistency
+- [ ] Save resume as: {FirstName}_{LastName}_resume_{RoleTitle}.docx
 
 #### Before Application (Next 2-7 Days)
 - [ ] Connect with {Name 1} on LinkedIn (see connection strategy below)
@@ -46,7 +46,7 @@
 {Best time/day based on research - typically Tuesday-Thursday, 8-10am company timezone}
 
 **Submission Checklist:**
-- [ ] CV uploaded (correct file format)
+- [ ] resume uploaded (correct file format)
 - [ ] Cover letter attached if required
 - [ ] Application questions answered
 - [ ] Contact information accurate
@@ -112,7 +112,7 @@ Best regards,
 - [ ] Review company research brief
 - [ ] Practice 5 core STAR stories aloud
 - [ ] Prepare 5 questions to ask
-- [ ] Review CV and be ready to discuss any item
+- [ ] Review resume and be ready to discuss any item
 - [ ] Set up interview space (if video)
 
 ### If You Get Technical/Panel Interview
@@ -182,7 +182,7 @@ Best,
 **Likelihood:** {High/Medium/Low}
 **Impact:** {High/Medium/Low}
 **Mitigation Strategy:**
-{How to address in application, CV, or interview}
+{How to address in application, resume, or interview}
 
 **Proactive Messaging:**
 "{Exact wording to use}"
@@ -367,7 +367,7 @@ If/when you reach offer stage:
 
 ### Activity Tracking
 
-- [ ] CV optimized and finalized
+- [ ] resume optimized and finalized
 - [ ] LinkedIn updated
 - [ ] Application submitted
 - [ ] Follow-up #1 sent
@@ -383,7 +383,7 @@ If/when you reach offer stage:
 
 **Saved Files:**
 - Research Brief: `{role-slug}-research-brief.md`
-- Optimized CV: `{role-slug}-cv-optimized.md`
+- Optimized resume: `{role-slug}-cv-optimized.md`
 - LinkedIn Updates: `{role-slug}-linkedin-updates.md`
 - Interview Prep: `{role-slug}-interview-prep.md`
 

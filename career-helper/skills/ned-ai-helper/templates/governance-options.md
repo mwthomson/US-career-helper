@@ -95,4 +95,4 @@
 
 *AI Governance Options | [Organisation Name] | [Date]*
 
-*Prosper AI Consulting, UK*
+*Prosper AI Consulting*

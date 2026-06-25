@@ -48,7 +48,7 @@ Then consider: {Second layer}
 Finally: {How to conclude}
 
 **Your Experience to Draw From:**
-{Specific reference to their CV that could be relevant}
+{Specific reference to their resume that could be relevant}
 
 ---
 
@@ -71,7 +71,7 @@ Finally: {How to conclude}
 {Mental framework}
 
 **Your Experience to Draw From:**
-{CV reference}
+{resume reference}
 
 ---
 
@@ -104,7 +104,7 @@ These test your judgment through hypothetical scenarios.
 {Mental framework}
 
 **Your Experience to Draw From:**
-{Similar situations from CV to reference}
+{Similar situations from resume to reference}
 
 ---
 
@@ -137,7 +137,7 @@ These assess competencies specific to this role and job description.
 {Mental framework specific to this domain}
 
 **Your Experience to Draw From:**
-{Relevant technical/functional experience from CV}
+{Relevant technical/functional experience from resume}
 
 ---
 
@@ -170,7 +170,7 @@ These assess alignment with company values and working style.
 {Mental framework for authenticity}
 
 **Your Experience to Draw From:**
-{Examples of cultural alignment from CV}
+{Examples of cultural alignment from resume}
 
 ---
 
@@ -291,7 +291,7 @@ Interviewers are trained to watch for these across ALL questions:
 ## Next Steps
 
 1. **Review each question** - Identify which you feel confident about vs need practice
-2. **Identify your stories** - For each question, note 1-2 experiences from your CV
+2. **Identify your stories** - For each question, note 1-2 experiences from your resume
 3. **Practice thinking aloud** - Use the frameworks to construct answers in real-time
 4. **Pair with Full Interview Prep** - Get specific STAR answers for your top questions
 

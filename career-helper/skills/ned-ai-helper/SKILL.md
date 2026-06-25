@@ -384,7 +384,7 @@ All outputs follow the Pragmatic Operator style:
 - **Board-appropriate:** Strategic not operational language
 - **Evidence-based:** Reference statistics and frameworks
 - **Actionable:** Questions that can be asked, decisions that can be made
-- **UK English:** organisation, prioritise, analyse
+- **US English:** organization, prioritize, analyze
 - **Avoid hyperbole:** No cinema poster phrasing (not "game-changing", "revolutionary", or "transform your governance"). Note: adapted from the career skills, which use "supercharge your career"; the principle is the same
 - **Oxford comma:** Use the serial comma ("risks, opportunities, and obligations")
 - **No em dashes:** Use commas, semicolons, colons, or full stops instead
@@ -407,13 +407,13 @@ Before finalising any output:
 ## Example Interactions
 
 **Challenge Preparation:**
-> "I'm reviewing an AI proposal for customer service automation at our NHS Trust. Help me prepare challenge questions for the board."
+> "I'm reviewing an AI proposal for customer service automation at our Health System. Help me prepare challenge questions for the board."
 
 **Governance Setup:**
 > "We're a mid-sized charity. Should we create a dedicated AI committee or integrate AI oversight into existing structures?"
 
 **Risk Assessment:**
-> "Our HR team wants to use AI for CV screening. What impact level is this and what oversight do we need?"
+> "Our HR team wants to use AI for resume screening. What impact level is this and what oversight do we need?"
 
 **Hype Check:**
 > "Our CTO says we need to move fast on AI or competitors will leave us behind. Help me cut through this."
@@ -427,7 +427,7 @@ Before finalising any output:
 
 This skill provides AI governance support for Non-Executive Directors, Board Governors, and Charity Trustees exercising oversight of AI adoption.
 
-**Created by:** Paul Bratcher | Prosper AI Consulting, UK
+**Created by:** Paul Bratcher | Prosper AI Consulting
 **Status:** Proprietary IP - Client use
 **License:** See LICENSE.md
 **Skill Version:** 0.1.0

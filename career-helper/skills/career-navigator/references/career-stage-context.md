@@ -10,7 +10,7 @@ Different career stages face fundamentally different challenges in the job marke
 - **Experienced/Executive:** Age bias, overqualified concerns, demonstrating relevance
 - **Late career:** Explicit ageism, energy concerns, transition opportunities
 
-All skill capabilities (CV optimization, LinkedIn, interview prep, networking) should adapt based on user's stage.
+All skill capabilities (resume optimization, LinkedIn, interview prep, networking) should adapt based on user's stage.
 
 ## Gathering Career Stage Context
 
@@ -36,7 +36,7 @@ Use their answers to infer generation and tailor all subsequent advice.
 - May have non-traditional paths (bootcamps, gig economy, freelance)
 - Student debt considerations, salary expectations
 
-**CV / ATS Optimization Strategy:**
+**resume / ATS Optimization Strategy:**
 - Emphasize education, coursework, academic projects
 - Highlight internships, co-ops, volunteer work with quantified impact
 - Include relevant coursework and technical skills prominently
@@ -94,7 +94,7 @@ Use their answers to infer generation and tailor all subsequent advice.
 - Imposter syndrome during transitions
 - Demonstrating continued growth trajectory
 
-**CV / ATS Optimization Strategy:**
+**resume / ATS Optimization Strategy:**
 - Lead with impact metrics and quantified achievements
 - De-emphasize older/less relevant early career roles (consolidate)
 - Highlight promotions and increasing responsibility
@@ -153,7 +153,7 @@ Use their answers to infer generation and tailor all subsequent advice.
 - Demonstrating continued relevance and learning
 - Salary expectations vs market compression
 
-**CV / ATS Optimization Strategy:**
+**resume / ATS Optimization Strategy:**
 - **Remove graduation dates** (prevents age calculation)
 - **Focus on last 10-15 years** (consolidate earlier career to 2-3 lines)
 - Emphasize digital transformation, modern tech stack, recent innovations
@@ -198,7 +198,7 @@ Use their answers to infer generation and tailor all subsequent advice.
 **Addressing Age Discrimination:**
 - **Never mention:** "decades of experience", "veteran", "seasoned professional"
 - **Instead use:** "proven leader", "transformative executive", "strategic advisor"
-- Keep tech stack current on CV and LinkedIn
+- Keep tech stack current on resume and LinkedIn
 - Cite recent digital transformation work
 - Show comfort with remote/hybrid work, modern tools (Slack, Notion, etc.)
 - Dress modern for interviews (not 1990s business formal)
@@ -212,7 +212,7 @@ Use their answers to infer generation and tailor all subsequent advice.
 - Name-dropping without substance
 - Talking down to younger interviewers
 - Appearing entitled or inflexible
-- CV with technology from 2000s
+- resume with technology from 2000s
 - Long-winded answers about past glory
 - Inability to articulate what excites them about this specific opportunity
 
@@ -229,10 +229,10 @@ Use their answers to infer generation and tailor all subsequent advice.
 - Cultural fit concerns
 - May actually be seeking part-time, advisory, fractional, or board roles
 
-**CV / ATS Optimization Strategy:**
+**resume / ATS Optimization Strategy:**
 - **Definitely remove graduation dates**
 - **Focus on last 10 years only** (earlier career in 1-2 line summary if needed)
-- Consider functional CV format highlighting skills over chronology
+- Consider functional resume format highlighting skills over chronology
 - Emphasize strategic advisory, board, fractional leadership experience
 - Highlight successful transitions, adaptability, mentoring next generation
 - Show recent technology adoption and digital fluency
@@ -311,7 +311,7 @@ Use their answers to infer generation and tailor all subsequent advice.
 
 Once you understand the user's career stage, apply these adaptations:
 
-### 1. CV Optimization (ATS-Helper.md)
+### 1. resume Optimization (ATS-Helper.md)
 - Early Career: Emphasize education, projects, potential
 - Mid-Career: Quantified impact, trajectory, transfers
 - Experienced: Strategic scope, consolidate history, modern tech

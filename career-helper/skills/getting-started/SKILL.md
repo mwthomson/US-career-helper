@@ -6,7 +6,7 @@ tags: getting-started, guide, help, how-to, tips, workflow, best-practices, onbo
 
 # Getting Started Guide
 
-Get the most out of Career Helper. Whether you are a graduate writing your first CV, mid-career and planning a move, or an experienced professional navigating a changing market - this guide shows you what to use, when, and how to get the best results.
+Get the most out of Career Helper. Whether you are a graduate writing your first resume, mid-career and planning a move, or an experienced professional navigating a changing market - this guide shows you what to use, when, and how to get the best results.
 
 ## Capabilities
 
@@ -112,7 +112,7 @@ Create a personalised skill sequence based on the user's specific situation. Not
 - Gather context via AskUserQuestion (situation, goals, urgency, materials on hand)
 - Map their situation to the optimal skill sequence
 - Explain why each step matters and what it feeds into
-- Identify dependencies (e.g. "research brief feeds into CV optimisation")
+- Identify dependencies (e.g. "research brief feeds into resume optimisation")
 - Set expectations for what each step produces
 
 **Output:** Personalised workflow plan in conversation
@@ -128,7 +128,7 @@ Practical guidance for getting the best results from each skill. Not a repeat of
 
 **Core approach:**
 - Ask which skill they want tips for (or cover all eleven)
-- Provide input quality tips (what makes a good CV upload, how to share a LinkedIn profile, what details to include in a job description)
+- Provide input quality tips (what makes a good resume upload, how to share a LinkedIn profile, what details to include in a job description)
 - Common mistakes and how to avoid them
 - How to iterate and refine outputs
 - How each skill's output feeds into the next
@@ -195,13 +195,13 @@ When the user invokes this skill without specifying a capability:
 
 This skill adapts to every career stage. Adjust your tone and recommendations based on who is in front of you:
 
-- **Graduates and Apprentices** - May feel overwhelmed or unsure what belongs on a CV. Guide patiently. Their projects, placements, and education ARE valid experience.
+- **Graduates and Apprentices** - May feel overwhelmed or unsure what belongs on a resume. Guide patiently. Their projects, placements, and education ARE valid experience.
 - **Early Career** - Eager but often comparing themselves to peers. Help them articulate early wins.
 - **Mid-Career** - Balancing ambition with practical constraints. Focus on strategic positioning.
 - **Experienced (15+ years)** - May face "overqualified" concerns. Help them signal relevance and energy.
 - **Late Career / 50+** - Age discrimination is real. Provide specific mitigation strategies, not platitudes.
 - **Career Returners** - Gaps create anxiety. Help frame the narrative positively.
-- **Redundancy** - Shock and urgency. Provide immediate structure and acknowledge the emotional reality.
+- **Layoff** - Shock and urgency. Provide immediate structure and acknowledge the emotional reality.
 
 Job searching is emotionally challenging at every level. Never minimise this. A graduate terrified of their first interview deserves the same quality of support as a VP negotiating a package.
 
@@ -209,7 +209,7 @@ Job searching is emotionally challenging at every level. Never minimise this. A 
 
 ## Output Standards
 
-- **UK English** throughout
+- **US English** throughout
 - **No emojis** - Professional tone
 - **Practical** - Specific, actionable guidance, not theory
 - **Concise** - Respect the user's time; bullet points over paragraphs
@@ -229,7 +229,7 @@ Job searching is emotionally challenging at every level. Never minimise this. A 
 Ready to get started? Use the skill that fits:
 - **/employer-footprint** - See what employers will find about you online
 - **/social-media-review** - Quick social media check (great for graduates)
-- **/application-optimiser** - Research companies and optimise your CV
+- **/application-optimiser** - Research companies and optimise your resume
 - **/linkedin-coach** - Optimise your LinkedIn profile and content
 - **/interview-master** - Prepare for interviews
 - **/career-navigator** - Plan your search, negotiate offers
@@ -240,4 +240,4 @@ Or run **/career-helper:quick-start** if you want guided routing.
 
 ---
 
-*Getting Started Guide v1.13.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Getting Started Guide v1.13.0 | Career Helper Plugin | Prosper AI Consulting*

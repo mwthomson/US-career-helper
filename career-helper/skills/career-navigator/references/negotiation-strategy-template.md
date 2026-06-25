@@ -4,7 +4,7 @@
 **Target Role:** {Role Title}
 **Company:** {Company Name}
 **Location:** {City, Country}
-**Currency:** {GBP/USD/EUR/Other}
+**Currency:** {USD/USD/EUR/Other}
 
 ---
 
@@ -153,7 +153,7 @@ success here."
 "I understand you have structured bands. Could we explore:
 - A sign-on bonus to bridge the gap?
 - An early review at 6 months with defined success criteria?
-- Flexibility in {equity/pension/holiday/other}?"
+- Flexibility in {equity/401(k)/PTO/other}?"
 ```
 
 ### If they say: "We need an answer by {tight deadline}"

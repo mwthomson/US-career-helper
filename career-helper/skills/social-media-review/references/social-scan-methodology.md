@@ -189,7 +189,7 @@ What they DO notice:
 - Obviously offensive or discriminatory content
 - Complaints about employers or colleagues
 - Anything that suggests dishonesty
-- Public content that's wildly inconsistent with your CV
+- Public content that's wildly inconsistent with your resume
 
 What they DON'T care about:
 - Photos with friends at a pub or party

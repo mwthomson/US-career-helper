@@ -8,7 +8,7 @@
 
 ## When This Matters
 
-References are usually requested at or just before offer stage, sometimes after a final interview. Prepare before you are asked, not in the rush afterwards. In the UK, listing "References available on request" is normal; you rarely volunteer names on the CV itself.
+References are usually requested at or just before offer stage, sometimes after a final interview. Prepare before you are asked, not in the rush afterwards. In the UK, listing "References available on request" is normal; you rarely volunteer names on the resume itself.
 
 Do not invent referee names, titles, or relationships. Every detail in the output must come from the user. Where a detail is missing, mark it `[TO CONFIRM]` and ask.
 
@@ -123,4 +123,4 @@ For roles in regulated or safeguarding settings (finance, healthcare, education,
 
 ---
 
-*Reference and Referee Preparation v1.0 | Career Helper Plugin | Prosper AI Consulting, UK*
+*Reference and Referee Preparation v1.0 | Career Helper Plugin | Prosper AI Consulting*
