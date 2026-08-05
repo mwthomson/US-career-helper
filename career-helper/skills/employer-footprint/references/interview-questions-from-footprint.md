@@ -121,10 +121,10 @@ Questions that give the candidate a chance to shine based on strong signals:
 
 ### Category 5: Cultural Fit from Digital Signals
 
-Questions based on how the candidate's online behaviour maps to company culture:
+Questions based on how the candidate's online behavior maps to company culture:
 
 ```
-"We value {company value}. I see from your {platform} that you {behaviour}. Tell me more about that."
+"We value {company value}. I see from your {platform} that you {behavior}. Tell me more about that."
 "Our culture is {description}. Your online presence suggests you're {observation}. How would you adapt?"
 "We're big on {approach}. Your {content/activity} suggests you prefer {different approach}. How would you bridge that?"
 ```
@@ -151,7 +151,7 @@ For each finding from the footprint analysis:
 - **What they're really asking:** {The underlying concern or interest}
 - **Difficulty:** {Easy/Moderate/Difficult}
 - **Preparation approach:** {How to prepare a strong answer}
-- **STAR framework:** {Suggested Situation-Task-Action-Result if behavioural}
+- **STAR framework:** {Suggested Situation-Task-Action-Result if behavioral}
 
 **Q2: "{Question text}"**
 {Same structure}
@@ -180,7 +180,7 @@ Generate as: `{name-slug}-footprint-interview-questions.md`
 
 After generating these questions, recommend:
 ```
-"Want to practise answering these questions? Run /interview-master for full interview preparation, or ask for a mock interview focusing on these footprint-based questions."
+"Want to practice answering these questions? Run /interview-master for full interview preparation, or ask for a mock interview focusing on these footprint-based questions."
 ```
 
 ---

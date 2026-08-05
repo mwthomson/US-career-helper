@@ -1,6 +1,6 @@
 # Alternative Career Paths: Research Compendium
 
-Comprehensive research on non-traditional career paths, compiled for integration into career counselling advice. All findings based on 2025-2026 sources.
+Comprehensive research on non-traditional career paths, compiled for integration into career counseling advice. All findings based on 2025-2026 sources.
 
 ---
 
@@ -35,9 +35,9 @@ A non-linear career path is one that does not follow a single, upward trajectory
 
 1. **Build a narrative throughline:** Connect your career episodes into a coherent story. Choose a theme you can express in one sentence, for example: "I build zero-to-one systems" or "I translate policy constraints into product strategy."
 2. **Maintain financial and social runway:** Keep a cash buffer, flexible income stream, or part-time anchor role. Cultivate relationships that open doors, especially when your path is unconventional.
-3. **Invest in continuous upskilling:** More than 40% of learners enrolled in multiple courses during 2025, reflecting a focused approach to building capabilities. Combine short, application-oriented programmes to close specific skill gaps.
+3. **Invest in continuous upskilling:** More than 40% of learners enrolled in multiple courses during 2025, reflecting a focused approach to building capabilities. Combine short, application-oriented programs to close specific skill gaps.
 4. **Reframe your resume:** Highlight outcomes, transferable skills, and the throughline rather than presenting a chronological list of unrelated roles.
-5. **Seek organisations that value non-linear backgrounds:** Forward-thinking employers recognise the value of people who have worked across different industries and environments.
+5. **Seek organizations that value non-linear backgrounds:** Forward-thinking employers recognize the value of people who have worked across different industries and environments.
 
 ### Skill Stacking
 
@@ -49,13 +49,13 @@ Skill stacking is the practice of combining competencies from different domains 
 - Position the combination as your differentiator in applications and networking.
 - In 2026, effective professionals combine technical understanding, cross-functional adaptability, and a structured approach to continuous learning.
 
-### Counselling Considerations
+### Counseling Considerations
 
-- Normalise non-linear paths; they are increasingly the norm, not the exception.
+- Normalize non-linear paths; they are increasingly the norm, not the exception.
 - Nearly 70% of U.S. workers considered changing careers in early 2025.
-- Help clients articulate their throughline rather than apologising for career changes.
+- Help clients articulate their throughline rather than apologizing for career changes.
 - Address the "imposter syndrome" that often accompanies unconventional paths.
-- Emphasise that non-linear careers compound learning and adaptability even when they appear to move sideways or backwards.
+- Emphasize that non-linear careers compound learning and adaptability even when they appear to move sideways or backwards.
 
 ### Sources
 
@@ -93,7 +93,7 @@ Entrepreneurship now ranks as the number one wealth-building strategy heading in
 ### Cons
 
 - **Financial risk:** Significant personal and financial risk, with uncertain income, especially in early stages.
-- **Lack of structure:** No job description, no predefined metrics for success. Some people struggle to structure their time and prioritise when wearing multiple hats.
+- **Lack of structure:** No job description, no predefined metrics for success. Some people struggle to structure their time and prioritize when wearing multiple hats.
 - **Intense workload and burnout risk:** Challenges are the rule, not the exception. Founder burnout is a leading cause of startup failure.
 - **Isolation:** Entrepreneurship can be lonely, particularly for solo founders. Building a support network is critical.
 - **Economic vulnerability:** Rising costs, inflation, and market volatility add external pressures beyond the founder's control.
@@ -117,20 +117,20 @@ Entrepreneurship now ranks as the number one wealth-building strategy heading in
 - **Perfectionism:** Once necessary research is done, act. Perfectionism delays launch and learning.
 - **Overspending:** Watch spending carefully and keep cash flow in check, especially early on.
 - **Team and leadership gaps:** Invest in leadership skills and create clear roles from the start.
-- **Founder burnout:** Adopt agile management techniques, delegate responsibilities, and prioritise wellbeing.
+- **Founder burnout:** Adopt agile management techniques, delegate responsibilities, and prioritize wellbeing.
 - **Resistance to pivoting:** The entrepreneurial process in 2026 requires agility and willingness to adapt based on feedback and market trends.
 
 ### Key 2026 Trends
 
 - **Rise of the "invisible entrepreneur":** More people starting small through side hustles, creating a growing informal economy.
-- **AI and digital tools democratising opportunity:** Accessible technology for website building, e-commerce, and automation empowers individuals to launch ventures from anywhere.
+- **AI and digital tools democratizing opportunity:** Accessible technology for website building, e-commerce, and automation empowers individuals to launch ventures from anywhere.
 - **Purpose-driven business:** Building purpose into business models attracts loyal supporters and differentiates in crowded markets.
 
-### Counselling Considerations
+### Counseling Considerations
 
 - Help clients honestly assess their risk tolerance and financial runway.
 - Encourage starting as a side hustle before making a full leap.
-- Emphasise the importance of market validation before investment.
+- Emphasize the importance of market validation before investment.
 - Discuss the emotional reality of entrepreneurship: isolation, uncertainty, and the need for resilience.
 - Connect clients with mentorship resources and entrepreneurial communities.
 
@@ -193,7 +193,7 @@ Startups are designed for rapid, scalable growth and typically seek external fun
 2. Create a formal founders' agreement covering equity, roles, decision-making, and exit scenarios.
 3. Consider dynamic equity models that adjust based on ongoing contributions.
 4. Have honest conversations about vision, commitment levels, and financial expectations early.
-5. Formalise decision-making structures: voting rights, board composition, tie-breaking procedures.
+5. Formalize decision-making structures: voting rights, board composition, tie-breaking procedures.
 6. Ensure all IP created by founders is assigned to the company.
 
 **Solo founders:**
@@ -215,7 +215,7 @@ Startups are designed for rapid, scalable growth and typically seek external fun
 - Unwillingness to sell, fundraise, or handle rejection.
 - Financial obligations that cannot tolerate years of low or no income.
 
-### Counselling Considerations
+### Counseling Considerations
 
 - Distinguish between "startup" and "small business"; they have fundamentally different risk profiles and growth expectations.
 - Explore whether the client's goals are better served by entrepreneurship (small business) or startup founding.
@@ -264,8 +264,8 @@ Startups are designed for rapid, scalable growth and typically seek external fun
 **Practical steps:**
 1. **Self-assessment:** Understand your skill set, career milestones, and professional accomplishments. Build a career portfolio highlighting leadership, contributions to missions, and team collaboration.
 2. **Network in the sector:** Search for and connect with people on LinkedIn who work in your target role. Attend free or low-cost networking events, webinars, and industry meetups.
-3. **Learn the language:** Government job descriptions and processes differ significantly from private sector norms. Familiarise yourself with public sector terminology, application processes, and assessment frameworks.
-4. **Translate your experience:** Federal roles involve strategic decision-making, leadership in dynamic environments, and navigating complex organisations. Frame your private sector experience in terms of these competencies.
+3. **Learn the language:** Government job descriptions and processes differ significantly from private sector norms. Familiarize yourself with public sector terminology, application processes, and assessment frameworks.
+4. **Translate your experience:** Federal roles involve strategic decision-making, leadership in dynamic environments, and navigating complex organizations. Frame your private sector experience in terms of these competencies.
 5. **Manage expectations:** Be prepared for different pace, decision-making processes, and organisational culture.
 
 ### Transitioning from Public to Private Sector
@@ -281,12 +281,12 @@ Startups are designed for rapid, scalable growth and typically seek external fun
 - Increasing demand in contracting and consulting sectors adjacent to government.
 - At least half of US states have given employees across-the-board wage increases each year since fiscal year 2021.
 
-### Counselling Considerations
+### Counseling Considerations
 
 - Public sector work is not a "fallback"; it is a legitimate, mission-driven career path spanning nearly every industry.
 - Help clients assess whether their priorities (impact, stability, work-life balance) align with public sector strengths.
 - Address potential frustrations proactively: pace of change, bureaucracy, and career progression norms.
-- Emphasise that public sector wage growth is now competitive and that benefits packages often exceed private sector equivalents in total value.
+- Emphasize that public sector wage growth is now competitive and that benefits packages often exceed private sector equivalents in total value.
 - For clients leaving the public sector, help them translate their experience into private sector language.
 
 ### Sources
@@ -307,13 +307,13 @@ Startups are designed for rapid, scalable growth and typically seek external fun
 The nonprofit sector employs over 12 million people in the US alone, making it one of the largest employment sectors nationally. Unlike professions with straightforward paths (pre-med to medical school to residency), nonprofit careers offer more varied routes.
 
 **Common entry points:**
-- Liberal arts graduates often enter via programme roles, applying critical thinking, communication, and problem-solving skills.
+- Liberal arts graduates often enter via program roles, applying critical thinking, communication, and problem-solving skills.
 - Many enter with a specific "hard" skill set: web development, accounting, data science, fundraising, or marketing.
 - Volunteering and internships remain important entry paths.
 
 **Career progression routes:**
-- The path to executive directorship can wind through fundraising, programme development, volunteer management, community organising, and marketing.
-- "Transferable" skills are highly valued; for example, community organising skills honed in voter registration can serve well in climate change advocacy.
+- The path to executive directorship can wind through fundraising, program development, volunteer management, community organizing, and marketing.
+- "Transferable" skills are highly valued; for example, community organizing skills honed in voter registration can serve well in climate change advocacy.
 - Rising demand for healthcare, fundraising, and technology roles in 2026.
 
 ### Social Enterprise
@@ -323,39 +323,39 @@ Social enterprises blend business models with social or environmental missions. 
 - Impact measurement and evaluation.
 - Social innovation and design.
 - Social marketing and communications.
-- Programme development and scaling.
+- Program development and scaling.
 
-**Development programmes:**
-- Year Here (fellowship programme for social entrepreneurs).
-- On Purpose (associate programme developing leaders for purpose-driven businesses).
+**Development programs:**
+- Year Here (fellowship program for social entrepreneurs).
+- On Purpose (associate program developing leaders for purpose-driven businesses).
 - Nesta (innovation and change-making roles).
 - Escape the City (social purpose roles).
 
 ### Impact Investing Careers
 
-Impact investments are made into companies, organisations, and funds with the intention to generate social and environmental impact alongside financial returns. Career paths include:
+Impact investments are made into companies, organizations, and funds with the intention to generate social and environmental impact alongside financial returns. Career paths include:
 - Investment analysis and portfolio management.
 - Fund management and strategy.
 - Impact measurement and reporting.
 - ESG (Environmental, Social, Governance) advisory.
 - Due diligence and risk assessment.
-- The GIIN (Global Impact Investing Network) Career Centre lists roles in the field.
+- The GIIN (Global Impact Investing Network) Career Center lists roles in the field.
 
 ### Salary and Compensation Expectations
 
 - Salary alignment has become a key factor in nonprofit hiring and retention, but salary increase budgets are contracting in 2026.
 - Nonprofits compete with corporations and startups for talent, especially in technology, data analytics, and fundraising.
-- Total compensation should be considered: many nonprofits offer hybrid work, generous leave, mission alignment, wellness programmes, and recognition initiatives.
-- Pay transparency is growing, with open salary data attracting more high-calibre applicants.
+- Total compensation should be considered: many nonprofits offer hybrid work, generous leave, mission alignment, wellness programs, and recognition initiatives.
+- Pay transparency is growing, with open salary data attracting more high-caliber applicants.
 - Private sector professionals transitioning should use benchmarking resources (Candid, Career Blazers) to set realistic salary expectations.
 
 ### Transitioning from Private Sector to Nonprofit
 
 1. **Highlight transferable skills:** Data analytics, technology, strategic management, and project management experience are highly valued.
-2. **Emphasise mission alignment:** Candidate interest in mission-driven work is a critical hiring factor.
+2. **Emphasize mission alignment:** Candidate interest in mission-driven work is a critical hiring factor.
 3. **Expect a compensation adjustment:** Salary gaps between sectors persist, though total compensation (including flexibility, benefits, and purpose) may narrow the difference.
 4. **Build sector knowledge:** Attend nonprofit events, volunteer, and connect with sector professionals.
-5. **Understand financial pressures:** 40% of nonprofits report staffing decreases tied to funding instability. Understand the funding landscape of your target organisation.
+5. **Understand financial pressures:** 40% of nonprofits report staffing decreases tied to funding instability. Understand the funding landscape of your target organization.
 
 ### Skills in Demand (2026)
 
@@ -363,7 +363,7 @@ Impact investments are made into companies, organisations, and funds with the in
 - Data analytics and impact measurement.
 - Marketing and communications, especially digital.
 - Technology and IT management.
-- Multi-function capabilities (e.g., combining programme management with data reporting, or fundraising with communications).
+- Multi-function capabilities (e.g., combining program management with data reporting, or fundraising with communications).
 - Emotional intelligence and mission alignment.
 
 ### Key Job Platforms
@@ -372,15 +372,15 @@ Impact investments are made into companies, organisations, and funds with the in
 - **The Impact Job:** handpicked social impact roles.
 - **Impact Opportunity:** nonprofit job board and career resource.
 - **Foundation List:** US nonprofit jobs across foundation, education, and nonprofit sectors.
-- **GIIN Career Centre:** impact investing roles.
+- **GIIN Career Center:** impact investing roles.
 
-### Counselling Considerations
+### Counseling Considerations
 
 - Help clients understand the breadth of the nonprofit sector; it spans healthcare, education, social services, environment, arts, international development, and more.
 - Address the "pay cut" concern honestly, while framing total compensation and fulfilment.
 - Encourage clients to explore social enterprise and impact investing as alternatives that blend commercial skills with social mission.
 - Discuss the financial pressures facing the sector (federal funding cuts, donor fatigue) and help clients evaluate organisational stability.
-- Normalise non-linear paths within the sector; career progression is rarely straightforward.
+- Normalize non-linear paths within the sector; career progression is rarely straightforward.
 
 ### Sources
 
@@ -440,7 +440,7 @@ A portfolio career is a work style where individuals juggle multiple professiona
 
 - Freelancers are expected to contribute $2 trillion to the global economy by 2026.
 - Nearly 36% of US workers identify as freelancers in 2026 (up from 27% a few years ago).
-- 82% of startups prefer hiring freelancers over full-time employees for specialised tasks.
+- 82% of startups prefer hiring freelancers over full-time employees for specialized tasks.
 - Remote job listings featuring "freelance" increased 41% year-over-year.
 
 **Highest-paying freelance skills (2026):**
@@ -453,7 +453,7 @@ A portfolio career is a work style where individuals juggle multiple professiona
 | Cloud Architecture and DevOps | $90-180 |
 | Data Science and Analytics | $80-160 |
 
-AI-specialised freelancers command 25-60% higher rates than general practitioners in the same field.
+AI-specialized freelancers command 25-60% higher rates than general practitioners in the same field.
 
 ### Financial Outcomes
 
@@ -464,10 +464,10 @@ AI-specialised freelancers command 25-60% higher rates than general practitioner
 
 2026 marks the year when agentic AI begins displacing jobs rather than merely augmenting them. White-collar roles at junior to mid-levels face the greatest immediate risk. This makes diversified, multi-skilled portfolio careers even more relevant as a risk mitigation strategy.
 
-### Counselling Considerations
+### Counseling Considerations
 
 - Help clients identify which portfolio model suits their personality, financial situation, and career stage.
-- Emphasise that portfolio careers require strong self-management, boundary-setting, and business development skills.
+- Emphasize that portfolio careers require strong self-management, boundary-setting, and business development skills.
 - Discuss the tax and legal implications of multiple income streams (reference the portfolio-career.md reference file for detailed UK and US guidance).
 - Frame portfolio careers as a deliberate strategy, not as "not being able to find a real job."
 - Address the practical challenges: health insurance (US), pension contributions (UK), IR35 implications, and administrative overhead.
@@ -504,7 +504,7 @@ Over 58% of professionals globally have switched industries at least once in the
 Before learning a new tool, identify your "un-automatable" assets that AI cannot replicate:
 - **Emotional resilience:** navigating high-stakes pivots without burnout.
 - **Ethical judgment:** auditing AI-generated decisions for bias and social impact.
-- **Systems thinking:** understanding how changes ripple through complex organisations.
+- **Systems thinking:** understanding how changes ripple through complex organizations.
 - **Relationship building:** trust, negotiation, and influence that require genuine human connection.
 
 ### Step-by-Step Career Pivot Strategy
@@ -535,7 +535,7 @@ Before learning a new tool, identify your "un-automatable" assets that AI cannot
 
 Three areas seeing 140% increases in hiring:
 - **AI Orchestration and Agentic Ops:** Managing autonomous digital workforces.
-- **Renewable Energy Infrastructure:** Transitioning legacy grid systems into smart, decentralised energy hubs.
+- **Renewable Energy Infrastructure:** Transitioning legacy grid systems into smart, decentralized energy hubs.
 - **Digital Care Economy:** Combining healthcare expertise with remote patient-monitoring technology.
 
 ### Common Pitfalls
@@ -552,9 +552,9 @@ Three areas seeing 140% increases in hiring:
 - Copywriter to UX designer via a 12-week bootcamp, leveraging communication skills as a user advocate.
 - Indie musician to music tech founder through five major pivots, each resetting goals while maintaining passion for innovation.
 
-### Counselling Considerations
+### Counseling Considerations
 
-- Normalise career pivots; they are increasingly common and viewed positively by employers.
+- Normalize career pivots; they are increasingly common and viewed positively by employers.
 - Help clients identify their genuinely transferable skills versus industry-specific knowledge.
 - Create a realistic timeline: expect 6-12 months for a full industry transition.
 - Encourage side pivots and bridge roles rather than dramatic leaps.
@@ -578,7 +578,7 @@ Three areas seeing 140% increases in hiring:
 
 ### What It Is
 
-Intrapreneurship is the practice of applying entrepreneurial skills and approaches within an established organisation. Employees act like entrepreneurs, using creativity and innovation to develop new products, services, processes, or business models, but with the backing and resources of their employer. Steve Jobs described it as "a group of people going, in essence, back to the garage, but in a large company."
+Intrapreneurship is the practice of applying entrepreneurial skills and approaches within an established organization. Employees act like entrepreneurs, using creativity and innovation to develop new products, services, processes, or business models, but with the backing and resources of their employer. Steve Jobs described it as "a group of people going, in essence, back to the garage, but in a large company."
 
 ### How It Differs from Entrepreneurship
 
@@ -595,7 +595,7 @@ Intrapreneurship is the practice of applying entrepreneurial skills and approach
 
 Based on 2026 academic research (81 interviews across 34 firms):
 
-1. **Opportunity Exploration:** Identifying unmet needs, inefficiencies, or market gaps within or around the organisation.
+1. **Opportunity Exploration:** Identifying unmet needs, inefficiencies, or market gaps within or around the organization.
 2. **Ideation:** Developing innovative concepts and preliminary business cases.
 3. **Promotion:** Building internal support, securing resources, and gaining stakeholder buy-in.
 4. **Implementation:** Executing the innovation, iterating based on feedback, and scaling.
@@ -615,26 +615,26 @@ The process is not linear; it is iterative, with cross-level interactions betwee
 
 ### Strategies for Intrapreneurs
 
-1. **Build a "culture of proof":** Demonstrate measurable results that earn trust and sustain momentum. Consistently showing impact makes it easier for your organisation to invest in your ideas.
+1. **Build a "culture of proof":** Demonstrate measurable results that earn trust and sustain momentum. Consistently showing impact makes it easier for your organization to invest in your ideas.
 2. **Start small and iterate:** The most powerful ideas often start as simple projects. Make steady, iterative progress to test concepts, demonstrate impact, and earn support one win at a time.
 3. **Leverage organisational resources:** Tap into the company's budget, industry connections, talent pool, and infrastructure.
 4. **Navigate internal politics:** Identify sponsors and allies. Build relationships with decision-makers who can champion your initiative.
 5. **Frame innovation in business terms:** Connect your ideas to organisational priorities: revenue growth, cost reduction, competitive advantage, or customer satisfaction.
 6. **Document and communicate progress:** Regular updates build visibility and trust. Share lessons learned, not just successes.
 
-### Structured Intrapreneurship Programmes
+### Structured Intrapreneurship Programs
 
 - **Google's Innovation Sprints:** Evolved from "20% Time" into more focused creative efforts with governance alignment.
-- **BASF's Chemovator:** Over 200 employee ideas submitted; 30 entered the programme. Some returned to BASF; others became independent companies.
+- **BASF's Chemovator:** Over 200 employee ideas submitted; 30 entered the program. Some returned to BASF; others became independent companies.
 - **3M's 15% Culture:** Long-standing policy allowing employees to spend 15% of time on innovative projects.
 - **Ford:** Employees share over 3,500 innovations every year, with most coming from outside the R&D department.
 
-### Benefits for Organisations and Employees
+### Benefits for Organizations and Employees
 
-**For organisations:**
+**For organizations:**
 - Faster innovation without the risk and cost of acquisitions.
 - Better employee retention and engagement (intrapreneurs feel ownership and purpose).
-- Competitive positioning: companies with intrapreneurship programmes are more likely to be industry disruptors.
+- Competitive positioning: companies with intrapreneurship programs are more likely to be industry disruptors.
 - Access to frontline insights that executives may miss.
 
 **For employees:**
@@ -648,8 +648,8 @@ The process is not linear; it is iterative, with cross-level interactions betwee
 
 **Good fit if you:**
 - Have entrepreneurial instincts but prefer the stability and resources of employment.
-- Work in an organisation that supports or is open to innovation.
-- Have identified specific problems or opportunities within your organisation.
+- Work in an organization that supports or is open to innovation.
+- Have identified specific problems or opportunities within your organization.
 - Want to develop entrepreneurial skills before potentially going independent.
 - Prefer collaboration and access to existing teams and infrastructure.
 
@@ -660,14 +660,14 @@ The process is not linear; it is iterative, with cross-level interactions betwee
 - Potential for initiative fatigue if ideas are repeatedly blocked.
 - Need for strong internal political skills and relationship-building.
 
-### Counselling Considerations
+### Counseling Considerations
 
 - Intrapreneurship is ideal for clients who have entrepreneurial drive but are not ready for the financial risk of starting their own venture.
-- Help clients assess whether their organisation has the culture to support intrapreneurship (supportive management, tolerance for experimentation, innovation budget).
+- Help clients assess whether their organization has the culture to support intrapreneurship (supportive management, tolerance for experimentation, innovation budget).
 - Encourage starting with small, low-risk projects that demonstrate value before proposing larger initiatives.
 - Discuss the career development benefits: intrapreneurship builds skills (initiative, project management, stakeholder influence) that are valuable whether the client stays or eventually goes independent.
-- Note that 88% of 1955's Fortune 500 companies were gone by 2015; companies that do not innovate from within risk obsolescence, which can motivate organisations to support intrapreneurial employees.
-- If the client's organisation is not supportive, explore whether a move to a more innovation-friendly employer might be the right step.
+- Note that 88% of 1955's Fortune 500 companies were gone by 2015; companies that do not innovate from within risk obsolescence, which can motivate organizations to support intrapreneurial employees.
+- If the client's organization is not supportive, explore whether a move to a more innovation-friendly employer might be the right step.
 
 ### Sources
 
@@ -694,7 +694,7 @@ AI is reshaping every career path described above. Key implications:
 - **Nonprofits** are harnessing AI for data-informed impact measurement and donor engagement.
 - **Portfolio careerists** with AI skills command 25-60% higher rates than general practitioners.
 - **Career pivoters** should identify their "Human Premium" (skills AI cannot replicate) as their core differentiator.
-- **Intrapreneurs** can use AI tools to prototype and validate ideas faster within their organisations.
+- **Intrapreneurs** can use AI tools to prototype and validate ideas faster within their organizations.
 
 ### Financial Planning Across All Transitions
 

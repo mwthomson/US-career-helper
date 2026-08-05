@@ -68,7 +68,7 @@
 ---
 
 ### Goal 4: {Personal/Wellbeing Goal}
-{E.g., "Feel confident and energised about my professional direction; maintained health and relationships throughout"}
+{E.g., "Feel confident and energized about my professional direction; maintained health and relationships throughout"}
 
 **Why This Matters:**
 {Acknowledgment that job search is a marathon, not a sprint}
@@ -90,8 +90,8 @@
 - [ ] At least {N} referral-based applications
 
 ### Materials State
-- [ ] resume variants for {N} role types optimised and tested
-- [ ] LinkedIn profile fully optimised and active
+- [ ] resume variants for {N} role types optimized and tested
+- [ ] LinkedIn profile fully optimized and active
 - [ ] {Portfolio/case studies/other materials as relevant}
 
 ### Network Depth
@@ -116,8 +116,8 @@
 *"For Month 2 to be achievable, what must be true by Week 4?"*
 
 ### Materials Ready
-- [ ] resume optimised for ATS and target roles
-- [ ] LinkedIn profile complete and keyword-optimised
+- [ ] resume optimized for ATS and target roles
+- [ ] LinkedIn profile complete and keyword-optimized
 - [ ] {Additional materials as relevant}
 - [ ] Cover letter templates prepared
 
@@ -145,10 +145,10 @@
 
 ### Week 1: Foundation & Mindset
 
-**Theme:** Get organised, get clear, get started
+**Theme:** Get organized, get clear, get started
 
 **Key Outcomes:**
-- [ ] resume audit and initial optimisation
+- [ ] resume audit and initial optimization
 - [ ] LinkedIn profile review and quick wins
 - [ ] Job search tracking system set up
 - [ ] Daily routine established
@@ -156,7 +156,7 @@
 
 **Daily Focus:**
 - Morning: resume work and job board setup
-- Afternoon: LinkedIn profile optimisation
+- Afternoon: LinkedIn profile optimization
 - Evening: Target company research
 
 **Wellbeing Focus:**
@@ -171,8 +171,8 @@
 **Theme:** Polish your tools
 
 **Key Outcomes:**
-- [ ] resume finalised and ATS-tested
-- [ ] LinkedIn profile fully optimised (headline, about, skills, experience)
+- [ ] resume finalized and ATS-tested
+- [ ] LinkedIn profile fully optimized (headline, about, skills, experience)
 - [ ] Cover letter template created
 - [ ] Target list refined to top 15-20 companies
 - [ ] Begin light networking (LinkedIn engagement)
@@ -635,13 +635,13 @@ Consider keeping a simple "wins list" - it's surprisingly helpful on difficult d
 - Huntr
 - Teal
 
-**LinkedIn Optimisation:**
+**LinkedIn Optimization:**
 - Headline formula: [Title] | [Specialism] | [Value proposition]
 - Skills: 20-30 relevant skills, top 3 most important first
 - Engagement: Comment meaningfully 3-5x weekly
 
 **Interview Preparation:**
-- STAR method for behavioural questions
+- STAR method for behavioral questions
 - Research: Company website, news, Glassdoor, LinkedIn
 - Questions to ask: Business, team, role, culture
 
@@ -673,7 +673,7 @@ Consider keeping a simple "wins list" - it's surprisingly helpful on difficult d
 
 **Career Transition:**
 - LHH (Lee Hecht Harrison) - lhh.com
-- Career Counselling services
+- Career Counseling services
 
 **Recruitment Partners:**
 - Harvey Nash - Technology/digital leadership
@@ -703,7 +703,7 @@ Consider keeping a simple "wins list" - it's surprisingly helpful on difficult d
 2. **What's working?** Do more of it
 3. **What's not?** Change approach, not just effort
 4. **What feedback have you received?** Act on it
-5. **Do you need support?** Career coach, mentor, counselling
+5. **Do you need support?** Career coach, mentor, counseling
 
 **Plan B Options to Consider:**
 - Interim/contract roles while continuing search
@@ -713,7 +713,7 @@ Consider keeping a simple "wins list" - it's surprisingly helpful on difficult d
 - Portfolio career approach
 - Starting your own business or consultancy (use /career-transitions for structured assessment)
 - Public sector or charity sector transition
-- Intrapreneurship within current or new organisation
+- Intrapreneurship within current or new organization
 - Multi-role career combining employment with consulting, board roles, or teaching
 
 ### If Financial Pressure Increases

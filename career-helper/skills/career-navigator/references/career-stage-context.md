@@ -292,7 +292,7 @@ Use their answers to infer generation and tailor all subsequent advice.
 - Position tenure as "institutional knowledge" + "fresh perspective"
 - Don't volunteer age, but don't hide it either (confidence)
 - If asked about retirement: "I'm excited about this next chapter"
-- Research company culture - avoid ageist organisations (lost cause)
+- Research company culture - avoid ageist organizations (lost cause)
 - Consider age-friendly sectors: healthcare, education, government, non-profits
 
 **Red Flags to Avoid:**

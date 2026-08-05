@@ -13,7 +13,7 @@ Help the user gather the right materials before they start using career-helper s
 
 | Item | Why It Matters | How to Provide |
 |:-----|:---------------|:---------------|
-| **Current resume/resume** | Foundation for most skills - resume optimisation, interview prep, LinkedIn audit all build from this | Paste text, upload PDF, or provide file path |
+| **Current resume/resume** | Foundation for most skills - resume optimization, interview prep, LinkedIn audit all build from this | Paste text, upload PDF, or provide file path |
 | **Career goals** | Skills adapt recommendations to your direction - without goals, advice stays generic | Describe in conversation: target role, level, industry, region |
 | **Target region** | Salary data, legal guidance, and cultural norms vary significantly | State your region: UK, US, EU, or APAC |
 
@@ -25,11 +25,11 @@ Help the user gather the right materials before they start using career-helper s
 |:-----|:-----------|:----|
 | Job description (full text) | **Essential** | ATS keyword extraction needs the complete JD, not a summary |
 | Company name | **Essential** | Enables deep company research |
-| Your current resume | **Essential** | Base document for ATS optimisation |
-| Application deadline | Nice to Have | Helps prioritise workflow steps |
+| Your current resume | **Essential** | Base document for ATS optimization |
+| Application deadline | Nice to Have | Helps prioritize workflow steps |
 | Referral contact (if any) | Nice to Have | Shapes application strategy |
 
-**What happens without the job description:** resume optimisation drops from targeted ATS rewriting to generic improvement. Keyword coverage analysis becomes impossible.
+**What happens without the job description:** resume optimization drops from targeted ATS rewriting to generic improvement. Keyword coverage analysis becomes impossible.
 
 ### Preparing for an Interview
 
@@ -73,7 +73,7 @@ Help the user gather the right materials before they start using career-helper s
 | Your current resume | **Essential** | Cross-referenced against your online presence for consistency |
 | Target company name | Nice to Have | Enables employer-specific impression mapping against their values |
 | Target role title | Nice to Have | Focuses the analysis on what matters for that role |
-| Job description | Nice to Have | Helps identify which aspects of your presence to prioritise |
+| Job description | Nice to Have | Helps identify which aspects of your presence to prioritize |
 
 **What happens without social handles:** The audit relies only on Google search results, which may miss platform-specific content. Always provide handles for a thorough audit.
 

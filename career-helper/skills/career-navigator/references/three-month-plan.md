@@ -189,7 +189,7 @@ Help them define 2-4 audacious but achievable goals. Good Month 3 goals are:
 1. "Received and accepted an offer for a [Level] role in [Sector] at $[Range]"
 2. "Completed [Certification/Course] to strengthen candidacy in [Area]"
 3. "Built active relationships with 10+ people in my target space who know my work"
-4. "Feel confident and energised about my professional direction"
+4. "Feel confident and energized about my professional direction"
 
 **Example Month 3 Goals (Non-Linear / Alternative Paths):**
 1. "Validated my business idea with 20 potential customers and decided whether to pursue it"
@@ -217,7 +217,7 @@ Guide them to identify:
 "And for Month 2 to be achievable, what needs to be true at the end of Month 1?"
 
 Month 1 is typically foundation-building:
-- Materials ready and optimised
+- Materials ready and optimized
 - Target companies/roles identified
 - Initial network activated
 - Habits established
@@ -230,7 +230,7 @@ Break each month into weekly milestones:
 **Week-by-Week Focus:**
 
 **Weeks 1-2:** Foundation & Setup
-- resume optimisation
+- resume optimization
 - LinkedIn profile refresh
 - Target list creation
 - Daily rhythm establishment
@@ -388,7 +388,7 @@ Structure daily tasks around these categories:
 - **Tuesday-Thursday submissions** - Higher response rates than Monday/Friday
 - **Follow up** - Gentle follow-up after 7 days increases response by 30%+
 - **Referrals matter** - Internal referrals are 5x more likely to result in hire
-- **ATS optimisation** - Tailor resume with keywords from job description; clean formatting
+- **ATS optimization** - Tailor resume with keywords from job description; clean formatting
 
 ### Networking Effectiveness
 - **70-85% of roles filled through networks** - Networking is not optional
@@ -397,7 +397,7 @@ Structure daily tasks around these categories:
 - **Give before you take** - Share articles, make introductions, offer help
 - **Cross-generational networking** - Only 20% of Gen Z have spoken to someone over 50 at work (LinkedIn 2024) - bridge this gap
 
-### LinkedIn Optimisation
+### LinkedIn Optimization
 - **Profile completeness** - Complete profiles get 40x more opportunities
 - **Active engagement** - Comment/share 3-5x weekly for visibility
 - **Headline matters** - Make it searchable and clear
@@ -437,7 +437,7 @@ Adapt advice based on career stage and generation:
 - More skill development and certification focus
 - Higher application volume acceptable
 - Portfolio and project-based evidence important
-- Emphasise growth narrative over stability
+- Emphasize growth narrative over stability
 
 ### Millennials / Mid-Career (Born 1981-1996)
 **Situation:**
@@ -481,10 +481,10 @@ Adapt advice based on career stage and generation:
 
 ## UK-Specific Support Resources
 
-**Government Programmes:**
+**Government Programs:**
 - **American Job Center** - Employment support and disability employment advisers
 - **Restart Scheme** - Support for long-term unemployed
-- **Wellbeing for Work** - Mental health support within employability programmes
+- **Wellbeing for Work** - Mental health support within employability programs
 
 **Mental Health Support:**
 - **Mind** - Workplace mental health resources (nami.org)
@@ -573,9 +573,9 @@ If the user is a software engineer, don't give them advice about "selling Agile.
 **Interview Mindset for Delivery/Agile Roles:**
 - Don't just "sell Agile" - focus on solving empiric problems with data
 - Be "fungible" - show you can translate between technical and business stakeholders
-- For senior roles: demonstrate you can conduct a "portfolio review" to expose delivery truth, not engage in corporate theatre
+- For senior roles: demonstrate you can conduct a "portfolio review" to expose delivery truth, not engage in corporate theater
 
-**Behavioural Tips (applicable more broadly):**
+**Behavioral Tips (applicable more broadly):**
 - Use "we, us, ours" instead of "I, me, mine" - shows team-centricity
 - Avoid "Why?" questions (defensive) - use "What," "How," or "Help me understand..."
 - Vulnerability builds trust - it's okay to admit when you don't know something
@@ -594,7 +594,7 @@ If the user is a software engineer, don't give them advice about "selling Agile.
 ### For Finance / CFO / Investment Professionals
 
 **Job Boards & Networking:**
-- [CFA UK](https://www.cfauk.org/society/careers) - Career opportunities, NED Pathway programme, networking events
+- [CFA UK](https://www.cfauk.org/society/careers) - Career opportunities, NED Pathway program, networking events
 - [eFinancialCareers UK](https://www.efinancialcareers.co.uk/) - No.1 job site for finance and tech professionals
 - [CFA Institute Job Board](https://careers.cfainstitute.org/) - Global finance roles
 
@@ -710,13 +710,13 @@ If the user is a software engineer, don't give them advice about "selling Agile.
 - 75% of civil servants now at EO grade and above
 
 **Fast Stream:**
-- Leadership development programme
+- Leadership development program
 - 17 specialist schemes available
 - Fast-tracks progression to senior roles
 
 **Application Approach:**
 - Success Profiles framework: behaviours, strengths, experience, ability, technical skills
-- STAR method for behaviour-based interviews
+- STAR method for behavior-based interviews
 - Demonstrate Civil Service values: honesty, integrity, objectivity, impartiality
 
 **Benefits:**
@@ -757,7 +757,7 @@ If the user is a software engineer, don't give them advice about "selling Agile.
 
 **Executive Career Transition:**
 - [CJPI](https://www.cjpi.com/) - UK executive outplacement and career transition, unlimited coaching until placement
-- [Randstad RiseSmart](https://www.randstadenterprise.com/) - Executive transition programme with peer-level coaches
+- [Randstad RiseSmart](https://www.randstadenterprise.com/) - Executive transition program with peer-level coaches
 - [Endeavor Agency](https://www.endeavorexecutive.com/) - Executive career coaching and recruiter connections
 
 **Non-Executive Director (NED) Resources:**
@@ -781,7 +781,7 @@ If the user is a software engineer, don't give them advice about "selling Agile.
 **Tips for First NED Role:**
 - Start small - charities, family businesses, smaller boards as stepping stones
 - Network through advisors, events, LinkedIn
-- CFA US board director Pathway programme for investment professionals
+- CFA US board director Pathway program for investment professionals
 
 ---
 
@@ -827,7 +827,7 @@ If the user is a software engineer, don't give them advice about "selling Agile.
 - [edX](https://www.edx.org/) - MIT, Harvard courses
 
 **For Career Changers:**
-- Google certificates recognised by many employers
+- Google certificates recognized by many employers
 - LinkedIn Learning certificates display on your profile
 - DeepLearning.AI courses valuable for understanding AI even in non-technical roles
 - Microsoft certifications valued across enterprise environments
@@ -874,12 +874,12 @@ Before considering plan complete:
 - [ ] Daily activities are realistic for career level
 - [ ] Wellbeing practices are integrated naturally
 - [ ] Best practices from research are woven throughout
-- [ ] Tone is supportive but not patronising
+- [ ] Tone is supportive but not patronizing
 - [ ] Plan acknowledges emotional reality without dwelling on it
 - [ ] Output follows template structure exactly
 - [ ] Practical and immediately actionable
 
-## Customisation Notes
+## Customization Notes
 
 Adapt based on:
 - **Career level** - More strategic, less volume at senior levels

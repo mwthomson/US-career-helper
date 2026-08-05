@@ -37,7 +37,7 @@ Here is how the answers move across.
 
 ### What you enjoy + What you are good at: Why You
 
-The overlap of "enjoy" and "good at" is the user's natural angle. It is what they reach for, that other people also recognise as strength. This is the rawest form of the **distinct angle** in Why You.
+The overlap of "enjoy" and "good at" is the user's natural angle. It is what they reach for, that other people also recognize as strength. This is the rawest form of the **distinct angle** in Why You.
 
 What to do with it:
 
@@ -60,7 +60,7 @@ What to do with it:
 What to do with it:
 
 - Use the "can be paid for" answer to surface the market timing. If the user can be paid for X today, what changed in the last two years that made X pay? That change is the Why Now anchor.
-- If there is a gap (the user's "good at" and "the world needs" answers point one way, but the "can be paid" answer points elsewhere), name the gap. Two routes exist: build the proof needed to close the gap (a 6 to 12-month plan), or pick adjacent positioning that monetises today.
+- If there is a gap (the user's "good at" and "the world needs" answers point one way, but the "can be paid" answer points elsewhere), name the gap. Two routes exist: build the proof needed to close the gap (a 6 to 12-month plan), or pick adjacent positioning that monetizes today.
 
 ---
 

@@ -12,7 +12,7 @@ UK and EU regulatory requirements relevant to board AI oversight.
 |:------------|:-------------|
 | **Lawful basis** | AI processing needs a lawful basis; legitimate interest requires balancing test |
 | **Purpose limitation** | Training data and AI outputs must align with stated purposes |
-| **Data minimisation** | Collect only what AI needs; avoid over-collection for "future use" |
+| **Data minimization** | Collect only what AI needs; avoid over-collection for "future use" |
 | **Accuracy** | AI outputs affecting individuals must be accurate; right to correction applies |
 | **Automated decision-making (Art 22)** | Individuals have right not to be subject to solely automated decisions with legal/significant effects |
 | **DPIA requirement** | Data Protection Impact Assessment required for high-risk AI processing |
@@ -25,13 +25,13 @@ The Information Commissioner's Office has published guidance on:
 - Explaining AI decisions
 - AI auditing framework
 
-**Board implication:** Ensure the organisation's AI use has been reviewed against ICO guidance.
+**Board implication:** Ensure the organization's AI use has been reviewed against ICO guidance.
 
 ---
 
-## EU AI Act (Relevant to UK Organisations)
+## EU AI Act (Relevant to UK Organizations)
 
-The EU AI Act applies to UK organisations that:
+The EU AI Act applies to UK organizations that:
 - Provide AI systems in the EU market
 - Use AI whose output is used in the EU
 - Have EU-based customers or employees
@@ -72,7 +72,7 @@ The EU AI Act applies to UK organisations that:
 |:------------|:-------|
 | **Safeguarding** | AI must not compromise child protection |
 | **Data protection** | Children's data has enhanced protection |
-| **Educational standards** | AI should support, not replace, professional judgement |
+| **Educational standards** | AI should support, not replace, professional judgment |
 
 ---
 

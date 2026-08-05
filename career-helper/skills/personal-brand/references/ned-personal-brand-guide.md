@@ -26,8 +26,8 @@ Board positioning has constraints that other personal-brand work does not:
 
 - **Audience is small and well-networked.** Chairs, nomination committees, and head-hunters in any given sector talk to each other. Reputation travels in a few weeks, for better and worse.
 - **Reputation moves through endorsement, not virality.** Algorithm-driven reach matters less than the kind of post that ends up forwarded by email. Substance beats volume.
-- **Discretion is part of the credential.** Loud commentary on current employers, current boards, or live regulatory matters reads as poor judgement. The brand is built by what is not said as much as by what is said.
-- **Independence has to be visible.** Boards are looking for people who will challenge management without being captured. The brand needs to show independent thinking, including a track record of pushing back, without naming specific organisations or breaching duty.
+- **Discretion is part of the credential.** Loud commentary on current employers, current boards, or live regulatory matters reads as poor judgment. The brand is built by what is not said as much as by what is said.
+- **Independence has to be visible.** Boards are looking for people who will challenge management without being captured. The brand needs to show independent thinking, including a track record of pushing back, without naming specific organizations or breaching duty.
 - **Diversity of experience matters more than depth in a single function.** Sector knowledge, regulatory awareness, audit chair experience, ESG, digital and AI fluency, transformation, M&A, crisis management. Boards select for what is missing on the current board, not for the most senior resume.
 
 These constraints shape every block of the Why You, Why Them, Why Now framework.
@@ -39,14 +39,14 @@ These constraints shape every block of the Why You, Why Them, Why Now framework.
 The distinct angle for a NED is rarely "I have done X for 30 years". It is usually one of:
 
 - **Sector pivot**: deep operating experience in one sector, contributing to a board in an adjacent sector that needs that expertise (e.g., regulated-utilities executive joining a fintech board)
-- **Functional specialism**: a recognised specialism the board needs (audit chair, remuneration, technology, AI governance, ESG, cyber, financial crime)
+- **Functional specialism**: a recognized specialism the board needs (audit chair, remuneration, technology, AI governance, ESG, cyber, financial crime)
 - **Stage transition**: experience helping companies cross a specific stage gate (Series B to C, IPO readiness, post-merger integration, scaling internationally)
 - **Underrepresented perspective**: experience that is genuinely scarce on the boards in the user's target sector and that adds material decision-making value, not tokenism
 - **Public sector or regulatory**: ex-regulator, ex-civil service, or ex-government adviser bringing rules-of-the-game knowledge to private-sector boards
 
 Adjustments to the foundation work:
 
-- **Proof points must be board-relevant.** Operating results matter, but board work is judged on judgement, not delivery. Capture proof of judgement: governance committees served on, decisions where the user pushed back, outcomes the user steered without owning.
+- **Proof points must be board-relevant.** Operating results matter, but board work is judged on judgment, not delivery. Capture proof of judgment: governance committees served on, decisions where the user pushed back, outcomes the user steered without owning.
 - **Story arc must explain the move to the boardroom.** "Why now is the right time for me to take board work" needs a clean answer. The most credible answer is usually a combination of "I have learned the lesson my sector has, and the next chapter is helping others learn it without paying the same price".
 - **Three words should include independence.** Words like "independent", "challenging", "calm", "rigorous", "patient" are board words. Words like "transformational", "visionary", "high-energy" are executive words and read as off-tone in a board context.
 
@@ -58,7 +58,7 @@ The audience is not "boards". It is:
 
 - **Chairs**, who run nomination conversations
 - **Senior independent directors**, often the gatekeepers for chemistry checks
-- **Head-hunters specialising in board appointments** (not executive search firms; the practice is different)
+- **Head-hunters specializing in board appointments** (not executive search firms; the practice is different)
 - **Current NEDs in target sectors** who are asked "do you know anyone for this seat?"
 - **Company secretaries** in the target sector, who often manage board induction and know which seats are coming up
 - **Trustee chairs and CEOs of charities** if the audience includes the non-profit sector
@@ -124,7 +124,7 @@ Document these explicitly in the audience-channel-map output:
 - **Confidentiality**: board materials, executive sessions, and live regulatory engagement are confidential. The brand cannot reference them.
 - **Director duties**: in the UK, statutory directors have duties under the Companies Act 2006. Public commentary that could be seen as breaching duty is a hard stop.
 - **Charity Commission and equivalent regulators**: trustees in the UK have specific duties under the Charities Act and Charity Commission guidance. Public positioning that could be read as fundraising or political activity should be checked.
-- **Senior-management-function regimes** (financial services PRA SMFs and similar): public commentary on regulatory matters or competitors is closely scrutinised.
+- **Senior-management-function regimes** (financial services PRA SMFs and similar): public commentary on regulatory matters or competitors is closely scrutinized.
 
 If any of these apply, the brand should be built more conservatively, with longer review loops, and with explicit guidance to seek company-secretary or compliance review on borderline content.
 

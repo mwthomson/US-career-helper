@@ -1,4 +1,4 @@
-# Rejection Analysis: {{ORGANISATION}} - {{ROLE_TITLE}}
+# Rejection Analysis: {{ORGANIZATION}} - {{ROLE_TITLE}}
 
 **Date applied:** {{YYYY-MM-DD}}
 **Date rejected:** {{YYYY-MM-DD}}

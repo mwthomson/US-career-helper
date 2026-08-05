@@ -3,7 +3,7 @@
 **Owner:** {{NAME}}
 **Last updated:** {{DATE}}
 
-Synthesised insights drawn from your interview debriefs, rejection analyses, and win logs. Updated periodically as new notes accumulate, not after every single application.
+Synthesized insights drawn from your interview debriefs, rejection analyses, and win logs. Updated periodically as new notes accumulate, not after every single application.
 
 ---
 
@@ -23,7 +23,7 @@ Synthesised insights drawn from your interview debriefs, rejection analyses, and
 
 - {{e.g. consistently strong areas, question types that still need sharper answers}}
 
-## Role and Organisation Fit Observations
+## Role and Organization Fit Observations
 
 - {{e.g. the stage, sector, or team size where your fit is strongest}}
 

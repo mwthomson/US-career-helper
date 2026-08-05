@@ -30,7 +30,7 @@ This skill builds the brand-level content layer. For LinkedIn-specific tactics (
 
 **Pillars are not topics.** A pillar is a recurring lens through which the user views many topics. "AI governance" is a topic; "Boring AI for regulated boards" is a pillar. The pillar gives the topic a point of view.
 
-**Voice is non-negotiable.** Pillars produce output, but the output must sound like the user. If the user is reserved, dry humour and short sentences. If the user is a storyteller, long-form essays. The voice rules in the foundation are binding.
+**Voice is non-negotiable.** Pillars produce output, but the output must sound like the user. If the user is reserved, dry humor and short sentences. If the user is a storyteller, long-form essays. The voice rules in the foundation are binding.
 
 ---
 
@@ -88,7 +88,7 @@ For each pillar, draft topics across these categories:
 - **Audience-language posts**: a phrase the audience uses about their own problem, unpacked into what it really means and what to do about it
 - **Synthesis**: connecting two ideas from elsewhere (a book, a paper, a podcast) with a non-obvious through-line
 - **Calls to attention**: something the user thinks the audience is not paying enough attention to, with the case
-- **Reflection**: a personal reflection on the work, not a humblebrag, that the audience would recognise themselves in
+- **Reflection**: a personal reflection on the work, not a humblebrag, that the audience would recognize themselves in
 
 Vary the categories across the ten topics. Do not let one pillar become "ten frameworks". Variety is what keeps a pillar feeling alive.
 

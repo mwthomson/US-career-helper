@@ -1,21 +1,21 @@
 ---
 name: linkedin-coach
-description: This skill should be used when the user asks to "review my LinkedIn profile", "optimise my LinkedIn", "write a LinkedIn headline", "build a content strategy", "review my LinkedIn post", or "create a video introduction". Covers full profile audits, headline crafting, content strategy coaching, post review, and video introduction scripts across five modes.
+description: This skill should be used when the user asks to "review my LinkedIn profile", "optimize my LinkedIn", "write a LinkedIn headline", "build a content strategy", "review my LinkedIn post", or "create a video introduction". Covers full profile audits, headline crafting, content strategy coaching, post review, and video introduction scripts across five modes.
 tags: linkedin, profile, content, headline, video, social, career
 ---
 
 # LinkedIn Coach
 
-Comprehensive LinkedIn optimisation across five modes. Choose the one that fits your situation.
+Comprehensive LinkedIn optimization across five modes. Choose the one that fits your situation.
 
 ## Capabilities
 
 | # | Capability | When to Use |
 |:--|:-----------|:------------|
-| A | Full Profile Audit | Complete profile review and optimisation |
-| B | Content Review | Analyse existing posts for audience alignment |
+| A | Full Profile Audit | Complete profile review and optimization |
+| B | Content Review | Analyze existing posts for audience alignment |
 | C | Content Strategy | Build sustainable 3x/week posting strategy |
-| D | Headline Optimisation | Quick headline-only focus |
+| D | Headline Optimization | Quick headline-only focus |
 | E | Video Introduction | 30-second profile video script |
 
 ## Quick Start
@@ -35,7 +35,7 @@ Comprehensive LinkedIn optimisation across five modes. Choose the one that fits 
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 4. Next: content strategy."). Refer to saved files by description, not filename. Repeat key details (company names, role titles, dates) — do not assume the user remembers from earlier messages.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -52,7 +52,7 @@ These rules apply to **all communication with the user** and to the **formatting
 Complete profile sections review:
 - Photo, banner, headline, about section
 - Skills reordering (RSC API top 3)
-- Discoverability and recruiter search optimisation
+- Discoverability and recruiter search optimization
 - Activity and content strategy recommendations
 
 **Output:** `applications/{role-slug}/linkedin-profile-review.md`
@@ -64,7 +64,7 @@ Complete profile sections review:
 **What you need:** Posts to review + target audience
 **Load:** @references/linkedin-posts-helper.md
 
-Analyse existing posts:
+Analyze existing posts:
 - Audience alignment assessment
 - Decision-maker pain point identification
 - Content improvement recommendations
@@ -91,12 +91,12 @@ Build a sustainable posting strategy:
 
 ---
 
-## D. Headline-Only Optimisation
+## D. Headline-Only Optimization
 
 **What you need:** Career goals + target audience
 **Load:** @references/linkedin-headline.md
 
-Goal-first headline optimisation:
+Goal-first headline optimization:
 - Job search, thought leadership, client acquisition, networking, or board/advisory
 - Headlines as value statements, not job titles
 - Goal-aligned formulas for different structures
@@ -107,7 +107,7 @@ Goal-first headline optimisation:
 
 ---
 
-## E. Video Introduction Optimiser
+## E. Video Introduction Optimizer
 
 **What you need:** Career goals, target audience, key messages
 **Load:** @references/linkedin-video.md
@@ -168,8 +168,8 @@ When a capability specifies a template, you MUST:
 
 ## Related Skills
 
-After optimising your LinkedIn, you might want:
-- **/application-optimiser** - Optimise your resume to match your updated LinkedIn
+After optimizing your LinkedIn, you might want:
+- **/application-optimizer** - Optimize your resume to match your updated LinkedIn
 - **/career-navigator** - Build a networking strategy and 3-month plan
 - **/interview-master** - Prepare for interviews
 

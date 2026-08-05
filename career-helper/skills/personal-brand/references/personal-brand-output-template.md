@@ -1,6 +1,6 @@
 # Personal Brand Output Template
 
-Use this template for every artefact produced by the personal-brand skill. Preserve the section structure and the footer.
+Use this template for every artifact produced by the personal-brand skill. Preserve the section structure and the footer.
 
 US English. No em dashes. No emojis. Oxford comma. Second person.
 
@@ -350,9 +350,9 @@ Audited surfaces: {{LIST_OF_SURFACES}}
 
 What your existing presence currently says you stand for, who for, and why now:
 
-- Distinct angle (as currently signalled): {{...}}
-- Audience (as currently signalled): {{...}}
-- Why-now (as currently signalled): {{...}}
+- Distinct angle (as currently signaled): {{...}}
+- Audience (as currently signaled): {{...}}
+- Why-now (as currently signaled): {{...}}
 
 ## Intended Positioning
 
@@ -370,7 +370,7 @@ What your existing presence currently says you stand for, who for, and why now:
 - Channels no longer matching audience: {{LIST}}
 - Risky or off-brand legacy content: {{LIST}}
 
-## Prioritised Refresh Plan
+## Prioritized Refresh Plan
 
 ### Keep
 {{LIST}}

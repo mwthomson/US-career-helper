@@ -1,8 +1,8 @@
-# Reference and Referee Preparation: {{ROLE_TITLE}} at {{ORGANISATION}}
+# Reference and Referee Preparation: {{ROLE_TITLE}} at {{ORGANIZATION}}
 
 **Generated:** {{DATE}}
 **Target Role:** {{ROLE_TITLE}}
-**Organisation:** {{ORGANISATION}}
+**Organization:** {{ORGANIZATION}}
 **References requested:** {{Number, and type if specified}}
 
 ---
@@ -33,14 +33,14 @@ The strengths your references should speak to, drawn from the job description:
 
 ### Brief for {{REFEREE_1_NAME}}
 
-- **Role and organisation:** {{One or two lines}}
-- **What this role values:** {{The one or two strengths this referee should emphasise}}
+- **Role and organization:** {{One or two lines}}
+- **What this role values:** {{The one or two strengths this referee should emphasize}}
 - **Examples to remind them of:** {{Specific, verified shared experiences. Do not invent.}}
 - **Anything to frame consistently:** {{Gap, pivot, or step the user is addressing, or "None"}}
 
 ### Brief for {{REFEREE_2_NAME}}
 
-- **Role and organisation:** {{One or two lines}}
+- **Role and organization:** {{One or two lines}}
 - **What this role values:** {{Strengths}}
 - **Examples to remind them of:** {{Verified shared experiences}}
 - **Anything to frame consistently:** {{Note, or "None"}}
@@ -52,7 +52,7 @@ The strengths your references should speak to, drawn from the job description:
 ```text
 Hi {{NAME}},
 
-I am applying for {{ROLE_TITLE}} at {{ORGANISATION}} and would value you as a referee.
+I am applying for {{ROLE_TITLE}} at {{ORGANIZATION}} and would value you as a referee.
 It is a {{one-line description of the role and what it focuses on}}.
 
 Would you feel able to speak to my {{relevant strengths}}? If so, I will send a short

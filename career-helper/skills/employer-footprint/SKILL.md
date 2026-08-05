@@ -6,7 +6,7 @@ tags: footprint, digital, social-media, audit, employer, impression, online-pres
 
 # Employer Footprint Analysis
 
-See yourself through an employer's eyes. A deep-research swarm audit of your digital footprint, synthesised into a credit-report style dashboard with actionable recommendations.
+See yourself through an employer's eyes. A deep-research swarm audit of your digital footprint, synthesized into a credit-report style dashboard with actionable recommendations.
 
 ## Capabilities
 
@@ -33,7 +33,7 @@ See yourself through an employer's eyes. A deep-research swarm audit of your dig
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 4. Next: employer impression report."). Refer to saved files by description, not filename. Repeat key details (company names, role titles, dates) — do not assume the user remembers from earlier messages.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators. Dashboard scores must use text labels, not colour coding.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators. Dashboard scores must use text labels, not color coding.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -60,7 +60,7 @@ Before starting any analysis, collect the following via AskUserQuestion:
 ### Required Information
 
 **Question 1: Basic Details**
-"To analyse your digital footprint, I need some details. Let's start with the basics - what is your full name (as it appears professionally)?"
+"To analyze your digital footprint, I need some details. Let's start with the basics - what is your full name (as it appears professionally)?"
 
 **Question 2: Social Media Handles**
 "Which social media platforms do you use? Please share your usernames/URLs for any that apply:"
@@ -188,7 +188,7 @@ Focused deep-dive into specific social channels:
 The full footprint analysis interpreted specifically through the lens of the target employer:
 - Company values and culture research (parallel with footprint analysis)
 - Map your digital presence against their stated values
-- Identify aspects of your experience to prioritise based on company needs
+- Identify aspects of your experience to prioritize based on company needs
 - Flag any misalignments between your online presence and their culture
 - Generate talking points that leverage your digital presence positively
 
@@ -259,7 +259,7 @@ When the user's context matches a specific persona, adapt the analysis focus:
 | Persona | Adaptation | Trigger |
 |:--------|:----------|:--------|
 | Career Returner | Focus on explaining gaps positively; check if old profiles are outdated | User mentions career break |
-| Early Career | Emphasise building presence rather than auditing; check student social media | Graduate or limited experience |
+| Early Career | Emphasize building presence rather than auditing; check student social media | Graduate or limited experience |
 | Senior/Executive | Focus on thought leadership, board-level presence, media mentions | VP+ or C-suite level |
 | NED/Board | Governance signals, independence markers, conflicts of interest | Board or trustee roles |
 | Fractional | Multi-company narrative consistency, expertise positioning | Portfolio or fractional career |
@@ -271,10 +271,10 @@ When the user's context matches a specific persona, adapt the analysis focus:
 - **US English** throughout (unless non-US role explicitly requires US English)
 - **No emojis** - Professional tone
 - **Cited sources** - All findings include URLs and access dates
-- **Text-label ratings** — GREEN/AMBER/RED as text, never colour alone
+- **Text-label ratings** — GREEN/AMBER/RED as text, never color alone
 - **Evidence-based** - Every flag backed by specific findings
 - **Never invent data** - Mark missing info as `[NOT FOUND]` or `[PRIVATE]`
-- **Privacy-conscious** - Only analyse publicly available information
+- **Privacy-conscious** - Only analyze publicly available information
 
 ### Tone of Voice
 - Address the user as "you", not by name: "Your digital presence shows..." not "Bethan's digital presence shows..." — default to second person for warmth and engagement; occasional name use is fine for emphasis
@@ -323,11 +323,11 @@ After completing a footprint analysis, career-helper can help you act on the fin
 
 | Finding | Recommended Skill | Action |
 |:--------|:-----------------|:-------|
-| LinkedIn needs improvement | **/linkedin-coach** | Profile audit and optimisation |
+| LinkedIn needs improvement | **/linkedin-coach** | Profile audit and optimization |
 | Content gaps identified | **/linkedin-coach** | Content strategy and calendar |
-| resume doesn't match online presence | **/application-optimiser** | resume optimisation with consistency |
+| resume doesn't match online presence | **/application-optimizer** | resume optimization with consistency |
 | Interview questions generated | **/interview-master** | Full interview prep and mock |
-| Company culture concerns found | **/application-optimiser** | Deeper company research |
+| Company culture concerns found | **/application-optimizer** | Deeper company research |
 | Career narrative inconsistent | **/career-navigator** | Networking intelligence and strategy |
 | Considering career change | **/career-transitions** | Portfolio career or AI readiness |
 
@@ -359,7 +359,7 @@ After completing a footprint analysis, career-helper can help you act on the fin
 ## Related Skills
 
 - **/social-media-review** - Quick social media health check (lighter alternative)
-- **/application-optimiser** - Research the company and optimise your resume
+- **/application-optimizer** - Research the company and optimize your resume
 - **/linkedin-coach** - Fix LinkedIn issues identified in the audit
 - **/interview-master** - Prepare for questions based on your footprint
 - **/career-navigator** - Build networking strategy leveraging your strengths

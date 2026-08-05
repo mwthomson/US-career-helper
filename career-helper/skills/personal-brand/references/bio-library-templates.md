@@ -113,7 +113,7 @@ Provide two or three options. Read-aloud test: if it cannot be said in one breat
 
 ### 6. Speaker Bio (one-paragraph, 80 to 120 words)
 
-Used by: conference programmes, panel introductions, podcast show notes.
+Used by: conference programs, panel introductions, podcast show notes.
 
 Structure:
 
@@ -128,7 +128,7 @@ Always offer a third-person and a first-person version. Conferences default to t
 
 ### 7. Speaker Bio (three-sentence)
 
-A tighter version for printed programmes and panel boards:
+A tighter version for printed programs and panel boards:
 
 ```text
 [Role, distinct angle, audience.]

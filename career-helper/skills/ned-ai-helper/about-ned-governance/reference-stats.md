@@ -17,8 +17,8 @@ Evidence-based data for board discussions and challenge questions. Sources verif
 ### Return on Investment
 | Investment Type | ROI | Source |
 |:----------------|:---:|:-------|
-| AI training programmes | **10:1** | Google/Public First 2025 |
-| Traditional skills programmes | **1:2** | Google/Public First 2025 |
+| AI training programs | **10:1** | Google/Public First 2025 |
+| Traditional skills programs | **1:2** | Google/Public First 2025 |
 | Outcome-focused AI (clear goals) | **30-70%** within 1 year | Paul Bratcher NED Briefing |
 | "Reinvent everything" approach | **20-40%** within 1 year | Paul Bratcher NED Briefing |
 | "Buy everyone a license" strategy | **Little to no ROI** | Paul Bratcher NED Briefing |
@@ -63,7 +63,7 @@ Evidence-based data for board discussions and challenge questions. Sources verif
 ### Performance Correlation
 | Metric | Value | Source |
 |:-------|:-----:|:-------|
-| Organisations excelling in 3 AI areas → top performance | **32x more likely** | IBM 2024 |
+| Organizations excelling in 3 AI areas → top performance | **32x more likely** | IBM 2024 |
 | Investment focused on improving existing processes | **78%** | IBM 2024 |
 | Agree new operating model needed for agentic AI | **78%** | IBM 2024 |
 | Cite inadequate skills as barrier | **47%** | IBM 2024 |
@@ -91,7 +91,7 @@ Evidence-based data for board discussions and challenge questions. Sources verif
 | Domain | Traditional | AI-First |
 |:-------|:------------|:---------|
 | Growth model | Linear (headcount) | Exponential (automation) |
-| Process focus | Optimising existing | Embedding intelligence |
+| Process focus | Optimizing existing | Embedding intelligence |
 | Change response | Reactive | Proactive systems that learn |
 | Revenue per employee | Standard | **>$2M** in top AI-native startups |
 
@@ -100,7 +100,7 @@ Evidence-based data for board discussions and challenge questions. Sources verif
 |:-------------|:-------|
 | Scattered experiments | Marginal gains only |
 | Technology-first thinking | No business outcome focus |
-| Pilots without adoption metrics | "Governance theatre" |
+| Pilots without adoption metrics | "Governance theater" |
 
 Source: McKinsey AI-First Playbook 2025
 
@@ -147,7 +147,7 @@ Source: Wharton SSRN 2024
 ### The Headline Numbers
 - **80%** task time reduction with AI assistance
 - **10:1** ROI on AI training vs 1:2 for traditional skills
-- **32x** performance advantage for AI-mature organisations
+- **32x** performance advantage for AI-mature organizations
 - **92%** EMEA leaders confident in AI agent ROI within 2 years
 - **$3.5B** IBM's productivity gains from AI in 2 years
 
@@ -168,7 +168,7 @@ Source: Wharton SSRN 2024
 > "Nobody needs trillion-parameter, generic models. They need efficient, cost-effective AI tailored for use cases that matter."
 > — Ana Paula Assis, IBM
 
-> "Companies starting later are realising they now won't catch those who started earlier."
+> "Companies starting later are realizing they now won't catch those who started earlier."
 > — Paul Bratcher, NED Briefing 2024
 
 > "Permission to prompt: Workers need explicit permission and clear policies. Many felt using AI was 'cheating' without institutional endorsement."
@@ -202,7 +202,7 @@ Source: Wharton SSRN 2024
 
 | Strategy | % of Employers | Source |
 |:---------|:--------------:|:-------|
-| Prioritise upskilling workforce | **85%** | WEF 2025 |
+| Prioritize upskilling workforce | **85%** | WEF 2025 |
 | Hire staff with new skills | **70%** | WEF 2025 |
 | Transition staff from declining to growing roles | **50%** | WEF 2025 |
 | Reduce staff as skills become less relevant | **40%** | WEF 2025 |
@@ -254,7 +254,7 @@ Source: [WEF Future of Jobs 2025](https://www.weforum.org/stories/2025/01/future
 
 ### Organisational Response Patterns
 
-| Strategy | % of Organisations | Source |
+| Strategy | % of Organizations | Source |
 |:---------|:------------------:|:-------|
 | Reorient business models toward AI-driven opportunities | **49%** | WEF 2025 |
 | Transition employees from AI-disrupted roles | **47%** | WEF 2025 |
@@ -263,9 +263,9 @@ Source: [WEF Future of Jobs 2025](https://www.weforum.org/stories/2025/01/future
 
 ## The Frontier Firm Model
 
-### Microsoft's Vision for AI-Era Organisations
+### Microsoft's Vision for AI-Era Organizations
 
-> "The future belongs to Frontier Firms - human-led, agent-operated organisations that buy intelligence like electricity, help their employees put it to work to generate value, and compound it like interest."
+> "The future belongs to Frontier Firms - human-led, agent-operated organizations that buy intelligence like electricity, help their employees put it to work to generate value, and compound it like interest."
 > — Kathleen Hogan, EVP Chief Strategy and Transformation Officer, Microsoft
 
 ### Five Capabilities of Frontier Firms
@@ -290,13 +290,13 @@ Source: Microsoft "Becoming a Frontier Firm" 2024
 
 ---
 
-## The End of Digitalisation, Start of AI Era
+## The End of Digitalization, Start of AI Era
 
 ### Paradigm Shift
 
 | Era | Focus | Organisational Model |
 |:----|:------|:---------------------|
-| **Digitalisation (1990s-2020s)** | Process automation, digital channels | Traditional hierarchy, efficiency focus |
+| **Digitalization (1990s-2020s)** | Process automation, digital channels | Traditional hierarchy, efficiency focus |
 | **AI Era (2020s-onwards)** | Intelligence augmentation, agentic systems | Human-led, agent-operated, continuous adaptation |
 
 ### What This Means for Boards
@@ -304,7 +304,7 @@ Source: Microsoft "Becoming a Frontier Firm" 2024
 | Old Assumption | New Reality |
 |:---------------|:------------|
 | Technology projects have end dates | AI capability requires continuous evolution |
-| IT department owns digital transformation | Business transformation owned by whole organisation |
+| IT department owns digital transformation | Business transformation owned by whole organization |
 | Training is a one-time event | Continuous learning is mandatory (70% skills change) |
 | Headcount drives capacity | Intelligence drives capacity |
 | Change management is a phase | Change is permanent state |
@@ -382,7 +382,7 @@ Source: Microsoft "Becoming a Frontier Firm" 2024
 | Government and Public Sector | **90%** |
 | Energy Technology and Utilities | **90%** |
 
-### Industries Prioritising Technological Literacy
+### Industries Prioritizing Technological Literacy
 
 | Industry | % Considering Core |
 |:---------|:------------------:|
@@ -392,7 +392,7 @@ Source: Microsoft "Becoming a Frontier Firm" 2024
 | Insurance and Pensions Management | **81%** |
 | Education and Training | **76%** |
 
-### Industries Prioritising Environmental Stewardship
+### Industries Prioritizing Environmental Stewardship
 
 | Industry | % Considering Core |
 |:---------|:------------------:|
@@ -402,16 +402,16 @@ Source: Microsoft "Becoming a Frontier Firm" 2024
 | Automotive and Aerospace | **70%** |
 | Mining and Metals | **68%** |
 
-**NED Challenge:** Compare your organisation's AI skill investment against industry benchmarks. If 100% of automotive/aerospace considers AI core but your firm doesn't, that's a strategic gap.
+**NED Challenge:** Compare your organization's AI skill investment against industry benchmarks. If 100% of automotive/aerospace considers AI core but your firm doesn't, that's a strategic gap.
 
 ---
 
 ## Sector-Specific Insights (WEF 2025)
 
 ### Insurance and Pensions Management
-- **83%** prioritise curiosity and lifelong learning (vs 50% global average)
-- **94%** prioritise resilience, flexibility and agility (vs 67% global average)
-- **86%** prioritise creative thinking (highest of all sectors)
+- **83%** prioritize curiosity and lifelong learning (vs 50% global average)
+- **94%** prioritize resilience, flexibility and agility (vs 67% global average)
+- **86%** prioritize creative thinking (highest of all sectors)
 
 ### Government and Public Sector
 - **90%** consider AI and big data as core skill
@@ -421,12 +421,12 @@ Source: Microsoft "Becoming a Frontier Firm" 2024
 ### Telecommunications
 - **100%** consider AI and big data as core skill
 - 2x global average for design/UX, cybersecurity, and programming
-- **79%** prioritise resilience, flexibility and agility
+- **79%** prioritize resilience, flexibility and agility
 
 ### Mining and Metals
-- **50%** prioritise environmental stewardship (2.5x global average)
+- **50%** prioritize environmental stewardship (2.5x global average)
 - Higher emphasis on manual dexterity and precision
-- **68%** prioritise talent management
+- **68%** prioritize talent management
 
 **Board Application:** Use sector benchmarks to challenge whether AI proposals align with industry-wide skill priorities. A proposal that ignores sector-specific requirements may be poorly conceived.
 

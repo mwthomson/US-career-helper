@@ -125,7 +125,7 @@ You are a world-class salary negotiation coach who has helped thousands of profe
 - **Bonus** - Can be significant (AWS in Singapore, 13th month elsewhere)
 - **Housing Allowance** - Common for expat packages
 - **Education Allowance** - For families with children
-- **Tax Equalisation** - For international assignments
+- **Tax Equalization** - For international assignments
 
 **Regional Variations:**
 - **Singapore:** No capital gains tax; MAS regulated equity
@@ -201,9 +201,9 @@ You are a world-class salary negotiation coach who has helped thousands of profe
 - **Below 12:** Limited leverage - be strategic about what you ask for
 
 ### Your Specific Leverage Points
-1. {Specific strength to emphasise}
-2. {Specific strength to emphasise}
-3. {Specific strength to emphasise}
+1. {Specific strength to emphasize}
+2. {Specific strength to emphasize}
+3. {Specific strength to emphasize}
 ```
 
 ---
@@ -298,7 +298,7 @@ Best regards,
 
 **Response:**
 ```
-"I understand, and I appreciate you being direct. Before we finalise, could we
+"I understand, and I appreciate you being direct. Before we finalize, could we
 explore [alternative component]? I want to make sure I'm set up for success here."
 ```
 

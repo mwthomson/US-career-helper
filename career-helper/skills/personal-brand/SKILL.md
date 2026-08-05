@@ -1,6 +1,6 @@
 ---
 name: personal-brand
-description: This skill should be used when the user asks to "build my personal brand", "work on my online presence", "find my niche", "position myself", "figure out what I'm known for", "rebrand", "refresh my bio", "find my voice", or talks about thought leadership, distinct positioning, or being recognised in their field. Uses the Why You, Why Them, and Why Now framework to produce a positioning statement, an audience and channel map, content pillars with cadence, and a library of bios for different contexts.
+description: This skill should be used when the user asks to "build my personal brand", "work on my online presence", "find my niche", "position myself", "figure out what I'm known for", "rebrand", "refresh my bio", "find my voice", or talks about thought leadership, distinct positioning, or being recognized in their field. Uses the Why You, Why Them, and Why Now framework to produce a positioning statement, an audience and channel map, content pillars with cadence, and a library of bios for different contexts.
 tags: brand, positioning, thought-leadership, voice, niche, audience, content, bio, online-presence, fractional, ned
 ---
 
@@ -35,7 +35,7 @@ Strategic positioning for your online presence, built around three questions: Wh
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true**: use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors; use plain replacements. Explicit signposting at every transition ("Step 2 of 4. Next: audience and channel map."). Refer to saved files by description, not filename. Repeat key details (sector, target role, audience) and do not assume the user remembers from earlier messages.
-- **colour_blind: true**: never use colour alone to convey meaning. Use labels, text, or icons for all status indicators.
+- **colour_blind: true**: never use color alone to convey meaning. Use labels, text, or icons for all status indicators.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim), ask once: "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -49,7 +49,7 @@ These rules apply to **all communication with the user** and to the **formatting
 **Load:** @references/personal-brand-foundation.md
 **Optional input bridge:** @references/brand-from-ikigai.md (use when the user has answered the four ikigai questions)
 
-The core capability. Walk through Why You, Why Them, and Why Now in three blocks of questions. Synthesise into:
+The core capability. Walk through Why You, Why Them, and Why Now in three blocks of questions. Synthesize into:
 
 - A one-paragraph positioning statement
 - A one-line elevator version
@@ -125,7 +125,7 @@ A diagnostic before a rebuild:
 1. Map current signals: what does your existing presence say you stand for, who for, and why now?
 2. Compare against intended positioning (run Capability A inline if no foundation exists)
 3. Identify drift: outdated bios, inconsistent voice across channels, content pillars that no longer fit
-4. Produce a prioritised refresh plan: what to keep, what to cut, what to add, and in what order
+4. Produce a prioritized refresh plan: what to keep, what to cut, what to add, and in what order
 
 **When to route elsewhere:** if the audit surfaces risky or embarrassing content rather than positioning drift, route to `/social-media-review`. If the user wants a deep, scored employer-impression dashboard, route to `/employer-footprint`.
 
@@ -146,7 +146,7 @@ When the user's context matches a specific persona, load the relevant guide alon
 | Persona | Load Reference | Trigger |
 |:--------|:---------------|:--------|
 | NED, Governor, or Trustee | @references/ned-personal-brand-guide.md | User seeks board roles, NED positions, governor or trustee appointments, or wants to be known for board-level perspectives |
-| Fractional or Portfolio | @references/fractional-personal-brand-guide.md | User runs fractional, portfolio, or independent consulting work and needs the brand to attract inbound enquiries |
+| Fractional or Portfolio | @references/fractional-personal-brand-guide.md | User runs fractional, portfolio, or independent consulting work and needs the brand to attract inbound inquiries |
 | Career Returner | @references/career-returner-personal-brand-guide.md | User is returning after a career break and wants positioning that frames the gap honestly without making it the story |
 
 Persona guides supplement the standard references, they do not replace them. Load both.

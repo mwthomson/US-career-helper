@@ -17,7 +17,7 @@ Plan your search, build your network, and navigate offers.
 | 3 | Salary Negotiation | After receiving an offer |
 | 4 | Offer Evaluation | Comparing multiple offers or evaluating a single one |
 | 5 | Application Tracker | Keeping every live application and its next action in one place |
-| 6 | Application Learnings Loop | Capturing interviews, rejections, and wins, then synthesising the patterns |
+| 6 | Application Learnings Loop | Capturing interviews, rejections, and wins, then synthesizing the patterns |
 
 ## Quick Start
 
@@ -40,7 +40,7 @@ Plan your search, build your network, and navigate offers.
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 4. Next: salary negotiation."). Refer to saved files by description, not filename. Repeat key details (company names, role titles, dates) — do not assume the user remembers from earlier messages.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -65,7 +65,7 @@ When you switch between the two, say so out loud.
 
 **Flight risk check.** When evaluating an offer or application, ask: will the hiring manager see this candidate as overqualified and likely to leave within six months? If yes, the application needs to address it proactively (cover letter framing, interview narrative) or the user needs to reconsider whether to pursue it. Flag this honestly.
 
-**Overthinking versus applying.** Some users iterate endlessly on resumes without actually sending applications. If you notice this pattern, name it: "You've spent three sessions polishing this resume. It's in good shape. The next step is sending it." Coaching is about action, not about perfecting an artefact.
+**Overthinking versus applying.** Some users iterate endlessly on resumes without actually sending applications. If you notice this pattern, name it: "You've spent three sessions polishing this resume. It's in good shape. The next step is sending it." Coaching is about action, not about perfecting an artifact.
 
 **Psychological and financial pressure.** Unemployment is expensive and identity-shaking. Consider these pressures when giving advice; a user four months into an expensive job search has different constraints than someone employed and exploring. Ask about pressure when it's relevant; do not assume.
 
@@ -73,7 +73,7 @@ When you switch between the two, say so out loud.
 
 **When in doubt, ask.** "Would it help if I pushed back on this plan, or would you rather I helped you execute it?" Some sessions call for challenge; others call for support. Ask which the user wants rather than guessing.
 
-Humour is fine when it lands naturally. Empty praise is not.
+Humor is fine when it lands naturally. Empty praise is not.
 
 ---
 
@@ -89,10 +89,10 @@ Agentic parallel research to identify high-value connections:
 - Executive stakeholders and decision makers
 - Company alumni who share your background
 - Mutual connection paths for warm introductions
-- Personalised connection strategies and message templates
+- Personalized connection strategies and message templates
 - Timing and sequencing guidance
 
-Uses parallel WebSearch to find 8-12 strategic people, prioritised in 3 tiers.
+Uses parallel WebSearch to find 8-12 strategic people, prioritized in 3 tiers.
 
 **Output:** `applications/{role-slug}/networking-intelligence.md`
 
@@ -153,12 +153,12 @@ Region-aware negotiation coaching:
 **Template:** @references/offer-evaluation-template.md
 
 Comprehensive offer analysis:
-- Total compensation normalisation (currency, CoL, tax, benefits)
+- Total compensation normalization (currency, CoL, tax, benefits)
 - Career trajectory analysis for each option
 - Culture and fit assessment
 - Risk evaluation (company health, role clarity)
 - Weighted decision matrix based on your priorities
-- Intuition check and regret minimisation framework
+- Intuition check and regret minimization framework
 - Scenario planning (best/likely/worst cases)
 
 **Output:** `offer-evaluation.md`
@@ -173,8 +173,8 @@ Comprehensive offer analysis:
 
 A single, plain-text board of every live application, owned by the user and stored locally:
 - Builds from a scan of existing `applications/*/` folders, then confirms each stage with you
-- Tracks role, organisation, stage, next action, and next date per application
-- Uses fixed text-label stages (Researching through to Closed), never colour coding
+- Tracks role, organization, stage, next action, and next date per application
+- Uses fixed text-label stages (Researching through to Closed), never color coding
 - Records only what you confirm or what existing files show, never inventing status
 - Surfaces one honest observation when the data warrants it (stalled pipeline, overdue actions, thin volume)
 - Read by `/career-helper:status` as the spine of your progress summary
@@ -185,17 +185,17 @@ A single, plain-text board of every live application, owned by the user and stor
 
 ## 6. Application Learnings Loop
 
-**What you need:** A completed interview, a rejection, or a win to record; accumulated notes when synthesising
+**What you need:** A completed interview, a rejection, or a win to record; accumulated notes when synthesizing
 **Load:** @references/learnings-loop.md
 **Templates:** @references/interview-debrief-template.md, @references/rejection-analysis-template.md, @references/win-log-template.md, @references/patterns-synthesis-template.md
 
-Turn each outcome into a short, structured note, then periodically synthesise the notes into one patterns file:
+Turn each outcome into a short, structured note, then periodically synthesize the notes into one patterns file:
 - Interview debrief: what they asked, what landed, what to do differently
 - Rejection analysis: what was said versus the likely real reason, and the concrete adjustment
 - Win log: which resume version and framings worked, so success is repeatable
 - Patterns synthesis: recurring gaps, what is working, and fit observations, drawn only from the notes
 - Records only what you confirm or what existing files show, never inventing a reason for a rejection
-- Feeds `/interview-master` (recurring objections) and `/application-optimiser` (gaps the resume undersells)
+- Feeds `/interview-master` (recurring objections) and `/application-optimizer` (gaps the resume undersells)
 
 **Output:** `applications/learnings/patterns.md`, plus per-event notes under `applications/learnings/interview-notes/`, `rejections/`, and `wins/`
 
@@ -261,8 +261,8 @@ When a capability specifies a template, you MUST:
 
 ## Related Skills
 
-- **/application-optimiser** - Research companies and optimise your resume
-- **/linkedin-coach** - Optimise your LinkedIn profile and content
+- **/application-optimizer** - Research companies and optimize your resume
+- **/linkedin-coach** - Optimize your LinkedIn profile and content
 - **/interview-master** - Prepare for interviews
 - **/career-transitions** - Explore portfolio/fractional career paths
 

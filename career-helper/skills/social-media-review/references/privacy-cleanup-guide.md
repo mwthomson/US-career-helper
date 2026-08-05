@@ -63,7 +63,7 @@ Platform-by-platform privacy settings:
 
 **LinkedIn:**
 - Do NOT make private - this is your professional platform
-- Use /linkedin-coach for optimisation instead
+- Use /linkedin-coach for optimization instead
 - Check: Settings → Visibility → Profile viewing options
 
 **YouTube:**
@@ -120,7 +120,7 @@ After cleaning up, consider what you WANT employers to find:
    - "Computer Science graduate | Interested in software engineering and data"
    - "Marketing professional | London"
 2. Share or engage with industry-relevant content occasionally
-3. Ensure your LinkedIn is optimised (use /linkedin-coach)
+3. Ensure your LinkedIn is optimized (use /linkedin-coach)
 4. If you have a personal website/portfolio, make sure it's current
 5. Consider pinning a professional tweet or post to the top of your profiles
 
@@ -148,7 +148,7 @@ You don't need to become a thought leader overnight. Small things help:
 │ TikTok       │ Settings → Privacy → Private Account │
 │ YouTube      │ Studio → Content → Visibility        │
 │ LinkedIn     │ DO NOT MAKE PRIVATE (use /linkedin-  │
-│              │ coach to optimise instead)            │
+│              │ coach to optimize instead)            │
 │ Snapchat     │ Settings → Who Can... → My Friends   │
 │ Reddit       │ Check if username reveals identity    │
 └──────────────┴──────────────────────────────────────┘

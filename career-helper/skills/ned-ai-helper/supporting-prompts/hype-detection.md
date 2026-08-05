@@ -17,11 +17,11 @@ Cutting through vendor and consultant AI noise for board members.
 
 ### Pattern 2: The Transformation Promise
 
-**Claim:** "AI will transform your organisation."
+**Claim:** "AI will transform your organization."
 
 **Sceptical response:**
 - "Transform how, specifically? Which processes, which outcomes?"
-- "What is your evidence from similar organisations?"
+- "What is your evidence from similar organizations?"
 - "What does 'transform' mean in measurable terms?"
 
 ### Pattern 3: The ROI Fantasy
@@ -35,10 +35,10 @@ Cutting through vendor and consultant AI noise for board members.
 
 ### Pattern 4: The Everyone-Is-Doing-It
 
-**Claim:** "80% of organisations are already using AI."
+**Claim:** "80% of organizations are already using AI."
 
 **Sceptical response:**
-- "Using AI for what? Email summarisation or strategic decisions?"
+- "Using AI for what? Email summarization or strategic decisions?"
 - "What percentage are getting measurable value?"
 - "How many of those are in our sector, at our scale?"
 
@@ -104,7 +104,7 @@ Instead of hype detection alone, these signals suggest a credible AI approach:
 - Honest acknowledgement of what AI cannot do
 - Phased approach with measurable checkpoints
 - Majority investment in people and process
-- Evidence from comparable organisations
+- Evidence from comparable organizations
 - Realistic timelines (months, not weeks)
 - Named accountable individuals
 

@@ -53,7 +53,7 @@ Search Queries (Parallel):
 | **Communication** | Formal vs informal, written vs verbal, transparency level |
 | **Innovation** | Risk-taking vs conservative, fail-fast vs cautious |
 | **Diversity & Inclusion** | Stated commitments, visible diversity, ERGs |
-| **Social Responsibility** | CSR programmes, sustainability commitments |
+| **Social Responsibility** | CSR programs, sustainability commitments |
 | **Technical Culture** | Open source engagement, tech stack philosophy, engineering blog |
 | **Leadership Style** | Flat vs hierarchical, empowering vs directive |
 
@@ -77,8 +77,8 @@ After both tracks complete, map candidate presence against company culture:
 
 Identify which aspects of the candidate's digital presence provide interview advantage:
 
-**Experience to Prioritise:**
-Based on company priorities, which roles, projects, or achievements on the resume should the candidate emphasise? Cross-reference with what's publicly visible - if they can say "as you may have seen from my GitHub/LinkedIn/blog..."
+**Experience to Prioritize:**
+Based on company priorities, which roles, projects, or achievements on the resume should the candidate emphasize? Cross-reference with what's publicly visible - if they can say "as you may have seen from my GitHub/LinkedIn/blog..."
 
 **Experience to Prepare to Explain:**
 Based on company expectations, which gaps, transitions, or unconventional choices might need a prepared narrative?
@@ -111,7 +111,7 @@ Assess:
 Generate the employer impression report using the footprint-dashboard-template.md, with particular emphasis on:
 
 1. **Company Culture Alignment** section (fully populated)
-2. **Experience to Prioritise** section
+2. **Experience to Prioritize** section
 3. **Likely Interview Questions** section
 4. **Recommended Next Actions** mapped to career-helper skills
 

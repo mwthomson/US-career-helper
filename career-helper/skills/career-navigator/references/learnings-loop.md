@@ -1,8 +1,8 @@
 # Application Learnings Loop
 
-**Purpose:** Turn each interview, rejection, and win into a short, structured note, then periodically synthesise those notes into a single patterns file. Over a search of dozens of applications, this is how the user spots what is actually working and what keeps costing them, rather than relearning the same lesson each time.
+**Purpose:** Turn each interview, rejection, and win into a short, structured note, then periodically synthesize those notes into a single patterns file. Over a search of dozens of applications, this is how the user spots what is actually working and what keeps costing them, rather than relearning the same lesson each time.
 
-**Applies to:** The learnings artefacts under `applications/learnings/`, created and updated by career-navigator. The synthesis file is read by the `/career-helper:status` command when it exists.
+**Applies to:** The learnings artifacts under `applications/learnings/`, created and updated by career-navigator. The synthesis file is read by the `/career-helper:status` command when it exists.
 
 ---
 
@@ -10,8 +10,8 @@
 
 1. **Capture close to the event.** A debrief written the same day is honest; one written a week later is fiction. Offer to run a debrief as soon as the user reports an interview or a decision.
 2. **Never invent.** Record only what the user tells you or what existing files confirm. Mark anything uncertain as a guess, and leave `{{PLACEHOLDER}}` or `[UNKNOWN]` where you do not know. The user's honest read on a rejection is useful; a fabricated reason is harmful.
-3. **Separate notes from synthesis.** Individual debriefs, rejections, and wins are raw input. The patterns file is the considered output. Do not rewrite history in the raw notes when synthesising.
-4. **Synthesise periodically, not constantly.** Update the patterns file when enough new notes have accumulated to show a trend (a rough guide: every three to five new notes, or after any final-round outcome), not after every application.
+3. **Separate notes from synthesis.** Individual debriefs, rejections, and wins are raw input. The patterns file is the considered output. Do not rewrite history in the raw notes when synthesizing.
+4. **Synthesize periodically, not constantly.** Update the patterns file when enough new notes have accumulated to show a trend (a rough guide: every three to five new notes, or after any final-round outcome), not after every application.
 5. **One observation beats a lecture.** When you surface a pattern, give the user the single most useful one and stop. See the Coaching Voice section in the main skill.
 
 ---
@@ -58,7 +58,7 @@ When the user reports a callback, a strong interview, or an offer:
 2. Capture which resume version and which framings worked, so the success is repeatable.
 3. Save to `applications/learnings/wins/{org-slug}-{role-slug}.md`.
 
-## Synthesising Patterns
+## Synthesizing Patterns
 
 When enough notes have accumulated:
 
@@ -72,7 +72,7 @@ When enough notes have accumulated:
 ## Relationship to Other Outputs
 
 - The learnings loop feeds `/interview-master`: recurring objections and weak answers identified here are the raw material for sharper interview prep.
-- Rejection analyses feed `/application-optimiser`: a gap the resume consistently undersells is a resume problem to fix, not just an interview problem.
+- Rejection analyses feed `/application-optimizer`: a gap the resume consistently undersells is a resume problem to fix, not just an interview problem.
 - The tracker indexes applications; the learnings loop explains why they ended the way they did.
 
 ---

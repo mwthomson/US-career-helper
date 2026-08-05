@@ -2,13 +2,13 @@
 
 ## The 70:20:10 Investment Test
 
-A diagnostic for evaluating AI programmes as change initiatives, not technology projects.
+A diagnostic for evaluating AI programs as change initiatives, not technology projects.
 
 ---
 
 ## Core Principle
 
-> "AI adoption is a people-led change programme, not a technology project. The primary reason AI initiatives fail is treating them as technology implementations rather than organisational transformation."
+> "AI adoption is a people-led change program, not a technology project. The primary reason AI initiatives fail is treating them as technology implementations rather than organisational transformation."
 
 ---
 
@@ -55,7 +55,7 @@ A diagnostic for evaluating AI programmes as change initiatives, not technology 
 
 ---
 
-## Change Programme Components
+## Change Program Components
 
 For AI adoption to succeed, these elements must be present:
 
@@ -77,7 +77,7 @@ For AI adoption to succeed, these elements must be present:
 | Pattern | Symptoms | Challenge Questions |
 |:--------|:---------|:--------------------|
 | **Technology-first thinking** | Business case focused on features, not outcomes | "What business outcome does this deliver? How will we measure it?" |
-| **Underinvested change** | Token training, no communications plan | "What % of budget is people vs technology? Who is leading the change programme?" |
+| **Underinvested change** | Token training, no communications plan | "What % of budget is people vs technology? Who is leading the change program?" |
 | **Leadership lip service** | Exec sponsor named but not engaged | "When did the sponsor last visibly champion this? What decisions have they made?" |
 | **Ignoring resistance** | No stakeholder analysis | "Who opposes this and why? What have we done to address their concerns?" |
 | **Big bang deployment** | Full rollout without pilots | "What did we learn from the pilot? What did we change as a result?" |
@@ -94,20 +94,20 @@ For AI adoption to succeed, these elements must be present:
 | **Adoption** | % actively using AI tools as intended | >70% at 6 months | <40% |
 | **Proficiency** | % achieving competency standards | >60% at 12 months | <30% |
 | **Advocacy** | % who would recommend new ways of working | >50% | <30% |
-| **Benefit Realisation** | % of projected benefits achieved | >80% at 18 months | <50% |
+| **Benefit Realization** | % of projected benefits achieved | >80% at 18 months | <50% |
 
 ---
 
 ## Assessment Questions
 
-When reviewing an AI business case or programme:
+When reviewing an AI business case or program:
 
 ### Investment Balance
 1. What is the split between People, Process, and Technology spend?
 2. Does "implementation cost" include change management, or just technology?
 3. What is the budget for sustained communications beyond launch?
 
-### Change Programme Quality
+### Change Program Quality
 4. Is there a dedicated change manager, or is this "additional duty" for someone?
 5. What training is planned? How many hours? Is it role-specific?
 6. What happens after go-live to embed new ways of working?
@@ -126,7 +126,7 @@ When reviewing an AI business case or programme:
 
 ## Key Insight
 
-> "The 70:20:10 pattern is consistent across successful AI implementations. Organisations that invest proportionately in people see 3-7x better ROI than those who treat AI as a technology purchase."
+> "The 70:20:10 pattern is consistent across successful AI implementations. Organizations that invest proportionately in people see 3-7x better ROI than those who treat AI as a technology purchase."
 
 ---
 

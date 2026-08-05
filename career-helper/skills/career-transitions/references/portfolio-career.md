@@ -57,7 +57,7 @@ Traditional employment plus side income streams (boards, advising, content).
 
 | Question | Your Answer | Ready? |
 |----------|-------------|--------|
-| Specialisation clarity | {What you're known for} | {Clear enough?} |
+| Specialization clarity | {What you're known for} | {Clear enough?} |
 | Market demand for skills | {High/Medium/Low} | {Research needed?} |
 | Network strength | {X relevant contacts} | {Enough to start?} |
 | Credibility markers | {Employers, achievements} | {Compelling?} |
@@ -303,7 +303,7 @@ Consider IR35 insurance.
 | Liability | Limited to LLC assets |
 
 ### Option C: S-Corp Election
-**Best for:** Higher earnings, tax optimisation
+**Best for:** Higher earnings, tax optimization
 
 | Aspect | Details |
 |--------|---------|
@@ -362,7 +362,7 @@ Best,
 - Exec Capital
 - Movemeon
 - Freshminds
-- CFO Centre / FD Works
+- CFO Center / FD Works
 - YunoJuno (for shorter engagements)
 
 ### Fractional Platforms (US)
@@ -393,17 +393,17 @@ Many VCs maintain lists of fractional execs for portfolio companies.
 ```markdown
 ## Portfolio resume Structure
 
-Unlike traditional resumes, emphasise versatility and outcomes:
+Unlike traditional resumes, emphasize versatility and outcomes:
 
 **Header:**
 {Name}
-Fractional {Role} | {Specialisation}
+Fractional {Role} | {Specialization}
 {Location} | {Email} | {LinkedIn}
 
 **Summary:**
 "{Role} with {X} years in {industries}. Currently serving as fractional
 {role} for {number} companies, helping {type} achieve {outcomes}.
-Previously {notable roles}. Specialise in {specific areas}."
+Previously {notable roles}. Specialize in {specific areas}."
 
 **Current Portfolio:**
 {Company A} | Fractional {Role} | {Dates}
@@ -423,10 +423,10 @@ Previously {notable roles}. Specialise in {specific areas}."
 ### LinkedIn for Portfolio Careers
 
 ```markdown
-## LinkedIn Optimisation
+## LinkedIn Optimization
 
 **Headline:**
-Fractional {Role} | {Specialisation} | Helping {audience} achieve {outcome}
+Fractional {Role} | {Specialization} | Helping {audience} achieve {outcome}
 
 **About Section:**
 - Lead with what you do now (fractional/portfolio)
@@ -459,7 +459,7 @@ Load template: @`templates/portfolio-career-template.md`
 
 After portfolio strategy is complete:
 
-1. "Want to optimise your LinkedIn for fractional work?" → @`supporting-prompts/linkedin-profile-review.md`
+1. "Want to optimize your LinkedIn for fractional work?" → @`supporting-prompts/linkedin-profile-review.md`
 2. "Need help with positioning and messaging?" → @`supporting-prompts/linkedin-headline.md`
 3. "Ready to research target companies?" → @`supporting-prompts/company-research.md`
 4. "Want to build thought leadership to attract clients?" → @`supporting-prompts/content-strategy-coaching.md`

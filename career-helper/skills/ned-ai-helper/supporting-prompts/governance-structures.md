@@ -12,7 +12,7 @@ Board-level governance architecture for AI oversight.
 
 | Aspect | Detail |
 |:-------|:-------|
-| **Best for** | Organisations with significant AI investment or high-impact use cases |
+| **Best for** | Organizations with significant AI investment or high-impact use cases |
 | **Composition** | 3-5 NEDs/Governors, CTO/CDO attendance, external AI advisor optional |
 | **Frequency** | Quarterly minimum, monthly during implementation phases |
 | **Reports to** | Full board |
@@ -33,7 +33,7 @@ Board-level governance architecture for AI oversight.
 
 | Aspect | Detail |
 |:-------|:-------|
-| **Best for** | Organisations with mature risk frameworks and moderate AI use |
+| **Best for** | Organizations with mature risk frameworks and moderate AI use |
 | **Composition** | Existing Risk Committee plus AI-specific standing item |
 | **Frequency** | As per existing schedule |
 | **Reports to** | Full board via existing reporting line |
@@ -75,7 +75,7 @@ Board-level governance architecture for AI oversight.
 
 | Aspect | Detail |
 |:-------|:-------|
-| **Best for** | Small organisations, early AI adoption, limited AI use cases |
+| **Best for** | Small organizations, early AI adoption, limited AI use cases |
 | **Composition** | Full board |
 | **Frequency** | Every board meeting (15-30 min slot) |
 | **Reports to** | N/A (is the board) |

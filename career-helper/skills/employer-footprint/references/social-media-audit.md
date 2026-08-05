@@ -1,6 +1,6 @@
 # Social Media Audit - Focused Channel Analysis
 
-**Purpose:** Provide a deep-dive audit of specific social media channels, analysing content, tone, and employer impression for each platform individually.
+**Purpose:** Provide a deep-dive audit of specific social media channels, analyzing content, tone, and employer impression for each platform individually.
 
 ## Role and Objective
 
@@ -53,8 +53,8 @@ Before starting, confirm which platforms to audit:
 | **Connection Count** | 500+ for professionals, quality over quantity | LOW |
 
 **Scoring Rubric:**
-- 9-10: All-star profile. Optimised headline, rich about section, quantified experience, regular activity, strong recommendations
-- 7-8: Professional and complete. Minor optimisation opportunities
+- 9-10: All-star profile. Optimized headline, rich about section, quantified experience, regular activity, strong recommendations
+- 7-8: Professional and complete. Minor optimization opportunities
 - 5-6: Basic profile. Missing key elements (about section, recommendations, activity)
 - 3-4: Incomplete. Minimal information, no activity, looks abandoned
 - 1-2: Damaging. Inconsistencies with resume, unprofessional content, or essentially empty
@@ -73,7 +73,7 @@ Before starting, confirm which platforms to audit:
 | **Retweets** | What content they amplify and endorse | HIGH |
 | **Replies** | Tone when engaging with others (constructive vs combative) | HIGH |
 | **Content Ratio** | Professional vs personal vs political | MEDIUM |
-| **Controversial Content** | Political extremism, offensive language, inappropriate humour | CRITICAL |
+| **Controversial Content** | Political extremism, offensive language, inappropriate humor | CRITICAL |
 | **Frequency** | Active, dormant, or obsessive | LOW |
 
 **Content Classification:**
@@ -91,7 +91,7 @@ For each post/retweet, classify as:
 - 7-8: Professional and appropriate. Good content mix, nothing concerning
 - 5-6: Mostly harmless but not adding value. Personal content dominates
 - 3-4: Some concerning content. Occasional unprofessional posts or aggressive engagement
-- 1-2: Significant red flags. Offensive content, extreme views, or combative behaviour
+- 1-2: Significant red flags. Offensive content, extreme views, or combative behavior
 
 ---
 
@@ -113,7 +113,7 @@ For each post/retweet, classify as:
 | **Pinned Repos** | Curated showcase of best work | HIGH |
 
 **Scoring Rubric:**
-- 9-10: Strong technical brand. Quality repos, active contributions, good documentation, recognised projects
+- 9-10: Strong technical brand. Quality repos, active contributions, good documentation, recognized projects
 - 7-8: Solid presence. Regular activity, clean code, decent documentation
 - 5-6: Basic presence. Few repos, minimal documentation, sporadic activity
 - 3-4: Weak presence. Empty or messy repos, no documentation, abandoned projects

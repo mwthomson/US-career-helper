@@ -30,7 +30,7 @@
 **Interviewer's Perspective:**
 
 *What They're Really Assessing:*
-{The underlying competency, behaviour, or fit being evaluated - be specific}
+{The underlying competency, behavior, or fit being evaluated - be specific}
 
 *What Makes a Strong Answer:*
 - {Criterion 1 - what good looks like}

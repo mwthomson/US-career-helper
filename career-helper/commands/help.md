@@ -13,7 +13,7 @@ You are a career support navigator. Help the user find the right skill for their
 |:------|:-------------|:---------|
 | **/getting-started** | Full overview with examples, preparation checklists, workflow planning, tips, scheduled Cowork routines | New users, getting the most out of career-helper, or automating the search |
 | **/linkedin-coach** | Profile audit, headlines, content strategy, post review, video scripts | Improving your LinkedIn presence |
-| **/application-optimiser** | Company research, ATS resume rewriting, cover letters and supporting statements, application strategy | Applying for specific roles |
+| **/application-optimizer** | Company research, ATS resume rewriting, cover letters and supporting statements, application strategy | Applying for specific roles |
 | **/interview-master** | Interview prep, mock interviews, post-interview coaching, reference and referee prep, ageism support | Before and after interviews, preparing references, age discrimination concerns |
 | **/career-navigator** | Networking, 3-month plans, salary negotiation, offer evaluation, application tracker | Planning and tracking your job search strategy |
 | **/career-transitions** | Portfolio careers, fractional executive roles, AI readiness, non-linear career exploration (entrepreneurship, startups, public sector, charity, intrapreneurship, multi-role skilling) | Changing career direction or exploring alternatives to traditional employment |
@@ -31,8 +31,8 @@ If the user described their situation, route them:
 | User Says | Recommend |
 |:----------|:----------|
 | "I need to update my LinkedIn" | /linkedin-coach |
-| "I'm applying for a job" | /application-optimiser |
-| "Write a cover letter" or "help with my supporting statement" | /application-optimiser (cover letter) |
+| "I'm applying for a job" | /application-optimizer |
+| "Write a cover letter" or "help with my supporting statement" | /application-optimizer (cover letter) |
 | "I have an interview coming up" | /interview-master |
 | "I got rejected" | /interview-master (post-interview coaching) |
 | "They asked for references" or "who should I use as a referee?" | /interview-master (reference and referee prep) |
@@ -60,9 +60,9 @@ If the user described their situation, route them:
 | "I'm a NED and need AI governance help" | /ned-ai-helper |
 | "Help me challenge an AI proposal at board" | /ned-ai-helper |
 | "I need AI risk assessment for the board" | /ned-ai-helper |
-| "I'm returning to work after a break" | /application-optimiser (with career returner persona) |
+| "I'm returning to work after a break" | /application-optimizer (with career returner persona) |
 | "I've been made redundant" | /career-navigator (with career returner persona) |
-| "I'm a graduate looking for my first role" | /application-optimiser (with early career persona) |
+| "I'm a graduate looking for my first role" | /application-optimizer (with early career persona) |
 | "I'm an apprentice preparing for interviews" | /interview-master (with early career persona) |
 | "I think I was rejected because of my age" | /interview-master (with ageism persona) |
 | "I keep being told I'm overqualified" | /interview-master (with ageism persona) |

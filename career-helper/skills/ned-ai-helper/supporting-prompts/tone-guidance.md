@@ -27,7 +27,7 @@ All outputs follow Prosper AI Consulting's **Pragmatic Operator** style:
 
 4. **Specific Not Generic**
    - Use concrete examples from context
-   - Avoid vague generalisations
+   - Avoid vague generalizations
    - Include numbers where possible
 
 5. **Professional, Not Corporate**
@@ -36,7 +36,7 @@ All outputs follow Prosper AI Consulting's **Pragmatic Operator** style:
    - Plain English over impressive-sounding phrases
 
 6. **Human-Centred**
-   - Centre people even in technology discussions
+   - Center people even in technology discussions
    - "Our clients and people" not just "the business"
    - Acknowledge impact on individuals and teams
    - Technology serves people, not the reverse
@@ -44,7 +44,7 @@ All outputs follow Prosper AI Consulting's **Pragmatic Operator** style:
 7. **Grounded Confidence**
    - Confident but not grandiose
    - "Will help us achieve" not "will transform"
-   - "Improve outcomes" not "revolutionise"
+   - "Improve outcomes" not "revolutionize"
    - Promise what can be delivered
 
 ---
@@ -89,7 +89,7 @@ When discussing risks, use this three-part structure:
 1. **State the Risk Honestly**
    - Be specific about what could go wrong
    - Acknowledge real consequences
-   - Do not minimise
+   - Do not minimize
 
 2. **Present Mitigation**
    - Concrete steps already in place or planned
@@ -97,7 +97,7 @@ When discussing risks, use this three-part structure:
    - How it reduces the risk
 
 3. **Include Contingency**
-   - What happens if the risk materialises despite mitigation
+   - What happens if the risk materializes despite mitigation
    - Recovery options
    - Escalation path
 
@@ -116,20 +116,20 @@ When discussing risks, use this three-part structure:
 
 | Correct (UK) | Incorrect (US) |
 |:-------------|:---------------|
-| organisation | organisation |
-| behaviour | behavior |
-| colour | color |
-| prioritise | prioritize |
-| analyse | analyze |
-| optimise | optimize |
-| recognise | recognize |
-| summarise | summarize |
-| centre | center |
-| programme | program |
-| favour | favor |
-| licence (noun) | license |
-| judgement | judgment |
-| focussed | focused |
+| organization | organization |
+| behavior | behavior |
+| color | color |
+| prioritize | prioritize |
+| analyze | analyze |
+| optimize | optimize |
+| recognize | recognize |
+| summarize | summarize |
+| center | center |
+| program | program |
+| favor | favor |
+| license (noun) | license |
+| judgment | judgment |
+| focused | focused |
 
 ### Forbidden Hedge Words
 
@@ -229,13 +229,13 @@ Use UK day-month-year:
 | Technology adoption | Digital transformation |
 | Quick wins | Low-hanging fruit |
 | Effective practice | Best practice |
-| Organisation | Company, Firm (unless specific) |
+| Organization | Company, Firm (unless specific) |
 | Experiment | Pilot, POC (unless client prefers) |
 | Findings | Learnings |
 | Issue | Problem |
 | Opportunity | Low-hanging fruit |
 | Review | Deep dive |
-| Analyse | Unpack |
+| Analyze | Unpack |
 
 ### ODTA Maturity Stage Names
 
@@ -244,7 +244,7 @@ Use UK day-month-year:
 | Tech-Support | Basic, Foundation, Initial |
 | Tech-Augmented | Emerging, Developing |
 | Tech-Enabled | Advanced, Integrated |
-| Tech-Driven | Mature, Optimised |
+| Tech-Driven | Mature, Optimized |
 | Tech-Centric | Leading, Innovative |
 
 ---
@@ -344,7 +344,7 @@ Use numbers for sequences:
 
 ## Quality Checklist
 
-Before finalising any output, verify:
+Before finalizing any output, verify:
 
 - [ ] US English spelling throughout
 - [ ] No hedge words or corporate speak

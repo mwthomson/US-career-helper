@@ -150,7 +150,7 @@ Which would you prefer: feedback after each question, or a full debrief at the e
 
 **Interviewer Behaviours to Simulate:**
 
-| Behaviour | When to Use | Purpose |
+| Behavior | When to Use | Purpose |
 |-----------|-------------|---------|
 | Follow-up questions | After vague answers | Test depth |
 | Silence after answer | Occasionally | Test composure |
@@ -166,7 +166,7 @@ Which would you prefer: feedback after each question, or a full debrief at the e
 1. Warm-up / rapport (2-3 min)
 2. "Walk me through your background" (5 min)
 3. Role-specific questions (15-20 min)
-4. Behavioural questions (10 min)
+4. Behavioral questions (10 min)
 5. Candidate questions (5-10 min)
 6. Close / next steps (2 min)
 
@@ -190,7 +190,7 @@ Which would you prefer: feedback after each question, or a full debrief at the e
 **Revised Approach:**
 Try: "{Suggested phrasing or structure}"
 
-**STAR Check (if behavioural):**
+**STAR Check (if behavioral):**
 - Situation: {Clear/Unclear}
 - Task: {Clear/Unclear}
 - Action: {Specific/Vague}
@@ -255,7 +255,7 @@ Try: "{Suggested phrasing or structure}"
 
 ### The Silent Interviewer
 
-**Behaviour:** Minimal reaction, waits for you to fill silence
+**Behavior:** Minimal reaction, waits for you to fill silence
 **Purpose:** Test composure, ability to self-regulate answer length
 **How to handle:** Finish your point, then ask "Would you like me to elaborate on any part?"
 
@@ -263,7 +263,7 @@ Try: "{Suggested phrasing or structure}"
 
 ### The Rapid-Fire Interviewer
 
-**Behaviour:** Quick questions, little time to think
+**Behavior:** Quick questions, little time to think
 **Purpose:** Test how you perform under pressure
 **How to handle:** It's okay to say "Let me think about that for a moment"
 
@@ -271,7 +271,7 @@ Try: "{Suggested phrasing or structure}"
 
 ### The Sceptical Interviewer
 
-**Behaviour:** Challenges assertions, plays devil's advocate
+**Behavior:** Challenges assertions, plays devil's advocate
 **Purpose:** Test conviction and ability to defend positions
 **How to handle:** Stay calm, acknowledge valid points, stand firm on facts
 
@@ -279,7 +279,7 @@ Try: "{Suggested phrasing or structure}"
 
 ### The Tangent Interviewer
 
-**Behaviour:** Goes off on tangents, seems unfocused
+**Behavior:** Goes off on tangents, seems unfocused
 **Purpose:** Test ability to redirect professionally
 **How to handle:** Answer politely, then bring back to relevant topic
 
@@ -287,7 +287,7 @@ Try: "{Suggested phrasing or structure}"
 
 ### The Stressed Interviewer
 
-**Behaviour:** Seems rushed, distracted, checks phone
+**Behavior:** Seems rushed, distracted, checks phone
 **Purpose:** Reality - not everyone is a good interviewer
 **How to handle:** Stay professional, don't take personally, demonstrate patience
 

@@ -46,7 +46,7 @@ This workflow uses **multiple search cycles** to achieve depth. Single-pass rese
 │   6. CROSS-REFERENCE                                        │
 │      └─► resume vs online presence consistency check            │
 │                                                             │
-│   7. SYNTHESISE + SCORE                                     │
+│   7. SYNTHESIZE + SCORE                                     │
 │      └─► Consolidate, score dimensions, generate dashboard  │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -150,7 +150,7 @@ RED FLAG SEARCH QUERIES:
 3. "{name}" AND (political OR protest) [note: not inherently negative]
 4. "{name}" AND (arrest OR lawsuit OR court)
 5. "{name}" AND (rant OR angry OR furious)
-6. "{twitter_handle}" AND (deleted OR apologised) [past controversies]
+6. "{twitter_handle}" AND (deleted OR apologized) [past controversies]
 
 CROSS-REFERENCE FLAGS:
 - resume claims vs verifiable evidence
@@ -180,7 +180,7 @@ For each resume entry, check against online presence:
 
 ---
 
-## Step 7: Synthesise + Score
+## Step 7: Synthesize + Score
 
 Score all 8 dimensions and generate dashboard:
 

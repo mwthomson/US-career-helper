@@ -8,7 +8,7 @@ This is offered, never imposed. The plain-text grid in the ikigai guide remains 
 
 ## When to Offer
 
-After you have summarised the four answers and looked for overlaps, offer the visual:
+After you have summarized the four answers and looked for overlaps, offer the visual:
 
 "Would you like me to turn this into the classic ikigai diagram, an interactive page you can keep and come back to?"
 
@@ -34,9 +34,9 @@ The classic ikigai model has four overlapping circles and their intersections. P
 | Mission (love + world needs) | Your synthesis of where answers 1 and 3 overlap |
 | Profession (good at + paid) | Your synthesis of where answers 2 and 4 overlap |
 | Vocation (world needs + paid) | Your synthesis of where answers 3 and 4 overlap |
-| Ikigai (all four) | The centre, only if a genuine candidate emerged |
+| Ikigai (all four) | The center, only if a genuine candidate emerged |
 
-Synthesising overlaps from the user's own answers is allowed; this is interpretation, not fabrication. If an overlap or the centre is not clear from what the user said, leave the `{{PLACEHOLDER}}` in place rather than guessing, and tell the user it is theirs to fill in. An honest gap at the centre is useful information; it often points toward career transitions or retraining.
+Synthesizing overlaps from the user's own answers is allowed; this is interpretation, not fabrication. If an overlap or the center is not clear from what the user said, leave the `{{PLACEHOLDER}}` in place rather than guessing, and tell the user it is theirs to fill in. An honest gap at the center is useful information; it often points toward career transitions or retraining.
 
 ---
 
@@ -53,10 +53,10 @@ The template is a single self-contained HTML file: no external scripts, fonts, o
 
 ## Accessibility (Required)
 
-A colour-coded diagram must never depend on colour alone (house style, and the colour-blind preference). The template already does the following; preserve all of it:
+A color-coded diagram must never depend on color alone (house style, and the color-blind preference). The template already does the following; preserve all of it:
 
-- A **colour-blind-safe palette** (Okabe-Ito) for the four circles.
-- A **text label on every region**, so the meaning is readable without distinguishing colours.
+- A **color-blind-safe palette** (Okabe-Ito) for the four circles.
+- A **text label on every region**, so the meaning is readable without distinguishing colors.
 - Hover and keyboard focus both reveal a region's detail, so it works without a mouse.
 - A **full text-equivalent table** beneath the diagram listing all four answers and the overlaps, so the page is completely usable if the diagram cannot be seen at all.
 
@@ -65,7 +65,7 @@ If the user has `dyslexia_friendly: true`:
 - Keep the content in each region short; move detail into the table.
 
 If the user has `colour_blind: true`:
-- No change needed beyond the defaults; the palette and text labels already cover it. Mention that the diagram is labelled, not colour-dependent.
+- No change needed beyond the defaults; the palette and text labels already cover it. Mention that the diagram is labelled, not color-dependent.
 
 ---
 

@@ -26,15 +26,15 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 | **Career Returners** | Anxiety about gaps, feeling out of touch, loss of confidence | Gap narrative framing, skills refresh evidence, gradual re-entry strategies |
 | **Layoff / Layoff** | Shock, loss of identity, urgency, sometimes shame | Immediate structure (3-month plan), wellbeing integration, practical first steps within 48 hours |
 
-**How to use this:** When the user shares their situation, adapt your tone and recommendations accordingly. Do not assume everyone is a confident mid-career professional. Job searching can be emotionally difficult at any level. Acknowledge reality without being patronising.
+**How to use this:** When the user shares their situation, adapt your tone and recommendations accordingly. Do not assume everyone is a confident mid-career professional. Job searching can be emotionally difficult at any level. Acknowledge reality without being patronizing.
 
-**Important:** Never minimise the emotional challenge. A graduate terrified of their first interview deserves the same quality of support as a VP negotiating a package. Layoff at 55 is a different experience from layoff at 30. Let the user's situation shape how you present the tools.
+**Important:** Never minimize the emotional challenge. A graduate terrified of their first interview deserves the same quality of support as a VP negotiating a package. Layoff at 55 is a different experience from layoff at 30. Let the user's situation shape how you present the tools.
 
 ## The Eleven Skills - With Examples
 
-### Application Optimiser - Research, resume, Cover Letters, and Strategy
+### Application Optimizer - Research, resume, Cover Letters, and Strategy
 
-**What it does:** Deep company research, ATS-optimised resume rewriting, cover letters and supporting statements, and application strategy planning.
+**What it does:** Deep company research, ATS-optimized resume rewriting, cover letters and supporting statements, and application strategy planning.
 
 **Real example - applying for a specific role:**
 
@@ -53,7 +53,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 > **You say:** "I've just finished my Computer Science degree and I'm applying for a Graduate Software Engineer role at Revolut. I don't have much work experience - just a placement year and some uni projects."
 >
 > **What happens:**
-> 1. Researches Revolut's graduate programme and what they look for
+> 1. Researches Revolut's graduate program and what they look for
 > 2. Rewrites your resume to position your placement, projects, and education as relevant experience
 > 3. ATS keyword analysis ensures you match what their systems scan for
 > 4. Application strategy includes how to frame limited experience as a strength
@@ -77,7 +77,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 >
 > **What happens:**
 > 1. Career-helper audits every section of your profile - photo, banner, headline, about, experience, skills
-> 2. Provides specific rewrites for each section, optimised for recruiter search and your target role
+> 2. Provides specific rewrites for each section, optimized for recruiter search and your target role
 > 3. Reorders your skills for maximum visibility
 > 4. Suggests a content strategy to build visibility with hiring managers
 >
@@ -101,7 +101,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 >
 > **What happens:**
 > 1. Audits your profile with age-bias mitigation in mind
-> 2. Rewrites your headline to emphasise current impact, not tenure
+> 2. Rewrites your headline to emphasize current impact, not tenure
 > 3. Restructures experience to lead with recent achievements and tech fluency
 > 4. Suggests content strategy positioning you as a forward-looking leader
 
@@ -164,7 +164,7 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 
 ### Career Navigator - Planning, Networking, and Offers
 
-**What it does:** Strategic networking intelligence, 3-month job search plans, salary negotiation coaching, offer evaluation, an application tracker that keeps every live application and its next action in one place, and an application learnings loop that turns each interview, rejection, and win into a structured note and synthesises them into a single patterns file.
+**What it does:** Strategic networking intelligence, 3-month job search plans, salary negotiation coaching, offer evaluation, an application tracker that keeps every live application and its next action in one place, and an application learnings loop that turns each interview, rejection, and win into a structured note and synthesizes them into a single patterns file.
 
 **Real example - planning a job search:**
 
@@ -213,8 +213,8 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 > 1. Walks you through a short, structured debrief of the interview and an analysis of the rejection, in your own words
 > 2. Keeps what was actually said separate from your honest read on the likely real reason; never invents a reason
 > 3. Saves each as a per-event note under `applications/learnings/`
-> 4. Once a few notes have built up, synthesises them into a single patterns file: what is working, recurring gaps, and fit observations
-> 5. Surfaces the single most useful pattern, then points it at `/interview-master` or `/application-optimiser` to fix
+> 4. Once a few notes have built up, synthesizes them into a single patterns file: what is working, recurring gaps, and fit observations
+> 5. Surfaces the single most useful pattern, then points it at `/interview-master` or `/application-optimizer` to fix
 >
 > **You get:** `applications/learnings/patterns.md`, plus per-event notes under `applications/learnings/interview-notes/`, `rejections/`, and `wins/`
 
@@ -348,13 +348,13 @@ Career-helper adapts to your stage. When presenting the overview, be aware of th
 
 **Real example - checking your current role:**
 
-> **You say:** "Will AI affect my job? I'm a mid-level financial analyst at a S&P 250 company. Most of my day is spent on financial modelling, variance analysis, and writing monthly reports for the board."
+> **You say:** "Will AI affect my job? I'm a mid-level financial analyst at a S&P 250 company. Most of my day is spent on financial modeling, variance analysis, and writing monthly reports for the board."
 >
 > **What happens:**
 > 1. Career-helper silently researches AI's impact on financial analyst roles using current data
 > 2. Analyses each of your specific tasks against what AI can do today and what is coming
 > 3. Delivers a direct verdict: which parts of your role are at risk, which are resilient, and when
-> 4. Builds a personalised 6-month action plan with monthly milestones
+> 4. Builds a personalized 6-month action plan with monthly milestones
 >
 > **You get:** `financial-analyst-ai-impact-assessment.md`
 
@@ -464,7 +464,7 @@ Career-helper skills are designed to feed into each other. Here is how the outpu
 Footprint Audit ──→ Fix Issues (LinkedIn, content, etc.)
        │
        ↓
-Company Research ──→ resume Optimisation ──→ LinkedIn Sync
+Company Research ──→ resume Optimization ──→ LinkedIn Sync
        │                    │
        ↓                    ↓
 Interview Prep ──→ Mock Interview ──→ Real Interview
@@ -483,7 +483,7 @@ Interview Prep ──→ Mock Interview ──→ Real Interview
                                             Offer Evaluation
 ```
 
-**Key insight:** Each step's output makes the next step better. Company research informs resume optimisation. Both inform interview preparation. This is why the recommended workflow matters.
+**Key insight:** Each step's output makes the next step better. Company research informs resume optimization. Both inform interview preparation. This is why the recommended workflow matters.
 
 ## Closing
 

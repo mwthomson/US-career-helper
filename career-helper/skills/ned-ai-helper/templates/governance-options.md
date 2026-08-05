@@ -1,6 +1,6 @@
 # AI Governance Structure Options
 
-## For [Organisation Name]
+## For [Organization Name]
 
 **Prepared:** [Date]
 **Prepared by:** Prosper AI Consulting
@@ -26,11 +26,11 @@
 - [Composition requirements]
 - [Reporting obligations]
 
-**Pros for [Organisation]:**
+**Pros for [Organization]:**
 - [Specific benefit 1]
 - [Specific benefit 2]
 
-**Cons for [Organisation]:**
+**Cons for [Organization]:**
 - [Specific concern 1]
 - [Specific concern 2]
 
@@ -43,11 +43,11 @@
 - [Agenda time required]
 - [Additional expertise needed]
 
-**Pros for [Organisation]:**
+**Pros for [Organization]:**
 - [Specific benefit 1]
 - [Specific benefit 2]
 
-**Cons for [Organisation]:**
+**Cons for [Organization]:**
 - [Specific concern 1]
 - [Specific concern 2]
 
@@ -60,11 +60,11 @@
 - [Compliance focus areas]
 - [External audit requirements]
 
-**Pros for [Organisation]:**
+**Pros for [Organization]:**
 - [Specific benefit 1]
 - [Specific benefit 2]
 
-**Cons for [Organisation]:**
+**Cons for [Organization]:**
 - [Specific concern 1]
 - [Specific concern 2]
 
@@ -77,11 +77,11 @@
 - [Standing reports required]
 - [Escalation criteria]
 
-**Pros for [Organisation]:**
+**Pros for [Organization]:**
 - [Specific benefit 1]
 - [Specific benefit 2]
 
-**Cons for [Organisation]:**
+**Cons for [Organization]:**
 - [Specific concern 1]
 - [Specific concern 2]
 
@@ -89,10 +89,10 @@
 
 ## Recommendation
 
-[Recommended option with rationale specific to the organisation's size, sector, AI maturity, and regulatory context.]
+[Recommended option with rationale specific to the organization's size, sector, AI maturity, and regulatory context.]
 
 ---
 
-*AI Governance Options | [Organisation Name] | [Date]*
+*AI Governance Options | [Organization Name] | [Date]*
 
 *Prosper AI Consulting*

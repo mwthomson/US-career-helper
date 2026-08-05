@@ -1,6 +1,6 @@
 # Workflow Planner
 
-Create a personalised skill sequence based on the user's specific situation. This is not a generic workflow - it adapts to what they have, what they need, and how urgent it is.
+Create a personalized skill sequence based on the user's specific situation. This is not a generic workflow - it adapts to what they have, what they need, and how urgent it is.
 
 ## How to Use This Reference
 
@@ -44,12 +44,12 @@ Step 0: /employer-footprint (Full Footprint Analysis) [OPTIONAL]
         Output: {name}-footprint-dashboard.md
         Why first: Know what employers will find before you apply
             ↓
-Step 1: /application-optimiser (Company Research)
+Step 1: /application-optimizer (Company Research)
         Input: Company name + job description
         Output: {role}-research-brief.md
         Why first: Everything else builds on understanding the company
             ↓
-Step 2: /application-optimiser (resume Optimisation)
+Step 2: /application-optimizer (resume Optimization)
         Input: resume + job description + research brief
         Output: {role}-cv-optimized.md
         Why second: Research insights inform how you position yourself
@@ -57,7 +57,7 @@ Step 2: /application-optimiser (resume Optimisation)
 Step 3: /linkedin-coach (Profile Audit)
         Input: LinkedIn URL + career goals
         Output: {role}-linkedin-profile-review.md
-        Why third: LinkedIn should align with your optimised resume
+        Why third: LinkedIn should align with your optimized resume
             ↓
 Step 4: /interview-master (Interview Preparation)
         Input: resume + JD + research brief
@@ -93,7 +93,7 @@ Step 3: /interview-master (Mock Interview)
         Why third: Practice with the prep you've built
 ```
 
-**Optional add-on:** If there is time, run `/application-optimiser` (Company Research) before Step 1 to strengthen preparation.
+**Optional add-on:** If there is time, run `/application-optimizer` (Company Research) before Step 1 to strengthen preparation.
 
 ### Pattern C: Starting from Scratch
 
@@ -136,7 +136,7 @@ Step 4: /career-navigator (Networking Intelligence)
 Step 1: /career-transitions (Portfolio/Fractional Careers)
         Input: Skills inventory, income goals, region
         Output: portfolio-career-strategy.md
-        Why first: Validate the direction before optimising for it
+        Why first: Validate the direction before optimizing for it
             ↓
 Step 2: /career-transitions (AI Readiness)
         Input: Current role, target roles, AI experience
@@ -165,9 +165,9 @@ Step 1: /career-transitions (Non-Linear Career Explorer)
         Why first: Structured exploration before committing to a direction
             ↓
 Step 2: Based on chosen direction:
-        - Entrepreneurship/Startup → /career-transitions (Portfolio/Fractional) for financial modelling
-        - Public sector → /application-optimiser (resume for Success Profiles framework)
-        - Charity/Non-profit → /application-optimiser (resume for sector) + /linkedin-coach (repositioning)
+        - Entrepreneurship/Startup → /career-transitions (Portfolio/Fractional) for financial modeling
+        - Public sector → /application-optimizer (resume for Success Profiles framework)
+        - Charity/Non-profit → /application-optimizer (resume for sector) + /linkedin-coach (repositioning)
         - Intrapreneurship → /linkedin-coach (internal visibility) + stay in current role
         - Multi-role/Skill stacking → /career-navigator (3-Month Plan with non-linear goals)
         - Still deciding → /career-navigator (3-Month exploration plan)
@@ -198,7 +198,7 @@ Step 1: /interview-master (Post-Interview Coaching)
 Step 2: Based on diagnosis:
         - Skill gap → /career-transitions (AI Readiness) or upskilling plan
         - Signal gap → /interview-master (Interview Prep) for next opportunity
-        - Fit/timing gap → /application-optimiser (Company Research) for alternative targets
+        - Fit/timing gap → /application-optimizer (Company Research) for alternative targets
 ```
 
 ### Pattern G: Personal Brand Build
@@ -289,16 +289,16 @@ Present the workflow as a numbered sequence with clear dependencies. Example:
 ```
 Based on your situation, here's my recommended approach:
 
-1. Company Research (/application-optimiser)
+1. Company Research (/application-optimizer)
    → Produces: research-brief.md
-   → Feeds into: resume optimisation and interview prep
+   → Feeds into: resume optimization and interview prep
 
-2. resume Optimisation (/application-optimiser)
+2. resume Optimization (/application-optimizer)
    → Needs: research brief + your resume + job description
    → Produces: cv-optimized.md
 
 3. Interview Preparation (/interview-master)
-   → Needs: research brief + optimised resume + job description
+   → Needs: research brief + optimized resume + job description
    → Produces: interview-prep.md
 
 Shall I start with Step 1?

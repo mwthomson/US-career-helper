@@ -157,7 +157,7 @@
 | Family/lifestyle fit | {W} | {1-5} | {1-5} | {1-5} | {1-5} |
 | **Weighted Total** | | **{Total}** | **{Total}** | **{Total}** | **{Total}** |
 
-### Regret Minimisation
+### Regret Minimization
 
 **In 10 years, which decision would you most regret NOT making?**
 {Assessment based on their values and situation}
@@ -245,7 +245,7 @@
 | Type | Why | How to Find Them |
 |------|-----|-----------------|
 | {Someone who has made this transition} | Learn from their experience | {LinkedIn search, alumni networks, communities} |
-| {Mentor in target sector} | Navigate unfamiliar terrain | {Professional networks, organisations} |
+| {Mentor in target sector} | Navigate unfamiliar terrain | {Professional networks, organizations} |
 | {Financial advisor} | Validate financial plan | {Recommendations, professional bodies} |
 
 ### Legal and Financial
@@ -264,8 +264,8 @@ Based on your exploration, consider:
 
 | If You Are... | Recommended Next Skill | Why |
 |--------------|----------------------|-----|
-| Leaning towards entrepreneurship | /career-transitions (Portfolio Career) | Financial modelling and structure |
-| Targeting public sector | /application-optimiser | CS-specific resume and application strategy |
+| Leaning towards entrepreneurship | /career-transitions (Portfolio Career) | Financial modeling and structure |
+| Targeting public sector | /application-optimizer | CS-specific resume and application strategy |
 | Considering a pivot | /career-navigator (3-Month Plan) | Structured transition plan |
 | Staying but repositioning | /linkedin-coach | Update your professional brand |
 | Concerned about AI in target path | /ai-impact-assessment | Check the future of your target role |

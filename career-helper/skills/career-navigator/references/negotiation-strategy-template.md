@@ -61,9 +61,9 @@
 
 ### Key Leverage Points
 
-1. {Specific strength you can emphasise}
-2. {Specific strength you can emphasise}
-3. {Specific strength you can emphasise}
+1. {Specific strength you can emphasize}
+2. {Specific strength you can emphasize}
+3. {Specific strength you can emphasize}
 
 ---
 
@@ -141,7 +141,7 @@ Best regards,
 
 **Response:**
 ```
-"I understand, and I appreciate you being direct. Before we finalise, could
+"I understand, and I appreciate you being direct. Before we finalize, could
 we explore {alternative component}? I want to make sure I'm set up for
 success here."
 ```

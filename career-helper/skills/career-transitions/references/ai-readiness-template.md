@@ -195,14 +195,14 @@ AI & Technology:
 
 **Your Answer Framework:**
 ```
-{Customised answer based on their tools and use cases}
+{Customized answer based on their tools and use cases}
 ```
 
 #### Q2: "What's your view on AI in {industry/function}?"
 
 **Your Answer Framework:**
 ```
-{Customised answer showing nuanced understanding}
+{Customized answer showing nuanced understanding}
 ```
 
 #### Q3: "Tell me about an AI project or initiative"
@@ -219,7 +219,7 @@ Result: {Quantified outcome}
 
 **Your Answer:**
 ```
-{Customised based on upskilling plan}
+{Customized based on upskilling plan}
 ```
 
 ### Things to Avoid

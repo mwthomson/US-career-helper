@@ -70,7 +70,7 @@ Beyond headhunters, several registries and matching services connect board candi
 | Registry / Service | Focus | How to Access |
 |:-------------------|:------|:-------------|
 | **Women on Boards UK** | Women seeking board roles across all sectors | Register online; receive role alerts and networking opportunities |
-| **Board Apprentice** | Board observer programme for aspiring NEDs (12 months observing a real board) | Apply annually; competitive selection process |
+| **Board Apprentice** | Board observer program for aspiring NEDs (12 months observing a real board) | Apply annually; competitive selection process |
 | **Boardroom Apprentice** | Northern Ireland equivalent of Board Apprentice | Apply annually; similar structure |
 | **NHS public appointments** | NED roles across health systems and health bodies | Apply via US Department of Health and Human Services or regional appointment teams; open competition |
 | **Government public appointments (Cabinet Office)** | Board roles on government bodies, regulators, and arm's-length bodies | Apply via public-appointments.service.gov.uk; open competition with published criteria |
@@ -116,7 +116,7 @@ Securing your first board appointment is the hardest step. Without existing boar
 - The most accessible entry point for board experience
 - Genuine governance responsibility under charity law
 - Committee experience available (finance, fundraising, governance, safeguarding)
-- Organisations actively seek trustees with commercial expertise
+- Organizations actively seek trustees with commercial expertise
 - No fees, but the governance experience is directly transferable
 - Find opportunities via: Getting on Board, Reach Volunteering, Charity Job, direct approach to local charities
 
@@ -133,19 +133,19 @@ Securing your first board appointment is the hardest step. Without existing boar
 - Often informal, created by founders seeking external perspective
 - Lower commitment, flexible, good for building confidence
 - May convert to a formal NED role as the company grows
-- Find through: personal networks, accelerator programmes, scale-up communities
+- Find through: personal networks, accelerator programs, scale-up communities
 
 **4. Public Appointments (Selected Roles)**
 - Some public body roles attract fewer applicants than S&P positions
 - Open competition means no prior board experience is always required
 - Demonstrates governance commitment and public service
-- Look for roles at smaller arm's-length bodies or regional organisations
+- Look for roles at smaller arm's-length bodies or regional organizations
 - Apply via: public-appointments.service.gov.uk
 
-**5. Board Observer Programmes**
+**5. Board Observer Programs**
 - Board Apprentice places candidates as observers on real boards for 12 months
 - No voting rights or liability, but full exposure to board operations
-- Strong pathway to subsequent appointment, often with the host organisation
+- Strong pathway to subsequent appointment, often with the host organization
 - Apply via: Board Apprentice (UK) or Boardroom Apprentice (NI)
 
 **6. Housing Association Boards**
@@ -159,18 +159,18 @@ Securing your first board appointment is the hardest step. Without existing boar
 
 ## Governance Training and Credentials
 
-Formal governance training signals commitment and builds competence. The following are the most recognised programmes in the UK:
+Formal governance training signals commitment and builds competence. The following are the most recognized programs in the UK:
 
-| Programme | Provider | Focus | Duration | Notes |
+| Program | Provider | Focus | Duration | Notes |
 |:----------|:---------|:------|:---------|:------|
 | **Certificate in Company Direction** | IoD (Institute of Directors) | Comprehensive board director development | 4-5 modules over 6-12 months | The foundational governance qualification; highly regarded |
 | **Diploma in Company Direction** | IoD | Advanced board leadership | Additional modules beyond Certificate | Pathway to Chartered Director (CDir) status |
 | **Chartered Director (CDir)** | IoD | Professional recognition for experienced directors | Assessment-based (following Diploma) | The highest individual governance credential in the UK |
-| **Chartered Governance Professional** | ICSA (Chartered Governance Institute) | Governance, compliance, company secretarial | Professional qualification programme | Valuable for understanding the governance professional's perspective |
-| **Financial Times Board Director Programme** | FT and partner institution | Board effectiveness, strategy, governance | Short programme (typically 3-5 days) | High-profile; good for networking as well as learning |
-| **Henley Board Director Programme** | Henley Business School | Board dynamics, governance, strategy | Short programme (3-5 days residential) | Respected programme with strong alumni network |
+| **Chartered Governance Professional** | ICSA (Chartered Governance Institute) | Governance, compliance, company secretarial | Professional qualification program | Valuable for understanding the governance professional's perspective |
+| **Financial Times Board Director Program** | FT and partner institution | Board effectiveness, strategy, governance | Short program (typically 3-5 days) | High-profile; good for networking as well as learning |
+| **Henley Board Director Program** | Henley Business School | Board dynamics, governance, strategy | Short program (3-5 days residential) | Respected program with strong alumni network |
 | **Board Apprentice** | Board Apprentice CIC | Practical board observation | 12 months (part-time, attend board meetings) | Best for those with no prior board experience; experiential learning |
-| **NHS Board Development** | NHS Leadership Academy | NHS-specific governance and board skills | Various programmes | Required for some NHS NED appointments |
+| **NHS Board Development** | NHS Leadership Academy | NHS-specific governance and board skills | Various programs | Required for some NHS NED appointments |
 
 **Recommendation for aspiring NEDs:**
 - Start with the IoD Certificate in Company Direction as the minimum credible qualification
@@ -216,7 +216,7 @@ The FRC UK Corporate Governance Code and the Investment Association's Institutio
 - A full-time executive director should hold no more than one NED role at a S&P 100 company
 - NEDs should not hold more than five S&P listed company board positions
 - A S&P 100 chairship counts as two positions for overboarding purposes
-- Institutional investors increasingly scrutinise NED time commitments and may vote against overboarded directors
+- Institutional investors increasingly scrutinize NED time commitments and may vote against overboarded directors
 - Charity and public sector board roles are not formally counted but do consume time
 
 ---
@@ -251,7 +251,7 @@ Conflicts are inevitable for portfolio NEDs. Managing them well is a governance 
 - **Direct commercial conflict:** Serving on the board of a competitor, supplier, or customer
 - **Financial conflict:** Personal investment in a company that does business with a board you serve on
 - **Relationship conflict:** Close personal or family relationship with a director, executive, or major shareholder
-- **Professional conflict:** Providing paid advisory or consulting services to the organisation alongside a board role
+- **Professional conflict:** Providing paid advisory or consulting services to the organization alongside a board role
 
 **Management approach:**
 - Declare all actual and potential conflicts at appointment
@@ -268,7 +268,7 @@ Conflicts are inevitable for portfolio NEDs. Managing them well is a governance 
 ### Month 1-2: Foundation
 - [ ] Complete or enrol in IoD Certificate in Company Direction (if not already held)
 - [ ] Draft a board resume (separate from executive resume)
-- [ ] Optimise LinkedIn profile for NED positioning
+- [ ] Optimize LinkedIn profile for NED positioning
 - [ ] Register with Nurole
 - [ ] Identify 3-5 target headhunters and send introductory board resume
 - [ ] Join IoD and one other governance network

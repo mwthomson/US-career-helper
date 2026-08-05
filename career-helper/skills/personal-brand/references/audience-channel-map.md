@@ -81,7 +81,7 @@ People in similar roles, at companies you admire, or in adjacent roles to the on
 People earlier in their career or building their voice. This tier matters because the rising voices of today are the industry voices of three years from now, and because being early to support someone is one of the cleanest forms of network-building.
 
 - Look for: people whose work is starting to land but who do not yet have large followings
-- Engagement rule: amplify, do not patronise. Treat them as peers.
+- Engagement rule: amplify, do not patronize. Treat them as peers.
 - Frequency: when you have something genuinely additive
 
 ### How to Find These People
@@ -136,7 +136,7 @@ Channels follow audience. Below is the working menu; not every user uses every c
 ### Conference and meetup speaking
 
 - **Use when**: the audience attends events, and the user has at least one talk-shaped argument worth giving.
-- **Best for**: trust, reach, and the artefact of a video that lives for years.
+- **Best for**: trust, reach, and the artifact of a video that lives for years.
 - **Cadence**: two to four talks per year for a serious brand-build, more if speaking is the primary channel.
 
 ### YouTube
@@ -148,7 +148,7 @@ Channels follow audience. Below is the working menu; not every user uses every c
 ### GitHub, technical blogs, or open-source contribution
 
 - **Use when**: the audience is technical and proof of work matters more than commentary about work.
-- **Best for**: building credibility through artefacts.
+- **Best for**: building credibility through artifacts.
 - **Cadence**: project-driven; not a posting cadence.
 
 ### Niche communities (Slack, Discord, private forums, Circle, in-person dinners)

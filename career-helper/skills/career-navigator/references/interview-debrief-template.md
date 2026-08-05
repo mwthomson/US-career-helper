@@ -1,4 +1,4 @@
-# Interview Debrief: {{ORGANISATION}} - {{ROLE_TITLE}}
+# Interview Debrief: {{ORGANIZATION}} - {{ROLE_TITLE}}
 
 **Date:** {{YYYY-MM-DD}}
 **Round:** {{Phone screen / Interview 1 / Interview 2 / Final round}}
@@ -22,7 +22,7 @@
 
 - **What they actually care about (versus the job description):** {{The themes they kept returning to}}
 - **Green flags:** {{Signs this could be a good fit}}
-- **Red flags:** {{Concerns about the role, team, or organisation, or "None noted"}}
+- **Red flags:** {{Concerns about the role, team, or organization, or "None noted"}}
 
 ## Their Likely Objections
 

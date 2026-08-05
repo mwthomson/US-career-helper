@@ -32,7 +32,7 @@
 
 | Factor | Status | Score |
 |--------|--------|-------|
-| Specialisation clarity | {Clear/Developing/Unclear} | {Green/Amber/Red} |
+| Specialization clarity | {Clear/Developing/Unclear} | {Green/Amber/Red} |
 | Market demand | {High/Medium/Low} | {Green/Amber/Red} |
 | Network strength | {X contacts} | {Green/Amber/Red} |
 | Credibility markers | {List} | {Green/Amber/Red} |
@@ -201,9 +201,9 @@
 
 | Week | Focus | Actions |
 |------|-------|---------|
-| 1 | Positioning | Finalise messaging, update LinkedIn |
+| 1 | Positioning | Finalize messaging, update LinkedIn |
 | 2 | Network activation | Contact top 20 connections |
-| 3 | Content start | First LinkedIn post, profile optimisation |
+| 3 | Content start | First LinkedIn post, profile optimization |
 | 4 | Outreach | VC/PE platform outreach, warm intros |
 
 #### Month 2: Momentum
@@ -221,7 +221,7 @@
 |------|-------|---------|
 | 9 | Client delivery | Excellent first client work |
 | 10 | Testimonials | Request from early clients |
-| 11 | Referral requests | Systematic referral programme |
+| 11 | Referral requests | Systematic referral program |
 | 12 | Review & adjust | Assess what's working |
 
 ### Target Metrics
@@ -240,7 +240,7 @@
 ### LinkedIn Headline
 
 **Recommended:**
-"{Your headline optimised for portfolio/fractional positioning}"
+"{Your headline optimized for portfolio/fractional positioning}"
 
 ### LinkedIn Summary Updates
 

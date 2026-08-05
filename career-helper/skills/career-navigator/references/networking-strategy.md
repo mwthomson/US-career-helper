@@ -806,7 +806,7 @@ Tech vendors, software companies, and platform providers regularly host free eve
 - Research participating companies
 - Prepare 3 key talking points about yourself
 - Draft questions to ask employers
-- Ensure profile is optimised
+- Ensure profile is optimized
 
 **During Event:**
 - Engage actively in chat/Q&A
@@ -864,13 +864,13 @@ Many recruitment firms host events to build candidate pipelines:
 2. **Evaluate before joining:**
    - How often do they meet?
    - What's the typical attendance?
-   - Who organises (company? individual? community?)
+   - Who organizes (company? individual? community?)
    - Is the content relevant to your target roles?
 
 3. **Attend consistently:**
    - Go to 2-3 events before judging
    - Same faces = relationship building opportunity
-   - Organisers remember regulars
+   - Organizers remember regulars
 
 **Before the Event:**
 - Research speakers/hosts on LinkedIn
@@ -889,7 +889,7 @@ Many recruitment firms host events to build candidate pipelines:
 - Connect on LinkedIn within 24 hours
 - Reference the event and specific conversation
 - Suggest follow-up coffee/call if connection was strong
-- Share event takeaways on LinkedIn (tag organisers/speakers)
+- Share event takeaways on LinkedIn (tag organizers/speakers)
 
 **Sample Follow-Up Message:**
 ```
@@ -933,7 +933,7 @@ Would be great to stay connected - I'll keep an eye out for [something relevant 
 **Combine with Individual Outreach:**
 
 1. **Identify key people in groups** → Add to Tier 1-3 connection lists
-2. **Engage in groups first** → Then send personalised connection request
+2. **Engage in groups first** → Then send personalized connection request
 3. **Reference group activity** → In connection messages and interviews
 4. **Build reputation** → Makes individual outreach warmer
 

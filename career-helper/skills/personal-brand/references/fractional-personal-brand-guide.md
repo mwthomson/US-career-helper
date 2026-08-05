@@ -27,7 +27,7 @@ Fractional positioning has constraints that employed brand work does not:
 - **The brand is the funnel.** Employed leaders can be quiet and still get promoted. Fractional leaders cannot. Inbound is the cheapest pipeline; brand is what creates it.
 - **Buyers are sceptical of "fractional" by default.** Many founders have hired the wrong fractional and got burned. The brand has to overcome that scepticism in seconds.
 - **The decision is made in five minutes or less.** Founders triage potential fractional hires fast. The first sentence of any bio, post, or About page must do work.
-- **Pricing is positioning.** A vague brand attracts low-budget enquiries. A sharp brand attracts the right kind of buyer at the right kind of price.
+- **Pricing is positioning.** A vague brand attracts low-budget inquiries. A sharp brand attracts the right kind of buyer at the right kind of price.
 - **Word-of-mouth is the long game.** Most fractional contracts come from an existing client referring the user to another founder. The brand has to be referrable: easy to describe in one line, easy to introduce by email, easy to remember.
 
 These constraints shape every block of the framework.
@@ -47,7 +47,7 @@ The distinct angle for a fractional should be one of:
 Adjustments to the foundation work:
 
 - **Proof points must include the buyer's risk reducers.** Buyers want to know: have you done the role at this stage, in this sector, with this kind of founder? Capture proof against each risk-reducer, with specific contracts, results, or scars.
-- **Story arc must explain the move to fractional.** The most credible answer is a combination of "I have done this enough times to recognise the pattern, and I want to help more companies through it without staying full-time at one".
+- **Story arc must explain the move to fractional.** The most credible answer is a combination of "I have done this enough times to recognize the pattern, and I want to help more companies through it without staying full-time at one".
 - **Three words must include a positioning claim.** Not "experienced" or "passionate". Words like "operator", "stage-specific", "regulated", "B2B SaaS", "post-PMF", "second-time founder". Specific words that signal fit.
 - **The permission slip is your single highest-leverage paragraph.** It is what gets pasted into a founder's introduction email. Spend more time on this than on anything else.
 
@@ -59,7 +59,7 @@ The audience is not "founders". It is:
 
 - **Specific stage**: pre-seed, seed, Series A, Series B, Series C, growth, post-acquisition, scaleup
 - **Specific sector**: B2B SaaS, fintech, climate-tech, marketplaces, deeptech, healthtech, consumer
-- **Specific role-buying moment**: first product hire, first engineering manager, first finance hire, post-PMF over-hiring, post-fundraise team scaling, pre-Series-B operational rigour
+- **Specific role-buying moment**: first product hire, first engineering manager, first finance hire, post-PMF over-hiring, post-fundraise team scaling, pre-Series-B operational rigor
 - **Specific company size or ARR band**: <$1m ARR, $1m to $5m, $5m to $20m
 - **Specific founder profile**: first-time, second-time, technical, non-technical, sector-native, sector-outsider
 
@@ -78,7 +78,7 @@ Native language to capture from buyers:
 The "why now" answer for fractional is a combination of:
 
 - **Macro funding climate**: which stage of company is currently struggling to hire full-time at senior levels and turning to fractional instead
-- **Market shifts in the audience's sector**: AI, regulation, channel shift, platform shift, downturn-driven discipline, new buyer behaviour
+- **Market shifts in the audience's sector**: AI, regulation, channel shift, platform shift, downturn-driven discipline, new buyer behavior
 - **Personal arc**: the user's own readiness to do this kind of work credibly (number of companies, number of cycles, range of contexts)
 
 The strongest "why now" is "the market needs this stage of help right now, and I am one of the few people who has done it enough times to do it cleanly".
@@ -112,9 +112,9 @@ Add to the standard bio library:
 
 - **"Work with me" page** (treat as a bio surface). One paragraph for what you do, one paragraph for who you are right for, one paragraph for who you are not right for, one paragraph for how to start. This page is the conversion page; spend disproportionate time on it.
 - **First-message-to-founder template** (a private bio surface). The 50- to 80-word reply you send when a founder DMs "do you do fractional CTO work?". Treat this as a bio you draft once and reuse.
-- **Pricing-signal line in LinkedIn About**: if the user is comfortable with it, a single sentence indicating range or commitment level (e.g., "Working with two to three founders at a time on three- to six-month engagements"). Filters enquiries up front.
+- **Pricing-signal line in LinkedIn About**: if the user is comfortable with it, a single sentence indicating range or commitment level (e.g., "Working with two to three founders at a time on three- to six-month engagements"). Filters inquiries up front.
 
-The bio library should explicitly include the audience and the role-buying moment. Generic fractional bios attract generic enquiries; specific bios attract specific work at better terms.
+The bio library should explicitly include the audience and the role-buying moment. Generic fractional bios attract generic inquiries; specific bios attract specific work at better terms.
 
 ---
 
@@ -132,7 +132,7 @@ Caveats:
 
 ## Constraints and Risks Specific to Fractional Brand
 
-- **Confidentiality**: client work is usually confidential. The brand has to demonstrate competence without quoting clients. Use anonymised case studies (with client permission) or "patterns I have seen across X engagements" framing.
+- **Confidentiality**: client work is usually confidential. The brand has to demonstrate competence without quoting clients. Use anonymized case studies (with client permission) or "patterns I have seen across X engagements" framing.
 - **Conflict of interest**: do not post or comment on competitors of current clients. Document a conflict-check rule in the constraints section of the audience-channel-map.
 - **IR35 and contractor status (UK)**: positioning that reads as employment can have tax implications. Bios should clearly signal independent fractional work.
 - **Pipeline cliff**: most fractional careers have a quiet quarter once a year. Build the brand to compound through quiet quarters, not just spike during busy ones. Long-form essays and podcast episodes that live for years are the antidote.

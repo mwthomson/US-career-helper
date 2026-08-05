@@ -186,7 +186,7 @@ Search: "{Company name} AI initiatives technology stack"
 - Anthropic prompt engineering guide
 
 **Paid (if budget allows):**
-- Coursera/Udacity specialisations
+- Coursera/Udacity specializations
 - Domain-specific AI certifications
 ```
 
@@ -266,7 +266,7 @@ Add any AI-related content, projects, or certifications
 **Strong Answer Example:**
 "I use AI daily in three main ways. First, Claude for drafting and
 refining client communications - it helps me maintain consistency
-while personalising at scale. Second, GitHub Copilot for code review
+while personalizing at scale. Second, GitHub Copilot for code review
 suggestions - it catches issues faster but I always verify.
 Third, I've automated our weekly reporting using {tool}, saving
 4 hours/week while improving accuracy.
@@ -391,7 +391,7 @@ Load template: @`templates/ai-readiness-template.md`
 After AI readiness assessment:
 
 1. "Want to update your resume to highlight AI skills?" → @`supporting-prompts/ATS-Helper.md`
-2. "Need to optimise LinkedIn for AI positioning?" → @`supporting-prompts/linkedin-profile-review.md`
+2. "Need to optimize LinkedIn for AI positioning?" → @`supporting-prompts/linkedin-profile-review.md`
 3. "Preparing for interviews and need AI-related prep?" → @`supporting-prompts/interview-prep.md`
 
 ---

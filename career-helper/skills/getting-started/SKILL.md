@@ -1,6 +1,6 @@
 ---
 name: getting-started
-description: This skill should be used when the user asks "how do I get started", "how do I use career-helper", "how do I get the best results", "what should I prepare", "what order should I use the skills", "tips for using career-helper", "show me how this plugin works", "give me the guide", "getting the best guide", or "can I get a guide to share". Provides a comprehensive guide covering preparation checklists, recommended workflows, skill-by-skill tips, power-user strategies, and a downloadable getting the best guide for maximising career-helper output quality.
+description: This skill should be used when the user asks "how do I get started", "how do I use career-helper", "how do I get the best results", "what should I prepare", "what order should I use the skills", "tips for using career-helper", "show me how this plugin works", "give me the guide", "getting the best guide", or "can I get a guide to share". Provides a comprehensive guide covering preparation checklists, recommended workflows, skill-by-skill tips, power-user strategies, and a downloadable getting the best guide for maximizing career-helper output quality.
 tags: getting-started, guide, help, how-to, tips, workflow, best-practices, onboarding
 ---
 
@@ -14,8 +14,8 @@ Get the most out of Career Helper. Whether you are a graduate writing your first
 |:--|:-----------|:------------|
 | 1 | Full Overview | See everything career-helper can do with real examples |
 | 2 | Preparation Checklist | Before you start - gather the right materials |
-| 3 | Workflow Planner | Get a personalised skill sequence for your situation |
-| 4 | Skill-by-Skill Tips | Maximise results from any specific skill |
+| 3 | Workflow Planner | Get a personalized skill sequence for your situation |
+| 4 | Skill-by-Skill Tips | Maximize results from any specific skill |
 | 5 | Power User Strategies | Advanced techniques for experienced users |
 | 6 | Getting the Best Guide | Comprehensive downloadable guide with scenario-based walkthroughs |
 | 7 | Scheduled Routines (Cowork) | Set up recurring job-search tasks in Claude Cowork |
@@ -27,7 +27,7 @@ Get the most out of Career Helper. Whether you are a graduate writing your first
 "Show me what career-helper can do"
 "What should I have ready before I start?"
 "What order should I use the skills in?"
-"Give me tips for using the application optimiser"
+"Give me tips for using the application optimizer"
 "Show me advanced ways to use career-helper"
 "Can I get the getting the best guide?"
 "Give me the guide to share with someone"
@@ -42,7 +42,7 @@ Get the most out of Career Helper. Whether you are a graduate writing your first
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition. Refer to saved files by description, not filename.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -93,7 +93,7 @@ Help the user gather everything they need before diving into skills. Ask what th
 
 **Core approach:**
 - Ask what the user wants to achieve (new role, interview prep, career change, LinkedIn improvement)
-- Provide a specific, prioritised list of materials to gather
+- Provide a specific, prioritized list of materials to gather
 - Explain WHY each item matters and what happens without it
 - Distinguish between essential and nice-to-have items
 
@@ -106,16 +106,16 @@ Help the user gather everything they need before diving into skills. Ask what th
 **What you need:** Career situation, goals, timeline, materials available
 **Load:** @references/workflow-planner.md
 
-Create a personalised skill sequence based on the user's specific situation. Not a generic list - a tailored plan.
+Create a personalized skill sequence based on the user's specific situation. Not a generic list - a tailored plan.
 
 **Core approach:**
 - Gather context via AskUserQuestion (situation, goals, urgency, materials on hand)
 - Map their situation to the optimal skill sequence
 - Explain why each step matters and what it feeds into
-- Identify dependencies (e.g. "research brief feeds into resume optimisation")
+- Identify dependencies (e.g. "research brief feeds into resume optimization")
 - Set expectations for what each step produces
 
-**Output:** Personalised workflow plan in conversation
+**Output:** Personalized workflow plan in conversation
 
 ---
 
@@ -149,7 +149,7 @@ Advanced techniques for users who have used the basic skills and want more.
 - Iterative refinement (feeding outputs back for improvement)
 - Cross-skill connections (using research briefs to strengthen interview prep)
 - Comparative analysis (running multiple company research briefs to compare opportunities)
-- Output management (organising and maintaining generated files)
+- Output management (organizing and maintaining generated files)
 - Combining skills for specific scenarios (e.g. internal promotion, career pivot, return from break)
 
 **Output:** Strategies presented in conversation
@@ -203,7 +203,7 @@ This skill adapts to every career stage. Adjust your tone and recommendations ba
 - **Career Returners** - Gaps create anxiety. Help frame the narrative positively.
 - **Layoff** - Shock and urgency. Provide immediate structure and acknowledge the emotional reality.
 
-Job searching is emotionally challenging at every level. Never minimise this. A graduate terrified of their first interview deserves the same quality of support as a VP negotiating a package.
+Job searching is emotionally challenging at every level. Never minimize this. A graduate terrified of their first interview deserves the same quality of support as a VP negotiating a package.
 
 ---
 
@@ -229,8 +229,8 @@ Job searching is emotionally challenging at every level. Never minimise this. A 
 Ready to get started? Use the skill that fits:
 - **/employer-footprint** - See what employers will find about you online
 - **/social-media-review** - Quick social media check (great for graduates)
-- **/application-optimiser** - Research companies and optimise your resume
-- **/linkedin-coach** - Optimise your LinkedIn profile and content
+- **/application-optimizer** - Research companies and optimize your resume
+- **/linkedin-coach** - Optimize your LinkedIn profile and content
 - **/interview-master** - Prepare for interviews
 - **/career-navigator** - Plan your search, negotiate offers
 - **/career-transitions** - Explore portfolio/fractional career paths, entrepreneurship, public sector, charity, and non-linear alternatives

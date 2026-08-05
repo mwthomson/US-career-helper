@@ -60,7 +60,7 @@ For each question, provide:
 ### Question: "{The interview question}"
 
 **What the Interviewer is Really Assessing:**
-{The underlying competency, behaviour, or fit they're evaluating - be specific}
+{The underlying competency, behavior, or fit they're evaluating - be specific}
 
 **What Makes a Strong Answer:**
 - {Criterion 1 - what good looks like}
@@ -91,9 +91,9 @@ Finally: {How to structure and conclude}
 
 Generate 12-15 questions across these categories:
 
-### 1. Behavioural Questions (5-6 questions)
+### 1. Behavioral Questions (5-6 questions)
 
-Focus on past behaviour as predictor of future performance.
+Focus on past behavior as predictor of future performance.
 
 **Common patterns:**
 - Leadership and influence
@@ -165,7 +165,7 @@ Then consider: "What did I actually DO differently because I couldn't just manda
 Finally: "What changed, and how do I know my influence was the cause?" Be specific about the outcome and connect it directly to your actions.
 
 **Your Experience to Draw From:**
-Look at your resume for: cross-functional projects, matrix organisation work, situations where you led without direct reports, times you changed someone's mind on a significant decision.
+Look at your resume for: cross-functional projects, matrix organization work, situations where you led without direct reports, times you changed someone's mind on a significant decision.
 
 ---
 

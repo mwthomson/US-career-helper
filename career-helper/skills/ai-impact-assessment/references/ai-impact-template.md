@@ -23,7 +23,7 @@
 
 ### Summary
 
-{Paragraph summarising the overall risk picture. What proportion of the role is affected? Is this a gradual shift or a rapid one?}
+{Paragraph summarizing the overall risk picture. What proportion of the role is affected? Is this a gradual shift or a rapid one?}
 
 ---
 
@@ -142,7 +142,7 @@
 | If Your Situation Is... | Run This Skill | Why |
 |:------------------------|:---------------|:----|
 | You need to upskill in AI tools | **/career-transitions** (AI readiness) | Structured assessment and learning roadmap |
-| You want to pivot to a growing role | **/application-optimiser** | Research target roles and optimise your resume |
+| You want to pivot to a growing role | **/application-optimizer** | Research target roles and optimize your resume |
 | Your LinkedIn needs repositioning | **/linkedin-coach** | Profile audit and content strategy for AI-age positioning |
 | You need a full career plan | **/career-navigator** | 3-month structured plan with networking intelligence |
 | You want to reassess in 3-6 months | **/ai-impact-assessment** | Re-run with fresh data to track how the landscape has changed |

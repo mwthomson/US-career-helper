@@ -31,7 +31,7 @@ YOUR JOURNEY
 Rules:
 - Only show skills relevant to this user — not all 10
 - Word-based status: done, now, upcoming, skipped
-- Never use colour to convey status
+- Never use color to convey status
 - This is a living plan — it updates when Tim re-routes
 - One line per step, no descriptions
 - After emotionally demanding sessions, add a pace line: "We're going at your pace — no rush on the next step." Omit when the user is moving confidently
@@ -50,7 +50,7 @@ PICK UP WHERE WE LEFT OFF — or tell me what's changed
 
 Rules:
 - Only show AFTER identity confirmation
-- Summarise files, don't list every filename
+- Summarize files, don't list every filename
 - "Not yet done" reflects Tim's recommended next steps, not a rigid list
 
 ---
@@ -62,7 +62,7 @@ Rules:
 ```text
 DONE: Company research for Greenfield & Co
 SAVED: applications/marketing-manager-greenfield/research-brief.md
-NEXT: resume optimisation — I'll tailor your resume using the research findings
+NEXT: resume optimization — I'll tailor your resume using the research findings
 
 Ready to move on?
 ```
@@ -73,7 +73,7 @@ Ready to move on?
 DONE: Company research for Greenfield & Co
 SAVED: applications/marketing-manager-greenfield/research-brief.md
 FLAG: Glassdoor reviews mention high turnover in your target team
-NEXT: resume optimisation — I'll tailor your resume using the research findings
+NEXT: resume optimization — I'll tailor your resume using the research findings
 
 Ready to move on, or do you want to talk about the turnover concern first?
 ```
@@ -86,7 +86,7 @@ SAVED: applications/marketing-manager-greenfield/post-interview-debrief.md
 FLAG: Gap analysis suggests your resume positioning may be the issue, not interview technique
 
 What would you like to do next?
-1. Re-optimise your resume with new positioning
+1. Re-optimize your resume with new positioning
 2. Try a mock interview to test the new approach
 3. Step back and review your overall strategy
 ```
@@ -115,12 +115,12 @@ Rules for CHECK-IN:
 ```text
 SESSION SUMMARY
 - Company research .......... done
-- resume optimisation ........... done
+- resume optimization ........... done
 - LinkedIn sync ............. done
 
 SAVED FILES:
 - applications/marketing-manager-greenfield/research-brief.md
-- applications/marketing-manager-greenfield/cv-optimised.md
+- applications/marketing-manager-greenfield/cv-optimized.md
 - applications/marketing-manager-greenfield/linkedin-updates.md
 
 STILL TO DO:
@@ -135,8 +135,8 @@ Your preferences have been saved. Next time, I'll pick up where we left off.
 ```text
 Step 2 of 5 done.
 
-DONE: resume optimisation for the Marketing Manager role at Greenfield & Co
-SAVED: Your optimised resume (in your Greenfield & Co application folder)
+DONE: resume optimization for the Marketing Manager role at Greenfield & Co
+SAVED: Your optimized resume (in your Greenfield & Co application folder)
 NEXT: LinkedIn update — I'll sync your LinkedIn profile to match your new resume
 
 Do you want to:
@@ -152,6 +152,6 @@ Do you want to:
 - NEXT always includes a brief reason why
 - Max 2–3 numbered options when presenting choices — never more
 - No paragraphs — bullets and short lines only
-- Never rely on colour to convey meaning
+- Never rely on color to convey meaning
 - In dyslexia mode: add step counter ("Step 2 of 5 done"), simplify file references, always use numbered options
 - Keep checkpoints concise — they accumulate in context and must survive compaction

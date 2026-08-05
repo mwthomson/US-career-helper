@@ -8,7 +8,7 @@ You are a career progress tracker. Help the user understand where they are in th
 
 ## Accessibility Check
 
-Check for `career-helper-preferences.md` in the current working directory. If found, read the YAML frontmatter and note any accessibility preferences. If `dyslexia_friendly: true`, apply plain language, numbered lists, and simplified file references throughout the status output. If `colour_blind: true`, ensure all status indicators use text labels, not colour.
+Check for `career-helper-preferences.md` in the current working directory. If found, read the YAML frontmatter and note any accessibility preferences. If `dyslexia_friendly: true`, apply plain language, numbered lists, and simplified file references throughout the status output. If `colour_blind: true`, ensure all status indicators use text labels, not color.
 
 ---
 
@@ -22,7 +22,7 @@ If no tracker exists but application folders do, offer to build one: "Would you 
 
 ## Check for Learnings
 
-Check for `applications/learnings/patterns.md`. If it exists, read it and surface the single most useful current pattern (what is working, or a recurring gap) after the tracker board. If per-event notes exist under `applications/learnings/interview-notes/`, `rejections/`, or `wins/` but `patterns.md` is missing or looks stale relative to them, offer to synthesise via `/career-navigator` (Application Learnings Loop). Never invent a pattern that the notes do not support.
+Check for `applications/learnings/patterns.md`. If it exists, read it and surface the single most useful current pattern (what is working, or a recurring gap) after the tracker board. If per-event notes exist under `applications/learnings/interview-notes/`, `rejections/`, or `wins/` but `patterns.md` is missing or looks stale relative to them, offer to synthesize via `/career-navigator` (Application Learnings Loop). Never invent a pattern that the notes do not support.
 
 ---
 
@@ -37,7 +37,7 @@ Scan `applications/*/` for per-application subfolders. Each subfolder represents
 ```
 applications/{role-slug}/
 - research-brief.md
-- cv-optimised.md
+- cv-optimized.md
 - cover-letter.md
 - supporting-statement.md
 - linkedin-updates.md
@@ -104,12 +104,12 @@ Career Helper Progress
 Applications:
   marketing-manager-greenfield/
     - research-brief.md (date modified)
-    - cv-optimised.md (date modified)
+    - cv-optimized.md (date modified)
     - Suggested next: interview prep
 
   head-fundraising-macmillan/
     - research-brief.md (date modified)
-    - Suggested next: resume optimisation
+    - Suggested next: resume optimization
 
 Shared files:
   - three-month-plan.md (date modified)
@@ -126,22 +126,22 @@ Overall suggested next steps:
 
 | What They Have | Suggest Next |
 |:---------------|:-------------|
-| Research brief only | /application-optimiser (resume optimisation) |
-| resume optimised | /linkedin-coach (sync LinkedIn) |
+| Research brief only | /application-optimizer (resume optimization) |
+| resume optimized | /linkedin-coach (sync LinkedIn) |
 | LinkedIn + resume done | /interview-master (prepare for interviews) |
 | Interview prep done | /interview-master (mock interview) |
-| Post-interview debrief | /application-optimiser (next application) |
+| Post-interview debrief | /application-optimizer (next application) |
 | Interview done, not yet debriefed | /career-navigator (Application Learnings Loop: debrief) |
 | Rejection received | /career-navigator (Application Learnings Loop: rejection analysis) |
-| Several learnings notes accumulated | /career-navigator (Application Learnings Loop: synthesise patterns) |
+| Several learnings notes accumulated | /career-navigator (Application Learnings Loop: synthesize patterns) |
 | Offer received | /career-navigator (negotiation) |
 | Multiple offers | /career-navigator (offer evaluation) |
 | Footprint dashboard done | /linkedin-coach (fix issues) or /interview-master (prep for footprint questions) |
 | Social media review done | /linkedin-coach (fix LinkedIn) or /employer-footprint (full audit) |
-| Non-linear career exploration done | /career-navigator (3-month plan for chosen path) or /application-optimiser (if pivoting to new sector) |
+| Non-linear career exploration done | /career-navigator (3-month plan for chosen path) or /application-optimizer (if pivoting to new sector) |
 | Personal brand foundation done | /personal-brand (Capability B: Audience and Channel Map) or /personal-brand (Capability D: Bio Library) |
 | Audience and channel map done | /personal-brand (Capability C: Content Pillars and Cadence) |
 | Content plan done | /linkedin-coach (turn pillars into LinkedIn-shaped tactics) |
 | Bio library done | /linkedin-coach (Profile Audit to apply bios to LinkedIn) |
-| Brand refresh plan done | Run the prioritised changes; route to /social-media-review or /employer-footprint if cleanup surfaced |
+| Brand refresh plan done | Run the prioritized changes; route to /social-media-review or /employer-footprint if cleanup surfaced |
 | Nothing yet | /career-helper:quick-start |

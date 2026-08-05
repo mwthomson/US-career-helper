@@ -13,7 +13,7 @@ Essential AI concepts for board-level engagement without technical depth.
 | **Large Language Model (LLM)** | AI trained on vast text to generate human-like responses | Foundation of most current AI tools; understand capabilities and limitations |
 | **Hallucination** | AI generating plausible but false information | Critical risk for any AI producing reports, advice, or decisions |
 | **Training data** | The information AI learned from | Determines what AI knows and its biases; data quality drives output quality |
-| **Fine-tuning** | Customising an AI model for specific tasks | Relevant to vendor claims about "bespoke" AI solutions |
+| **Fine-tuning** | Customizing an AI model for specific tasks | Relevant to vendor claims about "bespoke" AI solutions |
 | **Prompt engineering** | Crafting instructions to get better AI outputs | Staff skill that drives AI effectiveness; part of the 70:20:10 people investment |
 | **Bias** | Systematic errors reflecting training data patterns | Legal, ethical, and reputational risk; particularly in HR and customer-facing AI |
 | **Explainability** | Ability to understand why AI produced a specific output | Regulatory requirement for high-impact decisions; essential for accountability |
@@ -51,8 +51,8 @@ Instead of demonstrating technical knowledge, ask these:
 
 - "How does the vendor handle our data?"
 - "What happens to our data if we switch vendors?"
-- "Where is the evidence that this works in organisations like ours?"
-- "What are the ongoing costs beyond the initial licence?"
+- "Where is the evidence that this works in organizations like ours?"
+- "What are the ongoing costs beyond the initial license?"
 
 ---
 

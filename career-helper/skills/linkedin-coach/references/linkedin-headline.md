@@ -98,7 +98,7 @@ C: [Topic] | [Role at Notable Org] | [Speaking/Writing Proof]
 - Lead with topic, not title
 - Include credentials that build trust
 - Add proof metrics (followers, views, copies sold)
-- Conference/publication names if recognised
+- Conference/publication names if recognized
 
 ---
 
@@ -175,7 +175,7 @@ B: [Title] | [Shared Challenge/Interest] | Open to Connect
    "Engineering Manager | Navigating Hybrid Teams | Always Up for Coffee Chats"
 
 C: [Title] at [Company] | [Community Role]
-   "Senior Designer at Figma | London Design Meetup Organiser"
+   "Senior Designer at Figma | London Design Meetup Organizer"
 ```
 
 **Keyword Strategy:**
@@ -222,17 +222,17 @@ C: [Board Role] | [Executive Background] | [Governance Credential]
 ## Headline Options
 
 ### Option 1: [Headline]
-**Optimised for:** [Primary goal - e.g., recruiter search]
+**Optimized for:** [Primary goal - e.g., recruiter search]
 **Trade-off:** [What it sacrifices - e.g., less personality]
 **Best if:** [Situation where this works best]
 
 ### Option 2: [Headline]
-**Optimised for:** [Different angle]
+**Optimized for:** [Different angle]
 **Trade-off:** [What it sacrifices]
 **Best if:** [Situation where this works best]
 
 ### Option 3: [Headline]
-**Optimised for:** [Third angle]
+**Optimized for:** [Third angle]
 **Trade-off:** [What it sacrifices]
 **Best if:** [Situation where this works best]
 
@@ -244,7 +244,7 @@ C: [Board Role] | [Executive Background] | [Governance Credential]
 
 ## Step 4: Validation Checklist
 
-Before finalising, verify:
+Before finalizing, verify:
 
 - [ ] **Under 220 characters** (LinkedIn limit)
 - [ ] **Front-loaded keywords** (most important terms first)

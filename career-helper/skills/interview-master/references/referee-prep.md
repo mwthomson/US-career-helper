@@ -33,12 +33,12 @@ Help the user pick referees who are both credible and relevant to this role.
   - **Academic reference:** for graduates and early-career applicants.
   - **Client or stakeholder reference:** useful for fractional, consulting, and portfolio work.
 - **Number.** Two is the usual ask; some employers want three. Confirm what the application specifies.
-- **Avoid common traps:** a referee who left the organisation years ago and is hard to reach, anyone who might be lukewarm, or a single referee asked to cover every angle.
+- **Avoid common traps:** a referee who left the organization years ago and is hard to reach, anyone who might be lukewarm, or a single referee asked to cover every angle.
 
 ### Constraint: cannot use the current employer
 
 Common and legitimate. Options to discuss honestly:
-- A previous employer or a former manager who has since left the current organisation.
+- A previous employer or a former manager who has since left the current organization.
 - A senior colleague, client, or stakeholder who can speak to recent work discreetly.
 - Asking the prospective employer to delay contacting the current employer until an offer is agreed. This is a normal request.
 
@@ -54,7 +54,7 @@ Coach the user to ask properly, in advance.
 
 1. **Ask permission first, every time.** Never list someone as a referee without their agreement. This is both courtesy and, under UK data protection norms, the right thing to do.
 2. **Ask in a way that lets them decline gracefully.** "Would you feel able to give me a strong reference for this kind of role?" gives an honest out. A hesitant referee is information.
-3. **Give them what they need:** the role, the organisation, the timeline, and the brief below.
+3. **Give them what they need:** the role, the organization, the timeline, and the brief below.
 4. **Confirm their preferred contact details** and the format they expect (a call, a form, a written reference).
 
 A short request template the user can adapt:
@@ -62,7 +62,7 @@ A short request template the user can adapt:
 ```text
 Hi [Name],
 
-I am applying for [role] at [organisation] and would value you as a referee.
+I am applying for [role] at [organization] and would value you as a referee.
 It is a [one-line description of the role and what it focuses on].
 
 Would you feel able to speak to my [the specific strengths relevant here]?
@@ -80,7 +80,7 @@ Thank you either way.
 This is the step most people skip and the one that lifts a reference from adequate to strong.
 
 Give each referee a short brief covering:
-- The role and the organisation, in one or two lines.
+- The role and the organization, in one or two lines.
 - The two or three things this role most values (drawn from the job description, never invented).
 - One or two specific examples they witnessed that show those strengths. Remind them of the detail; people forget.
 - Anything the user is proactively addressing (a gap, a pivot, a step down) so the referee is not surprised and frames it consistently.

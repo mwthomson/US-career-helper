@@ -14,7 +14,7 @@ Complete interview support - before, during practice, and after.
 |:--|:-----------|:------------|
 | 1 | Interview Preparation | Preparing for an upcoming interview |
 | 2 | Interviewer's Perspective | Understanding what interviewers really assess |
-| 3 | Mock Interview | Practising with realistic simulation |
+| 3 | Mock Interview | Practicing with realistic simulation |
 | 4 | Post-Interview Coaching | After a rejection or unsuccessful interview |
 | 5 | Reference & Referee Prep | Choosing, asking, and briefing your referees |
 
@@ -38,7 +38,7 @@ Complete interview support - before, during practice, and after.
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 4. Next: mock interview."). Refer to saved files by description, not filename. Repeat key details (company names, role titles, dates) — do not assume the user remembers from earlier messages.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -53,7 +53,7 @@ These rules apply to **all communication with the user** and to the **formatting
 **Template:** @references/interview-prep-template.md
 
 Role-specific preparation:
-- 15-20 likely questions (behavioural, technical, situational, company-specific)
+- 15-20 likely questions (behavioral, technical, situational, company-specific)
 - STAR answer frameworks using your actual experience
 - Interviewer's perspective for each question
 - 5-7 pre-prepared adaptable stories
@@ -81,12 +81,12 @@ See questions from the interviewer's viewpoint:
 - What they're REALLY assessing behind each question
 - What makes a strong answer (criteria, not scripts)
 - Red flags interviewers watch for
-- How to THINK about your answer (mental frameworks, not memorised responses)
+- How to THINK about your answer (mental frameworks, not memorized responses)
 - Your experience to draw from
 
 Question categories covered:
-- Behavioural (past behaviour as predictor)
-- Situational (hypothetical judgement tests)
+- Behavioral (past behavior as predictor)
+- Situational (hypothetical judgment tests)
 - Role-specific (technical/functional competency)
 - Cultural fit (values and working style)
 - "Why" questions (motivation and fit)
@@ -129,11 +129,11 @@ Realistic interview practice:
 
 **Future Skills Alignment (WEF 2025):**
 - Cross-references gaps against World Economic Forum Future of Jobs 2025 report
-- Prioritises development by role need AND future demand
+- Prioritizes development by role need AND future demand
 
 **Wellbeing & Resilience:**
 - Calibrated to rejection severity
-- Normalises rejection with data (6-10 rejections average before offer)
+- Normalizes rejection with data (6-10 rejections average before offer)
 - "What's Still True" evidence anchor from resume
 - Pattern tracking across multiple rejections
 
@@ -209,7 +209,7 @@ When the ageism persona is triggered, load ALL THREE ageism references alongside
 | **age-discrimination-strategies.md** | Practical resume strategies, interview tactics, digital presence, skills to update, age-friendly employers, networking | When helping the user strengthen their approach and reduce age bias exposure in future applications |
 | **emotional-support-resilience.md** | Psychological impact, identity crisis after long service, NHS and charity support, resilience strategies, crisis contacts, cognitive reframing | When the user is emotionally distressed, processing layoff grief, or showing signs of withdrawal or confidence erosion |
 
-**Tone calibration for ageism:** This is an area where candidates are particularly vulnerable. The emotional impact of being told you are too old, explicitly or implicitly, is uniquely corrosive because age cannot be changed. Calibrate your response to acknowledge this reality before moving to practical advice. Do not rush past the emotional dimension. Equally, do not dwell so long that you reinforce hopelessness. The goal is: validate, inform, equip, and mobilise.
+**Tone calibration for ageism:** This is an area where candidates are particularly vulnerable. The emotional impact of being told you are too old, explicitly or implicitly, is uniquely corrosive because age cannot be changed. Calibrate your response to acknowledge this reality before moving to practical advice. Do not rush past the emotional dimension. Equally, do not dwell so long that you reinforce hopelessness. The goal is: validate, inform, equip, and mobilize.
 
 ---
 
@@ -218,7 +218,7 @@ When the ageism persona is triggered, load ALL THREE ageism references alongside
 - **US English** throughout (unless non-US role explicitly requires US English)
 - **No emojis** - Professional tone appropriate for target role
 - **Evidence-backed** - Answers reference your actual resume
-- **STAR format** - Behavioural answers use Situation, Task, Action, Result
+- **STAR format** - Behavioral answers use Situation, Task, Action, Result
 - **Role-specific** - Questions tailored to the actual role, not generic
 
 ### Tone of Voice
@@ -238,7 +238,7 @@ When a capability specifies a template, you MUST:
 
 ## Related Skills
 
-- **/application-optimiser** - Research the company and optimise your resume first
+- **/application-optimizer** - Research the company and optimize your resume first
 - **/linkedin-coach** - Update your LinkedIn after interview learnings
 - **/career-navigator** - Negotiate offers, evaluate multiple options
 

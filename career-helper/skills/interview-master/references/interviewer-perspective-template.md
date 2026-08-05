@@ -19,16 +19,16 @@ This report shows interview questions **from the interviewer's viewpoint**. It e
 
 ---
 
-## Behavioural Questions
+## Behavioral Questions
 
-These assess past behaviour as a predictor of future performance.
+These assess past behavior as a predictor of future performance.
 
 ---
 
 ### Question 1: "{Question text}"
 
 **What the Interviewer is Really Assessing:**
-{The underlying competency, behaviour, or fit being evaluated}
+{The underlying competency, behavior, or fit being evaluated}
 
 **What Makes a Strong Answer:**
 - {Criterion 1}
@@ -75,7 +75,7 @@ Finally: {How to conclude}
 
 ---
 
-{Repeat for 5-6 behavioural questions}
+{Repeat for 5-6 behavioral questions}
 
 ---
 
@@ -276,7 +276,7 @@ Interviewers are trained to watch for these across ALL questions:
 
 ## Quick Reference: What Strong Candidates Do
 
-| Behaviour | Why It Impresses |
+| Behavior | Why It Impresses |
 |:----------|:-----------------|
 | **Pause before answering** | Shows thoughtfulness, not rehearsed |
 | **Ask clarifying questions** | Shows engagement, gets to real question |

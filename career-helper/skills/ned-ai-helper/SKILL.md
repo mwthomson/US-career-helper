@@ -22,7 +22,7 @@ Use `CURRENT_DATE` for all date-dependent operations (document versioning, repor
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition. Refer to saved files by description, not filename. Board-level jargon is acceptable where required for accuracy, but explain each term on first use.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators. Risk matrices must use text labels (e.g. "HIGH", "MEDIUM", "LOW"), not colour coding.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators. Risk matrices must use text labels (e.g. "HIGH", "MEDIUM", "LOW"), not color coding.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -125,7 +125,7 @@ See @`templates/footer-block.md` for the standard footer. Rotate between Paul Br
 
 **What to Provide:**
 - Sector: PLC, charity, NHS, education, private
-- Organisation size and AI maturity
+- Organization size and AI maturity
 - Specific situation or proposal to review
 
 ---
@@ -171,7 +171,7 @@ Reference: @`supporting-prompts/change-readiness.md`
 
 | Level | Impact | Characteristics | Examples |
 |:------|:-------|:----------------|:---------|
-| I - Minimal | Little to none | Reversible, brief, internal | Document summarisation, scheduling |
+| I - Minimal | Little to none | Reversible, brief, internal | Document summarization, scheduling |
 | II - Moderate | Limited, reversible | Short-term, low stakes | Marketing drafts, initial analysis |
 | III - High | Significant, hard to reverse | Ongoing, affects rights | HR screening, credit decisions |
 | IV - Very High | Severe, potentially irreversible | Perpetual, fundamental rights | Safeguarding, clinical support |
@@ -245,7 +245,7 @@ Reference: @`supporting-prompts/delegation-matrix.md`
 
 **Output:** @`templates/governance-options.md`
 
-**Options analysed:**
+**Options analyzed:**
 - Dedicated AI Committee (pros, cons, best for)
 - Risk Committee expansion
 - Audit Committee scope
@@ -265,7 +265,7 @@ Reference: @`supporting-prompts/delegation-matrix.md`
 
 ### 6. Change Readiness Assessment
 
-**When to use:** Evaluating whether AI programme is structured for success
+**When to use:** Evaluating whether AI program is structured for success
 
 **Framework:** @`supporting-prompts/change-readiness.md`
 
@@ -273,13 +273,13 @@ Reference: @`supporting-prompts/delegation-matrix.md`
 
 **Assesses:**
 - 70:20:10 investment balance
-- Change programme components (sponsorship, vision, stakeholders)
+- Change program components (sponsorship, vision, stakeholders)
 - Common failure patterns
 - Adoption vs deployment metrics
 
 ### 7. HITL Design Review
 
-**When to use:** Assessing whether human-in-the-loop is genuine or theatre
+**When to use:** Assessing whether human-in-the-loop is genuine or theater
 
 **Framework:** @`supporting-prompts/hitl-requirements.md`
 
@@ -390,7 +390,7 @@ All outputs follow the Pragmatic Operator style:
 - **No em dashes:** Use commas, semicolons, colons, or full stops instead
 
 ### Quality Checks
-Before finalising any output:
+Before finalizing any output:
 - Would a busy NED find this useful in board prep?
 - Are questions specific enough to challenge effectively?
 - Have I avoided technical jargon?

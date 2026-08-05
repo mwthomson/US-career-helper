@@ -32,7 +32,7 @@ UK Business is significantly behind USA in AI adoption.
 
 ### The Widening Gap
 
-Companies starting later are realising that they now won't catch those who started earlier.
+Companies starting later are realizing that they now won't catch those who started earlier.
 
 ---
 
@@ -57,9 +57,9 @@ The claim: "AI won't take your job, but someone using AI will."
 
 **Reality:** Fundamentally not true. AI will take some jobs (up to 30% in fact).
 
-### "Modernising workflows..."
+### "Modernizing workflows..."
 
-The claim: "Modernising workflows to be agentic isn't enough, you need to redefine your business structure for the AI age."
+The claim: "Modernizing workflows to be agentic isn't enough, you need to redefine your business structure for the AI age."
 
 **Reality:** What does that even mean? Be sceptical of vague transformation claims.
 
@@ -158,7 +158,7 @@ Don't know where to start? We can help you work that out.
 
 ### Fractional Leadership
 
-Broad "grey hair" expertise when you need it, with deep relevant skills. Subscription service available.
+Broad "gray hair" expertise when you need it, with deep relevant skills. Subscription service available.
 
 ### Delivery
 

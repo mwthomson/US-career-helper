@@ -31,7 +31,7 @@ An honest assessment of whether AI will materially change your role in the next 
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition. Refer to saved files by description, not filename. Repeat key details (role titles, company names) — do not assume the user remembers from earlier messages.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators. Risk levels must use text labels (e.g. "HIGH RISK"), not colour coding.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators. Risk levels must use text labels (e.g. "HIGH RISK"), not color coding.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -61,7 +61,7 @@ This skill runs in two phases:
 - Builds a 6-month month-by-month mitigation plan with specific actions
 - Saves output file
 
-**Important:** This assessment may be difficult for the user to hear. Be straightforward, empathetic, and pragmatic. Do not sugar-coat, but do not catastrophise. Open with facts, not reassurance. End with agency and a plan.
+**Important:** This assessment may be difficult for the user to hear. Be straightforward, empathetic, and pragmatic. Do not sugar-coat, but do not catastrophize. Open with facts, not reassurance. End with agency and a plan.
 
 **Output:** `{role}-ai-impact-assessment.md`
 
@@ -95,7 +95,7 @@ This skill requires particular care with tone:
 
 After your assessment, consider:
 - **/career-transitions** - AI readiness assessment and upskilling roadmap
-- **/application-optimiser** - Research and apply for roles in growing areas
+- **/application-optimizer** - Research and apply for roles in growing areas
 - **/linkedin-coach** - Reposition your profile for AI-resilient positioning
 - **/career-navigator** - Build a structured plan if a career pivot is needed
 

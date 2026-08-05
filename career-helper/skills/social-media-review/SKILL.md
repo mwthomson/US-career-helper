@@ -33,7 +33,7 @@ A quick, friendly check of your social media through a recruiter's eyes. Find ou
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 3. Next: privacy cleanup."). Refer to saved files by description, not filename. Repeat key details (platform names, usernames) — do not assume the user remembers from earlier messages.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -105,7 +105,7 @@ A fast recruiter-eye review across all provided platforms:
 
 **AMBER flags** (worth considering):
 - Excessive partying photos (public)
-- Political content that could polarise
+- Political content that could polarize
 - Inactive/abandoned profiles that look dated
 - Inconsistent information across platforms
 
@@ -206,7 +206,7 @@ This skill adapts its tone and focus based on who is using it:
 
 | Career Stage | Tone | Focus |
 |:-------------|:-----|:------|
-| **Graduate / Apprentice** | Friendly, non-judgemental, reassuring | University era content, party photos, immature posts. Normalise having a social life while showing what to tidy up. |
+| **Graduate / Apprentice** | Friendly, non-judgemental, reassuring | University era content, party photos, immature posts. Normalize having a social life while showing what to tidy up. |
 | **Early Career (1-5 years)** | Practical, direct | Professional vs personal balance, building a positive presence |
 | **Mid-Career** | Professional, efficient | Quick scan for anything that doesn't match their seniority |
 | **Career Returner** | Supportive, encouraging | Outdated profiles, dormant accounts, refreshing presence |
@@ -216,7 +216,7 @@ This skill adapts its tone and focus based on who is using it:
 
 For graduates and early career users, include:
 
-- **"Everyone has this stuff"** - Normalise that university social media exists. Don't catastrophise.
+- **"Everyone has this stuff"** - Normalize that university social media exists. Don't catastrophize.
 - **"Here's what actually matters"** - Most recruiters spend 30 seconds. Focus on what they'll actually notice.
 - **"Quick wins"** - 5 things you can fix in 10 minutes that make the biggest difference.
 - **"Leave these alone"** - Content that's fine to keep (having friends, hobbies, and a life is not a red flag).
@@ -228,10 +228,10 @@ For graduates and early career users, include:
 
 - **US English** throughout (unless non-US role context)
 - **No emojis** - Professional tone
-- **Non-judgemental** - Flag issues objectively, don't moralise
+- **Non-judgemental** - Flag issues objectively, don't moralize
 - **Actionable** - Every flag comes with a specific fix
-- **Privacy-conscious** - Only analyse publicly available content
-- **Proportionate** - Don't catastrophise minor issues
+- **Privacy-conscious** - Only analyze publicly available content
+- **Proportionate** - Don't catastrophize minor issues
 
 ### Tone of Voice
 - Address the user as "you", not by name: "Your LinkedIn looks strong" not "Bethan's LinkedIn looks strong" — default to second person for warmth and engagement; occasional name use is fine for emphasis
@@ -265,9 +265,9 @@ This skill is the **lightweight version** of the social media audit within `/emp
 ## Related Skills
 
 After cleaning up your social media:
-- **/linkedin-coach** - Full LinkedIn profile optimisation (the professional platform)
+- **/linkedin-coach** - Full LinkedIn profile optimization (the professional platform)
 - **/employer-footprint** - Complete digital footprint analysis with scored dashboard
-- **/application-optimiser** - Research companies and optimise your resume
+- **/application-optimizer** - Research companies and optimize your resume
 - **/interview-master** - Prepare for interviews
 
 ---

@@ -1,6 +1,6 @@
 # Human-in-the-Loop Requirements
 
-Framework for assessing whether HITL controls are genuine or governance theatre.
+Framework for assessing whether HITL controls are genuine or governance theater.
 
 ---
 
@@ -22,7 +22,7 @@ Framework for assessing whether HITL controls are genuine or governance theatre.
 
 Does the reviewer have enough information to make an independent assessment?
 
-| Indicator | Genuine | Theatre |
+| Indicator | Genuine | Theater |
 |:----------|:--------|:--------|
 | Full context provided | Reviewer sees all relevant data | Reviewer sees only AI recommendation |
 | Original data accessible | Can examine source material | Only sees AI summary |
@@ -32,7 +32,7 @@ Does the reviewer have enough information to make an independent assessment?
 
 Does the reviewer have adequate time?
 
-| Indicator | Genuine | Theatre |
+| Indicator | Genuine | Theater |
 |:----------|:--------|:--------|
 | Review time per case | Sufficient for proper assessment | Seconds per item |
 | Workload | Manageable volume | Hundreds per day |
@@ -42,7 +42,7 @@ Does the reviewer have adequate time?
 
 Is the reviewer qualified to assess?
 
-| Indicator | Genuine | Theatre |
+| Indicator | Genuine | Theater |
 |:----------|:--------|:--------|
 | Training | Specific to AI review role | General or none |
 | Domain expertise | Understands the subject matter | Administrative role only |
@@ -52,7 +52,7 @@ Is the reviewer qualified to assess?
 
 Can the reviewer actually change the outcome?
 
-| Indicator | Genuine | Theatre |
+| Indicator | Genuine | Theater |
 |:----------|:--------|:--------|
 | Override rate | 2-15% (reasonable disagreement) | <0.5% (rubber stamping) or >30% (AI too poor) |
 | Override friction | Easy to override | Complex process, manager approval needed |
@@ -62,7 +62,7 @@ Can the reviewer actually change the outcome?
 
 Does human input improve the system?
 
-| Indicator | Genuine | Theatre |
+| Indicator | Genuine | Theater |
 |:----------|:--------|:--------|
 | Feedback captured | Overrides and reasons recorded | Not tracked |
 | Model updates | Human feedback improves AI | Feedback goes nowhere |

@@ -41,7 +41,7 @@ Walk through these one at a time. Keep it conversational — don't present it as
 
 ### 1. What do you enjoy?
 
-"What kind of work do you actually enjoy? Not what you're supposed to enjoy — what genuinely energises you?"
+"What kind of work do you actually enjoy? Not what you're supposed to enjoy — what genuinely energizes you?"
 
 - If they struggle: "Think about the last time you lost track of time doing something work-related. What were you doing?"
 - Accept broad answers. "Working with people" is fine. "Solving problems" is fine. We're looking for threads, not job titles.
@@ -71,7 +71,7 @@ Walk through these one at a time. Keep it conversational — don't present it as
 
 ## After the Questions
 
-**Summarise their answers back to them in a short grid:**
+**Summarize their answers back to them in a short grid:**
 
 ```
 WHAT YOU ENJOY: [their answer]
@@ -85,13 +85,13 @@ Then look for overlaps:
 - **Enjoy + Good at** — this is their natural strength. Where could they use it?
 - **Enjoy + World needs** — this is their motivation. What roles or sectors align?
 - **Good at + Can be paid for** — this is their market value. Where's the demand?
-- **All four overlap** — if something sits at the centre of all four, that's a strong starting point
+- **All four overlap** — if something sits at the center of all four, that's a strong starting point
 
 **Don't force it.** If the overlap isn't obvious, that's fine. Even two or three answers give Tim enough to route them:
 
 | What emerges | Route to |
 |:-------------|:---------|
-| Clear role or sector interest | Application Optimiser (research that area) |
+| Clear role or sector interest | Application Optimizer (research that area) |
 | Interest in non-traditional paths | Career Transitions (explore options) |
 | Strong skills but unclear market | Career Navigator (job search plan) |
 | Worried about relevance/future | AI Impact Assessment |
@@ -105,11 +105,11 @@ Then look for overlaps:
 
 ## Offer a Visual Ikigai Map (Optional)
 
-Once you have summarised the answers, offer to turn them into the classic four-circle ikigai diagram the user can keep:
+Once you have summarized the answers, offer to turn them into the classic four-circle ikigai diagram the user can keep:
 
 "Would you like me to turn this into the classic ikigai diagram, an interactive page you can keep and come back to?"
 
-If yes, follow @tim-ikigai-visual.md to populate the template and save `ikigai-map.html`. It is colour-blind-safe and includes a full text equivalent, so it works for everyone. Only offer it when the user gave real answers to at least three questions and stayed engaged; skip it if they were reluctant or if `direction_questions_declined: true` is set.
+If yes, follow @tim-ikigai-visual.md to populate the template and save `ikigai-map.html`. It is color-blind-safe and includes a full text equivalent, so it works for everyone. Only offer it when the user gave real answers to at least three questions and stayed engaged; skip it if they were reluctant or if `direction_questions_declined: true` is set.
 
 ---
 

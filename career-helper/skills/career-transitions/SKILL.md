@@ -40,7 +40,7 @@ Support for non-traditional career paths: fractional executive roles, portfolio 
 **At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 3. Next: AI readiness."). Refer to saved files by description, not filename. Repeat key details (company names, role titles, dates) — do not assume the user remembers from earlier messages.
-- **colour_blind: true** → Never use colour alone to convey meaning. Use labels, text, or icons for all status indicators.
+- **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators.
 
 If **no preferences file exists** and this skill was invoked directly (not dispatched by Tim): ask once — "Do you have any accessibility preferences I should know about? For example, if you're dyslexic I can adjust how I format things." If yes, save to `career-helper-preferences.md` using the format documented in the Tim skill before continuing. If the user declines or says no, proceed without creating the file.
 
@@ -60,7 +60,7 @@ Comprehensive portfolio career strategy:
 - Fractional executive positioning (CFO, CMO, CTO, CPO)
 - Rate setting guidance by role and region
 - Client acquisition strategy and platforms
-- LinkedIn optimisation for fractional/portfolio positioning
+- LinkedIn optimization for fractional/portfolio positioning
 - Portfolio resume format
 
 **Legal and Tax Structure Options:**
@@ -95,15 +95,16 @@ AI skills development for the modern job market:
 **What you need:** Current role/situation, career goals, financial situation, risk tolerance, region
 **Load:** @references/non-linear-careers.md
 **Template:** @references/non-linear-careers-template.md
+**Optional deeper reading:** @references/alternative-career-paths-research.md — a longer sourced research compendium (non-linear paths, entrepreneurship, startup founding, public sector, charity, intrapreneurship) this capability draws on. Not required reading; load it only if the user wants more depth or citations.
 
 Comprehensive exploration of non-traditional career alternatives:
 
 **Paths covered:**
-- **Starting a business** - Entrepreneurship with honest pros/cons, financial modelling, business readiness assessment, legal structures by region
+- **Starting a business** - Entrepreneurship with honest pros/cons, financial modeling, business readiness assessment, legal structures by region
 - **Startup founding** - VC-backed high-growth ventures, funding paths, co-founder dynamics, accelerators, realistic success/failure rates
 - **Public sector careers** - Civil Service, NHS, local government, arm's-length bodies, private-to-public transition guidance, application frameworks
-- **Charity and non-profit** - Social enterprise, impact investing, fundraising, programme delivery, trustee roles, the "passion tax" reality
-- **Intrapreneurship** - Building new ventures within existing organisations, pitching internal projects, assessing organisational readiness
+- **Charity and non-profit** - Social enterprise, impact investing, fundraising, program delivery, trustee roles, the "passion tax" reality
+- **Intrapreneurship** - Building new ventures within existing organizations, pitching internal projects, assessing organisational readiness
 - **Multi-role skilling** - Skill stacking, building rare intersections, deliberate career episode design, hybrid career models
 
 **For every path, provides:**
@@ -149,9 +150,9 @@ When a capability specifies a template, you MUST:
 
 ## Related Skills
 
-- **/linkedin-coach** - Optimise your LinkedIn for fractional/portfolio positioning or a career pivot
+- **/linkedin-coach** - Optimize your LinkedIn for fractional/portfolio positioning or a career pivot
 - **/career-navigator** - Build a 3-month plan, negotiate rates, explore networking
-- **/application-optimiser** - Research target companies and optimise your resume for a new sector
+- **/application-optimizer** - Research target companies and optimize your resume for a new sector
 - **/ai-impact-assessment** - Check whether your target role or sector is AI-resilient
 
 ---

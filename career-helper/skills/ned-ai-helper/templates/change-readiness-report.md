@@ -1,6 +1,6 @@
 # Change Readiness Assessment
 
-## [Organisation Name] - AI Programme
+## [Organization Name] - AI Program
 
 **Prepared:** [Date]
 **Prepared by:** Prosper AI Consulting
@@ -27,7 +27,7 @@
 
 ---
 
-## Change Programme Components
+## Change Program Components
 
 | Component | Present? | Quality | Evidence |
 |:----------|:---------|:--------|:---------|
@@ -43,7 +43,7 @@
 
 ## Common Failure Patterns
 
-| Pattern | Risk to This Programme | Mitigation |
+| Pattern | Risk to This Program | Mitigation |
 |:--------|:----------------------|:-----------|
 | Technology-first thinking | [High/Medium/Low] | [Specific mitigation] |
 | Insufficient training investment | [High/Medium/Low] | [Specific mitigation] |
@@ -59,7 +59,7 @@
 |:-------|:-------|:-------|
 | **Deployment** (available to use) | [X% of target users] | [Target] |
 | **Adoption** (actually using effectively) | [X% of deployed users] | [Target] |
-| **Value realisation** (delivering outcomes) | [X% of adopted users] | [Target] |
+| **Value realization** (delivering outcomes) | [X% of adopted users] | [Target] |
 
 ---
 
@@ -79,6 +79,6 @@
 
 ---
 
-*Change Readiness Assessment | [Organisation Name] | [Date]*
+*Change Readiness Assessment | [Organization Name] | [Date]*
 
 *Prosper AI Consulting*

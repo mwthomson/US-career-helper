@@ -49,7 +49,7 @@
 - **AMBER (4-6): Adequate** — improvement opportunities exist
 - **RED (1-3): Concern** — significant gap, action recommended
 
-*Ratings always use text labels (GREEN/AMBER/RED) alongside scores — never colour alone.*
+*Ratings always use text labels (GREEN/AMBER/RED) alongside scores — never color alone.*
 
 ---
 
@@ -160,7 +160,7 @@
 
 ---
 
-## Positive Signals (What Works in Your Favour)
+## Positive Signals (What Works in Your Favor)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -257,7 +257,7 @@
 
 **Cultural Fit Score: {X}/10 [{GREEN/AMBER/RED}]**
 
-### Experience to Prioritise in Interview
+### Experience to Prioritize in Interview
 
 Based on your digital footprint and the company's priorities:
 
@@ -337,11 +337,11 @@ Based on this analysis, here's what career-helper can do next:
 │                                                             │
 │  {If LinkedIn needs work:}                                  │
 │  /linkedin-coach                                            │
-│  "Optimise my LinkedIn based on my footprint analysis"      │
+│  "Optimize my LinkedIn based on my footprint analysis"      │
 │                                                             │
 │  {If applying to the target company:}                       │
-│  /application-optimiser                                     │
-│  "Research {Company} and optimise my resume for {Role}"         │
+│  /application-optimizer                                     │
+│  "Research {Company} and optimize my resume for {Role}"         │
 │                                                             │
 │  {If interview questions were generated:}                   │
 │  /interview-master                                          │
@@ -375,14 +375,14 @@ Based on this analysis, here's what career-helper can do next:
 | {Continue for all sources} |
 
 **Research Timestamp:** {Date and time analysis completed}
-**Channels Checked:** {Count of platforms analysed}
+**Channels Checked:** {Count of platforms analyzed}
 **Search Queries Executed:** {Approximate count}
 
 ---
 
 ## Methodology Note
 
-This analysis examines only publicly available information - the same information any recruiter, hiring manager, or background checker could find. No private accounts were accessed or attempted. Scores reflect employer perception, not personal judgement. Political views, lifestyle choices, and personal opinions are noted only where they may influence employer perception in the context of the target role and company.
+This analysis examines only publicly available information - the same information any recruiter, hiring manager, or background checker could find. No private accounts were accessed or attempted. Scores reflect employer perception, not personal judgment. Political views, lifestyle choices, and personal opinions are noted only where they may influence employer perception in the context of the target role and company.
 
 ---
 

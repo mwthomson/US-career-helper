@@ -23,7 +23,7 @@ Generate targeted questions to challenge AI proposals at board level.
 
 **Use when:** Reviewing AI business cases, strategy presentations, vendor proposals
 
-**Produces:** 35+ categorised questions covering strategic fit, business case validity, risk, implementation readiness, and governance
+**Produces:** 35+ categorized questions covering strategic fit, business case validity, risk, implementation readiness, and governance
 
 ### 2. AI Risk Register Entry
 Create board-level risk documentation for AI use cases.
@@ -40,7 +40,7 @@ Determine appropriate oversight level for AI use cases using the Canada AIA four
 **Produces:** Impact level (I-IV) with rationale, governance requirements, human oversight specifications
 
 ### 4. Governance Structure Options
-Analyse options for structuring AI oversight at board level.
+Analyze options for structuring AI oversight at board level.
 
 **Use when:** Setting up AI governance, reviewing committee structures
 
@@ -54,14 +54,14 @@ Translate existing director/trustee duties to AI context.
 **Produces:** Duty translations (Companies Act, Charities Act), liability considerations, conflict guidance
 
 ### 6. Change Readiness Assessment
-Evaluate whether AI programmes are structured for success using the 70:20:10 framework.
+Evaluate whether AI programs are structured for success using the 70:20:10 framework.
 
 **Use when:** Reviewing business cases, challenging implementation plans
 
-**Produces:** Investment balance analysis, change programme gap identification, adoption vs deployment metrics
+**Produces:** Investment balance analysis, change program gap identification, adoption vs deployment metrics
 
 ### 7. HITL Design Review
-Assess whether human-in-the-loop controls are genuine or governance theatre.
+Assess whether human-in-the-loop controls are genuine or governance theater.
 
 **Use when:** Reviewing AI deployments with human oversight claims, audit committee work
 

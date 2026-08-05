@@ -9,19 +9,19 @@ A single view of every live application. Stages: Researching, Applying, Applied,
 
 ## Active Applications
 
-| Role | Organisation | Stage | Next action | Next date | Notes |
+| Role | Organization | Stage | Next action | Next date | Notes |
 |:-----|:-------------|:------|:------------|:----------|:------|
-| {{ROLE_TITLE}} | {{ORGANISATION}} | {{Researching/Applying/Applied/Interviewing/Offer}} | {{What you do next}} | {{YYYY-MM-DD or [UNKNOWN]}} | {{Short context}} |
-| {{ROLE_TITLE}} | {{ORGANISATION}} | {{Stage}} | {{Next action}} | {{Date}} | {{Note}} |
-| {{ROLE_TITLE}} | {{ORGANISATION}} | {{Stage}} | {{Next action}} | {{Date}} | {{Note}} |
+| {{ROLE_TITLE}} | {{ORGANIZATION}} | {{Researching/Applying/Applied/Interviewing/Offer}} | {{What you do next}} | {{YYYY-MM-DD or [UNKNOWN]}} | {{Short context}} |
+| {{ROLE_TITLE}} | {{ORGANIZATION}} | {{Stage}} | {{Next action}} | {{Date}} | {{Note}} |
+| {{ROLE_TITLE}} | {{ORGANIZATION}} | {{Stage}} | {{Next action}} | {{Date}} | {{Note}} |
 
 ---
 
 ## Closed
 
-| Role | Organisation | Outcome | Date closed | What you learned |
+| Role | Organization | Outcome | Date closed | What you learned |
 |:-----|:-------------|:--------|:------------|:-----------------|
-| {{ROLE_TITLE}} | {{ORGANISATION}} | {{Accepted / Rejected / Withdrawn / No response}} | {{YYYY-MM-DD}} | {{One-line learning, if any}} |
+| {{ROLE_TITLE}} | {{ORGANIZATION}} | {{Accepted / Rejected / Withdrawn / No response}} | {{YYYY-MM-DD}} | {{One-line learning, if any}} |
 
 ---
 

@@ -1,4 +1,4 @@
-# Win Log: {{ORGANISATION}} - {{ROLE_TITLE}}
+# Win Log: {{ORGANIZATION}} - {{ROLE_TITLE}}
 
 **Date:** {{YYYY-MM-DD}}
 **Win type:** {{Callback / Strong interview / Offer}}
@@ -14,7 +14,7 @@
 
 ## Context
 
-- **Organisation stage:** {{Early-stage / Scale-up / Established / Public sector / Charity / [UNKNOWN]}}
+- **Organization stage:** {{Early-stage / Scale-up / Established / Public sector / Charity / [UNKNOWN]}}
 - **Industry:** {{Sector}}
 - **Role level:** {{e.g. mid, senior, director}}
 - **Source:** {{How you found the role}}

@@ -23,8 +23,8 @@
 |-----------|--------------|-------|
 | Base Salary | {amount} | |
 | Bonus (at target) | {amount} | {X}% of base |
-| Equity (annualised) | {amount} | {Vesting details} |
-| Sign-on (amortised) | {amount} | {Total}/{years} |
+| Equity (annualized) | {amount} | {Vesting details} |
+| Sign-on (amortized) | {amount} | {Total}/{years} |
 | Pension/Retirement | {amount} | {Employer %} |
 | Healthcare | {amount} | Estimated value |
 | Other Benefits | {amount} | {List} |
@@ -37,8 +37,8 @@
 |-----------|--------------|-------|
 | Base Salary | {amount} | |
 | Bonus (at target) | {amount} | {X}% of base |
-| Equity (annualised) | {amount} | {Vesting details} |
-| Sign-on (amortised) | {amount} | |
+| Equity (annualized) | {amount} | {Vesting details} |
+| Sign-on (amortized) | {amount} | |
 | Pension/Retirement | {amount} | {Employer %} |
 | Healthcare | {amount} | Estimated value |
 | Other Benefits | {amount} | {List} |

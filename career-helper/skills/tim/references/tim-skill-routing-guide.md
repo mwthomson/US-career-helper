@@ -8,18 +8,18 @@ This file is loaded by the Tim career coach skill when making routing decisions.
 
 Skills produce outputs that feed into other skills. Tim checks for existing outputs before deciding what to run next.
 
-- application-optimiser research brief feeds into: interview-master (company knowledge for prep), linkedin-coach (resume/LinkedIn consistency), application-optimiser cover letter (what is true about the organisation)
-- application-optimiser cover letter and supporting statement draw on: the research brief, the optimised resume or master facts, and the user's stated motivation; never invent motivation
-- interview-master referee prep draws on: the optimised resume and interview-prep STAR stories (verified examples the referee witnessed); runs at late interview or offer stage
+- application-optimizer research brief feeds into: interview-master (company knowledge for prep), linkedin-coach (resume/LinkedIn consistency), application-optimizer cover letter (what is true about the organization)
+- application-optimizer cover letter and supporting statement draw on: the research brief, the optimized resume or master facts, and the user's stated motivation; never invent motivation
+- interview-master referee prep draws on: the optimized resume and interview-prep STAR stories (verified examples the referee witnessed); runs at late interview or offer stage
 - career-navigator application tracker indexes: every per-application folder; it is the spine `/career-helper:status` reads, so update it when an application moves stage
-- career-navigator application learnings loop draws on: completed interviews, rejections, and wins, captured as per-event notes; the synthesised `applications/learnings/patterns.md` feeds interview-master (recurring objections to drill) and application-optimiser (a gap the resume consistently undersells), and is read by `/career-helper:status` when it exists
+- career-navigator application learnings loop draws on: completed interviews, rejections, and wins, captured as per-event notes; the synthesized `applications/learnings/patterns.md` feeds interview-master (recurring objections to drill) and application-optimizer (a gap the resume consistently undersells), and is read by `/career-helper:status` when it exists
 - employer-footprint results feed into: linkedin-coach (fix issues found), interview-master (questions from online presence)
 - social-media-review results feed into: linkedin-coach (cleanup recommendations), employer-footprint (if deeper audit needed)
-- career-transitions outputs feed into: application-optimiser (reposition resume for sector pivot), linkedin-coach (rebrand for fractional/portfolio), career-navigator (3-month plan for new path)
-- interview-master post-debrief feeds into: application-optimiser (refine resume after rejection)
+- career-transitions outputs feed into: application-optimizer (reposition resume for sector pivot), linkedin-coach (rebrand for fractional/portfolio), career-navigator (3-month plan for new path)
+- interview-master post-debrief feeds into: application-optimizer (refine resume after rejection)
 - ai-impact-assessment findings feed into: career-transitions (consider non-linear pivot if role at risk)
-- career-navigator networking intelligence feeds into: interview-master (who you'll meet), application-optimiser (insider context)
-- linkedin-coach updates feed into: application-optimiser (keep resume/LinkedIn consistent)
+- career-navigator networking intelligence feeds into: interview-master (who you'll meet), application-optimizer (insider context)
+- linkedin-coach updates feed into: application-optimizer (keep resume/LinkedIn consistent)
 - ikigai answers (captured in conversation or in `career-helper-preferences.md`) feed into: personal-brand (the four answers map onto Why You, Why Them, Why Now via the `brand-from-ikigai.md` bridge)
 - personal-brand foundation feeds into: linkedin-coach (positioning informs headline and content strategy), career-navigator (brand-build activities included in 3-month plan), career-transitions (brand layer for fractional or portfolio positioning), employer-footprint (intended positioning becomes the benchmark for the audit)
 - career-transitions output feeds into: personal-brand (structural decision must be made before the brand layer; never run brand for a path the user has not yet committed to)
@@ -32,9 +32,9 @@ When Tim detects these signals in what the user says, it activates the correspon
 
 | Signal | Persona | Skills That Support It |
 |:-------|:--------|:----------------------|
-| Mentions break, layoff, maternity, illness, sabbatical | Career Returner | application-optimiser, interview-master, career-navigator, personal-brand |
+| Mentions break, layoff, maternity, illness, sabbatical | Career Returner | application-optimizer, interview-master, career-navigator, personal-brand |
 | Mentions age, "too old", "overqualified", discrimination, long-service layoff, "younger candidates" | Ageism | interview-master (loads 3 ageism references) |
-| Graduate, apprentice, first job, student, early career | Early Career | application-optimiser, interview-master, career-navigator |
+| Graduate, apprentice, first job, student, early career | Early Career | application-optimizer, interview-master, career-navigator |
 | Board, governance, trustee, non-executive, NED | NED | ned-ai-helper for governance content; personal-brand (with NED persona guide) for positioning |
 | Freelance, portfolio, fractional, consulting, independent | Fractional | career-transitions for structure; personal-brand (with fractional persona guide) for inbound brand |
 | "Want to be known for X", "find my niche", "thought leadership", "build my brand", "refresh my bios" | Brand-Building | personal-brand (Capability A first; route to other capabilities based on what is missing) |
@@ -49,9 +49,9 @@ Tim uses Glob to scan for existing outputs before routing. Role-specific files a
 
 ### Per-application folder: `applications/{role-slug}/`
 
-**Application Optimiser:**
+**Application Optimizer:**
 - `applications/{role-slug}/research-brief.md`
-- `applications/{role-slug}/cv-optimised.md`
+- `applications/{role-slug}/cv-optimized.md`
 - `applications/{role-slug}/cover-letter.md`
 - `applications/{role-slug}/supporting-statement.md`
 - `applications/{role-slug}/linkedin-updates.md`
@@ -82,7 +82,7 @@ Tim uses Glob to scan for existing outputs before routing. Role-specific files a
 - `three-month-plan.md`
 - `offer-evaluation.md`
 - `applications/tracker.md` (index of every live application; read by `/career-helper:status`)
-- `applications/learnings/patterns.md` (synthesised patterns; read by `/career-helper:status`)
+- `applications/learnings/patterns.md` (synthesized patterns; read by `/career-helper:status`)
 - `applications/learnings/interview-notes/{org-slug}-{role-slug}.md`, `applications/learnings/rejections/{org-slug}-{role-slug}.md`, `applications/learnings/wins/{org-slug}-{role-slug}.md` (per-event notes)
 
 **Career Transitions:**
@@ -134,37 +134,37 @@ To check what exists for a given application, scan `applications/{role-slug}/` f
 These are the gaps Tim was designed to bridge.
 
 **1. Industry change but same job title**
-The user wants to move sector but keep doing the same work. This could be career-transitions (non-linear explorer for sector change) or application-optimiser (repositioned resume for a new industry). Ask: "Are you changing what you do, or where you do it?" If they are changing sector only, application-optimiser with repositioning focus is usually sufficient. If the identity or direction is unclear, career-transitions first.
+The user wants to move sector but keep doing the same work. This could be career-transitions (non-linear explorer for sector change) or application-optimizer (repositioned resume for a new industry). Ask: "Are you changing what you do, or where you do it?" If they are changing sector only, application-optimizer with repositioning focus is usually sufficient. If the identity or direction is unclear, career-transitions first.
 
 **2. Overwhelming interview prep**
-The user feels unprepared and does not know where to start. Check what already exists using Glob. If a research brief from application-optimiser is already present, jump straight to interview-master. If not, run application-optimiser first so interview-master has the company and role context it needs.
+The user feels unprepared and does not know where to start. Check what already exists using Glob. If a research brief from application-optimizer is already present, jump straight to interview-master. If not, run application-optimizer first so interview-master has the company and role context it needs.
 
 **3. Ageism plus skills gap**
-Two problems at once. Start with interview-master with the ageism persona — this provides emotional grounding, legal awareness, and practical reframing strategies. Then move to application-optimiser to reposition the resume. If the skills gap is technology-related, add ai-impact-assessment to understand what is actually changing in the role.
+Two problems at once. Start with interview-master with the ageism persona — this provides emotional grounding, legal awareness, and practical reframing strategies. Then move to application-optimizer to reposition the resume. If the skills gap is technology-related, add ai-impact-assessment to understand what is actually changing in the role.
 
 **4. Fractional consultant worried about AI**
 Run ai-impact-assessment first so the fractional career strategy accounts for disruption risks rather than assuming current income streams are stable. Then career-transitions (portfolio/fractional path) incorporating the impact findings. Doing these in the wrong order produces a strategy built on false assumptions.
 
 **5. NED plus employment needs**
-These are separate contexts and should not be mixed. Ask which is more urgent. NED governance work goes to ned-ai-helper. Job search, resume optimisation, and interview prep go to the other skills. The two contexts do not cross-pollinate — board governance questions should not influence a resume for an employed role and vice versa.
+These are separate contexts and should not be mixed. Ask which is more urgent. NED governance work goes to ned-ai-helper. Job search, resume optimization, and interview prep go to the other skills. The two contexts do not cross-pollinate — board governance questions should not influence a resume for an employed role and vice versa.
 
 **6. LinkedIn vs footprint vs social review confusion**
-Three different tools, three different purposes. Quick cleanup of risky or embarrassing content: social-media-review. Deep audit of what employers can see about you online: employer-footprint. Optimising your profile for networking and job search visibility: linkedin-coach. Ask the user: "What do you want to achieve?" and route based on the answer.
+Three different tools, three different purposes. Quick cleanup of risky or embarrassing content: social-media-review. Deep audit of what employers can see about you online: employer-footprint. Optimizing your profile for networking and job search visibility: linkedin-coach. Ask the user: "What do you want to achieve?" and route based on the answer.
 
 **7. Career returner plus ageism**
-Both personas apply and they reinforce each other. Start with interview-master with the ageism persona for emotional grounding and practical strategies — returners often face both age and gap discrimination simultaneously and need confidence before tactics. Then application-optimiser with the career returner persona to address how the gap is framed on the resume and in applications.
+Both personas apply and they reinforce each other. Start with interview-master with the ageism persona for emotional grounding and practical strategies — returners often face both age and gap discrimination simultaneously and need confidence before tactics. Then application-optimizer with the career returner persona to address how the gap is framed on the resume and in applications.
 
 **8. Multiple rejections — unclear cause**
-Do not assume the problem is the resume, the interview, or anything else. Ask: "Where in the process are you being rejected: at application stage, after phone screen, after interview, or at offer?" The answer determines the route. Application stage points to application-optimiser. Phone screen or first interview points to interview-master. Offer stage points to career-navigator negotiation. Running the wrong skill wastes the user's time and erodes trust. When the cause is genuinely unclear, capture each rejection as a structured analysis via the career-navigator learnings loop and synthesise once a few have accumulated; a pattern across notes (for example, the same objection at final round three times) is far more reliable than diagnosing from a single rejection.
+Do not assume the problem is the resume, the interview, or anything else. Ask: "Where in the process are you being rejected: at application stage, after phone screen, after interview, or at offer?" The answer determines the route. Application stage points to application-optimizer. Phone screen or first interview points to interview-master. Offer stage points to career-navigator negotiation. Running the wrong skill wastes the user's time and erodes trust. When the cause is genuinely unclear, capture each rejection as a structured analysis via the career-navigator learnings loop and synthesize once a few have accumulated; a pattern across notes (for example, the same objection at final round three times) is far more reliable than diagnosing from a single rejection.
 
 **9. Starting a business — financial anxiety**
-Route to career-transitions, non-linear explorer, entrepreneurship path. This capability includes financial readiness assessment and an honest pros/cons analysis with failure rate data. Do not route to career-navigator (which assumes employed job search) or application-optimiser (which assumes a specific role). The anxiety is usually about financial exposure — address that directly rather than redirecting to soft encouragement.
+Route to career-transitions, non-linear explorer, entrepreneurship path. This capability includes financial readiness assessment and an honest pros/cons analysis with failure rate data. Do not route to career-navigator (which assumes employed job search) or application-optimizer (which assumes a specific role). The anxiety is usually about financial exposure — address that directly rather than redirecting to soft encouragement.
 
 **10. Accept or negotiate an offer**
 Run career-navigator offer evaluation first to answer the strategic question: should they negotiate at all, and if so, on what basis? Only then move to the salary negotiation coach for tactics. Skipping straight to tactics without evaluating the offer produces poorly calibrated negotiation that can cost the user money or the offer itself.
 
 **11. Directionless — "I don't know what I want"**
-Do not route to a skill yet. Someone without direction gets nothing from a resume review or interview prep. Use the ikigai questions (load @tim-ikigai-guide.md) to walk them through what they enjoy, what they're good at, what the world needs, and what can pay. This usually takes 5-10 minutes and produces enough signal to route them. If a clear role or sector emerges, go to application-optimiser. If they're drawn to non-traditional paths, go to career-transitions. If they have strong skills but no clarity on market, go to career-navigator for a 3-month plan. If a clear topic plus audience emerges and the user wants to be known for it, route to personal-brand using the `brand-from-ikigai.md` bridge so the four answers feed Why You, Why Them, Why Now directly.
+Do not route to a skill yet. Someone without direction gets nothing from a resume review or interview prep. Use the ikigai questions (load @tim-ikigai-guide.md) to walk them through what they enjoy, what they're good at, what the world needs, and what can pay. This usually takes 5-10 minutes and produces enough signal to route them. If a clear role or sector emerges, go to application-optimizer. If they're drawn to non-traditional paths, go to career-transitions. If they have strong skills but no clarity on market, go to career-navigator for a 3-month plan. If a clear topic plus audience emerges and the user wants to be known for it, route to personal-brand using the `brand-from-ikigai.md` bridge so the four answers feed Why You, Why Them, Why Now directly.
 
 **12. Brand vs LinkedIn vs ikigai confusion**
 Three adjacent skills, three different problems. Use this rule of thumb:

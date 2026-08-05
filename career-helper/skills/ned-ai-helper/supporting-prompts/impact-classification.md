@@ -25,7 +25,7 @@ Canada AIA (Algorithmic Impact Assessment) four-tier model adapted for UK board 
 - Fully reversible outputs
 - No personal data processing
 
-**Examples:** Document summarisation, meeting scheduling, internal search, code generation
+**Examples:** Document summarization, meeting scheduling, internal search, code generation
 
 **Governance:** Standard IT procurement, no specific AI oversight required
 

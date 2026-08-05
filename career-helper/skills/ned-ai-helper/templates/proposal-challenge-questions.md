@@ -8,7 +8,7 @@ Use these questions to challenge AI proposals before approval. Tailor to your se
 
 ## Strategic Fit
 
-1. What specific business problem does this solve, and how was that problem prioritised?
+1. What specific business problem does this solve, and how was that problem prioritized?
 2. How does this align with our stated strategic objectives?
 3. What alternatives were considered, including non-AI solutions?
 4. Why now? What has changed to make this the right time?

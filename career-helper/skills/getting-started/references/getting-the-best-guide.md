@@ -1,6 +1,6 @@
 # Getting the Best from **Career Helper**
 
-Career Helper is a plugin for [Cowork](https://claude.ai), the desktop companion in the Claude app by Anthropic. It gives you a set of AI-powered career skills covering everything from resume optimisation and company research to interview preparation, LinkedIn coaching, and salary negotiation. It runs locally on your machine, saves files to a folder you choose, and builds on its own outputs across sessions.
+Career Helper is a plugin for [Cowork](https://claude.ai), the desktop companion in the Claude app by Anthropic. It gives you a set of AI-powered career skills covering everything from resume optimization and company research to interview preparation, LinkedIn coaching, and salary negotiation. It runs locally on your machine, saves files to a folder you choose, and builds on its own outputs across sessions.
 
 ## First Things First: Getting Career Helper Installed
 
@@ -27,17 +27,17 @@ Career Helper is not a single tool. It is a set of eleven skills plus a guided c
 | `/career-helper:career-coach` | **Tim, your career coach.** Understands your situation, runs the right skills in the right order, checks in between each one. Start here if you are unsure |
 | `/social-media-review` | Quick social media check through a recruiter's eyes |
 | `/employer-footprint` | Full digital footprint audit with a scored dashboard |
-| `/application-optimiser` | Company research, ATS resume optimisation, cover letters and supporting statements, and application strategy |
+| `/application-optimizer` | Company research, ATS resume optimization, cover letters and supporting statements, and application strategy |
 | `/linkedin-coach` | Profile audit, headline crafting, content strategy, and video intro scripts |
 | `/interview-master` | Interview prep, mock interviews, post-rejection coaching, reference and referee prep, and ageism support |
-| `/career-navigator` | Networking intelligence, 3-month plans, salary negotiation, offer evaluation, an application tracker, and a learnings loop that turns interviews, rejections, and wins into synthesised patterns |
+| `/career-navigator` | Networking intelligence, 3-month plans, salary negotiation, offer evaluation, an application tracker, and a learnings loop that turns interviews, rejections, and wins into synthesized patterns |
 | `/career-transitions` | Fractional/portfolio careers, AI readiness, and non-linear career exploration (entrepreneurship, startups, public sector, charity, intrapreneurship) |
 | `/ai-impact-assessment` | Honest assessment of AI disruption risk for your role, with a 6-month mitigation plan |
 | `/ned-ai-helper` | AI governance for Non-Executive Directors, Governors, and Trustees |
 | `/personal-brand` | Why You, Why Them, Why Now positioning, audience and channel map, content pillars, and a bio library |
 | `/getting-started` | Full overview, preparation checklists, workflow planning, and this guide |
 
-**Accessibility:** Career Helper adapts for dyslexia and colour-blindness across every skill. Tim will ask about your preferences at the start, or you can mention them at any point. If you are dyslexic, you will get shorter sentences, numbered options, explicit signposting, and confirmation checks. All scoring and status indicators use text labels, never colour alone.
+**Accessibility:** Career Helper adapts for dyslexia and color-blindness across every skill. Tim will ask about your preferences at the start, or you can mention them at any point. If you are dyslexic, you will get shorter sentences, numbered options, explicit signposting, and confirmation checks. All scoring and status indicators use text labels, never color alone.
 
 Now, before you run any of them, there are two things worth knowing.
 
@@ -57,7 +57,7 @@ Run `/career-helper:career-coach` and Tim will ask a few questions about your si
 - You have been here before and want to pick up where you left off
 
 **When to run skills yourself:**
-- You know exactly what you need (e.g., "optimise my resume for this job description")
+- You know exactly what you need (e.g., "optimize my resume for this job description")
 - You want to run one specific skill without the coaching wrapper
 - You are a returning user who just needs one thing done
 
@@ -67,7 +67,7 @@ Tim saves your preferences (with your permission) so returning sessions pick up 
 
 ## Set Up a Folder (This Really Matters)
 
-Career Helper saves files as it works. Research briefs, optimised resumes, interview prep packs, content calendars, and footprint dashboards all get written to your working folder. If you start a new Cowork session each time without selecting the same folder, those outputs are lost between sessions. Worse, later skills cannot build on what earlier skills produced.
+Career Helper saves files as it works. Research briefs, optimized resumes, interview prep packs, content calendars, and footprint dashboards all get written to your working folder. If you start a new Cowork session each time without selecting the same folder, those outputs are lost between sessions. Worse, later skills cannot build on what earlier skills produced.
 
 **How to do it:**
 
@@ -75,7 +75,7 @@ Career Helper saves files as it works. Research briefs, optimised resumes, inter
 2. When you open Cowork, use the "Work in a folder" option and select that folder.
 3. Every session after that, select the same folder.
 
-Career Helper organises your files automatically. When you start working on an application, it creates a subfolder for that role inside an `applications/` directory. Everything for that application; your research brief, tailored resume, interview prep, and strategy; lives together in one place. Shared files like your three-month plan and preferences stay in the root folder.
+Career Helper organizes your files automatically. When you start working on an application, it creates a subfolder for that role inside an `applications/` directory. Everything for that application; your research brief, tailored resume, interview prep, and strategy; lives together in one place. Shared files like your three-month plan and preferences stay in the root folder.
 
 ```
 Your folder/
@@ -84,20 +84,20 @@ Your folder/
 ├── applications/
 │   ├── marketing-manager-greenfield/
 │   │   ├── research-brief.md
-│   │   ├── cv-optimised.md
+│   │   ├── cv-optimized.md
 │   │   └── interview-prep.md
 │   └── head-fundraising-macmillan/
 │       ├── research-brief.md
-│       └── cv-optimised.md
+│       └── cv-optimized.md
 ```
 
-This means your optimised resume from last Tuesday is still there when you run interview prep on Thursday. Your company research brief feeds directly into your application strategy. Your LinkedIn audit references your updated resume. The skills are designed to chain together, and a persistent folder is what makes that possible.
+This means your optimized resume from last Tuesday is still there when you run interview prep on Thursday. Your company research brief feeds directly into your application strategy. Your LinkedIn audit references your updated resume. The skills are designed to chain together, and a persistent folder is what makes that possible.
 
 If you forget and work without a folder, you can still use the skills, but you will need to re-upload materials each time and you will lose the cumulative benefit.
 
 ### A Note on LinkedIn and Copy/Paste
 
-LinkedIn actively blocks most AI tools from accessing profile data directly. This means Career Helper cannot just read your LinkedIn profile from a URL. For the LinkedIn Coach and Employer Footprint skills to work well, you will need to help out with a bit of copy and paste. The easiest approaches are: export your LinkedIn profile as a PDF (go to your profile, click "More", then "Save to PDF"), copy and paste sections of your profile text into the chat, or take screenshots of your profile and upload them. It is a small extra step, but it means the skills can give you specific, personalised advice rather than generic guidance. The same applies to other people's LinkedIn profiles when running networking intelligence or company research.
+LinkedIn actively blocks most AI tools from accessing profile data directly. This means Career Helper cannot just read your LinkedIn profile from a URL. For the LinkedIn Coach and Employer Footprint skills to work well, you will need to help out with a bit of copy and paste. The easiest approaches are: export your LinkedIn profile as a PDF (go to your profile, click "More", then "Save to PDF"), copy and paste sections of your profile text into the chat, or take screenshots of your profile and upload them. It is a small extra step, but it means the skills can give you specific, personalized advice rather than generic guidance. The same applies to other people's LinkedIn profiles when running networking intelligence or company research.
 
 ---
 
@@ -121,23 +121,23 @@ If you do not have all of these right now, start with what you have. You can alw
 
 **Step 1: Social Media Review**
 
-Before anything else, run `/social-media-review`. This is the lightweight social check designed specifically for people in your position. It looks at your public profiles through a recruiter's eyes and tells you what to tidy up. It will not catastrophise about a photo from a night out; it focuses on what actually matters and gives you quick wins you can fix in ten minutes.
+Before anything else, run `/social-media-review`. This is the lightweight social check designed specifically for people in your position. It looks at your public profiles through a recruiter's eyes and tells you what to tidy up. It will not catastrophize about a photo from a night out; it focuses on what actually matters and gives you quick wins you can fix in ten minutes.
 
 If you want the full scored dashboard with Google presence mapping and resume cross-referencing, you can upgrade to `/employer-footprint` later. For now, the social media review is the right starting point.
 
-**Step 2: resume Optimisation**
+**Step 2: resume Optimization**
 
-Run `/application-optimiser` with your resume and a job description you are interested in. Even if you are not applying to that exact role, the ATS optimisation process teaches you how to structure your resume properly. The skill has a specific early career persona that understands university projects, placements, and part-time work are valid experience. It will not leave you with a blank page because you have not been a marketing director.
+Run `/application-optimizer` with your resume and a job description you are interested in. Even if you are not applying to that exact role, the ATS optimization process teaches you how to structure your resume properly. The skill has a specific early career persona that understands university projects, placements, and part-time work are valid experience. It will not leave you with a blank page because you have not been a marketing director.
 
-Upload your resume as a Word document or PDF. Paste the job description into the chat. The skill produces an ATS-optimised version of your resume and a set of LinkedIn update recommendations so the two stay consistent.
+Upload your resume as a Word document or PDF. Paste the job description into the chat. The skill produces an ATS-optimized version of your resume and a set of LinkedIn update recommendations so the two stay consistent.
 
 **Step 3: Company Research**
 
-When you find a company you want to apply to, run `/application-optimiser` again but this time ask it to research the company. It runs parallel searches covering leadership, culture, Glassdoor analysis, market position, and red flags. You get a research brief you can use to tailor your application and prepare for interviews.
+When you find a company you want to apply to, run `/application-optimizer` again but this time ask it to research the company. It runs parallel searches covering leadership, culture, Glassdoor analysis, market position, and red flags. You get a research brief you can use to tailor your application and prepare for interviews.
 
 **Step 4: LinkedIn Coach**
 
-Run `/linkedin-coach` for a full profile audit. For graduates, the focus is on building presence rather than overhauling an established profile. The headline optimisation alone is worth running. Most graduates have a headline that reads "Recent Graduate from University of X" when it should be positioning them for the role they want.
+Run `/linkedin-coach` for a full profile audit. For graduates, the focus is on building presence rather than overhauling an established profile. The headline optimization alone is worth running. Most graduates have a headline that reads "Recent Graduate from University of X" when it should be positioning them for the role they want.
 
 The content strategy capability is also valuable here. You do not need to be a thought leader to post on LinkedIn. Three posts a week about what you are learning, what interests you in your field, and what problems you would like to solve builds a signal that recruiters notice.
 
@@ -171,7 +171,7 @@ Career Helper understands apprenticeships. You will not get advice designed for 
 - **A job description** for a role you are interested in. Does not need to be perfect; any relevant listing helps the skills calibrate.
 - **Your LinkedIn profile URL.** If you do not have one yet, the LinkedIn Coach will help you build one that leads with your practical experience.
 - **Your social media handles.** Same as for graduates; recruiters check.
-- **Details of your apprenticeship.** Level, standard, employer, what you actually did day to day. The skills use this to find transferable skills you might not realise you have.
+- **Details of your apprenticeship.** Level, standard, employer, what you actually did day to day. The skills use this to find transferable skills you might not realize you have.
 
 ### Your Recommended Workflow
 
@@ -179,15 +179,15 @@ Career Helper understands apprenticeships. You will not get advice designed for 
 
 Same as for graduates. Run `/social-media-review` first. Quick, painless, and it catches anything that might put an employer off before you start applying.
 
-**Step 2: resume Optimisation**
+**Step 2: resume Optimization**
 
-Run `/application-optimiser` with your resume and a target job description. The key difference from the graduate workflow: your apprenticeship experience is professional experience, and the skill treats it that way. It will not bury your work history under an "Education" heading.
+Run `/application-optimizer` with your resume and a target job description. The key difference from the graduate workflow: your apprenticeship experience is professional experience, and the skill treats it that way. It will not bury your work history under an "Education" heading.
 
 The skill focuses on extracting achievements from your apprenticeship. "Completed Level 3 Business Administration" is a qualification. "Managed supplier onboarding for 40 accounts, reducing processing time by 30%" is an achievement. The skill helps you find those achievements in your experience.
 
 **Step 3: Company Research**
 
-When you have a target company, run `/application-optimiser` for company research. The intelligence brief helps you write targeted applications and prepare for interviews. Even at early career level, showing you know the company's priorities makes you stand out.
+When you have a target company, run `/application-optimizer` for company research. The intelligence brief helps you write targeted applications and prepare for interviews. Even at early career level, showing you know the company's priorities makes you stand out.
 
 **Step 4: LinkedIn Coach**
 
@@ -218,7 +218,7 @@ You have years of solid experience behind you, but right now you are between rol
 You probably have most of this already, but pulling it together in one place before you start saves time and means the skills can do their best work from the first session.
 
 - **Your current resume** as a Word document or PDF. If you have multiple versions, use the most recent one. The skill will tailor it from there.
-- **Target job descriptions.** Save two or three listings that interest you. Paste them into the chat or drop them in your folder. The more specific the job description, the better the ATS optimisation and interview prep.
+- **Target job descriptions.** Save two or three listings that interest you. Paste them into the chat or drop them in your folder. The more specific the job description, the better the ATS optimization and interview prep.
 - **Your LinkedIn profile URL.** Copy the URL from your browser. If you have a PDF export, even better, but the URL is enough to start.
 - **Your social media handles.** LinkedIn, Twitter/X, and anything else that is public. The employer footprint analysis needs these.
 - **Target company names.** Even one is enough to start. The company research skill produces intelligence briefs that feed into everything else.
@@ -233,25 +233,25 @@ Start with `/employer-footprint`. This is the full digital audit, not the lightw
 
 If you have a target company in mind, provide it. The skill maps your online presence against the company's stated values and culture.
 
-**Step 2: Company Research and resume Optimisation**
+**Step 2: Company Research and resume Optimization**
 
-Run `/application-optimiser` with both your resume and a target job description. At senior level, the ATS optimisation becomes even more important because your resume is likely longer and more complex, which means more opportunities for keyword mismatches. The skill extracts keywords and concepts from the job description and rewrites your resume to hit 70%+ coverage while keeping your achievements quantified and your narrative coherent.
+Run `/application-optimizer` with both your resume and a target job description. At senior level, the ATS optimization becomes even more important because your resume is likely longer and more complex, which means more opportunities for keyword mismatches. The skill extracts keywords and concepts from the job description and rewrites your resume to hit 70%+ coverage while keeping your achievements quantified and your narrative coherent.
 
 If you have been made redundant or have a career gap, the skill has a career returner persona that loads specific guidance on framing gaps positively and handling the narrative.
 
 Run the company research capability too. The intelligence brief covers leadership, financial health, hiring context, and red flags. When you are applying to roles at director level and above, knowing who the hiring manager reports to and what the board's strategic priorities are gives you a tangible edge.
 
-When a role needs a cover letter or a supporting statement, run `/application-optimiser` for that too. It drafts from your verified resume and the research brief, sources your motivation from you rather than inventing it, and is the right place to address an overqualification concern or a career gap that the resume cannot explain on its own.
+When a role needs a cover letter or a supporting statement, run `/application-optimizer` for that too. It drafts from your verified resume and the research brief, sources your motivation from you rather than inventing it, and is the right place to address an overqualification concern or a career gap that the resume cannot explain on its own.
 
 **Step 3: LinkedIn Overhaul**
 
 Run `/linkedin-coach` for the full profile audit. At your level, the content strategy capability is particularly valuable. Three posts a week, mixing tactical advice, strategic observations, and stories from your career, positions you as active and relevant. This directly counters any perception that you are "winding down" or out of touch.
 
-The headline optimisation capability is also critical. "Experienced Operations Director" says nothing. A headline that communicates the value you deliver and the problems you solve is what makes recruiters stop scrolling.
+The headline optimization capability is also critical. "Experienced Operations Director" says nothing. A headline that communicates the value you deliver and the problems you solve is what makes recruiters stop scrolling.
 
 **Step 4: Networking Intelligence**
 
-Run `/career-navigator` and ask for strategic networking intelligence for your target companies. It identifies 8 to 12 people you should connect with, prioritised in three tiers (decision makers, influencers, and warm introduction paths), with personalised connection message templates.
+Run `/career-navigator` and ask for strategic networking intelligence for your target companies. It identifies 8 to 12 people you should connect with, prioritized in three tiers (decision makers, influencers, and warm introduction paths), with personalized connection message templates.
 
 Also build a 3-month job search plan. At senior level, this is not about applying to 50 roles a week. It is about targeted approaches, relationship building, and strategic positioning. The plan includes weekly task breakdowns, progress tracking, and wellbeing practices.
 
@@ -265,13 +265,13 @@ The mock interview simulation can be set to "sceptical" or "panel" mode for real
 
 Let's be direct about this. If you are over 45 and job searching, you may have already noticed that something feels off. Interviews that go well but lead nowhere. Feedback about being "overqualified". A sense that younger candidates are getting through while you are not.
 
-Career Helper does not pretend this does not happen. `/interview-master` has comprehensive ageism support covering three areas: UK employment law (the Age Discrimination in Employment Act (ADEA), your rights, the reality of proving discrimination, and when it is worth pursuing a complaint), practical strategies (resume techniques, interview tactics, digital presence updates, and skills to prioritise that signal relevance), and emotional resilience (the psychological impact of age-related rejection, support resources, and cognitive reframing approaches). You can access this by mentioning age concerns in any conversation with the interview master skill.
+Career Helper does not pretend this does not happen. `/interview-master` has comprehensive ageism support covering three areas: UK employment law (the Age Discrimination in Employment Act (ADEA), your rights, the reality of proving discrimination, and when it is worth pursuing a complaint), practical strategies (resume techniques, interview tactics, digital presence updates, and skills to prioritize that signal relevance), and emotional resilience (the psychological impact of age-related rejection, support resources, and cognitive reframing approaches). You can access this by mentioning age concerns in any conversation with the interview master skill.
 
 This is not a token feature. It is built from real experience of what people face.
 
 **Step 7: After Every Interview**
 
-Win or lose, run `/interview-master` in post-interview coaching mode after every interview. Share what happened, any feedback you received, and your own impression of how it went. The skill diagnoses whether the issue was a skill gap, a signal gap (strong background but poor framing), or a fit/timing gap (right person, wrong moment). It cross-references gaps against the World Economic Forum Future of Jobs 2025 report to prioritise development that matters both now and long term.
+Win or lose, run `/interview-master` in post-interview coaching mode after every interview. Share what happened, any feedback you received, and your own impression of how it went. The skill diagnoses whether the issue was a skill gap, a signal gap (strong background but poor framing), or a fit/timing gap (right person, wrong moment). It cross-references gaps against the World Economic Forum Future of Jobs 2025 report to prioritize development that matters both now and long term.
 
 Critically, it feeds those learnings back into your resume and interview prep. Each rejection makes the next application stronger, but only if you capture the insight. Your folder keeps the full chain: research brief, resume, interview prep, post-interview debrief, updated resume.
 
@@ -306,7 +306,7 @@ Your prep is lighter because you are not under time pressure, but having these r
 
 Run `/linkedin-coach` and ask for a full profile audit. The skill reviews your photo, banner, headline, about section, skills ordering, and activity. More importantly, it assesses your discoverability: can recruiters find you for the roles you want?
 
-The headline optimisation is a quick win. If your headline is just your current job title, you are invisible to anyone searching for your expertise rather than your employer.
+The headline optimization is a quick win. If your headline is just your current job title, you are invisible to anyone searching for your expertise rather than your employer.
 
 **Step 2: Content Strategy**
 
@@ -328,7 +328,7 @@ Run `/career-navigator` for networking intelligence, even without a specific tar
 
 **When an Opportunity Does Come Along**
 
-You are not actively searching, but opportunities will appear. When one does, you have everything you need. Run `/application-optimiser` to research the company and optimise your resume for that specific role. Run `/interview-master` to prepare. And if it does not work out, run the post-interview coaching to understand why, so you are even better prepared for the next one.
+You are not actively searching, but opportunities will appear. When one does, you have everything you need. Run `/application-optimizer` to research the company and optimize your resume for that specific role. Run `/interview-master` to prepare. And if it does not work out, run the post-interview coaching to understand why, so you are even better prepared for the next one.
 
 Because you have been maintaining your folder all along, the skills already know your background, your content strategy, and your professional positioning. You are not starting from scratch; you are just adding a targeted application to an already strong foundation.
 
@@ -338,7 +338,7 @@ Because you have been maintaining your folder all along, the skills already know
 - Run `/linkedin-coach` in content review mode after you have been posting for a few weeks. It analyses your existing posts for audience alignment and suggests improvements.
 - Ask for a video introduction script. A 30-second profile video significantly increases profile engagement.
 - You do not need to be in a crisis to use Career Helper. The skills for content strategy, AI readiness, and networking intelligence are just as useful for career maintenance as they are for active job searching.
-- Tim (`/career-helper:career-coach`) works just as well for strategic positioning as for active job searching. He can sequence LinkedIn optimisation, content strategy, and networking intelligence into a coherent plan.
+- Tim (`/career-helper:career-coach`) works just as well for strategic positioning as for active job searching. He can sequence LinkedIn optimization, content strategy, and networking intelligence into a coherent plan.
 
 ---
 
@@ -359,9 +359,9 @@ Whether you took time out for parenting, caring, health, travel, or simply becau
 
 Run `/employer-footprint` first. After a career break, your online presence may be outdated: an old LinkedIn profile with a previous job title, dormant professional accounts, or nothing at all. The footprint audit shows you what employers will find right now and what needs updating before you start applying.
 
-**Step 2: resume Optimisation**
+**Step 2: resume Optimization**
 
-Run `/application-optimiser` with your resume and a target job description. The career returner persona loads automatically when you mention a career break. It focuses on framing your gap as a chapter, not a void: what you did, what you gained, and how it connects to what you are doing next.
+Run `/application-optimizer` with your resume and a target job description. The career returner persona loads automatically when you mention a career break. It focuses on framing your gap as a chapter, not a void: what you did, what you gained, and how it connects to what you are doing next.
 
 The skill produces a 30-second gap explanation you can use in applications and interviews. This is one of the most useful outputs for returners: a confident, prepared response to the question you are dreading.
 
@@ -403,11 +403,11 @@ Career Helper does not assume everyone wants a bigger version of their current j
 
 Run `/career-transitions` and tell it you want to explore alternatives. The non-linear career explorer covers:
 
-- **Entrepreneurship**: business readiness assessment, legal structures, funding, financial modelling, failure rate data
+- **Entrepreneurship**: business readiness assessment, legal structures, funding, financial modeling, failure rate data
 - **Startup founding**: VC vs bootstrapping, co-founder dynamics, accelerators, equity and dilution, realistic success rates
 - **Public sector**: private-to-public transition, Success Profiles framework, Civil Service values, salary comparison
 - **Charity and non-profit**: career paths, the "passion tax" reality, sector resources
-- **Intrapreneurship**: innovating within your current organisation
+- **Intrapreneurship**: innovating within your current organization
 - **Multi-role skilling**: skill stacking, unique intersections, hybrid career models
 
 The output includes a weighted decision matrix with reversibility assessment, so you know which options you can try and walk back from, and which ones are harder to reverse.
@@ -426,7 +426,7 @@ If your chosen direction involves self-employment, the skill includes financial 
 
 **Step 5: Narrative Development**
 
-Whatever direction you choose, you need a story. The skill produces career narrative versions: 30-second, 2-minute, LinkedIn, and interview formats. "I spent 15 years in supply chain and now I'm exploring consulting" is not a story. "I realised that the problem-solving I loved was being automated, so I'm repositioning the strategic thinking that AI cannot do." That is a story.
+Whatever direction you choose, you need a story. The skill produces career narrative versions: 30-second, 2-minute, LinkedIn, and interview formats. "I spent 15 years in supply chain and now I'm exploring consulting" is not a story. "I realized that the problem-solving I loved was being automated, so I'm repositioning the strategic thinking that AI cannot do." That is a story.
 
 ### A Few More Things Worth Knowing
 
@@ -460,7 +460,7 @@ Run `/career-helper:career-coach` and tell Tim you are not sure what you want. R
 3. What problems do you care about?
 4. What can you realistically be paid for?
 
-Tim looks for the overlaps in your answers, then routes you to the right next step: `/application-optimiser` if a clear role emerges, `/career-transitions` if you are drawn to non-traditional paths, or `/career-navigator` for a plan if you have the skills but not the market clarity. If a clear topic and audience emerge and you want to be known for it, those same four answers feed straight into `/personal-brand`, so the brand work does not start from a blank page.
+Tim looks for the overlaps in your answers, then routes you to the right next step: `/application-optimizer` if a clear role emerges, `/career-transitions` if you are drawn to non-traditional paths, or `/career-navigator` for a plan if you have the skills but not the market clarity. If a clear topic and audience emerge and you want to be known for it, those same four answers feed straight into `/personal-brand`, so the brand work does not start from a blank page.
 
 It is offered, not imposed. If it is not clicking, Tim drops it and simply talks the decision through with you instead. If you find the exercise useful, Tim can also turn your answers into the classic ikigai diagram as an interactive page you can keep and revisit.
 
@@ -480,7 +480,7 @@ If you have been rejected multiple times, share all of them. The skill looks for
 
 After diagnosis, the skill feeds improvements directly back into your resume and interview prep. Each rejection genuinely makes the next application stronger, but only if you capture what went wrong.
 
-Over a long search, run `/career-navigator` and use the application learnings loop to keep this honest. It turns each interview, rejection, and win into a short structured note, then periodically synthesises those notes into a single patterns file so you can see what is actually working across dozens of applications, rather than relearning the same lesson each time. The synthesised patterns feed back into `/interview-master` (recurring objections worth drilling) and `/application-optimiser` (a gap your resume keeps underselling), and `/career-helper:status` surfaces the most useful current pattern when you check where you are.
+Over a long search, run `/career-navigator` and use the application learnings loop to keep this honest. It turns each interview, rejection, and win into a short structured note, then periodically synthesizes those notes into a single patterns file so you can see what is actually working across dozens of applications, rather than relearning the same lesson each time. The synthesized patterns feed back into `/interview-master` (recurring objections worth drilling) and `/application-optimizer` (a gap your resume keeps underselling), and `/career-helper:status` surfaces the most useful current pattern when you check where you are.
 
 If the rejections are hitting you emotionally (and they do, for everyone), run `/career-helper:career-coach` instead. Tim will run the rejection analysis but will also check how you are doing and adjust the pace.
 
@@ -515,7 +515,7 @@ Run `/interview-master` and mention your age concerns. The ageism persona loads 
 
 **Emotional resilience:** The psychological impact of age-related rejection is different from other rejection: it hits identity, not just career prospects. The skill includes support resources (NHS Talking Therapies, Samaritans 116 123), cognitive reframing approaches, and honest acknowledgment that this is genuinely hard.
 
-If you are also between roles and need the full job search support, run `/career-helper:career-coach`. Tim understands age-related concerns and will weave the ageism support into the broader coaching, not as a separate topic but as context that shapes everything from resume optimisation to interview prep.
+If you are also between roles and need the full job search support, run `/career-helper:career-coach`. Tim understands age-related concerns and will weave the ageism support into the broader coaching, not as a separate topic but as context that shapes everything from resume optimization to interview prep.
 
 ---
 
@@ -558,11 +558,11 @@ The output includes a financial readiness assessment. Slowing down means earning
 
 Run `/linkedin-coach` once you know your direction. Your LinkedIn profile needs to signal "strategic choice" not "winding down". The skill helps you rewrite your headline and about section to position reduced availability as a feature: "I now work with select clients on strategic operations challenges" reads very differently from "Looking for part-time opportunities".
 
-The content strategy capability is especially useful here. Thought leadership on your terms (two posts a week about what you have learned over your career) builds the inbound enquiries that make fractional and portfolio work sustainable.
+The content strategy capability is especially useful here. Thought leadership on your terms (two posts a week about what you have learned over your career) builds the inbound inquiries that make fractional and portfolio work sustainable.
 
 **Step 3: Networking Intelligence**
 
-Run `/career-navigator` for networking intelligence. The contacts you need when slowing down are different from job search contacts: you are looking for people who commission fractional work, chair boards that need non-executive directors, or run organisations that value experience on a part-time basis.
+Run `/career-navigator` for networking intelligence. The contacts you need when slowing down are different from job search contacts: you are looking for people who commission fractional work, chair boards that need non-executive directors, or run organizations that value experience on a part-time basis.
 
 **Step 4: If You Are Negotiating with Your Current Employer**
 
@@ -583,21 +583,21 @@ Career Helper skills are designed to feed into each other. Here is the chain:
 | What You Run First | What It Feeds Into |
 |:----|:----|
 | Social media review or employer footprint | Identifies what to fix before applications |
-| Company research (application optimiser) | Informs resume tailoring, interview prep, and networking |
-| resume optimisation (application optimiser) | Produces a resume that LinkedIn coach and interview master reference |
-| Cover letter (application optimiser) | Says what the resume cannot: motivation, fit, and context for a gap or pivot |
+| Company research (application optimizer) | Informs resume tailoring, interview prep, and networking |
+| resume optimization (application optimizer) | Produces a resume that LinkedIn coach and interview master reference |
+| Cover letter (application optimizer) | Says what the resume cannot: motivation, fit, and context for a gap or pivot |
 | LinkedIn coach (profile audit) | Creates consistency between resume and LinkedIn |
 | LinkedIn coach (content strategy) | Builds ongoing visibility and thought leadership |
 | Career navigator (networking intelligence) | Identifies who to connect with at target companies |
 | Career navigator (3-month plan) | Structures the entire search with wellbeing built in |
 | Interview master (preparation) | Uses research brief and resume to build role-specific prep |
-| Interview master (mock interview) | Practises with realistic simulation |
+| Interview master (mock interview) | Practices with realistic simulation |
 | Interview master (post-interview coaching) | Diagnoses rejection and feeds back into resume/prep refinement |
 | Interview master (reference and referee prep) | Helps you choose, ask, and brief referees at offer stage |
 | Career navigator (salary negotiation) | Coaches through offer negotiation with region-specific guidance |
 | Career navigator (offer evaluation) | Compares multiple offers with weighted decision framework |
 | Career navigator (application tracker) | Indexes every live application, its stage, and its next action |
-| Career navigator (learnings loop) | Turns interviews, rejections, and wins into synthesised patterns that sharpen resume and interview work |
+| Career navigator (learnings loop) | Turns interviews, rejections, and wins into synthesized patterns that sharpen resume and interview work |
 
 The persistent folder is what holds this chain together. Without it, each skill starts from scratch.
 
@@ -605,7 +605,7 @@ The persistent folder is what holds this chain together. Without it, each skill 
 
 ## Common Mistakes to Avoid
 
-**Starting with resume optimisation before research.** The resume optimisation works best when you have already run company research. The research brief informs the keyword strategy.
+**Starting with resume optimization before research.** The resume optimization works best when you have already run company research. The research brief informs the keyword strategy.
 
 **Skipping the digital footprint.** Your online presence is part of your application whether you manage it or not. Five minutes with the social media review (or twenty minutes with the full footprint analysis) can prevent problems you did not know existed.
 
@@ -619,13 +619,13 @@ The persistent folder is what holds this chain together. Without it, each skill 
 
 ## What Career Helper Gives You
 
-To summarise, here is what you get across the full skill set:
+To summarize, here is what you get across the full skill set:
 
-- **ATS-optimised resumes** tailored to specific job descriptions with 70%+ keyword coverage
+- **ATS-optimized resumes** tailored to specific job descriptions with 70%+ keyword coverage
 - **Cover letters and supporting statements** drafted from verified content, with the same anti-hallucination guardrails as the resume work
 - **Company intelligence briefs** covering leadership, culture, financials, red flags, and hiring context
 - **Digital footprint dashboards** scored across eight dimensions with text-label ratings
-- **LinkedIn profile audits** with headline optimisation, content strategy, and 4-week posting calendars
+- **LinkedIn profile audits** with headline optimization, content strategy, and 4-week posting calendars
 - **Interview preparation packs** with 15 to 20 role-specific questions, STAR frameworks, and mock simulation
 - **Networking intelligence** identifying 8 to 12 strategic contacts at target companies with outreach templates
 - **3-month job search plans** with weekly task breakdowns, progress tracking, and integrated wellbeing practices
@@ -634,7 +634,7 @@ To summarise, here is what you get across the full skill set:
 - **Post-rejection coaching** that diagnoses where things went wrong and feeds improvements back into your materials
 - **Reference and referee prep** to choose, ask, and brief your referees, with UK conventions and regulated-role notes
 - **An application tracker** that keeps every live application, its stage, and its next action in one plain-text board you own
-- **An application learnings loop** that captures each interview, rejection, and win as a structured note and synthesises them into the patterns that are actually shaping your search
+- **An application learnings loop** that captures each interview, rejection, and win as a structured note and synthesizes them into the patterns that are actually shaping your search
 - **Scheduled routines for Claude Cowork** that put a Monday standup, market monitor, and follow-up check on repeat between sessions
 - **AI readiness assessments** with tiered upskilling roadmaps
 - **AI impact assessments** that research whether your role faces material disruption, with 6-month mitigation plans
@@ -643,7 +643,7 @@ To summarise, here is what you get across the full skill set:
 - **Ageism support** with UK employment law, practical strategies, and emotional resilience resources
 - **Social media reviews** from a quick recruiter-eye scan to a full 8-agent deep research audit
 - **Guided coaching with Tim** who understands your situation, runs the right skills in the right order, reads emotional signals, and checks in between each step
-- **Accessibility** across every skill: dyslexia-friendly enhanced mode and colour-blind safe output, stored in your preferences
+- **Accessibility** across every skill: dyslexia-friendly enhanced mode and color-blind safe output, stored in your preferences
 
 All of it saves to your folder, builds on previous outputs, and adapts to your career stage, whether you are an apprentice, a graduate, mid-career, a senior leader, or approaching retirement.
 
@@ -659,7 +659,7 @@ If you have suggestions, feature requests, or you have hit a problem, you can [r
 
 ## About Prosper AI Consulting
 
-Career Helper is built by Prosper AI Consulting. We help organisations connect AI to real business outcomes. If your organisation is exploring how to use AI practically, we would welcome a conversation. Visit [prosperconsulting.ai](https://prosperconsulting.ai) to find out more.
+Career Helper is built by Prosper AI Consulting. We help organizations connect AI to real business outcomes. If your organization is exploring how to use AI practically, we would welcome a conversation. Visit [prosperconsulting.ai](https://prosperconsulting.ai) to find out more.
 
 ---
 

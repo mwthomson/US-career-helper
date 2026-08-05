@@ -126,7 +126,7 @@ Things that need addressing:
 
 - Offensive language, slurs, racist/sexist/homophobic content
 - Drug use references or illegal activity
-- Aggressive, threatening, or bullying behaviour
+- Aggressive, threatening, or bullying behavior
 - Sexually explicit public content
 - Complaints about employers (current or former)
 - Evidence of dishonesty (claiming qualifications not held, fake job titles)

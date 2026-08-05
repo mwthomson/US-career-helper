@@ -16,7 +16,7 @@ Trigger signals from the user:
 - "I want to come back at the same level I left at"
 - "I want to come back differently than I left"
 
-Often pairs with the career-returner persona in `/application-optimiser`, `/linkedin-coach`, and `/career-navigator`. This guide is the brand layer.
+Often pairs with the career-returner persona in `/application-optimizer`, `/linkedin-coach`, and `/career-navigator`. This guide is the brand layer.
 
 ---
 
@@ -27,7 +27,7 @@ Returner positioning has constraints that other personal-brand work does not:
 - **Self-doubt is louder than the audience's doubt.** Most returners arrive convinced the gap is the headline. For most audiences, it is not. The brand work has to bring the user's confidence back to where the audience already is.
 - **The gap is part of the story, not the whole story.** Trying to hide the gap makes it bigger. Leading with the gap makes it the story. The right move is to acknowledge it cleanly, frame what was learned during it, and then move on.
 - **Re-entry sectors and roles have shifted while the user was out.** The two years away may have changed the language, the tooling, and the expectations of the role. The brand work has to take this seriously without pretending the user is starting from scratch.
-- **Confidence-building is part of the work.** Some of the most useful output of this capability is the user reading back their own bio and recognising themselves in it for the first time in a while.
+- **Confidence-building is part of the work.** Some of the most useful output of this capability is the user reading back their own bio and recognizing themselves in it for the first time in a while.
 - **The audience is often also the hiring manager.** Unlike fractional or board work, returner brand often runs alongside an active job search. The brand is in service of getting through to interview stage at the right kind of role.
 
 These constraints shape the framework.
@@ -48,7 +48,7 @@ Adjustments to the foundation work:
 
 - **Proof points come from the pre-break career first.** Specific roles, specific results, specific scars. The break does not erase these; it just means they are not the most recent line on the resume.
 - **The "during the break" line is one to three sentences long, not a paragraph.** Be specific about what was done; do not spin it. "I cared for a parent with dementia for two years and ran the school PTA, which kept me close to operational decision-making, governance, and budgeting" is more credible than "I used the time to grow personally".
-- **Story arc must include the break, but does not lead with it.** Treat the break like any other chapter: state it, name what was learned, move on. Do not apologise.
+- **Story arc must include the break, but does not lead with it.** Treat the break like any other chapter: state it, name what was learned, move on. Do not apologize.
 - **Three words should match where the user is now, not where they were five years ago.** If the time away has changed them, let the words change.
 
 ---
@@ -58,8 +58,8 @@ Adjustments to the foundation work:
 The audience for a returner brand is often:
 
 - **Hiring managers in the user's pre-break sector**, who need a confidence signal that the user is current
-- **Hiring managers in returner-friendly companies and programmes** (UK examples include returnship programmes at large banks, civil service, and a number of tech companies; sector and country vary)
-- **Recruiters who specialise in returners or in flexible work**
+- **Hiring managers in returner-friendly companies and programs** (UK examples include returnship programs at large banks, civil service, and a number of tech companies; sector and country vary)
+- **Recruiters who specialize in returners or in flexible work**
 - **Other returners and the wider returner community**, who often refer roles to each other
 
 The 2am problem for the hiring manager is "this person looks great but I do not know if they are current; I cannot afford a hire that fails in month three". The brand needs to signal currency without making it the entire story.
@@ -90,12 +90,12 @@ Cost of inaction for the audience: hiring the wrong returner is expensive; hirin
 Returner brand is most often built on:
 
 - **LinkedIn**: the dominant channel. The About section is doing more work than for any other persona; it is the place a hiring manager looks first for the gap and the framing. See `@../linkedin-coach/references/career-returner-linkedin-guide.md` for tactics.
-- **Returner programmes and communities**: returnship cohorts, returner-specific Slacks and meetups, sector-specific returner networks. Worth investing in early; the referral economy is unusually warm.
+- **Returner programs and communities**: returnship cohorts, returner-specific Slacks and meetups, sector-specific returner networks. Worth investing in early; the referral economy is unusually warm.
 - **A small amount of substantive content**: one or two well-judged posts, a short essay on the personal site, or a podcast guest appearance. Volume is not the goal; signal is.
 - **Direct outreach**: warm reconnections with pre-break network, with a clear "I am returning, here is what I am looking for" message.
 - **About page on personal site (optional)**: useful when the user has a longer story to tell than LinkedIn allows.
 
-What to deprioritise:
+What to deprioritize:
 
 - High-volume X/Twitter posting (rarely the right channel for the audience)
 - Building a podcast or newsletter from scratch (long lead time; not useful for an active return)
@@ -111,7 +111,7 @@ Structure for the returner LinkedIn About (long version):
 
 ```text
 [Sentence 1: current chapter, what the user is looking for or about to start.]
-[Sentence 2: pre-break experience, summarised in one credible line: role, sector, scope.]
+[Sentence 2: pre-break experience, summarized in one credible line: role, sector, scope.]
 [Sentence 3 to 4: permission slip; two or three of the strongest pre-break proof points.]
 [Sentence 5: the break, named in plain language, one to three sentences. What was done, what stayed sharp, what was learned.]
 [Sentence 6 to 7: what the user wants next, named specifically: the audience, the kind of role, the kind of company.]
@@ -132,7 +132,7 @@ Returners often arrive carrying weight: imposter syndrome, anxiety about the gap
 
 Build in:
 
-- **A read-aloud check before saving any output.** If the user reads their own bio and does not recognise themselves, rewrite.
+- **A read-aloud check before saving any output.** If the user reads their own bio and does not recognize themselves, rewrite.
 - **Permission to be conservative.** Some returners are not ready for a high-profile brand on day one. A clean, current LinkedIn About plus a quiet plan for the next three months is enough to start. The brand can grow.
 - **A stopping rule.** If the brand work starts to feel like another job, pause. The aim is to make the user findable for the right work, not to add a second career on top of the return.
 - **Cross-reference**: if the break involves grief or loss, refer the user to wellbeing resources in `@../interview-master/references/emotional-support-resilience.md`. The brand work is not a substitute for support.
@@ -158,7 +158,7 @@ When this persona is loaded:
 
 When to route to other skills:
 
-- For an ATS-optimised resume that frames the break: `/application-optimiser` with the career-returner persona
+- For an ATS-optimized resume that frames the break: `/application-optimizer` with the career-returner persona
 - For interview prep that addresses the break confidently: `/interview-master` with the career-returner persona
 - For a 3-month return plan: `/career-navigator` with the career-returner persona
 - For LinkedIn-specific tactics: `/linkedin-coach` with the career-returner reference
@@ -168,7 +168,7 @@ When to route to other skills:
 
 ## Tone
 
-- Warm, but not patronising.
+- Warm, but not patronizing.
 - Specific. Vague reassurance reads as condescension; specific evidence reads as confidence.
 - Patient with the user's discomfort. The first draft will sound either too apologetic or too over-corrected. Work through three drafts; the third is usually the one.
 - Confident on the user's behalf when they cannot yet be confident for themselves. Read the bios back. Let them hear what they sound like to a stranger.

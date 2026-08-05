@@ -274,7 +274,7 @@ The LinkedIn Recruiter System Connect API exports only the two most recent roles
 **How to Reorder:**
 {Step-by-step instructions for drag-and-drop reordering}
 
-### 7. Projects Section (Often Underutilised)
+### 7. Projects Section (Often Underutilized)
 
 **Why Projects Matter:**
 - Creates additional search surface - each project adds keywords
@@ -335,7 +335,7 @@ Review the user's resume and identify achievements that could become standalone 
 - Process improvements with measurable impact
 - Client implementations or case studies
 - Research or analysis projects
-- Cross-functional programmes
+- Cross-functional programs
 - Technology implementations
 - Cost savings or revenue growth initiatives
 
@@ -343,7 +343,7 @@ Review the user's resume and identify achievements that could become standalone 
 
 #### Writing Compelling Project Descriptions
 
-LinkedIn project descriptions have a **2,000 character limit**. Use this space strategically to maximise search visibility and demonstrate impact.
+LinkedIn project descriptions have a **2,000 character limit**. Use this space strategically to maximize search visibility and demonstrate impact.
 
 **The CAR Framework (Challenge → Action → Result):**
 
@@ -375,7 +375,7 @@ Technologies/Methods: [Keyword 1], [Keyword 2], [Keyword 3]
 | Action | 50-80 words | Your specific contribution |
 | Result | 30-50 words | Measurable outcomes |
 | Achievements | 2-3 bullets | Scannable proof points |
-| Keywords | 5-8 terms | Search optimisation |
+| Keywords | 5-8 terms | Search optimization |
 
 **Before & After Examples:**
 
@@ -383,7 +383,7 @@ Technologies/Methods: [Keyword 1], [Keyword 2], [Keyword 3]
 ```
 Worked on a digital transformation project. Helped the team implement
 new systems and processes. The project was successful and improved
-efficiency across the organisation.
+efficiency across the organization.
 ```
 
 **✅ STRONG (specific, quantified, keyword-rich):**
@@ -400,7 +400,7 @@ Result: Reduced average handling time by 35% and delivered $1.8M in
 annual savings within 18 months.
 
 Key achievements:
-• Implemented Salesforce Service Cloud across 3 contact centres
+• Implemented Salesforce Service Cloud across 3 contact centers
 • Achieved 94% staff adoption within 90 days
 • Reduced customer complaints by 28%
 
@@ -412,7 +412,7 @@ Agile Delivery, Stakeholder Engagement
 
 | Mistake | Why It's a Problem | Fix |
 |---------|-------------------|-----|
-| "Helped with..." / "Assisted..." | Minimises your contribution | Use strong verbs: Led, Designed, Delivered, Built |
+| "Helped with..." / "Assisted..." | Minimizes your contribution | Use strong verbs: Led, Designed, Delivered, Built |
 | No numbers | Unverifiable; forgettable | Add at least 2-3 metrics (%, $, time saved) |
 | Team-only language ("We achieved...") | Unclear what YOU did | Balance "I" with team context |
 | Missing keywords | Won't appear in recruiter searches | Include tools, methods, industry terms |
@@ -450,7 +450,7 @@ Before publishing each project, verify:
 `[Action Verb] + [What] + [Where/Context] + [Optional: Result]`
 
 Examples:
-- "Digital Transformation Programme at S&P 100 Retailer"
+- "Digital Transformation Program at S&P 100 Retailer"
 - "AI-Powered Customer Service Platform Launch (40% Cost Reduction)"
 - "Global Supply Chain Redesign - $20M Annual Savings"
 - "Product-Market Fit Research for Series A SaaS Startup"
@@ -494,10 +494,10 @@ Review resume for any credentials that should be on LinkedIn:
 - Marketing platforms (HubSpot, Marketo, etc.)
 
 **Training & Courses:**
-- Leadership development programmes
+- Leadership development programs
 - Executive education (business school short courses)
 - Notable online courses (Coursera, LinkedIn Learning completions)
-- Internal training programmes worth highlighting
+- Internal training programs worth highlighting
 
 **For Each Certification:**
 - **Name:** {Full official title - this is what recruiters search}
@@ -551,7 +551,7 @@ Often overlooked but can:
 **Current:** {What's listed}
 **Consider Adding:**
 - Board positions (even small charities)
-- Mentoring (formal programmes)
+- Mentoring (formal programs)
 - Industry association roles
 - Community involvement relevant to career narrative
 
@@ -567,7 +567,7 @@ Often overlooked but can:
 - {Any formatting improvements}
 - {Priority of display}
 
-**Education Entry Optimisation:**
+**Education Entry Optimization:**
 
 For each education entry, consider adding:
 - **Activities and societies:** Relevant clubs, leadership roles

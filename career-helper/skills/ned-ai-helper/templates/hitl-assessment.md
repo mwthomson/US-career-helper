@@ -83,7 +83,7 @@
 | Authority | [Pass/Fail/Partial] |
 | Feedback | [Pass/Fail/Partial] |
 
-**Overall HITL Effectiveness:** [Genuine / Partially Effective / Governance Theatre]
+**Overall HITL Effectiveness:** [Genuine / Partially Effective / Governance Theater]
 
 ---
 
@@ -101,6 +101,6 @@
 
 ---
 
-*HITL Assessment | [Organisation Name] | [Date]*
+*HITL Assessment | [Organization Name] | [Date]*
 
 *Prosper AI Consulting*

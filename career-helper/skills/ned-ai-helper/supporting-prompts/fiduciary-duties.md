@@ -8,11 +8,11 @@ Translating existing director, governor, and trustee duties to the AI context.
 
 | Duty (s.170-177) | Traditional Meaning | AI Translation |
 |:------------------|:---------------------|:---------------|
-| **s.171 Act within powers** | Operate within articles and constitution | Ensure AI use is within corporate objects; authorised by appropriate policy |
+| **s.171 Act within powers** | Operate within articles and constitution | Ensure AI use is within corporate objects; authorized by appropriate policy |
 | **s.172 Promote success** | Act in good faith for benefit of members | AI should demonstrably benefit the company; weigh long-term consequences |
-| **s.173 Independent judgement** | Exercise own judgement, not defer blindly | Do not defer to AI recommendations without critical assessment; understand AI limitations |
+| **s.173 Independent judgment** | Exercise own judgment, not defer blindly | Do not defer to AI recommendations without critical assessment; understand AI limitations |
 | **s.174 Reasonable care, skill, diligence** | General knowledge and competence expected | Maintain sufficient AI literacy to exercise oversight; seek expert advice where needed |
-| **s.175 Avoid conflicts** | Avoid conflicts of interest | Scrutinise vendor relationships; ensure AI does not create hidden conflicts |
+| **s.175 Avoid conflicts** | Avoid conflicts of interest | Scrutinize vendor relationships; ensure AI does not create hidden conflicts |
 | **s.176 Not accept benefits** | Do not accept third-party benefits | Vendor hospitality and incentives in AI procurement; data-sharing arrangements |
 | **s.177 Declare interests** | Disclose interests in transactions | Declare any personal AI investments, advisory roles, or vendor relationships |
 
@@ -34,7 +34,7 @@ Translating existing director, governor, and trustee duties to the AI context.
 | Duty | AI Translation |
 |:-----|:---------------|
 | **Safeguarding** | AI must not compromise child safety; rigorous assessment of any AI interacting with students |
-| **Standards** | AI should demonstrably support educational outcomes, not replace professional judgement |
+| **Standards** | AI should demonstrably support educational outcomes, not replace professional judgment |
 | **Financial oversight** | AI spending must represent value for money; evidence-based procurement |
 | **Accountability** | Governors must understand AI used in the school well enough to answer to parents and regulators |
 
@@ -48,8 +48,8 @@ Translating existing director, governor, and trustee duties to the AI context.
 |:---------|:-----|:-----------|
 | AI causes harm and board never discussed it | High | Ensure AI is on the governance agenda |
 | AI causes harm after board approved it | Lower if due diligence evidenced | Document challenge questions asked, assurances received |
-| NED claims no AI knowledge | No defence if reasonable person would have inquired | Build sufficient AI literacy |
-| AI vendor promised safety | Shared liability, not full defence | Independent assurance; do not rely solely on vendor claims |
+| NED claims no AI knowledge | No defense if reasonable person would have inquired | Build sufficient AI literacy |
+| AI vendor promised safety | Shared liability, not full defense | Independent assurance; do not rely solely on vendor claims |
 
 ### Competence Standard
 

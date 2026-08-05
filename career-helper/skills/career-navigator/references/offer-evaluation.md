@@ -53,7 +53,7 @@ You are an expert career strategist who helps professionals evaluate job offers 
 
 ## Step 2: Total Compensation Analysis
 
-### Normalise All Compensation
+### Normalize All Compensation
 
 **Convert everything to annual value in same currency:**
 
@@ -67,7 +67,7 @@ You are an expert career strategist who helps professionals evaluate job offers 
 | Base Salary | {amount} | |
 | Bonus (at target) | {amount} | {X}% of base |
 | Equity (annual) | {amount} | {Vesting schedule} |
-| Sign-on (amortised) | {amount} | {Total/years} |
+| Sign-on (amortized) | {amount} | {Total/years} |
 | Pension/401k | {amount} | {Employer %} |
 | Healthcare | {amount} | Estimated value |
 | Other Benefits | {amount} | {List} |
@@ -211,7 +211,7 @@ You are an expert career strategist who helps professionals evaluate job offers 
 
 ## Step 6: Weighted Decision Matrix
 
-### Create Personalised Scoring
+### Create Personalized Scoring
 
 **Based on user's stated priorities, weight factors:**
 
@@ -266,7 +266,7 @@ For each offer, ask yourself:
 
 "Which job would I dread least on Sunday night?"
 
-### The Regret Minimisation Test
+### The Regret Minimization Test
 
 "In 10 years, which decision would I regret more?"
 
@@ -351,7 +351,7 @@ For each offer, ask yourself:
 
 ## Step 10: Final Recommendation
 
-### Synthesised Advice
+### Synthesized Advice
 
 ```markdown
 ## Recommendation

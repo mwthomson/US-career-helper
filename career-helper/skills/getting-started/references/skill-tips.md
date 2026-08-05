@@ -12,7 +12,7 @@ Practical guidance for getting the best results from each career-helper skill. F
 
 | Skill | Single Biggest Tip |
 |:------|:-------------------|
-| Application Optimiser | Provide the FULL job description text, not a link or summary |
+| Application Optimizer | Provide the FULL job description text, not a link or summary |
 | LinkedIn Coach | Share your LinkedIn URL, not a description of your profile |
 | Interview Master | Specify the interview stage and format - prep differs dramatically |
 | Career Navigator | Be honest about constraints (budget, location, timeline) for realistic plans |
@@ -23,23 +23,23 @@ Practical guidance for getting the best results from each career-helper skill. F
 
 ---
 
-## Application Optimiser Tips
+## Application Optimizer Tips
 
 ### Input Quality
 
 - **Job description:** Paste the complete text. The ATS keyword extraction analyses every line. A summary loses critical keywords that could be the difference between passing and failing automated screening.
 - **resume format:** Plain text or PDF. Avoid image-based resumes or scanned documents - the text needs to be readable.
-- **Multiple roles:** If applying to similar roles at different companies, run company research separately for each but you can reuse and adapt the optimised resume.
+- **Multiple roles:** If applying to similar roles at different companies, run company research separately for each but you can reuse and adapt the optimized resume.
 
 ### Common Mistakes
 
-- **Submitting a generic resume and expecting magic.** The skill optimises for a specific JD. A resume optimised for "Marketing Manager at Greenfield & Co" will not work well for "Head of Fundraising at Macmillan".
+- **Submitting a generic resume and expecting magic.** The skill optimizes for a specific JD. A resume optimized for "Marketing Manager at Greenfield & Co" will not work well for "Head of Fundraising at Macmillan".
 - **Ignoring the keyword coverage score.** If coverage is below 70%, the resume may not pass ATS filters. Review the analysis and add missing keywords where you genuinely have the experience.
 - **Skipping company research.** The research brief reveals what the company actually values, which should influence how you frame achievements in your resume.
 
 ### Iteration Strategy
 
-After receiving your optimised resume:
+After receiving your optimized resume:
 1. Check the keyword coverage analysis - are there genuine gaps?
 2. Ask: "Can you strengthen the [specific section] to better address [specific JD requirement]?"
 3. If you have additional experience not in your original resume, mention it - the skill will incorporate it
@@ -47,14 +47,14 @@ After receiving your optimised resume:
 ### Cover Letters and Supporting Statements
 
 - **Tell the skill which format the application wants.** A full cover letter, a competency-based supporting statement (public sector, charity, NHS, academia), and a short email message are structured differently. Confirming this first saves a rewrite.
-- **Bring your own reason for wanting the role.** The skill will not invent your motivation. "Why does this organisation interest you?" is a question you need to answer; a specific, true reason is worth more than anything generated.
-- **Run company research first.** A cover letter that names something concrete about the organisation lands far better than generic flattery. The research brief gives the skill that material.
+- **Bring your own reason for wanting the role.** The skill will not invent your motivation. "Why does this organization interest you?" is a question you need to answer; a specific, true reason is worth more than anything generated.
+- **Run company research first.** A cover letter that names something concrete about the organization lands far better than generic flattery. The research brief gives the skill that material.
 - **Use it to address what the resume cannot:** an overqualification concern, a career change, or a gap. This is the right place for one honest sentence of context.
 
 ### What Feeds Into What
 
 ```text
-Company Research → resume Optimisation → Cover Letter → Application Strategy
+Company Research → resume Optimization → Cover Letter → Application Strategy
        ↓                  ↓
 Interview Prep    LinkedIn Updates
 ```
@@ -71,9 +71,9 @@ Interview Prep    LinkedIn Updates
 
 ### Common Mistakes
 
-- **Requesting a profile audit without career goals.** LinkedIn optimisation is goal-dependent. A job-search headline differs completely from a thought-leadership headline.
+- **Requesting a profile audit without career goals.** LinkedIn optimization is goal-dependent. A job-search headline differs completely from a thought-leadership headline.
 - **Ignoring the content strategy capability.** Most users only request profile audits. A consistent content strategy (3x/week) dramatically increases profile visibility and inbound opportunities.
-- **Treating the headline as a job title.** The skill optimises headlines as value statements. Let it do its job rather than insisting on "Senior Developer at Company X".
+- **Treating the headline as a job title.** The skill optimizes headlines as value statements. Let it do its job rather than insisting on "Senior Developer at Company X".
 
 ### Iteration Strategy
 
@@ -87,7 +87,7 @@ Interview Prep    LinkedIn Updates
 ```
 Profile Audit → Content Strategy → Content Calendar
       ↕
-resume Optimisation (sync LinkedIn with resume)
+resume Optimization (sync LinkedIn with resume)
 ```
 
 ---
@@ -104,8 +104,8 @@ resume Optimisation (sync LinkedIn with resume)
 
 - **Preparing for "an interview" generically.** Stage-specific preparation is dramatically more effective. Ask for the specific stage.
 - **Skipping the Interviewer's Perspective report.** This capability shows what interviewers are REALLY assessing behind each question. It changes how you think about your answers.
-- **Memorising scripts instead of frameworks.** The skill provides STAR frameworks, not scripts. Memorised answers sound robotic. Understand the framework and adapt in the moment.
-- **Not doing a mock interview.** Reading preparation is not the same as practising delivery. The mock interview with feedback is where real improvement happens.
+- **Memorizing scripts instead of frameworks.** The skill provides STAR frameworks, not scripts. Memorized answers sound robotic. Understand the framework and adapt in the moment.
+- **Not doing a mock interview.** Reading preparation is not the same as practicing delivery. The mock interview with feedback is where real improvement happens.
 
 ### Iteration Strategy
 
@@ -166,9 +166,9 @@ Company Research → Interview Preparation → Mock Interview
 ### Application Learnings Loop
 
 - **Capture close to the event.** A debrief written the same day is honest; one written a week later drifts into fiction. Run it as soon as you finish an interview or hear a decision.
-- **Keep notes and synthesis separate.** Individual debriefs, rejections, and wins are raw input under `applications/learnings/`; `patterns.md` is the considered output. Synthesise periodically (a rough guide: every three to five new notes), not after every application.
+- **Keep notes and synthesis separate.** Individual debriefs, rejections, and wins are raw input under `applications/learnings/`; `patterns.md` is the considered output. Synthesize periodically (a rough guide: every three to five new notes), not after every application.
 - **Never invent a reason.** Record what was said and your honest read on the likely real reason as two separate things. Mark guesses as guesses; a fabricated rejection reason is worse than "no feedback given".
-- **Let it drive the fixes.** A recurring objection feeds `/interview-master`; a gap your resume keeps underselling feeds `/application-optimiser`. `/career-helper:status` surfaces the most useful current pattern.
+- **Let it drive the fixes.** A recurring objection feeds `/interview-master`; a gap your resume keeps underselling feeds `/application-optimizer`. `/career-helper:status` surfaces the most useful current pattern.
 
 ### What Feeds Into What
 
@@ -177,7 +177,7 @@ Company Research → Interview Preparation → Mock Interview
                                               ↓                      ↑
                     Salary Negotiation ← Offer Received    (every application logged here)
                            ↓                      ↓
-                    Offer Evaluation      Learnings Loop → Patterns → Interview Master / Application Optimiser
+                    Offer Evaluation      Learnings Loop → Patterns → Interview Master / Application Optimizer
                     (if multiple offers)  (debriefs, rejections, wins)
 ```
 
@@ -195,8 +195,8 @@ Company Research → Interview Preparation → Mock Interview
 
 - **Rushing into fractional without financial planning.** The skill includes readiness assessment for a reason. Engage with it honestly.
 - **Treating AI readiness as a checkbox.** The skill creates a tiered upskilling roadmap (immediate, foundation, differentiation). Follow the sequence rather than jumping to advanced topics.
-- **Romanticising entrepreneurship.** Starting a business is genuinely hard. The skill will give you honest data on failure rates, financial requirements, and personal costs. Engage with the cons as seriously as the pros.
-- **Dismissing non-linear paths as "not serious."** Public sector, charity, intrapreneurship, and multi-role careers are legitimate, well-evidenced career strategies. The skill provides the same rigour for these as for traditional paths.
+- **Romanticizing entrepreneurship.** Starting a business is genuinely hard. The skill will give you honest data on failure rates, financial requirements, and personal costs. Engage with the cons as seriously as the pros.
+- **Dismissing non-linear paths as "not serious."** Public sector, charity, intrapreneurship, and multi-role careers are legitimate, well-evidenced career strategies. The skill provides the same rigor for these as for traditional paths.
 - **Exploring without deciding.** The exploration is valuable, but set a timeline for making a decision. Perpetual exploration is itself a form of avoidance.
 
 ### Iteration Strategy
@@ -210,7 +210,7 @@ Company Research → Interview Preparation → Mock Interview
 ```text
 Non-Linear Career Explorer → Portfolio/Fractional Strategy (if chosen)
 Non-Linear Career Explorer → 3-Month Plan (transition plan)
-Non-Linear Career Explorer → LinkedIn Repositioning → Application Optimiser
+Non-Linear Career Explorer → LinkedIn Repositioning → Application Optimizer
 Portfolio/Fractional Strategy → LinkedIn Repositioning → 3-Month Plan
 AI Readiness Assessment → resume Updates → Interview Prep (for AI questions)
 ```
@@ -236,16 +236,16 @@ AI Readiness Assessment → resume Updates → Interview Prep (for AI questions)
 
 1. Run a full footprint analysis before starting your job search
 2. Address the highest-priority issues (RED scores first, then AMBER)
-3. Use /linkedin-coach to fix LinkedIn issues and /application-optimiser to align your resume
+3. Use /linkedin-coach to fix LinkedIn issues and /application-optimizer to align your resume
 4. Re-run the audit after making changes to verify improvement
 
 ### What Feeds Into What
 
 ```
 Footprint Dashboard → LinkedIn Coach (fix profile issues)
-                    → Application Optimiser (align resume with online presence)
+                    → Application Optimizer (align resume with online presence)
                     → Interview Master (prep for footprint-based questions)
-Employer Impression → Application Optimiser (company-specific positioning)
+Employer Impression → Application Optimizer (company-specific positioning)
                     → Interview Master (company-specific interview prep)
 ```
 
@@ -303,7 +303,7 @@ Privacy Cleanup → Peace of mind → Start applying with confidence
 
 ### Iteration Strategy
 
-1. Run Capability A. Read the four artefacts aloud (positioning, elevator, three words, permission slip). If anything makes you wince, rewrite that piece before moving on.
+1. Run Capability A. Read the four artifacts aloud (positioning, elevator, three words, permission slip). If anything makes you wince, rewrite that piece before moving on.
 2. Run Capability B. Decide on two primary channels and one supporting channel; commit to a weekly rhythm you can sustain.
 3. Run Capability C. Produce three to five pillars and at least ten topic seeds per pillar.
 4. Run Capability D. Confirm or correct every fact flagged with `{{PLACEHOLDER}}`. Read all bios aloud in length order; check they sound like the same person.
