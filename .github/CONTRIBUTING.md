@@ -11,7 +11,7 @@ Every contribution — pull request, issue, prompt, framework, bug fix — is we
 Career Helper is a Claude Code plugin. The useful contributions look like:
 
 - **New skills** — a new capability that fits alongside the existing 11 skills (e.g., a new persona, a new ceremony, a new type of research). Propose as an issue first so we can discuss scope.
-- **New references inside existing skills** — most changes belong here. A new prompt, framework, or template that strengthens one of the existing skills (e.g., `verified-content-guardrails.md` inside application-optimiser).
+- **New references inside existing skills** — most changes belong here. A new prompt, framework, or template that strengthens one of the existing skills (e.g., `verified-content-guardrails.md` inside application-optimizer).
 - **Refinements to existing skills** — clearer prompts, better examples, improved routing logic, tighter coaching tone.
 - **Bug fixes** — if something is broken, please file an issue with reproduction steps.
 - **Documentation improvements** — README, skill docs, examples.

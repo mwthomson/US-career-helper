@@ -70,7 +70,7 @@ Or just describe what you need:
 | **Getting Started** | Full overview, preparation checklists, workflow planning, skill tips, power user strategies, scheduled Cowork routines | `/getting-started` |
 | **Employer Footprint** | Digital footprint audit through employer's eyes, social media scan, credit-report style dashboard, interview questions from online presence | `/employer-footprint` |
 | **Social Media Review** | Quick social media check through recruiter's eyes, privacy cleanup guide. Especially useful for graduates and early career. | `/social-media-review` |
-| **Application Optimiser** | Company and role research, ATS-optimised CV rewriting, cover letters and supporting statements, application strategy | `/application-optimiser` |
+| **Application Optimizer** | Company and role research, ATS-optimised CV rewriting, cover letters and supporting statements, application strategy | `/application-optimizer` |
 | **LinkedIn Coach** | Profile audit, headline optimisation, content strategy, post review, video scripts | `/linkedin-coach` |
 | **Interview Master** | Interview prep, mock interviews, interviewer perspective reports, post-interview coaching, reference and referee prep, ageism support (UK law, practical strategies, emotional resilience) | `/interview-master` |
 | **Career Navigator** | Networking intelligence, 3-month job search plans, salary negotiation, offer evaluation, application tracker | `/career-navigator` |
@@ -99,9 +99,9 @@ Or just describe what you need:
 
 ```
 0. Audit your digital footprint   /employer-footprint
-1. Research the company           /application-optimiser
-2. Optimise your CV               /application-optimiser
-3. Write your cover letter        /application-optimiser
+1. Research the company           /application-optimizer
+2. Optimise your CV               /application-optimizer
+3. Write your cover letter        /application-optimizer
 4. Sync your LinkedIn             /linkedin-coach
 5. Track every application        /career-navigator
 6. Prepare for interviews         /interview-master

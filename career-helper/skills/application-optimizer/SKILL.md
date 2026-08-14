@@ -34,7 +34,7 @@ Research companies, optimize your resume for ATS systems, and plan your applicat
 
 ## Accessibility
 
-**At skill start**, check for `career-helper-preferences.md` in the current working directory using the Glob tool. If found, read the YAML frontmatter and apply:
+**At skill start**, check whether `career-helper-preferences.md` exists in the current working directory. If found, read the YAML frontmatter and apply:
 
 - **dyslexia_friendly: true** → Use short sentences. Number all lists and options (never unnumbered). One decision per message. No idioms or metaphors — use plain replacements. Explicit signposting at every transition ("Step 2 of 4. Next: resume optimization."). Refer to saved files by description, not filename. Repeat key details (company names, role titles, dates) — do not assume the user remembers from earlier messages.
 - **colour_blind: true** → Never use color alone to convey meaning. Use labels, text, or icons for all status indicators.
@@ -48,6 +48,9 @@ These rules apply to **all communication with the user** and to the **formatting
 ## 1. Company & Role Research
 
 **What you need:** Company name, job description (optional but helpful)
+**Before running:** Check whether `applications/{role-slug}/research-brief.md` exists.
+If it already exists, skip this capability and reuse the existing brief -- only run
+fresh research when no brief exists yet for this role-slug.
 **Load:** @references/company-research.md
 **Template:** @references/research-brief-template.md
 
@@ -185,7 +188,7 @@ new layout from scratch:
 
 ## Application Folder
 
-All role-specific outputs are saved in `applications/{role-slug}/`. When running any capability for a role, check if the folder exists first using Glob. If it doesn't, create it when saving the first output. The `{role-slug}` is derived from the role title and company (e.g., "Marketing Manager at Greenfield & Co" becomes `marketing-manager-greenfield`).
+All role-specific outputs are saved in `applications/{role-slug}/`. When running any capability for a role, check if the folder exists first. If it doesn't, create it when saving the first output. The `{role-slug}` is derived from the role title and company (e.g., "Marketing Manager at Greenfield & Co" becomes `marketing-manager-greenfield`).
 
 ---
 
@@ -209,23 +212,38 @@ After generating content, validate before presenting:
 **For Research:** All claims cited? Sources recent (<12mo)? All sections present?
 
 ```
-Generate -> Evaluate -> If NEEDS_IMPROVEMENT -> Refine -> Re-evaluate (max 3 iterations)
+Generate -> Evaluate -> If NEEDS_IMPROVEMENT -> Refine -> Re-evaluate (max 2 iterations -- see reflect-validate.md for the punch-list fallback)
 ```
 
 ---
 
-## Persona Adaptation
+## Career Stage (Persona)
 
-When the user's context matches a specific persona, load the relevant reference alongside standard capability references:
+**At skill start**, check `career-helper-preferences.md` for a `career_stage`
+field.
 
-| Persona | Load Reference | Trigger |
-|:--------|:--------------|:--------|
-| Career Returner | @references/career-returner-cv-guide.md | User mentions career break, returning to work, layoff, maternity/paternity, illness, caregiving |
-| Early Career | @references/early-career-cv-template.md | User is a graduate, apprentice, school leaver, or has limited professional experience |
-| NED | @references/ned-cv-template.md | User seeks board roles, NED positions, governor or trustee appointments |
-| Fractional | @references/fractional-cv-template.md | User is going fractional, portfolio, or independent consulting |
+- **If `career_stage` is set:** use it directly. Do not re-scan the conversation
+  for persona triggers on this or future runs.
+- **If `career_stage` is missing:** determine it from context using the trigger
+  table below, or ask once: "Which best describes your current stage: standard
+  experienced job search, career returner, early career, board/NED search, or
+  fractional/portfolio work?" Save the answer to `career_stage` in
+  `career-helper-preferences.md`, creating the file if it doesn't exist yet -- but
+  only if the user has consented to preference storage (same consent-first pattern
+  as the Accessibility section above: if the user declines storage, proceed without
+  creating the file).
 
-These references supplement (not replace) the standard capability references. Load both the persona reference and the standard one.
+| `career_stage` value | Load Reference | Trigger (used only when first determining the value) |
+|:--------|:--------------|:------|
+| `career-returner` | @references/career-returner-cv-guide.md | User mentions career break, returning to work, layoff, maternity/paternity, illness, caregiving |
+| `early-career` | @references/early-career-cv-template.md | User is a graduate, apprentice, school leaver, or has limited professional experience |
+| `ned` | @references/ned-cv-template.md | User seeks board roles, NED positions, governor or trustee appointments |
+| `fractional` | @references/fractional-cv-template.md | User is going fractional, portfolio, or independent consulting |
+| `standard` | (none -- standard capability references only) | None of the above apply |
+
+These persona references supplement (not replace) the standard capability
+references. Load both the persona reference and the standard one whenever
+`career_stage` is one of the four special values above.
 
 ---
 

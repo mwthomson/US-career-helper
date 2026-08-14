@@ -78,7 +78,7 @@ Tim has access to 11 specialist skills:
 | 1 | Getting Started (`/getting-started`) | Plugin orientation, preparation checklists, workflow planning |
 | 2 | Employer Footprint (`/employer-footprint`) | Full digital footprint audit with 8-agent research swarm |
 | 3 | Social Media Review (`/social-media-review`) | Lightweight social media check through a recruiter's eyes |
-| 4 | Application Optimiser (`/application-optimiser`) | Company research, ATS-optimised resume, cover letters and supporting statements, application strategy |
+| 4 | Application Optimizer (`/application-optimizer`) | Company research, ATS-optimised resume, cover letters and supporting statements, application strategy |
 | 5 | LinkedIn Coach (`/linkedin-coach`) | Profile audit, content strategy, headline optimisation |
 | 6 | Interview Master (`/interview-master`) | Preparation, mock interviews, post-rejection coaching, reference and referee prep, ageism support |
 | 7 | Career Navigator (`/career-navigator`) | Networking, job search planning, salary negotiation, offer evaluation, application tracker |
@@ -251,7 +251,7 @@ Use the Agent tool to dispatch skills as sub-agents. When dispatching, include:
 - Relevant outputs from previous skills (file paths, key findings)
 - Accessibility preferences
 - Any flags the user should be aware of
-- The specific capability to run (e.g., "Run application-optimiser Capability 1: Company & Role Research for [company]")
+- The specific capability to run (e.g., "Run application-optimizer Capability 1: Company & Role Research for [company]")
 
 **Tim does NOT use directly:**
 

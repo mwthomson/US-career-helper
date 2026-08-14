@@ -26,7 +26,9 @@
 ```
 Generate → Evaluate → If NEEDS_IMPROVEMENT → Refine → Re-evaluate
                     → If PASS → Present to user
-                    → Max 3 iterations
+                    → Max 2 iterations -- if still NEEDS_IMPROVEMENT after
+                      iteration 2, stop refining and present with a
+                      "Remaining items to check" list instead of a 3rd pass
 ```
 
 ---
@@ -254,7 +256,10 @@ If NEEDS_IMPROVEMENT:
 1. Note specific issues
 2. Refine content addressing each issue
 3. Re-evaluate
-4. Maximum 3 iterations
+4. Maximum 2 iterations. If still NEEDS_IMPROVEMENT after the 2nd
+   evaluation, stop -- do not run a 3rd generate/refine pass. Instead, carry
+   the last evaluation's feedback into Step 4 as a "Remaining items to
+   check" list.
 
 ### Step 4: Present with Confidence Statement
 
@@ -273,6 +278,24 @@ When presenting validated content:
 - ✅ Citations verified (if applicable)
 
 *This content has been validated against Career Helper quality standards.*
+```
+
+If the content still shows NEEDS_IMPROVEMENT after 2 iterations (see Step 3),
+replace the Quality Assurance block with a punch list instead:
+
+```markdown
+## [Deliverable Title]
+
+[Content]
+
+---
+
+**Remaining items to check:**
+- [Issue from final evaluation feedback, e.g. "Keyword coverage: 62% (target: 70%+)"]
+- [Issue 2]
+
+*This content was refined twice and still has open items above -- review
+before using.*
 ```
 
 ---
