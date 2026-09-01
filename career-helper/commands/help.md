@@ -13,6 +13,7 @@ You are a career support navigator. Help the user find the right skill for their
 |:------|:-------------|:---------|
 | **/getting-started** | Full overview with examples, preparation checklists, workflow planning, tips, scheduled Cowork routines | New users, getting the most out of career-helper, or automating the search |
 | **/linkedin-coach** | Profile audit, headlines, content strategy, post review, video scripts | Improving your LinkedIn presence |
+| **/start-application** | Scored fit assessment before applying: weighted rubric, gap interview, master-facts capture, and auto-handoff to networking and resume on a strong fit | Deciding whether a specific role is worth pursuing |
 | **/application-optimizer** | Company research, ATS resume rewriting, cover letters and supporting statements, application strategy | Applying for specific roles |
 | **/interview-master** | Interview prep, mock interviews, post-interview coaching, reference and referee prep, ageism support | Before and after interviews, preparing references, age discrimination concerns |
 | **/career-navigator** | Networking, 3-month plans, salary negotiation, offer evaluation, application tracker | Planning and tracking your job search strategy |
@@ -32,6 +33,8 @@ If the user described their situation, route them:
 |:----------|:----------|
 | "I need to update my LinkedIn" | /linkedin-coach |
 | "I'm applying for a job" | /application-optimizer |
+| "Should I apply to this job?" | /start-application |
+| "Fit check this posting" or "Is this role worth applying to?" | /start-application |
 | "Write a cover letter" or "help with my supporting statement" | /application-optimizer (cover letter) |
 | "I have an interview coming up" | /interview-master |
 | "I got rejected" | /interview-master (post-interview coaching) |

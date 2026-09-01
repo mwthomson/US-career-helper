@@ -73,6 +73,8 @@ If a bullet would need a detail you cannot cite, **flag and ask**. Never guess.
 
 ## Execution Plan
 
+If the user wants a deeper, scored fit assessment, or has not yet decided whether to apply, the `/start-application` skill runs a standalone weighted fit rubric with a gap interview before any rewrite. The Step 1 gate below is the lightweight in-flow version and still runs here regardless.
+
 This is a conditional multi-stage flow built around a fit gate at Step 1.
 
 **Stage 1 (always runs):** Deliver Step 1, the Career Fit Assessment.

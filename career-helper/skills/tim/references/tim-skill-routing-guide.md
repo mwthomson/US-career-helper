@@ -9,6 +9,7 @@ This file is loaded by the Tim career coach skill when making routing decisions.
 Skills produce outputs that feed into other skills. Tim checks for existing outputs before deciding what to run next.
 
 - application-optimizer research brief feeds into: interview-master (company knowledge for prep), linkedin-coach (resume/LinkedIn consistency), application-optimizer cover letter (what is true about the organization)
+- start-application consumes: a job description or URL, and `master-facts.md` if present; it produces `applications/{slug}/fit-assessment.md`, an updated `master-facts.md` (gap-interview answers), and on a strong fit it triggers career-navigator networking intelligence and resume tailoring in the same run
 - application-optimizer cover letter and supporting statement draw on: the research brief, the optimized resume or master facts, and the user's stated motivation; never invent motivation
 - interview-master referee prep draws on: the optimized resume and interview-prep STAR stories (verified examples the referee witnessed); runs at late interview or offer stage
 - career-navigator application tracker indexes: every per-application folder; it is the spine `/career-helper:status` reads, so update it when an application moves stage

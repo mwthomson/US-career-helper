@@ -49,6 +49,7 @@ progress and the outputs generated so far.
 |:------|:--------------|:---------|
 | `/getting-started` | Full overview, preparation checklists, workflow planning, tips, scheduled Cowork routines | New users, or automating your search |
 | `/linkedin-coach` | Profile audit, headlines, content strategy, post review, video scripts | Improving your LinkedIn presence |
+| `/start-application` | Scored fit assessment before you apply: weighted rubric, gap interview, master-facts capture, and auto-handoff to networking and resume tailoring on a strong fit | Deciding whether a specific role is worth applying to |
 | `/application-optimizer` | Company research, ATS resume rewriting, cover letters and supporting statements, application strategy | Applying for a specific role |
 | `/interview-master` | Prep, mock interviews, post-interview coaching, reference and referee prep, ageism support | Before and after interviews |
 | `/career-navigator` | Networking, 3-month plans, salary negotiation, offer evaluation, application tracker | Planning and tracking your search |
@@ -66,8 +67,9 @@ There's no single fixed order — Tim decides this dynamically based on your
 situation, and `/getting-started`'s Workflow Planner will do the same if you
 prefer to run skills yourself. As a rough starting point:
 
-- **Actively applying to a specific role:** `/application-optimizer` →
-  `/interview-master` → `/career-navigator` (offer evaluation/negotiation)
+- **Actively applying to a specific role:** `/start-application` (fit check) →
+  `/application-optimizer` → `/interview-master` → `/career-navigator` (offer
+  evaluation/negotiation)
 - **Starting a search from scratch:** `/getting-started` →
   `/employer-footprint` or `/social-media-review` → `/career-navigator`
   (3-month plan) → `/application-optimizer`

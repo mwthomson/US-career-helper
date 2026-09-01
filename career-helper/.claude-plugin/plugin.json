@@ -1,7 +1,7 @@
 {
   "name": "career-helper",
-  "version": "1.14.0",
-  "description": "End-to-end US career support with guided coaching for job seekers at all levels, plus AI governance guidance for board directors. Includes Tim (personal career coach), AI impact assessment, LinkedIn coaching, ATS resume optimization, cover letters, interview prep, job search strategy, career transitions, personal brand building, employer footprint analysis, social media review, and NED/board-level AI oversight.",
+  "version": "1.15.0",
+  "description": "End-to-end US career support with guided coaching for job seekers at all levels, plus AI governance guidance for board directors. Includes Tim (personal career coach), AI impact assessment, LinkedIn coaching, fit assessment before applying, ATS resume optimization, cover letters, interview prep, job search strategy, career transitions, personal brand building, employer footprint analysis, social media review, and NED/board-level AI oversight.",
   "author": {
     "name": "Prosper AI Consulting"
   }

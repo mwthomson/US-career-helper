@@ -37,6 +37,7 @@ Ask these questions one at a time (use AskUserQuestion tool):
 ### Question 1: Current Situation
 "What best describes your situation right now?"
 - Looking for a new role
+- Have a specific role in mind but not sure whether to apply
 - Preparing for an interview
 - Negotiating or evaluating an offer
 - Want to improve my LinkedIn
@@ -58,6 +59,7 @@ Ask these questions one at a time (use AskUserQuestion tool):
 | If they said | Follow-up |
 |:-------------|:----------|
 | Looking for a new role | "Do you have a target role/company, or are you still deciding?" |
+| Have a role, unsure whether to apply | "Do you have the job description or a link to it?" |
 | Preparing for interview | "When is the interview, and do you have the job description?" |
 | Negotiating/evaluating | "Have you received a written offer, or are you expecting one?" |
 | Improve LinkedIn | "What's your main goal - job search, thought leadership, or client acquisition?" |
@@ -80,6 +82,7 @@ Based on their answers, recommend ONE skill and invoke it:
 
 | Situation | Skill to Invoke |
 |:----------|:----------------|
+| Has a role but has not decided whether to apply | /start-application |
 | Has target role | /application-optimizer |
 | Needs a cover letter or supporting statement | /application-optimizer (cover letter) |
 | No target, needs plan | /career-navigator |
