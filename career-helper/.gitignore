@@ -1,0 +1,8 @@
+# Python bytecode / test caches (never belong in the shared plugin repo)
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# macOS
+.DS_Store
